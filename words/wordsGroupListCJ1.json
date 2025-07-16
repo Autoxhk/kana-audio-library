@@ -1,4 +1,4 @@
-module.exports = [
+[
   { "group": "2025-04-15", "label": "4月15日（CJ1 Part 1 - No.1~19）", "course": "CJ1", "part": "Part 1", "range": [1, 19] },
   { "group": "2025-04-16", "label": "4月16日（CJ1 Part 1 - No.20~38）", "course": "CJ1", "part": "Part 1", "range": [20, 38] },
   { "group": "2025-04-17", "label": "4月17日（CJ1 Part 1 - No.39~60）", "course": "CJ1", "part": "Part 1", "range": [39, 60] },
