@@ -1,4 +1,4 @@
-module.exports = [
+[
   {
     "no": "1",
     "word": "外出",
@@ -1589,6 +1589,1350 @@ module.exports = [
     "reading": "べっそう",
     "meaning": "中文：别墅 / Eng: second/vacation home / 韓国語: 별장",
     "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/べっそう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "200",
+    "word": "帽子",
+    "reading": "ぼうし",
+    "meaning": "中文：帽子 / Eng: hat / 韓国語: 모자",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ぼうし.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "201",
+    "word": "取る（脱ぐ）",
+    "reading": "とる（ぬぐ）",
+    "meaning": "中文：脱/取下 / Eng: take off (clothes) / 韓国語: 벗다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/とる（ぬぐ）.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "202",
+    "word": "かぶる",
+    "reading": "かぶる",
+    "meaning": "中文：戴（帽子） / Eng: put on (a hat) / 韓国語: 쓰다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かぶる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "203",
+    "word": "上着",
+    "reading": "うわぎ",
+    "meaning": "中文：上衣 / Eng: jacket/outerwear / 韓国語: 겉옷",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/うわぎ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "204",
+    "word": "背広",
+    "reading": "せびろ",
+    "meaning": "中文：西装 / Eng: business suit / 韓国語: 양복",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せびろ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "205",
+    "word": "洋服",
+    "reading": "ようふく",
+    "meaning": "中文：洋装 / Eng: Western clothes / 韓国語: 양복",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ようふく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "206",
+    "word": "和服",
+    "reading": "わふく",
+    "meaning": "中文：和服 / Eng: Japanese clothes / 韓国語: 와복",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/わふく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "207",
+    "word": "帯",
+    "reading": "おび",
+    "meaning": "中文：腰带 / Eng: obi (kimono sash) / 韓国語: 허리띠",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おび.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "208",
+    "word": "ジャケット",
+    "reading": "じゃけっと",
+    "meaning": "中文：夹克 / Eng: jacket / 韓国語: 자켓",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/じゃけっと.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "209",
+    "word": "セーター",
+    "reading": "せーたー",
+    "meaning": "中文：毛衣 / Eng: sweater / 韓国語: 스웨터",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せーたー.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "210",
+    "word": "着る",
+    "reading": "きる",
+    "meaning": "中文：穿（衣服） / Eng: to wear / 韓国語: 입다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/きる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "211",
+    "word": "浴衣",
+    "reading": "ゆかた",
+    "meaning": "中文：浴衣 / Eng: light cotton kimono / 韓国語: 유카타",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ゆかた.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "212",
+    "word": "Tシャツ",
+    "reading": "てぃーしゃつ",
+    "meaning": "中文：T恤 / Eng: T-shirt / 韓国語: 티셔츠",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/てぃーしゃつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "213",
+    "word": "服装",
+    "reading": "ふくそう",
+    "meaning": "中文：服装 / Eng: attire / 韓国語: 복장",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ふくそう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "214",
+    "word": "着物",
+    "reading": "きもの",
+    "meaning": "中文：和服 / Eng: kimono / 韓国語: 기모노",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/きもの.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "215",
+    "word": "コート",
+    "reading": "こーと",
+    "meaning": "中文：大衣 / Eng: coat / 韓国語: 코트",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/こーと.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "216",
+    "word": "着替え",
+    "reading": "きがえ",
+    "meaning": "中文：换洗衣物 / Eng: change of clothes / 韓国語: 갈아입을 옷",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/きがえ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "217",
+    "word": "ブラウス",
+    "reading": "ぶらうす",
+    "meaning": "中文：女式衬衫 / Eng: blouse / 韓国語: 블라우스",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ぶらうす.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "218",
+    "word": "スーツ",
+    "reading": "すーつ",
+    "meaning": "中文：西装 / Eng: suit / 韓国語: 정장",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/すーつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "219",
+    "word": "脱",
+    "reading": "ぬぐ",
+    "meaning": "中文：脱下 / Eng: to take off / 韓国語: 벗다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ぬぐ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "220",
+    "word": "衣服",
+    "reading": "いふく",
+    "meaning": "中文：衣服 / Eng: clothes / 韓国語: 의복",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/いふく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "221",
+    "word": "ズボン",
+    "reading": "ずぼん",
+    "meaning": "中文：裤子 / Eng: pants / 韓国語: 바지",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ずぼん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "222",
+    "word": "ワンピース",
+    "reading": "わんぴーす",
+    "meaning": "中文：连衣裙 / Eng: dress / 韓国語: 원피스",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/わんぴーす.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "223",
+    "word": "履き替える",
+    "reading": "はきかえる",
+    "meaning": "中文：换穿（鞋裤） / Eng: change shoes/pants / 韓国語: 갈아신다/갈아입다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/はきかえる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "224",
+    "word": "衣類",
+    "reading": "いるい",
+    "meaning": "中文：衣物 / Eng: clothing / 韓国語: 의류",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/いるい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "225",
+    "word": "スカート",
+    "reading": "すかーと",
+    "meaning": "中文：裙子 / Eng: skirt / 韓国語: 치마",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/すかーと.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "226",
+    "word": "靴下",
+    "reading": "くつした",
+    "meaning": "中文：袜子 / Eng: socks / 韓国語: 양말",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/くつした.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "227",
+    "word": "靴",
+    "reading": "くつ",
+    "meaning": "中文：鞋子 / Eng: shoes / 韓国語: 신발",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/くつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "228",
+    "word": "履く",
+    "reading": "はく",
+    "meaning": "中文：穿（鞋/裤） / Eng: put on (shoes/pants) / 韓国語: 신다/입다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/はく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "229",
+    "word": "下着",
+    "reading": "したぎ",
+    "meaning": "中文：内衣 / Eng: underwear / 韓国語: 속옷",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/したぎ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "230",
+    "word": "衣装",
+    "reading": "いしょう",
+    "meaning": "中文：衣装 / Eng: costume / 韓国語: 의상",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/いしょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "231",
+    "word": "パジャマ",
+    "reading": "ぱじゃま",
+    "meaning": "中文：睡衣 / Eng: pajamas / 韓国語: 파자마",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ぱじゃま.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "232",
+    "word": "寝巻（き）",
+    "reading": "ねまき",
+    "meaning": "中文：睡衣 / Eng: nightwear / 韓国語: 잠옷",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ねまき.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "233",
+    "word": "制服",
+    "reading": "せいふく",
+    "meaning": "中文：制服 / Eng: uniform / 韓国語: 제복",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せいふく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "234",
+    "word": "手袋",
+    "reading": "てぶくろ",
+    "meaning": "中文：手套 / Eng: gloves / 韓国語: 장갑",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/てぶくろ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "235",
+    "word": "水着",
+    "reading": "みずぎ",
+    "meaning": "中文：泳装 / Eng: swimsuit / 韓国語: 수영복",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/みずぎ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "236",
+    "word": "私服",
+    "reading": "しふく",
+    "meaning": "中文：便装 / Eng: plain clothes / 韓国語: 사복",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しふく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "237",
+    "word": "体型",
+    "reading": "たいけい",
+    "meaning": "中文：体型 / Eng: body shape / 韓国語: 체형",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/たいけい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "238",
+    "word": "ネクタイをする",
+    "reading": "ねくたいをする",
+    "meaning": "中文：打领带 / Eng: wear a necktie / 韓国語: 넥타이를 매다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ねくたいをする.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "239",
+    "word": "寸法",
+    "reading": "すんぽう",
+    "meaning": "中文：尺寸 / Eng: measurement/size / 韓国語: 치수",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/すんぽう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "240",
+    "word": "丈",
+    "reading": "たけ",
+    "meaning": "中文：长度 / Eng: length / 韓国語: 길이",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/たけ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "241",
+    "word": "眼鏡をかける",
+    "reading": "めがねをかける",
+    "meaning": "中文：戴眼镜 / Eng: put on glasses / 韓国語: 안경을 쓰다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/めがねをかける.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "242",
+    "word": "傘を差す",
+    "reading": "かさをさす",
+    "meaning": "中文：打伞 / Eng: hold an umbrella / 韓国語: 우산을 쓰다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かさをさす.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "243",
+    "word": "夏物",
+    "reading": "なつもの",
+    "meaning": "中文：夏装 / Eng: summer clothes / 韓国語: 여름옷",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/なつもの.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "244",
+    "word": "半袖",
+    "reading": "はんそで",
+    "meaning": "中文：短袖 / Eng: short sleeves / 韓国語: 반소매",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/はんそで.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "245",
+    "word": "裾",
+    "reading": "すそ",
+    "meaning": "中文：衣摆 / Eng: hem / 韓国語: 자락",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/すそ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "246",
+    "word": "冬物",
+    "reading": "ふゆもの",
+    "meaning": "中文：冬装 / Eng: winter clothes / 韓国語: 겨울옷",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ふゆもの.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "247",
+    "word": "眼鏡をはずす／とる",
+    "reading": "めがねをはずす／とる",
+    "meaning": "中文：摘下眼镜 / Eng: take off glasses / 韓国語: 안경을 벗다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/めがねをはずす／とる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "248",
+    "word": "長袖",
+    "reading": "ながそで",
+    "meaning": "中文：长袖 / Eng: long sleeves / 韓国語: 긴소매",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ながそで.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "249",
+    "word": "幅",
+    "reading": "はば",
+    "meaning": "中文：宽度 / Eng: width / 韓国語: 폭",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/はば.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "250",
+    "word": "服",
+    "reading": "ふく",
+    "meaning": "中文：衣服 / Eng: clothes / 韓国語: 옷",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ふく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "251",
+    "word": "衣替え",
+    "reading": "ころもがえ",
+    "meaning": "中文：换季换装 / Eng: seasonal change of clothes / 韓国語: 옷 갈아입기",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ころもがえ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "252",
+    "word": "指輪をはめる",
+    "reading": "ゆびわをはめる",
+    "meaning": "中文：戴戒指 / Eng: put on a ring / 韓国語: 반지를 끼다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ゆびわをはめる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "253",
+    "word": "布",
+    "reading": "ぬの",
+    "meaning": "中文：布 / Eng: cloth / 韓国語: 천",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ぬの.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "254",
+    "word": "木綿",
+    "reading": "もめん",
+    "meaning": "中文：棉布 / Eng: cotton / 韓国語: 면",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/もめん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "255",
+    "word": "絹",
+    "reading": "きぬ",
+    "meaning": "中文：丝绸 / Eng: silk / 韓国語: 비단",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/きぬ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "256",
+    "word": "羊毛",
+    "reading": "ようもう",
+    "meaning": "中文：羊毛 / Eng: wool / 韓国語: 양모",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ようもう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "257",
+    "word": "生地",
+    "reading": "きじ",
+    "meaning": "中文：布料 / Eng: fabric / 韓国語: 원단",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/きじ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "258",
+    "word": "麻",
+    "reading": "あさ",
+    "meaning": "中文：麻布 / Eng: hemp/linen / 韓国語: 마",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/あさ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "259",
+    "word": "色彩",
+    "reading": "しきさい",
+    "meaning": "中文：色彩 / Eng: color / 韓国語: 색채",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しきさい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "260",
+    "word": "ウール",
+    "reading": "うーる",
+    "meaning": "中文：羊毛 / Eng: wool (katakana) / 韓国語: 울",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/うーる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "261",
+    "word": "染める",
+    "reading": "そめる",
+    "meaning": "中文：染色 / Eng: to dye / 韓国語: 염색하다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/そめる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "262",
+    "word": "糸",
+    "reading": "いと",
+    "meaning": "中文：线 / Eng: thread / 韓国語: 실",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/いと.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "263",
+    "word": "綿",
+    "reading": "わた",
+    "meaning": "中文：棉花 / Eng: cotton (stuffing) / 韓国語: 솜",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/わた.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "264",
+    "word": "厚い",
+    "reading": "あつい",
+    "meaning": "中文：厚 / Eng: thick / 韓国語: 두껍다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/あつい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "265",
+    "word": "縫う",
+    "reading": "ぬう",
+    "meaning": "中文：缝 / Eng: to sew / 韓国語: 바느질하다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ぬう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "266",
+    "word": "薄い",
+    "reading": "うすい",
+    "meaning": "中文：薄 / Eng: thin / 韓国語: 얇다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/うすい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "267",
+    "word": "柔らかい",
+    "reading": "やわらかい",
+    "meaning": "中文：柔软 / Eng: soft / 韓国語: 부드럽다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/やわらかい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "268",
+    "word": "編む",
+    "reading": "あむ",
+    "meaning": "中文：编织 / Eng: to knit / 韓国語: 뜨다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/あむ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "269",
+    "word": "針",
+    "reading": "はり",
+    "meaning": "中文：针 / Eng: needle / 韓国語: 바늘",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/はり.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "270",
+    "word": "毛皮",
+    "reading": "けがわ",
+    "meaning": "中文：毛皮 / Eng: fur / 韓国語: 모피",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/けがわ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "271",
+    "word": "毛糸",
+    "reading": "けいと",
+    "meaning": "中文：毛线 / Eng: wool yarn / 韓国語: 털실",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/けいと.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "272",
+    "word": "柄",
+    "reading": "がら",
+    "meaning": "中文：花样 / Eng: pattern / 韓国語: 무늬",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/がら.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "273",
+    "word": "皮/革",
+    "reading": "かわ",
+    "meaning": "中文：皮革 / Eng: leather / 韓国語: 가죽",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かわ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "274",
+    "word": "無地",
+    "reading": "むじ",
+    "meaning": "中文：素色 / Eng: plain (no pattern) / 韓国語: 무늬 없음",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/むじ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "275",
+    "word": "派手",
+    "reading": "はで",
+    "meaning": "中文：花哨 / Eng: showy / 韓国語: 화려하다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/はで.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "276",
+    "word": "地味",
+    "reading": "じみ",
+    "meaning": "中文：朴素 / Eng: plain, subdued / 韓国語: 수수하다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/じみ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "277",
+    "word": "目立つ",
+    "reading": "めだつ",
+    "meaning": "中文：显眼 / Eng: to stand out / 韓国語: 눈에 띄다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/めだつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "278",
+    "word": "飾る",
+    "reading": "かざる",
+    "meaning": "中文：装饰 / Eng: to decorate / 韓国語: 장식하다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かざる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "279",
+    "word": "整理",
+    "reading": "せいり",
+    "meaning": "中文：整理 / Eng: to organize / 韓国語: 정리",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せいり.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "280",
+    "word": "片付ける",
+    "reading": "かたづける",
+    "meaning": "中文：收拾 / Eng: to tidy up / 韓国語: 치우다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かたづける.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "281",
+    "word": "押入れ",
+    "reading": "おしいれ",
+    "meaning": "中文：壁橱 / Eng: closet / 韓国語: 벽장",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おしいれ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "282",
+    "word": "寝具",
+    "reading": "しんぐ",
+    "meaning": "中文：寝具 / Eng: bedding / 韓国語: 침구",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しんぐ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "283",
+    "word": "布団",
+    "reading": "ふとん",
+    "meaning": "中文：被褥 / Eng: futon / 韓国語: 이불",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ふとん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "284",
+    "word": "座布団",
+    "reading": "ざぶとん",
+    "meaning": "中文：坐垫 / Eng: floor cushion / 韓国語: 방석",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ざぶとん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "285",
+    "word": "敷く",
+    "reading": "しく",
+    "meaning": "中文：铺 / Eng: to spread/lay (a futon etc.) / 韓国語: 깔다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "286",
+    "word": "枕",
+    "reading": "まくら",
+    "meaning": "中文：枕头 / Eng: pillow / 韓国語: 베개",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/まくら.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "287",
+    "word": "毛布",
+    "reading": "もうふ",
+    "meaning": "中文：毛毯 / Eng: blanket / 韓国語: 담요",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/もうふ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "288",
+    "word": "ソファ",
+    "reading": "そふぁ",
+    "meaning": "中文：沙发 / Eng: sofa / 韓国語: 소파",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/そふぁ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "289",
+    "word": "ベッド",
+    "reading": "べっど",
+    "meaning": "中文：床 / Eng: bed / 韓国語: 침대",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/べっど.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "290",
+    "word": "家具",
+    "reading": "かぐ",
+    "meaning": "中文：家具 / Eng: furniture / 韓国語: 가구",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かぐ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "291",
+    "word": "流し台",
+    "reading": "ながしだい",
+    "meaning": "中文：洗涤台 / Eng: sink / 韓国語: 싱크대",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ながしだい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "292",
+    "word": "机",
+    "reading": "つくえ",
+    "meaning": "中文：书桌 / Eng: desk / 韓国語: 책상",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/つくえ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "293",
+    "word": "食卓",
+    "reading": "しょくたく",
+    "meaning": "中文：餐桌 / Eng: dining table / 韓国語: 식탁",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しょくたく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "294",
+    "word": "棚",
+    "reading": "たな",
+    "meaning": "中文：架子 / Eng: shelf / 韓国語: 선반",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/たな.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "295",
+    "word": "本棚",
+    "reading": "ほんだな",
+    "meaning": "中文：书架 / Eng: bookshelf / 韓国語: 책장",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ほんだな.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "296",
+    "word": "テーブル",
+    "reading": "てーぶる",
+    "meaning": "中文：桌子 / Eng: table / 韓国語: 테이블",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/てーぶる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "297",
+    "word": "椅子",
+    "reading": "いす",
+    "meaning": "中文：椅子 / Eng: chair / 韓国語: 의자",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/いす.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "298",
+    "word": "不動産屋",
+    "reading": "ふどうさんや",
+    "meaning": "中文：房地产中介 / Eng: real estate agency / 韓国語: 부동산 중개소",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ふどうさんや.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "299",
+    "word": "団地",
+    "reading": "だんち",
+    "meaning": "中文：住宅小区 / Eng: housing complex / 韓国語: 단지",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/だんち.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "300",
+    "word": "建物",
+    "reading": "たてもの",
+    "meaning": "中文：建筑物 / Eng: building / 韓国語: 건물",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/たてもの.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "301",
+    "word": "自宅",
+    "reading": "じたく",
+    "meaning": "中文：自己家 / Eng: one's own home / 韓国語: 자택",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/じたく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "302",
+    "word": "窓",
+    "reading": "まど",
+    "meaning": "中文：窗户 / Eng: window / 韓国語: 창문",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/まど.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "303",
+    "word": "住居",
+    "reading": "じゅうきょ",
+    "meaning": "中文：住处 / Eng: residence / 韓国語: 주거",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/じゅうきょ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "304",
+    "word": "賃貸",
+    "reading": "ちんたい",
+    "meaning": "中文：出租 / Eng: rental / 韓国語: 임대",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ちんたい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "305",
+    "word": "敷金",
+    "reading": "しききん",
+    "meaning": "中文：押金 / Eng: security deposit / 韓国語: 보증금",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しききん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "306",
+    "word": "建てる",
+    "reading": "たてる",
+    "meaning": "中文：建造 / Eng: to build / 韓国語: 짓다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/たてる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "307",
+    "word": "建設",
+    "reading": "けんせつ",
+    "meaning": "中文：建设 / Eng: construction / 韓国語: 건설",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/けんせつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "308",
+    "word": "家",
+    "reading": "いえ",
+    "meaning": "中文：家 / Eng: house / 韓国語: 집",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/いえ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "309",
+    "word": "住まい",
+    "reading": "すまい",
+    "meaning": "中文：住所 / Eng: residence / 韓国語: 거처",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/すまい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "310",
+    "word": "マンション",
+    "reading": "まんしょん",
+    "meaning": "中文：公寓 / Eng: condominium / 韓国語: 맨션",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/まんしょん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "311",
+    "word": "礼金",
+    "reading": "れいきん",
+    "meaning": "中文：礼金 / Eng: key money / 韓国語: 사례금",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/れいきん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "312",
+    "word": "建築",
+    "reading": "けんちく",
+    "meaning": "中文：建筑 / Eng: architecture / 韓国語: 건축",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/けんちく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "313",
+    "word": "住宅",
+    "reading": "じゅうたく",
+    "meaning": "中文：住宅 / Eng: housing / 韓国語: 주택",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/じゅうたく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "314",
+    "word": "設計",
+    "reading": "せっけい",
+    "meaning": "中文：设计 / Eng: design (building) / 韓国語: 설계",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せっけい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "315",
+    "word": "大家",
+    "reading": "おおや",
+    "meaning": "中文：房东 / Eng: landlord / 韓国語: 집주인",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おおや.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "316",
+    "word": "住心",
+    "reading": "じゅうしん",
+    "meaning": "中文：安心生活 / Eng: living peace of mind / 韓国語: 거주 안심",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/じゅうしん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "317",
+    "word": "我が家",
+    "reading": "わがや",
+    "meaning": "中文：我家 / Eng: my home / 韓国語: 우리 집",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/わがや.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "318",
+    "word": "アパート",
+    "reading": "あぱーと",
+    "meaning": "中文：出租公寓 / Eng: apartment / 韓国語: 아파트",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/あぱーと.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "319",
+    "word": "大工",
+    "reading": "だいく",
+    "meaning": "中文：木匠 / Eng: carpenter / 韓国語: 목수",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/だいく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "320",
+    "word": "修理",
+    "reading": "しゅうり",
+    "meaning": "中文：修理 / Eng: repair / 韓国語: 수리",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しゅうり.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "321",
+    "word": "新築",
+    "reading": "しんちく",
+    "meaning": "中文：新建 / Eng: newly built / 韓国語: 신축",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しんちく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "322",
+    "word": "下宿",
+    "reading": "げしゅく",
+    "meaning": "中文：寄宿处 / Eng: boarding house / 韓国語: 하숙",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/げしゅく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "323",
+    "word": "家屋",
+    "reading": "かおく",
+    "meaning": "中文：房屋 / Eng: house/building / 韓国語: 가옥",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かおく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "324",
+    "word": "屋敷",
+    "reading": "やしき",
+    "meaning": "中文：宅邸 / Eng: residence (large estate) / 韓国語: 저택",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/やしき.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "325",
+    "word": "実家",
+    "reading": "じっか",
+    "meaning": "中文：老家 / Eng: one's parents' home / 韓国語: 본가",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/じっか.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "326",
+    "word": "寮",
+    "reading": "りょう",
+    "meaning": "中文：宿舍 / Eng: dormitory / 韓国語: 기숙사",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/りょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "327",
+    "word": "鉄筋",
+    "reading": "てっきん",
+    "meaning": "中文：钢筋混凝土 / Eng: reinforced concrete / 韓国語: 철근 콘크리트",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/てっきん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "328",
+    "word": "木造",
+    "reading": "もくぞう",
+    "meaning": "中文：木结构 / Eng: wooden / 韓国語: 목조",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/もくぞう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "329",
+    "word": "中古",
+    "reading": "ちゅうこ",
+    "meaning": "中文：二手 / Eng: secondhand / 韓国語: 중고",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ちゅうこ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "330",
+    "word": "狭い",
+    "reading": "せまい",
+    "meaning": "中文：狭小 / Eng: narrow / 韓国語: 좁다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せまい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "331",
+    "word": "屋根",
+    "reading": "やね",
+    "meaning": "中文：屋顶 / Eng: roof / 韓国語: 지붕",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/やね.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "332",
+    "word": "天井",
+    "reading": "てんじょう",
+    "meaning": "中文：天花板 / Eng: ceiling / 韓国語: 천장",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/てんじょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "333",
+    "word": "広い",
+    "reading": "ひろい",
+    "meaning": "中文：宽敞 / Eng: spacious / 韓国語: 넓다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひろい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "334",
+    "word": "寝室",
+    "reading": "しんしつ",
+    "meaning": "中文：卧室 / Eng: bedroom / 韓国語: 침실",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しんしつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "335",
+    "word": "座敷",
+    "reading": "ざしき",
+    "meaning": "中文：榻榻米房 / Eng: tatami room / 韓国語: 다다미방",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ざしき.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "336",
+    "word": "居間",
+    "reading": "いま",
+    "meaning": "中文：客厅 / Eng: living room / 韓国語: 거실",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/いま.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "337",
+    "word": "洋室",
+    "reading": "ようしつ",
+    "meaning": "中文：洋房 / Eng: Western-style room / 韓国語: 양실",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ようしつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "338",
+    "word": "和室",
+    "reading": "わしつ",
+    "meaning": "中文：和室 / Eng: Japanese-style room / 韓国語: 일본식 방",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/わしつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "339",
+    "word": "部屋",
+    "reading": "へや",
+    "meaning": "中文：房间 / Eng: room / 韓国語: 방",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/へや.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "340",
+    "word": "お手洗い",
+    "reading": "おてあらい",
+    "meaning": "中文：洗手间 / Eng: restroom / 韓国語: 화장실",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おてあらい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "341",
+    "word": "茶の間",
+    "reading": "ちゃのま",
+    "meaning": "中文：起居室 / Eng: family room / 韓国語: 거실",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ちゃのま.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "342",
+    "word": "柱",
+    "reading": "はしら",
+    "meaning": "中文：柱子 / Eng: pillar / 韓国語: 기둥",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/はしら.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "343",
+    "word": "戸",
+    "reading": "と",
+    "meaning": "中文：门 / Eng: door / 韓国語: 문",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/と.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "344",
+    "word": "収納",
+    "reading": "しゅうのう",
+    "meaning": "中文：收纳 / Eng: storage / 韓国語: 수납",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しゅうのう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "345",
+    "word": "畳",
+    "reading": "たたみ",
+    "meaning": "中文：榻榻米 / Eng: tatami mat / 韓国語: 다다미",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/たたみ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "346",
+    "word": "壁",
+    "reading": "かべ",
+    "meaning": "中文：墙壁 / Eng: wall / 韓国語: 벽",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かべ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "347",
+    "word": "トイレ",
+    "reading": "といれ",
+    "meaning": "中文：厕所 / Eng: toilet / 韓国語: 화장실",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/といれ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "348",
+    "word": "床",
+    "reading": "ゆか",
+    "meaning": "中文：地板 / Eng: floor / 韓国語: 바닥",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ゆか.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "349",
+    "word": "扉",
+    "reading": "とびら",
+    "meaning": "中文：门扇 / Eng: door (panel style) / 韓国語: 문짝",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/とびら.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "350",
+    "word": "鍵",
+    "reading": "かぎ",
+    "meaning": "中文：钥匙 / Eng: key / 韓国語: 열쇠",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かぎ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "351",
+    "word": "～畳",
+    "reading": "～じょう",
+    "meaning": "中文：榻榻米大小 / Eng: tatami size / 韓国語: 다다미 수",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/～じょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "352",
+    "word": "化粧室",
+    "reading": "けしょうしつ",
+    "meaning": "中文：化妆间 / Eng: powder room / 韓国語: 화장실",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/けしょうしつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "353",
+    "word": "台所",
+    "reading": "だいどころ",
+    "meaning": "中文：厨房 / Eng: kitchen / 韓国語: 부엌",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/だいどころ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "354",
+    "word": "暖房",
+    "reading": "だんぼう",
+    "meaning": "中文：暖气 / Eng: heating / 韓国語: 난방",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/だんぼう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "355",
+    "word": "浴室",
+    "reading": "よくしつ",
+    "meaning": "中文：浴室 / Eng: bathroom / 韓国語: 욕실",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/よくしつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "356",
+    "word": "階段",
+    "reading": "かいだん",
+    "meaning": "中文：楼梯 / Eng: stairs / 韓国語: 계단",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かいだん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "357",
+    "word": "廊下",
+    "reading": "ろうか",
+    "meaning": "中文：走廊 / Eng: hallway / 韓国語: 복도",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ろうか.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "358",
+    "word": "かける",
+    "reading": "かける",
+    "meaning": "中文：挂 / 锁 / Eng: to hang / lock / 韓国語: 걸다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かける.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "359",
+    "word": "（お）風呂",
+    "reading": "（お）ふろ",
+    "meaning": "中文：浴缸 / Eng: bath / 韓国語: 목욕",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/（お）ふろ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "360",
+    "word": "洗面所",
+    "reading": "せんめんじょ",
+    "meaning": "中文：洗面间 / Eng: washroom / 韓国語: 세면장",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せんめんじょ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "361",
+    "word": "玄関",
+    "reading": "げんかん",
+    "meaning": "中文：玄关 / Eng: entrance / 韓国語: 현관",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/げんかん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "362",
+    "word": "冷房",
+    "reading": "れいぼう",
+    "meaning": "中文：冷气 / Eng: air conditioning / 韓国語: 냉방",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/れいぼう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "363",
+    "word": "空調",
+    "reading": "くうちょう",
+    "meaning": "中文：空调 / Eng: air control system / 韓国語: 공조",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/くうちょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "364",
+    "word": "ベランダ",
+    "reading": "べらんだ",
+    "meaning": "中文：阳台 / Eng: balcony / 韓国語: 베란다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/べらんだ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "365",
+    "word": "物置",
+    "reading": "ものおき",
+    "meaning": "中文：储藏室 / Eng: storage room / 韓国語: 창고",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ものおき.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "366",
+    "word": "庭",
+    "reading": "にわ",
+    "meaning": "中文：院子 / Eng: garden / 韓国語: 정원",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/にわ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "367",
+    "word": "車庫",
+    "reading": "しゃこ",
+    "meaning": "中文：车库 / Eng: garage / 韓国語: 차고",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しゃこ.mp3",
     "course": "CJ2"
   }
 ]
