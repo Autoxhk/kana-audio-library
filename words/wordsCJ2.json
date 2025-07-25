@@ -1537,7 +1537,7 @@
   },
   {
     "no": "193",
-    "word": "紐",
+    "word": "ひも",
     "reading": "ひも",
     "meaning": "中文：带子 / Eng: (shoe)lace / 韓国語: 끈",
     "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひも.mp3",
@@ -2933,6 +2933,1342 @@
     "reading": "しゃこ",
     "meaning": "中文：车库 / Eng: garage / 韓国語: 차고",
     "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しゃこ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "368",
+    "word": "顔",
+    "reading": "かお",
+    "meaning": "中文：脸 / Eng: face / 韓国語: 얼굴",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かお.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "369",
+    "word": "素顔",
+    "reading": "すがお",
+    "meaning": "中文：素颜 / Eng: bare face / 韓国語: 민낯",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/すがお.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "370",
+    "word": "額",
+    "reading": "ひたい",
+    "meaning": "中文：额头 / Eng: forehead / 韓国語: 이마",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひたい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "371",
+    "word": "目玉",
+    "reading": "めだま",
+    "meaning": "中文：眼球 / Eng: eyeball / 韓国語: 눈알",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/めだま.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "372",
+    "word": "首",
+    "reading": "くび",
+    "meaning": "中文：脖子 / Eng: neck / 韓国語: 목",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/くび.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "373",
+    "word": "胸",
+    "reading": "むね",
+    "meaning": "中文：胸部 / Eng: chest / 韓国語: 가슴",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/むね.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "374",
+    "word": "背中",
+    "reading": "せなか",
+    "meaning": "中文：后背 / Eng: back / 韓国語: 등",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せなか.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "375",
+    "word": "腕",
+    "reading": "うで",
+    "meaning": "中文：胳膊 / Eng: arm / 韓国語: 팔",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/うで.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "376",
+    "word": "素手",
+    "reading": "すで",
+    "meaning": "中文：空手 / Eng: bare hands / 韓国語: 맨손",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/すで.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "377",
+    "word": "爪",
+    "reading": "つめ",
+    "meaning": "中文：指甲 / Eng: nail / 韓国語: 손톱",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/つめ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "378",
+    "word": "皮膚",
+    "reading": "ひふ",
+    "meaning": "中文：皮肤 / Eng: skin / 韓国語: 피부",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひふ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "379",
+    "word": "皺",
+    "reading": "しわ",
+    "meaning": "中文：皱纹 / Eng: wrinkle / 韓国語: 주름",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しわ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "380",
+    "word": "脇",
+    "reading": "わき",
+    "meaning": "中文：腋下 / Eng: armpit/side / 韓国語: 겨드랑이",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/わき.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "381",
+    "word": "肘",
+    "reading": "ひじ",
+    "meaning": "中文：胳膊肘 / Eng: elbow / 韓国語: 팔꿈치",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひじ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "382",
+    "word": "手足",
+    "reading": "てあし",
+    "meaning": "中文：四肢 / Eng: hands and feet / 韓国語: 손발",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/てあし.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "383",
+    "word": "足腰",
+    "reading": "あしこし",
+    "meaning": "中文：腿脚 / Eng: legs and lower back / 韓国語: 하반신",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/あしこし.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "384",
+    "word": "膝",
+    "reading": "ひざ",
+    "meaning": "中文：膝盖 / Eng: knee / 韓国語: 무릎",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひざ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "385",
+    "word": "生死",
+    "reading": "せいし",
+    "meaning": "中文：生死 / Eng: life and death / 韓国語: 생사",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せいし.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "386",
+    "word": "成長",
+    "reading": "せいちょう",
+    "meaning": "中文：成长 / Eng: growth / 韓国語: 성장",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せいちょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "387",
+    "word": "寿命",
+    "reading": "じゅみょう",
+    "meaning": "中文：寿命 / Eng: lifespan / 韓国語: 수명",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/じゅみょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "388",
+    "word": "体つき",
+    "reading": "からだつき",
+    "meaning": "中文：体型/体格 / Eng: physique / 韓国語: 몸매",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/からだつき.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "389",
+    "word": "育つ",
+    "reading": "そだつ",
+    "meaning": "中文：成长 / Eng: to grow up / 韓国語: 자라다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/そだつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "390",
+    "word": "太る",
+    "reading": "ふとる",
+    "meaning": "中文：变胖 / Eng: to gain weight / 韓国語: 살찌다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ふとる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "391",
+    "word": "身体",
+    "reading": "しんたい",
+    "meaning": "中文：身体 / Eng: body / 韓国語: 신체",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しんたい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "392",
+    "word": "身",
+    "reading": "み",
+    "meaning": "中文：身体/自身 / Eng: body/self / 韓国語: 몸",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/み.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "393",
+    "word": "全身",
+    "reading": "ぜんしん",
+    "meaning": "中文：全身 / Eng: whole body / 韓国語: 전신",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ぜんしん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "394",
+    "word": "人体",
+    "reading": "じんたい",
+    "meaning": "中文：人体 / Eng: human body / 韓国語: 인체",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/じんたい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "395",
+    "word": "上半身",
+    "reading": "じょうはんしん",
+    "meaning": "中文：上半身 / Eng: upper body / 韓国語: 상반신",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/じょうはんしん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "396",
+    "word": "下半身",
+    "reading": "かはんしん",
+    "meaning": "中文：下半身 / Eng: lower body / 韓国語: 하반신",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かはんしん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "397",
+    "word": "肉体",
+    "reading": "にくたい",
+    "meaning": "中文：肉体 / Eng: physical body / 韓国語: 육체",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/にくたい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "398",
+    "word": "体",
+    "reading": "からだ",
+    "meaning": "中文：身体 / Eng: body / 韓国語: 몸",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/からだ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "399",
+    "word": "髪",
+    "reading": "かみ",
+    "meaning": "中文：头发 / Eng: hair / 韓国語: 머리카락",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かみ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "400",
+    "word": "髪の毛",
+    "reading": "かみのけ",
+    "meaning": "中文：头发 / Eng: hair / 韓国語: 머리카락",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かみのけ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "401",
+    "word": "髪型",
+    "reading": "かみがた",
+    "meaning": "中文：发型 / Eng: hairstyle / 韓国語: 머리스타일",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かみがた.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "402",
+    "word": "長髪",
+    "reading": "ちょうはつ",
+    "meaning": "中文：长发 / Eng: long hair / 韓国語: 장발",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ちょうはつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "403",
+    "word": "黒髪",
+    "reading": "くろかみ",
+    "meaning": "中文：黑发 / Eng: black hair / 韓国語: 흑발",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/くろかみ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "404",
+    "word": "白髪",
+    "reading": "しらが",
+    "meaning": "中文：白发 / Eng: gray hair / 韓国語: 백발",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しらが.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "405",
+    "word": "金髪",
+    "reading": "きんぱつ",
+    "meaning": "中文：金发 / Eng: blond hair / 韓国語: 금발",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/きんぱつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "406",
+    "word": "髭",
+    "reading": "ひげ",
+    "meaning": "中文：胡子 / Eng: beard / 韓国語: 수염",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひげ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "407",
+    "word": "前髪",
+    "reading": "まえがみ",
+    "meaning": "中文：刘海 / Eng: bangs / 韓国語: 앞머리",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/まえがみ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "408",
+    "word": "毛髪",
+    "reading": "もうはつ",
+    "meaning": "中文：头发 / Eng: hair / 韓国語: 모발",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/もうはつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "409",
+    "word": "脱毛",
+    "reading": "だつもう",
+    "meaning": "中文：脱毛 / Eng: hair removal / 韓国語: 제모",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/だつもう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "410",
+    "word": "毛",
+    "reading": "け",
+    "meaning": "中文：毛发 / Eng: hair/body hair / 韓国語: 털",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/け.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "411",
+    "word": "生やす",
+    "reading": "はやす",
+    "meaning": "中文：留/蓄（毛发） / Eng: to grow (beard, hair) / 韓国語: 기르다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/はやす.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "412",
+    "word": "頭",
+    "reading": "あたま",
+    "meaning": "中文：头 / Eng: head / 韓国語: 머리",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/あたま.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "413",
+    "word": "額",
+    "reading": "ひたい",
+    "meaning": "中文：额头 / Eng: forehead / 韓国語: 이마",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひたい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "414",
+    "word": "顔",
+    "reading": "かお",
+    "meaning": "中文：脸 / Eng: face / 韓国語: 얼굴",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かお.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "415",
+    "word": "顔立ち",
+    "reading": "かおだち",
+    "meaning": "中文：长相 / Eng: facial features / 韓国語: 얼굴 생김새",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かおだち.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "416",
+    "word": "素顔",
+    "reading": "すがお",
+    "meaning": "中文：素颜 / Eng: bare face / 韓国語: 민낯",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/すがお.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "417",
+    "word": "丸顔",
+    "reading": "まるがお",
+    "meaning": "中文：圆脸 / Eng: round face / 韓国語: 둥근 얼굴",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/まるがお.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "418",
+    "word": "横顔",
+    "reading": "よこがお",
+    "meaning": "中文：侧脸 / Eng: profile / 韓国語: 옆모습",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/よこがお.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "419",
+    "word": "皮",
+    "reading": "かわ",
+    "meaning": "中文：皮 / Eng: skin (outer layer) / 韓国語: 껍질",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かわ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "420",
+    "word": "皺",
+    "reading": "しわ",
+    "meaning": "中文：皱纹 / Eng: wrinkle / 韓国語: 주름",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しわ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "421",
+    "word": "鳥肌",
+    "reading": "とりはだ",
+    "meaning": "中文：鸡皮疙瘩 / Eng: goosebumps / 韓国語: 소름",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/とりはだ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "422",
+    "word": "肌",
+    "reading": "はだ",
+    "meaning": "中文：肌肤 / Eng: skin / 韓国語: 피부",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/はだ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "423",
+    "word": "皮膚",
+    "reading": "ひふ",
+    "meaning": "中文：皮肤 / Eng: skin / 韓国語: 피부",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひふ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "424",
+    "word": "肘",
+    "reading": "ひじ",
+    "meaning": "中文：胳膊肘 / Eng: elbow / 韓国語: 팔꿈치",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひじ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "425",
+    "word": "両腕",
+    "reading": "りょううで",
+    "meaning": "中文：双臂 / Eng: both arms / 韓国語: 양팔",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/りょううで.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "426",
+    "word": "片腕",
+    "reading": "かたうで",
+    "meaning": "中文：单臂 / Eng: one arm / 韓国語: 한 팔",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かたうで.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "427",
+    "word": "腕拳",
+    "reading": "わんけん",
+    "meaning": "中文：臂与拳 / Eng: arm and fist / 韓国語: 팔과 주먹",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/わんけん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "428",
+    "word": "両手",
+    "reading": "りょうて",
+    "meaning": "中文：双手 / Eng: both hands / 韓国語: 양손",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/りょうて.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "429",
+    "word": "素手",
+    "reading": "すで",
+    "meaning": "中文：空手 / Eng: bare hands / 韓国語: 맨손",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/すで.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "430",
+    "word": "片手",
+    "reading": "かたて",
+    "meaning": "中文：单手 / Eng: one hand / 韓国語: 한 손",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かたて.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "431",
+    "word": "手首",
+    "reading": "てくび",
+    "meaning": "中文：手腕 / Eng: wrist / 韓国語: 손목",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/てくび.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "432",
+    "word": "手",
+    "reading": "て",
+    "meaning": "中文：手 / Eng: hand / 韓国語: 손",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/て.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "433",
+    "word": "親指",
+    "reading": "おやゆび",
+    "meaning": "中文：大拇指 / Eng: thumb / 韓国語: 엄지손가락",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おやゆび.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "434",
+    "word": "中指",
+    "reading": "なかゆび",
+    "meaning": "中文：中指 / Eng: middle finger / 韓国語: 가운뎃손가락",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/なかゆび.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "435",
+    "word": "指",
+    "reading": "ゆび",
+    "meaning": "中文：手指 / Eng: finger / 韓国語: 손가락",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ゆび.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "436",
+    "word": "人差し指",
+    "reading": "ひとさしゆび",
+    "meaning": "中文：食指 / Eng: index finger / 韓国語: 검지",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひとさしゆび.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "437",
+    "word": "薬指",
+    "reading": "くすりゆび",
+    "meaning": "中文：无名指 / Eng: ring finger / 韓国語: 약지",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/くすりゆび.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "438",
+    "word": "手の平",
+    "reading": "てのひら",
+    "meaning": "中文：手掌 / Eng: palm / 韓国語: 손바닥",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/てのひら.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "439",
+    "word": "指紋",
+    "reading": "しもん",
+    "meaning": "中文：指纹 / Eng: fingerprint / 韓国語: 지문",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しもん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "440",
+    "word": "小指",
+    "reading": "こゆび",
+    "meaning": "中文：小拇指 / Eng: little finger / 韓国語: 새끼손가락",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/こゆび.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "441",
+    "word": "爪",
+    "reading": "つめ",
+    "meaning": "中文：指甲 / Eng: nail / 韓国語: 손톱",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/つめ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "442",
+    "word": "手足",
+    "reading": "てあし",
+    "meaning": "中文：四肢 / Eng: hands and feet / 韓国語: 손발",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/てあし.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "443",
+    "word": "体格",
+    "reading": "たいかく",
+    "meaning": "中文：体格 / Eng: physique / 韓国語: 체격",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/たいかく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "444",
+    "word": "骨格",
+    "reading": "こっかく",
+    "meaning": "中文：骨架 / Eng: skeleton / 韓国語: 골격",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/こっかく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "445",
+    "word": "体つき",
+    "reading": "からだつき",
+    "meaning": "中文：体型 / Eng: build, shape / 韓国語: 몸매",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/からだつき.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "446",
+    "word": "裸",
+    "reading": "はだか",
+    "meaning": "中文：裸体 / Eng: naked / 韓国語: 벌거벗은 몸",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/はだか.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "447",
+    "word": "瘦せる",
+    "reading": "やせる",
+    "meaning": "中文：变瘦 / Eng: to lose weight / 韓国語: 살이 빠지다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/やせる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "448",
+    "word": "太る",
+    "reading": "ふとる",
+    "meaning": "中文：变胖 / Eng: to gain weight / 韓国語: 살찌다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ふとる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "449",
+    "word": "肥満",
+    "reading": "ひまん",
+    "meaning": "中文：肥胖 / Eng: obesity / 韓国語: 비만",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひまん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "450",
+    "word": "目",
+    "reading": "め",
+    "meaning": "中文：眼睛 / Eng: eye / 韓国語: 눈",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/め.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "451",
+    "word": "眼",
+    "reading": "がん",
+    "meaning": "中文：眼 / Eng: eye (medical/formal) / 韓国語: 안(의학)",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/がん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "452",
+    "word": "肉眼",
+    "reading": "にくがん",
+    "meaning": "中文：肉眼 / Eng: naked eye / 韓国語: 육안",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/にくがん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "453",
+    "word": "目玉",
+    "reading": "めだま",
+    "meaning": "中文：眼球 / Eng: eyeball / 韓国語: 눈알",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/めだま.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "454",
+    "word": "瞳",
+    "reading": "ひとみ",
+    "meaning": "中文：瞳孔 / Eng: pupil / 韓国語: 눈동자",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひとみ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "455",
+    "word": "眉",
+    "reading": "まゆ",
+    "meaning": "中文：眉毛 / Eng: eyebrow / 韓国語: 눈썹",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/まゆ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "456",
+    "word": "横目で",
+    "reading": "よこめで",
+    "meaning": "中文：斜眼看 / Eng: side glance / 韓国語: 곁눈질로",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/よこめで.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "457",
+    "word": "瞼",
+    "reading": "まぶた",
+    "meaning": "中文：眼睑 / Eng: eyelid / 韓国語: 눈꺼풀",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/まぶた.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "458",
+    "word": "両目",
+    "reading": "りょうめ",
+    "meaning": "中文：双眼 / Eng: both eyes / 韓国語: 두 눈",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/りょうめ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "459",
+    "word": "片目",
+    "reading": "かため",
+    "meaning": "中文：单眼 / Eng: one eye / 韓国語: 한쪽 눈",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かため.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "460",
+    "word": "耳",
+    "reading": "みみ",
+    "meaning": "中文：耳朵 / Eng: ear / 韓国語: 귀",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/みみ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "461",
+    "word": "鼻",
+    "reading": "はな",
+    "meaning": "中文：鼻子 / Eng: nose / 韓国語: 코",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/はな.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "462",
+    "word": "頬",
+    "reading": "ほお",
+    "meaning": "中文：脸颊 / Eng: cheek / 韓国語: 뺨",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ほお.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "463",
+    "word": "口",
+    "reading": "くち",
+    "meaning": "中文：嘴 / Eng: mouth / 韓国語: 입",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/くち.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "464",
+    "word": "耳たぶ",
+    "reading": "みみたぶ",
+    "meaning": "中文：耳垂 / Eng: earlobe / 韓国語: 귓불",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/みみたぶ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "465",
+    "word": "歯",
+    "reading": "は",
+    "meaning": "中文：牙齿 / Eng: tooth / 韓国語: 이",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/は.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "466",
+    "word": "唇",
+    "reading": "くちびる",
+    "meaning": "中文：嘴唇 / Eng: lips / 韓国語: 입술",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/くちびる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "467",
+    "word": "舌",
+    "reading": "した",
+    "meaning": "中文：舌头 / Eng: tongue / 韓国語: 혀",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/した.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "468",
+    "word": "前歯",
+    "reading": "まえば",
+    "meaning": "中文：门牙 / Eng: front teeth / 韓国語: 앞니",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/まえば.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "469",
+    "word": "奥歯",
+    "reading": "おくば",
+    "meaning": "中文：臼齿 / Eng: molar / 韓国語: 어금니",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おくば.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "470",
+    "word": "虫歯",
+    "reading": "むしば",
+    "meaning": "中文：蛀牙 / Eng: cavity / 韓国語: 충치",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/むしば.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "471",
+    "word": "入れ歯",
+    "reading": "いれば",
+    "meaning": "中文：假牙 / Eng: false teeth / 韓国語: 틀니",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/いれば.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "472",
+    "word": "顎",
+    "reading": "あご",
+    "meaning": "中文：下巴 / Eng: chin/jaw / 韓国語: 턱",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/あご.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "473",
+    "word": "喉",
+    "reading": "のど",
+    "meaning": "中文：喉咙 / Eng: throat / 韓国語: 목",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/のど.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "474",
+    "word": "首",
+    "reading": "くび",
+    "meaning": "中文：脖子 / Eng: neck / 韓国語: 목",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/くび.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "475",
+    "word": "首筋",
+    "reading": "くびすじ",
+    "meaning": "中文：颈背 / Eng: nape / 韓国語: 목덜미",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/くびすじ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "476",
+    "word": "背骨",
+    "reading": "せぼね",
+    "meaning": "中文：脊椎 / Eng: spine / 韓国語: 척추",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せぼね.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "477",
+    "word": "肩",
+    "reading": "かた",
+    "meaning": "中文：肩膀 / Eng: shoulder / 韓国語: 어깨",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かた.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "478",
+    "word": "背",
+    "reading": "せ",
+    "meaning": "中文：背 / Eng: height/back / 韓国語: 키/등",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "479",
+    "word": "背中",
+    "reading": "せなか",
+    "meaning": "中文：背部 / Eng: back / 韓国語: 등",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せなか.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "480",
+    "word": "背筋",
+    "reading": "せすじ",
+    "meaning": "中文：脊背肌 / Eng: back muscles / 韓国語: 등줄기",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せすじ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "481",
+    "word": "腹",
+    "reading": "はら",
+    "meaning": "中文：腹 / Eng: belly / 韓国語: 배",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/はら.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "482",
+    "word": "おなか",
+    "reading": "おなか",
+    "meaning": "中文：肚子 / Eng: stomach / 韓国語: 배",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おなか.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "483",
+    "word": "胸部",
+    "reading": "きょうぶ",
+    "meaning": "中文：胸部 / Eng: chest area / 韓国語: 흉부",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/きょうぶ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "484",
+    "word": "乳房",
+    "reading": "にゅうぼう",
+    "meaning": "中文：乳房 / Eng: breast / 韓国語: 유방",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/にゅうぼう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "485",
+    "word": "胴",
+    "reading": "どう",
+    "meaning": "中文：上身 / Eng: torso / 韓国語: 몸통",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/どう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "486",
+    "word": "胴体",
+    "reading": "どうたい",
+    "meaning": "中文：身体 / Eng: trunk/torso / 韓国語: 몸체",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/どうたい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "487",
+    "word": "腹部",
+    "reading": "ふくぶ",
+    "meaning": "中文：腹部 / Eng: abdomen / 韓国語: 복부",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ふくぶ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "488",
+    "word": "胸",
+    "reading": "むね",
+    "meaning": "中文：胸 / Eng: chest / 韓国語: 가슴",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/むね.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "489",
+    "word": "臍",
+    "reading": "へそ",
+    "meaning": "中文：肚脐 / Eng: navel / 韓国語: 배꼽",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/へそ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "490",
+    "word": "腰",
+    "reading": "こし",
+    "meaning": "中文：腰 / Eng: waist/lower back / 韓国語: 허리",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/こし.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "491",
+    "word": "下腹部",
+    "reading": "かふくぶ",
+    "meaning": "中文：小腹 / Eng: lower abdomen / 韓国語: 하복부",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かふくぶ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "492",
+    "word": "足腰",
+    "reading": "あしこし",
+    "meaning": "中文：腿腰 / Eng: legs and hips / 韓国語: 하반신",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/あしこし.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "493",
+    "word": "尻",
+    "reading": "しり",
+    "meaning": "中文：屁股 / Eng: buttocks / 韓国語: 엉덩이",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しり.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "494",
+    "word": "脇",
+    "reading": "わき",
+    "meaning": "中文：腋下 / Eng: armpit / 韓国語: 겨드랑이",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/わき.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "495",
+    "word": "足",
+    "reading": "あし",
+    "meaning": "中文：脚/足 / Eng: leg/foot / 韓国語: 다리/발",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/あし.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "496",
+    "word": "脚",
+    "reading": "きゃく",
+    "meaning": "中文：腿 / Eng: leg / 韓国語: 다리",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/きゃく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "497",
+    "word": "膝",
+    "reading": "ひざ",
+    "meaning": "中文：膝盖 / Eng: knee / 韓国語: 무릎",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひざ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "498",
+    "word": "股",
+    "reading": "また",
+    "meaning": "中文：大腿根 / Eng: groin / 韓国語: 샅",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/また.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "499",
+    "word": "足首",
+    "reading": "あしくび",
+    "meaning": "中文：脚踝 / Eng: ankle / 韓国語: 발목",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/あしくび.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "500",
+    "word": "足の甲",
+    "reading": "あしのこう",
+    "meaning": "中文：脚背 / Eng: top of foot / 韓国語: 발등",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/あしのこう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "501",
+    "word": "踵",
+    "reading": "かかと",
+    "meaning": "中文：脚后跟 / Eng: heel / 韓国語: 뒤꿈치",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かかと.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "502",
+    "word": "つま先",
+    "reading": "つまさき",
+    "meaning": "中文：脚尖 / Eng: toes/tip of foot / 韓国語: 발끝",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/つまさき.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "503",
+    "word": "素足",
+    "reading": "すあし",
+    "meaning": "中文：赤脚 / Eng: barefoot / 韓国語: 맨발",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/すあし.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "504",
+    "word": "土足",
+    "reading": "どそく",
+    "meaning": "中文：穿鞋（进门） / Eng: with shoes on / 韓国語: 신발 신은 채",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/どそく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "505",
+    "word": "裸足",
+    "reading": "はだし",
+    "meaning": "中文：光脚 / Eng: bare feet / 韓国語: 맨발",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/はだし.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "506",
+    "word": "命",
+    "reading": "いのち",
+    "meaning": "中文：生命 / Eng: life / 韓国語: 생명",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/いのち.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "507",
+    "word": "人命",
+    "reading": "じんめい",
+    "meaning": "中文：人命 / Eng: human life / 韓国語: 인명",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/じんめい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "508",
+    "word": "生命",
+    "reading": "せいめい",
+    "meaning": "中文：生命 / Eng: life / 韓国語: 생명",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せいめい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "509",
+    "word": "生存",
+    "reading": "せいぞん",
+    "meaning": "中文：生存 / Eng: existence / 韓国語: 생존",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せいぞん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "510",
+    "word": "生",
+    "reading": "せい",
+    "meaning": "中文：生命 / Eng: life (as a concept) / 韓国語: 생",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "511",
+    "word": "出生",
+    "reading": "しゅっしょう",
+    "meaning": "中文：出生 / Eng: birth / 韓国語: 출생",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しゅっしょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "512",
+    "word": "生まれる",
+    "reading": "うまれる",
+    "meaning": "中文：出生 / Eng: to be born / 韓国語: 태어나다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/うまれる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "513",
+    "word": "生かす",
+    "reading": "いかす",
+    "meaning": "中文：使活下去；活用 / Eng: to make use of; let live / 韓国語: 살리다/살려두다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/いかす.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "514",
+    "word": "生きる",
+    "reading": "いきる",
+    "meaning": "中文：活着 / Eng: to live / 韓国語: 살다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/いきる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "515",
+    "word": "誕生",
+    "reading": "たんじょう",
+    "meaning": "中文：诞生 / Eng: birth (event) / 韓国語: 탄생",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/たんじょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "516",
+    "word": "育つ",
+    "reading": "そだつ",
+    "meaning": "中文：成长 / Eng: to grow up / 韓国語: 자라다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/そだつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "517",
+    "word": "育てる",
+    "reading": "そだてる",
+    "meaning": "中文：养育 / Eng: to raise / 韓国語: 키우다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/そだてる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "518",
+    "word": "成長",
+    "reading": "せいちょう",
+    "meaning": "中文：成长 / Eng: growth / 韓国語: 성장",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せいちょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "519",
+    "word": "成熟",
+    "reading": "せいじゅく",
+    "meaning": "中文：成熟 / Eng: maturity / 韓国語: 성숙",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せいじゅく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "520",
+    "word": "老化",
+    "reading": "ろうか",
+    "meaning": "中文：老化 / Eng: aging / 韓国語: 노화",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ろうか.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "521",
+    "word": "老い",
+    "reading": "おい",
+    "meaning": "中文：衰老 / Eng: old age / 韓国語: 늙음",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "522",
+    "word": "老いる",
+    "reading": "おいる",
+    "meaning": "中文：变老 / Eng: to grow old / 韓国語: 늙다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おいる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "523",
+    "word": "老ける",
+    "reading": "ふける",
+    "meaning": "中文：显老 / Eng: to age in appearance / 韓国語: 늙어 보이다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ふける.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "524",
+    "word": "長生き",
+    "reading": "ながいき",
+    "meaning": "中文：长寿 / Eng: longevity / 韓国語: 장수",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ながいき.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "525",
+    "word": "寿命",
+    "reading": "じゅみょう",
+    "meaning": "中文：寿命 / Eng: lifespan / 韓国語: 수명",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/じゅみょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "526",
+    "word": "長寿",
+    "reading": "ちょうじゅ",
+    "meaning": "中文：长寿 / Eng: long life / 韓国語: 장수",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ちょうじゅ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "527",
+    "word": "平均寿命",
+    "reading": "へいきんじゅみょう",
+    "meaning": "中文：平均寿命 / Eng: average lifespan / 韓国語: 평균 수명",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/へいきんじゅみょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "528",
+    "word": "死",
+    "reading": "し",
+    "meaning": "中文：死亡 / Eng: death / 韓国語: 죽음",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/し.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "529",
+    "word": "死ぬ",
+    "reading": "しぬ",
+    "meaning": "中文：死 / Eng: to die / 韓国語: 죽다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しぬ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "530",
+    "word": "生死",
+    "reading": "せいし",
+    "meaning": "中文：生与死 / Eng: life and death / 韓国語: 생사",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せいし.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "531",
+    "word": "亡くなる",
+    "reading": "なくなる",
+    "meaning": "中文：去世 / Eng: to pass away / 韓国語: 돌아가시다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/なくなる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "532",
+    "word": "自殺",
+    "reading": "じさつ",
+    "meaning": "中文：自杀 / Eng: suicide / 韓国語: 자살",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/じさつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "533",
+    "word": "死去",
+    "reading": "しきょ",
+    "meaning": "中文：逝世 / Eng: death (formal) / 韓国語: 사망",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しきょ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "534",
+    "word": "死亡",
+    "reading": "しぼう",
+    "meaning": "中文：死亡 / Eng: death / 韓国語: 사망",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しぼう.mp3",
     "course": "CJ2"
   }
 ]
