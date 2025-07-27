@@ -1,6 +1,11 @@
 {
   "announcements": [
     {
+      "version": "v2.7.3",
+      "date": "2025-07-27",
+      "content": "更新了汉字的数据。"
+    },
+    {
       "version": "v2.7.2",
       "date": "2025-07-27",
       "content": "更新了收藏单词的功能。"
