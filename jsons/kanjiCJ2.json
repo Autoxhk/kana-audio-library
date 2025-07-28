@@ -1,7 +1,7 @@
 {
-  course: 'CJ2',
-  type: 'kanji',
-  lessons: [
+  "course": "CJ2",
+  "type": "kanji",
+  "lessons": [
     {
       "id": "july09",
       "title": "7月9日（1–3ページ）",
