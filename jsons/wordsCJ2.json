@@ -3569,7 +3569,7 @@
   },
   {
     "no": "447",
-    "word": "痩せる",
+    "word": "瘦せる",
     "reading": "やせる",
     "meaning": "中文：变瘦 / Eng: to lose weight / 韓国語: 살이 빠지다",
     "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/やせる.mp3",
@@ -3849,7 +3849,7 @@
   },
   {
     "no": "482",
-    "word": "お腹",
+    "word": "おなか",
     "reading": "おなか",
     "meaning": "中文：肚子 / Eng: stomach / 韓国語: 배",
     "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おなか.mp3",
@@ -4269,6 +4269,1782 @@
     "reading": "しぼう",
     "meaning": "中文：死亡 / Eng: death / 韓国語: 사망",
     "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しぼう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "535",
+    "word": "自然",
+    "reading": "しぜん",
+    "meaning": "中文：自然 / Eng: nature / 韓国語: 자연",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しぜん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "536",
+    "word": "天然",
+    "reading": "てんねん",
+    "meaning": "中文：天然 / Eng: natural / 韓国語: 천연",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/てんねん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "537",
+    "word": "人工",
+    "reading": "じんこう",
+    "meaning": "中文：人工 / Eng: artificial / 韓国語: 인공",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/じんこう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "538",
+    "word": "現象",
+    "reading": "げんしょう",
+    "meaning": "中文：现象 / Eng: phenomenon / 韓国語: 현상",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/げんしょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "539",
+    "word": "環境",
+    "reading": "かんきょう",
+    "meaning": "中文：环境 / Eng: environment / 韓国語: 환경",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かんきょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "540",
+    "word": "保護",
+    "reading": "ほご",
+    "meaning": "中文：保护 / Eng: protection / 韓国語: 보호",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ほご.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "541",
+    "word": "守る",
+    "reading": "まもる",
+    "meaning": "中文：守护 / Eng: to protect / 韓国語: 지키다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/まもる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "542",
+    "word": "防ぐ",
+    "reading": "ふせぐ",
+    "meaning": "中文：防止 / Eng: to prevent / 韓国語: 막다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ふせぐ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "543",
+    "word": "破壊",
+    "reading": "はかい",
+    "meaning": "中文：破坏 / Eng: destruction / 韓国語: 파괴",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/はかい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "544",
+    "word": "被害",
+    "reading": "ひがい",
+    "meaning": "中文：受害 / Eng: damage / 韓国語: 피해",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひがい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "545",
+    "word": "公害",
+    "reading": "こうがい",
+    "meaning": "中文：公害 / Eng: pollution / 韓国語: 공해",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/こうがい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "546",
+    "word": "汚染",
+    "reading": "おせん",
+    "meaning": "中文：污染 / Eng: contamination / 韓国語: 오염",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おせん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "547",
+    "word": "物質",
+    "reading": "ぶっしつ",
+    "meaning": "中文：物质 / Eng: substance / 韓国語: 물질",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ぶっしつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "548",
+    "word": "影響",
+    "reading": "えいきょう",
+    "meaning": "中文：影响 / Eng: influence / 韓国語: 영향",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/えいきょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "549",
+    "word": "異常",
+    "reading": "いじょう",
+    "meaning": "中文：异常 / Eng: abnormality / 韓国語: 이상",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/いじょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "550",
+    "word": "宇宙",
+    "reading": "うちゅう",
+    "meaning": "中文：宇宙 / Eng: universe / 韓国語: 우주",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/うちゅう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "551",
+    "word": "地球",
+    "reading": "ちきゅう",
+    "meaning": "中文：地球 / Eng: earth / 韓国語: 지구",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ちきゅう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "552",
+    "word": "天候",
+    "reading": "てんこう",
+    "meaning": "中文：天气 / Eng: weather / 韓国語: 날씨",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/てんこう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "553",
+    "word": "乾燥",
+    "reading": "かんそう",
+    "meaning": "中文：干燥 / Eng: dryness / 韓国語: 건조",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かんそう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "554",
+    "word": "湿度",
+    "reading": "しつど",
+    "meaning": "中文：湿度 / Eng: humidity / 韓国語: 습도",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しつど.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "555",
+    "word": "土地",
+    "reading": "とち",
+    "meaning": "中文：土地 / Eng: land / 韓国語: 토지",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/とち.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "556",
+    "word": "金属",
+    "reading": "きんぞく",
+    "meaning": "中文：金属 / Eng: metal / 韓国語: 금속",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/きんぞく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "557",
+    "word": "地震",
+    "reading": "じしん",
+    "meaning": "中文：地震 / Eng: earthquake / 韓国語: 지진",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/じしん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "558",
+    "word": "資源",
+    "reading": "しげん",
+    "meaning": "中文：资源 / Eng: resources / 韓国語: 자원",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しげん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "559",
+    "word": "オゾン層",
+    "reading": "おぞんそう",
+    "meaning": "中文：臭氧层 / Eng: ozone layer / 韓国語: 오존층",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おぞんそう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "560",
+    "word": "深刻",
+    "reading": "しんこく",
+    "meaning": "中文：严重 / Eng: serious / 韓国語: 심각",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しんこく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "561",
+    "word": "生物",
+    "reading": "せいぶつ",
+    "meaning": "中文：生物 / Eng: living things / 韓国語: 생물",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せいぶつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "562",
+    "word": "恐れる",
+    "reading": "おそれる",
+    "meaning": "中文：害怕 / Eng: to fear / 韓国語: 두려워하다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おそれる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "563",
+    "word": "北極",
+    "reading": "ほっきょく",
+    "meaning": "中文：北极 / Eng: Arctic / 韓国語: 북극",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ほっきょく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "564",
+    "word": "南極",
+    "reading": "なんきょく",
+    "meaning": "中文：南极 / Eng: Antarctic / 韓国語: 남극",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/なんきょく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "565",
+    "word": "宇宙",
+    "reading": "うちゅう",
+    "meaning": "中文：宇宙 / Eng: universe / 韓国語: 우주",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/うちゅう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "566",
+    "word": "満月",
+    "reading": "まんげつ",
+    "meaning": "中文：满月 / Eng: full moon / 韓国語: 보름달",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/まんげつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "567",
+    "word": "大陸",
+    "reading": "たいりく",
+    "meaning": "中文：大陆 / Eng: continent / 韓国語: 대륙",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/たいりく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "568",
+    "word": "陸",
+    "reading": "りく",
+    "meaning": "中文：陆地 / Eng: land / 韓国語: 육지",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/りく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "569",
+    "word": "星",
+    "reading": "ほし",
+    "meaning": "中文：星星 / Eng: star / 韓国語: 별",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ほし.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "570",
+    "word": "鉄",
+    "reading": "てつ",
+    "meaning": "中文：铁 / Eng: iron / 韓国語: 철",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/てつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "571",
+    "word": "月",
+    "reading": "つき",
+    "meaning": "中文：月亮 / Eng: moon / 韓国語: 달",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/つき.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "572",
+    "word": "地球",
+    "reading": "ちきゅう",
+    "meaning": "中文：地球 / Eng: earth / 韓国語: 지구",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ちきゅう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "573",
+    "word": "砂漠",
+    "reading": "さばく",
+    "meaning": "中文：沙漠 / Eng: desert / 韓国語: 사막",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/さばく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "574",
+    "word": "熱帯雨林",
+    "reading": "ねったいうりん",
+    "meaning": "中文：热带雨林 / Eng: rainforest / 韓国語: 열대우림",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ねったいうりん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "575",
+    "word": "宝石",
+    "reading": "ほうせき",
+    "meaning": "中文：宝石 / Eng: jewel / 韓国語: 보석",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ほうせき.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "576",
+    "word": "太陽",
+    "reading": "たいよう",
+    "meaning": "中文：太阳 / Eng: sun / 韓国語: 태양",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/たいよう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "577",
+    "word": "金",
+    "reading": "きん",
+    "meaning": "中文：金 / Eng: gold / 韓国語: 금",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/きん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "578",
+    "word": "夕日",
+    "reading": "ゆうひ",
+    "meaning": "中文：夕阳 / Eng: sunset / 韓国語: 석양",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ゆうひ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "579",
+    "word": "鉱物",
+    "reading": "こうぶつ",
+    "meaning": "中文：矿物 / Eng: mineral / 韓国語: 광물",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/こうぶつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "580",
+    "word": "日",
+    "reading": "ひ",
+    "meaning": "中文：日 / Eng: day/sun / 韓国語: 해",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "581",
+    "word": "銀",
+    "reading": "ぎん",
+    "meaning": "中文：银 / Eng: silver / 韓国語: 은",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ぎん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "582",
+    "word": "朝日",
+    "reading": "あさひ",
+    "meaning": "中文：朝阳 / Eng: morning sun / 韓国語: 아침 해",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/あさひ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "583",
+    "word": "銅",
+    "reading": "どう",
+    "meaning": "中文：铜 / Eng: copper / 韓国語: 구리",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/どう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "584",
+    "word": "金属",
+    "reading": "きんぞく",
+    "meaning": "中文：金属 / Eng: metal / 韓国語: 금속",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/きんぞく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "585",
+    "word": "大気",
+    "reading": "たいき",
+    "meaning": "中文：大气 / Eng: atmosphere / 韓国語: 대기",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/たいき.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "586",
+    "word": "気圧",
+    "reading": "きあつ",
+    "meaning": "中文：气压 / Eng: air pressure / 韓国語: 기압",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/きあつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "587",
+    "word": "気象",
+    "reading": "きしょう",
+    "meaning": "中文：气象 / Eng: weather / 韓国語: 기상",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/きしょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "588",
+    "word": "空気",
+    "reading": "くうき",
+    "meaning": "中文：空气 / Eng: air / 韓国語: 공기",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/くうき.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "589",
+    "word": "空",
+    "reading": "そら",
+    "meaning": "中文：天空 / Eng: sky / 韓国語: 하늘",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/そら.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "590",
+    "word": "天候",
+    "reading": "てんこう",
+    "meaning": "中文：天气 / Eng: weather / 韓国語: 날씨",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/てんこう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "591",
+    "word": "天気",
+    "reading": "てんき",
+    "meaning": "中文：天气 / Eng: weather / 韓国語: 날씨",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/てんき.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "592",
+    "word": "気候",
+    "reading": "きこう",
+    "meaning": "中文：气候 / Eng: climate / 韓国語: 기후",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/きこう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "593",
+    "word": "晴れ",
+    "reading": "はれ",
+    "meaning": "中文：晴天 / Eng: sunny / 韓国語: 맑음",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/はれ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "594",
+    "word": "暖かい",
+    "reading": "あたたかい",
+    "meaning": "中文：温暖 / Eng: warm / 韓国語: 따뜻하다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/あたたかい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "595",
+    "word": "晴れる",
+    "reading": "はれる",
+    "meaning": "中文：放晴 / Eng: to clear up / 韓国語: 개다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/はれる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "596",
+    "word": "暖まる",
+    "reading": "あたたまる",
+    "meaning": "中文：变暖 / Eng: to warm up / 韓国語: 따뜻해지다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/あたたまる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "597",
+    "word": "虹",
+    "reading": "にじ",
+    "meaning": "中文：彩虹 / Eng: rainbow / 韓国語: 무지개",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/にじ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "598",
+    "word": "暑い",
+    "reading": "あつい",
+    "meaning": "中文：炎热 / Eng: hot / 韓国語: 덥다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/あつい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "599",
+    "word": "乾く",
+    "reading": "かわく",
+    "meaning": "中文：干 / Eng: to dry / 韓国語: 마르다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かわく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "600",
+    "word": "曇り",
+    "reading": "くもり",
+    "meaning": "中文：多云 / Eng: cloudy / 韓国語: 흐림",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/くもり.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "601",
+    "word": "澄む",
+    "reading": "すむ",
+    "meaning": "中文：清澈 / Eng: to be clear / 韓国語: 맑다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/すむ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "602",
+    "word": "冷える",
+    "reading": "ひえる",
+    "meaning": "中文：变冷 / Eng: to get cold / 韓国語: 차가워지다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひえる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "603",
+    "word": "乾燥",
+    "reading": "かんそう",
+    "meaning": "中文：干燥 / Eng: dryness / 韓国語: 건조",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かんそう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "604",
+    "word": "涼しい",
+    "reading": "すずしい",
+    "meaning": "中文：凉快 / Eng: cool / 韓国語: 시원하다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/すずしい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "605",
+    "word": "冷たい",
+    "reading": "つめたい",
+    "meaning": "中文：冷的 / Eng: cold (to the touch) / 韓国語: 차갑다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/つめたい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "606",
+    "word": "湿気",
+    "reading": "しっけ",
+    "meaning": "中文：湿气 / Eng: humidity / 韓国語: 습기",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しっけ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "607",
+    "word": "雲",
+    "reading": "くも",
+    "meaning": "中文：云 / Eng: cloud / 韓国語: 구름",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/くも.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "608",
+    "word": "曇る",
+    "reading": "くもる",
+    "meaning": "中文：变阴 / Eng: to become cloudy / 韓国語: 흐려지다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/くもる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "609",
+    "word": "寒い",
+    "reading": "さむい",
+    "meaning": "中文：寒冷 / Eng: cold / 韓国語: 춥다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/さむい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "610",
+    "word": "湿度",
+    "reading": "しつど",
+    "meaning": "中文：湿度 / Eng: humidity / 韓国語: 습도",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しつど.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "611",
+    "word": "大雨",
+    "reading": "おおあめ",
+    "meaning": "中文：大雨 / Eng: heavy rain / 韓国語: 폭우",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おおあめ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "612",
+    "word": "凍る",
+    "reading": "こおる",
+    "meaning": "中文：结冰 / Eng: to freeze / 韓国語: 얼다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/こおる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "613",
+    "word": "降る",
+    "reading": "ふる",
+    "meaning": "中文：下（雨雪） / Eng: to fall (rain/snow) / 韓国語: 내리다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ふる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "614",
+    "word": "雨",
+    "reading": "あめ",
+    "meaning": "中文：雨 / Eng: rain / 韓国語: 비",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/あめ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "615",
+    "word": "梅雨",
+    "reading": "つゆ",
+    "meaning": "中文：梅雨季 / Eng: rainy season / 韓国語: 장마",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/つゆ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "616",
+    "word": "洪水",
+    "reading": "こうずい",
+    "meaning": "中文：洪水 / Eng: flood / 韓国語: 홍수",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/こうずい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "617",
+    "word": "台風",
+    "reading": "たいふう",
+    "meaning": "中文：台风 / Eng: typhoon / 韓国語: 태풍",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/たいふう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "618",
+    "word": "嵐",
+    "reading": "あらし",
+    "meaning": "中文：暴风 / Eng: storm / 韓国語: 폭풍",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/あらし.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "619",
+    "word": "雪",
+    "reading": "ゆき",
+    "meaning": "中文：雪 / Eng: snow / 韓国語: 눈",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ゆき.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "620",
+    "word": "氷",
+    "reading": "こおり",
+    "meaning": "中文：冰 / Eng: ice / 韓国語: 얼음",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/こおり.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "621",
+    "word": "雷",
+    "reading": "かみなり",
+    "meaning": "中文：雷 / Eng: thunder / 韓国語: 천둥",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かみなり.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "622",
+    "word": "鳴る",
+    "reading": "なる",
+    "meaning": "中文：响起 / Eng: to ring/thunder / 韓国語: 울리다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/なる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "623",
+    "word": "積もる",
+    "reading": "つもる",
+    "meaning": "中文：积 / Eng: to pile up / 韓国語: 쌓이다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/つもる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "624",
+    "word": "風",
+    "reading": "かぜ",
+    "meaning": "中文：风 / Eng: wind / 韓国語: 바람",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かぜ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "625",
+    "word": "吹く",
+    "reading": "ふく",
+    "meaning": "中文：吹 / Eng: to blow / 韓国語: 불다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ふく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "626",
+    "word": "渇く",
+    "reading": "かわく",
+    "meaning": "中文：口渴 / Eng: to be thirsty / 韓国語: 목마르다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かわく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "627",
+    "word": "輝く",
+    "reading": "かがやく",
+    "meaning": "中文：闪耀 / Eng: to shine / 韓国語: 빛나다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かがやく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "628",
+    "word": "光る",
+    "reading": "ひかる",
+    "meaning": "中文：发光 / Eng: to shine / 韓国語: 빛나다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひかる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "629",
+    "word": "日光",
+    "reading": "にっこう",
+    "meaning": "中文：阳光 / Eng: sunlight / 韓国語: 햇빛",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/にっこう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "630",
+    "word": "光線",
+    "reading": "こうせん",
+    "meaning": "中文：光线 / Eng: light ray / 韓国語: 광선",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/こうせん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "631",
+    "word": "光",
+    "reading": "ひかり",
+    "meaning": "中文：光 / Eng: light / 韓国語: 빛",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひかり.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "632",
+    "word": "差す",
+    "reading": "さす",
+    "meaning": "中文：照射 / Eng: to shine (sunlight) / 韓国語: 비추다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/さす.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "633",
+    "word": "暗い",
+    "reading": "くらい",
+    "meaning": "中文：黑暗 / Eng: dark / 韓国語: 어둡다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/くらい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "634",
+    "word": "日陰",
+    "reading": "ひかげ",
+    "meaning": "中文：阴影 / Eng: shade / 韓国語: 그늘",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひかげ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "635",
+    "word": "日差し",
+    "reading": "ひざし",
+    "meaning": "中文：阳光照射 / Eng: sunlight / 韓国語: 햇살",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひざし.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "636",
+    "word": "頂上",
+    "reading": "ちょうじょう",
+    "meaning": "中文：山顶 / Eng: summit / 韓国語: 정상",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ちょうじょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "637",
+    "word": "平野",
+    "reading": "へいや",
+    "meaning": "中文：平原 / Eng: plain / 韓国語: 평야",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/へいや.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "638",
+    "word": "陰",
+    "reading": "かげ",
+    "meaning": "中文：阴影 / Eng: shadow / 韓国語: 그림자",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かげ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "639",
+    "word": "照る",
+    "reading": "てる",
+    "meaning": "中文：照耀 / Eng: to shine / 韓国語: 비추다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/てる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "640",
+    "word": "高原",
+    "reading": "こうげん",
+    "meaning": "中文：高原 / Eng: plateau / 韓国語: 고원",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/こうげん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "641",
+    "word": "石油",
+    "reading": "せきゆ",
+    "meaning": "中文：石油 / Eng: oil / 韓国語: 석유",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せきゆ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "642",
+    "word": "影",
+    "reading": "かげ",
+    "meaning": "中文：影子 / Eng: shadow / 韓国語: 그림자",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かげ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "643",
+    "word": "坂",
+    "reading": "さか",
+    "meaning": "中文：坡道 / Eng: slope / 韓国語: 언덕",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/さか.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "644",
+    "word": "資源",
+    "reading": "しげん",
+    "meaning": "中文：资源 / Eng: resources / 韓国語: 자원",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しげん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "645",
+    "word": "火",
+    "reading": "ひ",
+    "meaning": "中文：火 / Eng: fire / 韓国語: 불",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "646",
+    "word": "石炭",
+    "reading": "せきたん",
+    "meaning": "中文：煤炭 / Eng: coal / 韓国語: 석탄",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せきたん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "647",
+    "word": "熱",
+    "reading": "ねつ",
+    "meaning": "中文：热 / Eng: heat / 韓国語: 열",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ねつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "648",
+    "word": "明るい",
+    "reading": "あかるい",
+    "meaning": "中文：明亮 / Eng: bright / 韓国語: 밝다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/あかるい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "649",
+    "word": "丘",
+    "reading": "おか",
+    "meaning": "中文：小山丘 / Eng: hill / 韓国語: 언덕",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おか.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "650",
+    "word": "地下",
+    "reading": "ちか",
+    "meaning": "中文：地下 / Eng: underground / 韓国語: 지하",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ちか.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "651",
+    "word": "煙",
+    "reading": "けむり",
+    "meaning": "中文：烟 / Eng: smoke / 韓国語: 연기",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/けむり.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "652",
+    "word": "岩",
+    "reading": "いわ",
+    "meaning": "中文：岩石 / Eng: rock / 韓国語: 바위",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/いわ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "653",
+    "word": "焼ける",
+    "reading": "やける",
+    "meaning": "中文：燃烧 / Eng: to burn / 韓国語: 타다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/やける.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "654",
+    "word": "火災",
+    "reading": "かさい",
+    "meaning": "中文：火灾 / Eng: fire (disaster) / 韓国語: 화재",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かさい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "655",
+    "word": "土地",
+    "reading": "とち",
+    "meaning": "中文：土地 / Eng: land / 韓国語: 토지",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/とち.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "656",
+    "word": "燃える",
+    "reading": "もえる",
+    "meaning": "中文：燃烧 / Eng: to burn / 韓国語: 타다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/もえる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "657",
+    "word": "熱い",
+    "reading": "あつい",
+    "meaning": "中文：热的 / Eng: hot / 韓国語: 뜨겁다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/あつい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "658",
+    "word": "爆発",
+    "reading": "ばくはつ",
+    "meaning": "中文：爆炸 / Eng: explosion / 韓国語: 폭발",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ばくはつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "659",
+    "word": "山",
+    "reading": "やま",
+    "meaning": "中文：山 / Eng: mountain / 韓国語: 산",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/やま.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "660",
+    "word": "石",
+    "reading": "いし",
+    "meaning": "中文：石头 / Eng: stone / 韓国語: 돌",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/いし.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "661",
+    "word": "噴火",
+    "reading": "ふんか",
+    "meaning": "中文：喷火 / Eng: eruption / 韓国語: 분화",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ふんか.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "662",
+    "word": "土",
+    "reading": "つち",
+    "meaning": "中文：土壤 / Eng: soil / 韓国語: 흙",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/つち.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "663",
+    "word": "火山",
+    "reading": "かざん",
+    "meaning": "中文：火山 / Eng: volcano / 韓国語: 화산",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かざん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "664",
+    "word": "守る",
+    "reading": "まもる",
+    "meaning": "中文：守护 / Eng: to protect / 韓国語: 지키다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/まもる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "665",
+    "word": "保護",
+    "reading": "ほご",
+    "meaning": "中文：保护 / Eng: protection / 韓国語: 보호",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ほご.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "666",
+    "word": "美しい",
+    "reading": "うつくしい",
+    "meaning": "中文：美丽 / Eng: beautiful / 韓国語: 아름답다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/うつくしい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "667",
+    "word": "環境",
+    "reading": "かんきょう",
+    "meaning": "中文：环境 / Eng: environment / 韓国語: 환경",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かんきょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "668",
+    "word": "自然",
+    "reading": "しぜん",
+    "meaning": "中文：自然 / Eng: nature / 韓国語: 자연",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しぜん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "669",
+    "word": "深刻",
+    "reading": "しんこく",
+    "meaning": "中文：严重 / Eng: serious / 韓国語: 심각",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しんこく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "670",
+    "word": "破壊",
+    "reading": "はかい",
+    "meaning": "中文：破坏 / Eng: destruction / 韓国語: 파괴",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/はかい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "671",
+    "word": "天然",
+    "reading": "てんねん",
+    "meaning": "中文：天然 / Eng: natural / 韓国語: 천연",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/てんねん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "672",
+    "word": "森",
+    "reading": "もり",
+    "meaning": "中文：森林 / Eng: forest / 韓国語: 숲",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/もり.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "673",
+    "word": "川",
+    "reading": "かわ",
+    "meaning": "中文：河流 / Eng: river / 韓国語: 강",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かわ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "674",
+    "word": "開発",
+    "reading": "かいはつ",
+    "meaning": "中文：开发 / Eng: development / 韓国語: 개발",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かいはつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "675",
+    "word": "綺麗",
+    "reading": "きれい",
+    "meaning": "中文：漂亮/干净 / Eng: beautiful/clean / 韓国語: 예쁘다/깨끗하다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/きれい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "676",
+    "word": "森林",
+    "reading": "しんりん",
+    "meaning": "中文：森林 / Eng: forest / 韓国語: 삼림",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しんりん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "677",
+    "word": "湖",
+    "reading": "みずうみ",
+    "meaning": "中文：湖 / Eng: lake / 韓国語: 호수",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/みずうみ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "678",
+    "word": "水",
+    "reading": "みず",
+    "meaning": "中文：水 / Eng: water / 韓国語: 물",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/みず.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "679",
+    "word": "科学",
+    "reading": "かがく",
+    "meaning": "中文：科学 / Eng: science / 韓国語: 과학",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かがく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "680",
+    "word": "静か",
+    "reading": "しずか",
+    "meaning": "中文：安静 / Eng: quiet / 韓国語: 조용하다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しずか.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "681",
+    "word": "緑",
+    "reading": "みどり",
+    "meaning": "中文：绿色 / Eng: greenery / 韓国語: 초록",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/みどり.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "682",
+    "word": "霧",
+    "reading": "きり",
+    "meaning": "中文：雾 / Eng: fog / 韓国語: 안개",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/きり.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "683",
+    "word": "地震",
+    "reading": "じしん",
+    "meaning": "中文：地震 / Eng: earthquake / 韓国語: 지진",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/じしん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "684",
+    "word": "林",
+    "reading": "はやし",
+    "meaning": "中文：树林 / Eng: grove / 韓国語: 수풀",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/はやし.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "685",
+    "word": "池",
+    "reading": "いけ",
+    "meaning": "中文：池塘 / Eng: pond / 韓国語: 연못",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/いけ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "686",
+    "word": "電気",
+    "reading": "でんき",
+    "meaning": "中文：电 / Eng: electricity / 韓国語: 전기",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/でんき.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "687",
+    "word": "木",
+    "reading": "き",
+    "meaning": "中文：树 / Eng: tree / 韓国語: 나무",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/き.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "688",
+    "word": "泉",
+    "reading": "いずみ",
+    "meaning": "中文：泉水 / Eng: spring / 韓国語: 샘",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/いずみ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "689",
+    "word": "谷",
+    "reading": "たに",
+    "meaning": "中文：山谷 / Eng: valley / 韓国語: 골짜기",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/たに.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "690",
+    "word": "温泉",
+    "reading": "おんせん",
+    "meaning": "中文：温泉 / Eng: hot spring / 韓国語: 온천",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おんせん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "691",
+    "word": "現象",
+    "reading": "げんしょう",
+    "meaning": "中文：现象 / Eng: phenomenon / 韓国語: 현상",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/げんしょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "692",
+    "word": "滝",
+    "reading": "たき",
+    "meaning": "中文：瀑布 / Eng: waterfall / 韓国語: 폭포",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/たき.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "693",
+    "word": "岸",
+    "reading": "きし",
+    "meaning": "中文：岸边 / Eng: shore / 韓国語: 물가",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/きし.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "694",
+    "word": "海",
+    "reading": "うみ",
+    "meaning": "中文：海洋 / Eng: sea / 韓国語: 바다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/うみ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "695",
+    "word": "波",
+    "reading": "なみ",
+    "meaning": "中文：波浪 / Eng: wave / 韓国語: 파도",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/なみ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "696",
+    "word": "津波",
+    "reading": "つなみ",
+    "meaning": "中文：海啸 / Eng: tsunami / 韓国語: 쓰나미",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/つなみ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "697",
+    "word": "荒れる",
+    "reading": "あれる",
+    "meaning": "中文：狂暴 / Eng: to be stormy / 韓国語: 거칠어지다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/あれる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "698",
+    "word": "海岸",
+    "reading": "かいがん",
+    "meaning": "中文：海岸 / Eng: coast / 韓国語: 해안",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かいがん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "699",
+    "word": "湾",
+    "reading": "わん",
+    "meaning": "中文：海湾 / Eng: bay / 韓国語: 만",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/わん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "700",
+    "word": "半島",
+    "reading": "はんとう",
+    "meaning": "中文：半岛 / Eng: peninsula / 韓国語: 반도",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/はんとう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "701",
+    "word": "列島",
+    "reading": "れっとう",
+    "meaning": "中文：列岛 / Eng: archipelago / 韓国語: 열도",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/れっとう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "702",
+    "word": "岬",
+    "reading": "みさき",
+    "meaning": "中文：海角 / Eng: cape / 韓国語: 곶",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/みさき.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "703",
+    "word": "島",
+    "reading": "しま",
+    "meaning": "中文：岛 / Eng: island / 韓国語: 섬",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しま.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "704",
+    "word": "沖",
+    "reading": "おき",
+    "meaning": "中文：外海 / Eng: open sea / 韓国語: 앞바다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おき.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "705",
+    "word": "海洋",
+    "reading": "かいよう",
+    "meaning": "中文：海洋 / Eng: ocean / 韓国語: 해양",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かいよう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "706",
+    "word": "温暖化",
+    "reading": "おんだんか",
+    "meaning": "中文：全球变暖 / Eng: global warming / 韓国語: 온난화",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おんだんか.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "707",
+    "word": "人工",
+    "reading": "じんこう",
+    "meaning": "中文：人工 / Eng: artificial / 韓国語: 인공",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/じんこう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "708",
+    "word": "オゾン層",
+    "reading": "おぞんそう",
+    "meaning": "中文：臭氧层 / Eng: ozone layer / 韓国語: 오존층",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おぞんそう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "709",
+    "word": "化学",
+    "reading": "かがく",
+    "meaning": "中文：化学 / Eng: chemistry / 韓国語: 화학",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かがく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "710",
+    "word": "物質",
+    "reading": "ぶっしつ",
+    "meaning": "中文：物质 / Eng: substance / 韓国語: 물질",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ぶっしつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "711",
+    "word": "有害",
+    "reading": "ゆうがい",
+    "meaning": "中文：有害 / Eng: harmful / 韓国語: 유해",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ゆうがい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "712",
+    "word": "酸性雨",
+    "reading": "さんせいう",
+    "meaning": "中文：酸雨 / Eng: acid rain / 韓国語: 산성비",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/さんせいう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "713",
+    "word": "公害",
+    "reading": "こうがい",
+    "meaning": "中文：公害 / Eng: pollution / 韓国語: 공해",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/こうがい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "714",
+    "word": "防ぐ",
+    "reading": "ふせぐ",
+    "meaning": "中文：防止 / Eng: to prevent / 韓国語: 막다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ふせぐ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "715",
+    "word": "汚す",
+    "reading": "よごす",
+    "meaning": "中文：弄脏 / Eng: to pollute / 韓国語: 더럽히다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/よごす.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "716",
+    "word": "濁る",
+    "reading": "にごる",
+    "meaning": "中文：浑浊 / Eng: to become muddy / 韓国語: 탁해지다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/にごる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "717",
+    "word": "汚い",
+    "reading": "きたない",
+    "meaning": "中文：脏的 / Eng: dirty / 韓国語: 더럽다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/きたない.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "718",
+    "word": "二酸化炭素",
+    "reading": "にさんかたんそ",
+    "meaning": "中文：二氧化碳 / Eng: carbon dioxide / 韓国語: 이산화탄소",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/にさんかたんそ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "719",
+    "word": "工場",
+    "reading": "こうじょう",
+    "meaning": "中文：工厂 / Eng: factory / 韓国語: 공장",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/こうじょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "720",
+    "word": "汚染",
+    "reading": "おせん",
+    "meaning": "中文：污染 / Eng: pollution / 韓国語: 오염",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おせん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "721",
+    "word": "汚れる",
+    "reading": "よごれる",
+    "meaning": "中文：变脏 / Eng: to get dirty / 韓国語: 더러워지다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/よごれる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "722",
+    "word": "廃棄物",
+    "reading": "はいきぶつ",
+    "meaning": "中文：废弃物 / Eng: waste / 韓国語: 폐기물",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/はいきぶつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "723",
+    "word": "被害",
+    "reading": "ひがい",
+    "meaning": "中文：受害 / Eng: damage / 韓国語: 피해",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひがい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "724",
+    "word": "怖い",
+    "reading": "こわい",
+    "meaning": "中文：可怕 / Eng: scary / 韓国語: 무섭다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/こわい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "725",
+    "word": "恐れる",
+    "reading": "おそれる",
+    "meaning": "中文：害怕 / Eng: to fear / 韓国語: 두려워하다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おそれる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "726",
+    "word": "排気ガス",
+    "reading": "はいきがす",
+    "meaning": "中文：废气 / Eng: exhaust gas / 韓国語: 배기가스",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/はいきがす.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "727",
+    "word": "異常",
+    "reading": "いじょう",
+    "meaning": "中文：异常 / Eng: abnormal / 韓国語: 이상",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/いじょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "728",
+    "word": "影響",
+    "reading": "えいきょう",
+    "meaning": "中文：影响 / Eng: influence / 韓国語: 영향",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/えいきょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "729",
+    "word": "恐ろしい",
+    "reading": "おそろしい",
+    "meaning": "中文：恐怖的 / Eng: terrifying / 韓国語: 무섭다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おそろしい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "730",
+    "word": "生命",
+    "reading": "せいめい",
+    "meaning": "中文：生命 / Eng: life / 韓国語: 생명",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せいめい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "731",
+    "word": "病気",
+    "reading": "びょうき",
+    "meaning": "中文：疾病 / Eng: illness / 韓国語: 병",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/びょうき.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "732",
+    "word": "死",
+    "reading": "し",
+    "meaning": "中文：死亡 / Eng: death / 韓国語: 죽음",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/し.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "733",
+    "word": "動物",
+    "reading": "どうぶつ",
+    "meaning": "中文：动物 / Eng: animal / 韓国語: 동물",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/どうぶつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "734",
+    "word": "生き物",
+    "reading": "いきもの",
+    "meaning": "中文：生物 / Eng: living thing / 韓国語: 생물",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/いきもの.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "735",
+    "word": "植物",
+    "reading": "しょくぶつ",
+    "meaning": "中文：植物 / Eng: plant / 韓国語: 식물",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しょくぶつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "736",
+    "word": "植える",
+    "reading": "うえる",
+    "meaning": "中文：种植 / Eng: to plant / 韓国語: 심다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/うえる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "737",
+    "word": "命",
+    "reading": "いのち",
+    "meaning": "中文：生命 / Eng: life (spiritual) / 韓国語: 생명",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/いのち.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "738",
+    "word": "昆虫",
+    "reading": "こんちゅう",
+    "meaning": "中文：昆虫 / Eng: insect / 韓国語: 곤충",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/こんちゅう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "739",
+    "word": "枯れる",
+    "reading": "かれる",
+    "meaning": "中文：枯萎 / Eng: to wither / 韓国語: 시들다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かれる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "740",
+    "word": "虫",
+    "reading": "むし",
+    "meaning": "中文：虫子 / Eng: bug / 韓国語: 벌레",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/むし.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "741",
+    "word": "生える",
+    "reading": "はえる",
+    "meaning": "中文：生长 / Eng: to grow / 韓国語: 자라다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/はえる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "742",
+    "word": "生物",
+    "reading": "せいぶつ",
+    "meaning": "中文：生物 / Eng: organism / 韓国語: 생물",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せいぶつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "743",
+    "word": "鳥",
+    "reading": "とり",
+    "meaning": "中文：鸟 / Eng: bird / 韓国語: 새",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/とり.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "744",
+    "word": "貝",
+    "reading": "かい",
+    "meaning": "中文：贝类 / Eng: shellfish / 韓国語: 조개",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "745",
+    "word": "果実",
+    "reading": "かじつ",
+    "meaning": "中文：果实 / Eng: fruit (botanical) / 韓国語: 과실",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かじつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "746",
+    "word": "人間",
+    "reading": "にんげん",
+    "meaning": "中文：人类 / Eng: human being / 韓国語: 인간",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/にんげん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "747",
+    "word": "花",
+    "reading": "はな",
+    "meaning": "中文：花 / Eng: flower / 韓国語: 꽃",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/はな.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "748",
+    "word": "果物",
+    "reading": "くだもの",
+    "meaning": "中文：水果 / Eng: fruit / 韓国語: 과일",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/くだもの.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "749",
+    "word": "実",
+    "reading": "み",
+    "meaning": "中文：果实 / Eng: fruit/nut / 韓国語: 열매",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/み.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "750",
+    "word": "神",
+    "reading": "かみ",
+    "meaning": "中文：神 / Eng: god / 韓国語: 신",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かみ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "751",
+    "word": "魚",
+    "reading": "さかな",
+    "meaning": "中文：鱼 / Eng: fish / 韓国語: 물고기",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/さかな.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "752",
+    "word": "種",
+    "reading": "たね",
+    "meaning": "中文：种子/种类 / Eng: seed/species / 韓国語: 씨앗/종",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/たね.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "753",
+    "word": "根",
+    "reading": "ね",
+    "meaning": "中文：根 / Eng: root / 韓国語: 뿌리",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ね.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "754",
+    "word": "人類",
+    "reading": "じんるい",
+    "meaning": "中文：人类 / Eng: mankind / 韓国語: 인류",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/じんるい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "755",
+    "word": "草",
+    "reading": "くさ",
+    "meaning": "中文：草 / Eng: grass / 韓国語: 풀",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/くさ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "756",
+    "word": "葉",
+    "reading": "は",
+    "meaning": "中文：叶子 / Eng: leaf / 韓国語: 잎",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/は.mp3",
     "course": "CJ2"
   }
 ]
