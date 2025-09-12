@@ -6793,6 +6793,358 @@
   },
   {
     "no": "850",
+    "word": "手続き",
+    "reading": "てつづき",
+    "meaning": "中文：手续 / Eng: procedure / 韓国語: 절차",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/てつづき.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "851",
+    "word": "在留資格",
+    "reading": "ざいりゅうしかく",
+    "meaning": "中文：在留资格 / Eng: residence status / 韓国語: 체류 자격",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ざいりゅうしかく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "852",
+    "word": "外国人登録",
+    "reading": "がいこくじんとうろく",
+    "meaning": "中文：外国人登记 / Eng: alien registration / 韓国語: 외국인 등록",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/がいこくじんとうろく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "853",
+    "word": "氏名",
+    "reading": "しめい",
+    "meaning": "中文：姓名 / Eng: full name / 韓国語: 성명",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しめい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "854",
+    "word": "住所",
+    "reading": "じゅうしょ",
+    "meaning": "中文：住所 / Eng: address / 韓国語: 주소",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/じゅうしょ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "855",
+    "word": "国籍",
+    "reading": "こくせき",
+    "meaning": "中文：国籍 / Eng: nationality / 韓国語: 국적",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/こくせき.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "856",
+    "word": "運転免許証",
+    "reading": "うんてんめんきょしょう",
+    "meaning": "中文：驾驶证 / Eng: driver's license / 韓国語: 운전면허증",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/うんてんめんきょしょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "857",
+    "word": "身分証明書",
+    "reading": "みぶんしょうめいしょ",
+    "meaning": "中文：身份证 / Eng: ID card / 韓国語: 신분증",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/みぶんしょうめいしょ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "858",
+    "word": "再入国許可",
+    "reading": "さいにゅうこくきょか",
+    "meaning": "中文：再入境许可 / Eng: re-entry permit / 韓国語: 재입국 허가",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/さいにゅうこくきょか.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "859",
+    "word": "生年月日",
+    "reading": "せいねんがっぴ",
+    "meaning": "中文：出生日期 / Eng: date of birth / 韓国語: 생년월일",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せいねんがっぴ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "860",
+    "word": "年齢",
+    "reading": "ねんれい",
+    "meaning": "中文：年龄 / Eng: age / 韓国語: 나이",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ねんれい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "861",
+    "word": "記入",
+    "reading": "きにゅう",
+    "meaning": "中文：填写 / Eng: filling in / 韓国語: 기입",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/きにゅう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "862",
+    "word": "更新",
+    "reading": "こうしん",
+    "meaning": "中文：更新 / Eng: renewal / update / 韓国語: 갱신",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/こうしん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "863",
+    "word": "写真",
+    "reading": "しゃしん",
+    "meaning": "中文：照片 / Eng: photo / 韓国語: 사진",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しゃしん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "864",
+    "word": "申請",
+    "reading": "しんせい",
+    "meaning": "中文：申请 / Eng: application / 韓国語: 신청",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しんせい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "865",
+    "word": "登録",
+    "reading": "とうろく",
+    "meaning": "中文：登记 / Eng: registration / 韓国語: 등록",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/とうろく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "866",
+    "word": "事項",
+    "reading": "じこう",
+    "meaning": "中文：事项 / Eng: matter / item / 韓国語: 사항",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/じこう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "867",
+    "word": "資格",
+    "reading": "しかく",
+    "meaning": "中文：资格 / Eng: qualification / 韓国語: 자격",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しかく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "868",
+    "word": "請求",
+    "reading": "せいきゅう",
+    "meaning": "中文：请求/索取 / Eng: claim / request / 韓国語: 청구",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せいきゅう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "869",
+    "word": "印鑑",
+    "reading": "いんかん",
+    "meaning": "中文：印章 / Eng: seal (personal stamp) / 韓国語: 인감",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/いんかん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "870",
+    "word": "交付",
+    "reading": "こうふ",
+    "meaning": "中文：交付 / Eng: issuance / 韓国語: 교부",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/こうふ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "871",
+    "word": "変更",
+    "reading": "へんこう",
+    "meaning": "中文：变更 / Eng: change / 韓国語: 변경",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/へんこう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "872",
+    "word": "期限",
+    "reading": "きげん",
+    "meaning": "中文：期限 / Eng: deadline / time limit / 韓国語: 기한",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/きげん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "873",
+    "word": "確認",
+    "reading": "かくにん",
+    "meaning": "中文：确认 / Eng: confirmation / 韓国語: 확인",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かくにん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "874",
+    "word": "通知",
+    "reading": "つうち",
+    "meaning": "中文：通知 / Eng: notification / 韓国語: 통지",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/つうち.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "875",
+    "word": "支給",
+    "reading": "しきゅう",
+    "meaning": "中文：支付/供给 / Eng: supply / provision / 韓国語: 지급",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しきゅう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "876",
+    "word": "手数料",
+    "reading": "てすうりょう",
+    "meaning": "中文：手续费 / Eng: handling fee / 韓国語: 수수료",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/てすうりょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "877",
+    "word": "消防署",
+    "reading": "しょうぼうしょ",
+    "meaning": "中文：消防局 / Eng: fire station / 韓国語: 소방서",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しょうぼうしょ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "878",
+    "word": "届け出る",
+    "reading": "とどけでる",
+    "meaning": "中文：申报/报告 / Eng: to report / notify / 韓国語: 신고하다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/とどけでる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "879",
+    "word": "届け",
+    "reading": "とどけ",
+    "meaning": "中文：报告/申请 / Eng: report / notification / 韓国語: 신고",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/とどけ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "880",
+    "word": "火事",
+    "reading": "かじ",
+    "meaning": "中文：火灾 / Eng: fire / 韓国語: 화재",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かじ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "881",
+    "word": "消防車",
+    "reading": "しょうぼうしゃ",
+    "meaning": "中文：消防车 / Eng: fire truck / 韓国語: 소방차",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しょうぼうしゃ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "882",
+    "word": "火災",
+    "reading": "かさい",
+    "meaning": "中文：火灾 / Eng: conflagration / fire / 韓国語: 화재",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かさい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "883",
+    "word": "救急車",
+    "reading": "きゅうきゅうしゃ",
+    "meaning": "中文：救护车 / Eng: ambulance / 韓国語: 구급차",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/きゅうきゅうしゃ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "884",
+    "word": "被害",
+    "reading": "ひがい",
+    "meaning": "中文：损害/受害 / Eng: damage / 韓国語: 피해",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひがい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "885",
+    "word": "事故",
+    "reading": "じこ",
+    "meaning": "中文：事故 / Eng: accident / 韓国語: 사고",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/じこ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "886",
+    "word": "緊急",
+    "reading": "きんきゅう",
+    "meaning": "中文：紧急 / Eng: emergency / 韓国語: 긴급",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/きんきゅう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "887",
+    "word": "防災",
+    "reading": "ぼうさい",
+    "meaning": "中文：防灾 / Eng: disaster prevention / 韓国語: 방재",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ぼうさい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "888",
+    "word": "警察",
+    "reading": "けいさつ",
+    "meaning": "中文：警察 / Eng: police / 韓国語: 경찰",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/けいさつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "889",
+    "word": "事件",
+    "reading": "じけん",
+    "meaning": "中文：事件 / Eng: incident / case / 韓国語: 사건",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/じけん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "890",
+    "word": "避難",
+    "reading": "ひなん",
+    "meaning": "中文：避难 / Eng: evacuation / refuge / 韓国語: 피난",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひなん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "891",
+    "word": "119番",
+    "reading": "ひゃくじゅうきゅうばん",
+    "meaning": "中文：119火警电话 / Eng: 119 (fire emergency number) / 韓国語: 119",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひゃくじゅうきゅうばん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "892",
+    "word": "110番",
+    "reading": "ひゃくとうばん",
+    "meaning": "中文：110报警电话 / Eng: 110 (police emergency number) / 韓国語: 110",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひゃくとうばん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "893",
+    "word": "訓練",
+    "reading": "くんれん",
+    "meaning": "中文：训练 / Eng: training / drill / 韓国語: 훈련",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/くんれん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "894",
     "word": "炭水化物",
     "reading": "たんすいかぶつ",
     "meaning": "中文：碳水化合物 / Eng: carbohydrate / 韓国語: 탄수화물",
@@ -6800,7 +7152,7 @@
     "course": "CJ2"
   },
   {
-    "no": "851",
+    "no": "895",
     "word": "蛋白質",
     "reading": "たんぱくしつ",
     "meaning": "中文：蛋白质 / Eng: protein / 韓国語: 단백질",
@@ -6808,7 +7160,7 @@
     "course": "CJ2"
   },
   {
-    "no": "852",
+    "no": "896",
     "word": "栄養",
     "reading": "えいよう",
     "meaning": "中文：营养 / Eng: nutrition / 韓国語: 영양",
@@ -6816,7 +7168,7 @@
     "course": "CJ2"
   },
   {
-    "no": "853",
+    "no": "897",
     "word": "脂肪",
     "reading": "しぼう",
     "meaning": "中文：脂肪 / Eng: fat / 韓国語: 지방",
@@ -6824,7 +7176,7 @@
     "course": "CJ2"
   },
   {
-    "no": "854",
+    "no": "898",
     "word": "油・脂",
     "reading": "あぶら",
     "meaning": "中文：油 / Eng: oil/fat / 韓国語: 기름",
@@ -6832,7 +7184,7 @@
     "course": "CJ2"
   },
   {
-    "no": "855",
+    "no": "899",
     "word": "加工品",
     "reading": "かこうひん",
     "meaning": "中文：加工品 / Eng: processed food / 韓国語: 가공품",
@@ -6840,7 +7192,7 @@
     "course": "CJ2"
   },
   {
-    "no": "856",
+    "no": "900",
     "word": "缶詰",
     "reading": "かんづめ",
     "meaning": "中文：罐头 / Eng: canned food / 韓国語: 통조림",
@@ -6848,7 +7200,7 @@
     "course": "CJ2"
   },
   {
-    "no": "857",
+    "no": "901",
     "word": "インスタント食品",
     "reading": "いんすたんとしょくひん",
     "meaning": "中文：方便食品 / Eng: instant food / 韓国語: 인스턴트 식품",
@@ -6856,7 +7208,7 @@
     "course": "CJ2"
   },
   {
-    "no": "858",
+    "no": "902",
     "word": "冷蔵庫",
     "reading": "れいぞうこ",
     "meaning": "中文：冰箱 / Eng: refrigerator / 韓国語: 냉장고",
@@ -6864,7 +7216,7 @@
     "course": "CJ2"
   },
   {
-    "no": "859",
+    "no": "903",
     "word": "電子レンジ",
     "reading": "でんしれんじ",
     "meaning": "中文：微波炉 / Eng: microwave / 韓国語: 전자레인지",
@@ -6872,7 +7224,7 @@
     "course": "CJ2"
   },
   {
-    "no": "860",
+    "no": "904",
     "word": "炊飯器",
     "reading": "すいはんき",
     "meaning": "中文：电饭煲 / Eng: rice cooker / 韓国語: 밥솥",
@@ -6880,7 +7232,7 @@
     "course": "CJ2"
   },
   {
-    "no": "861",
+    "no": "905",
     "word": "温める",
     "reading": "あたためる",
     "meaning": "中文：加热 / Eng: to warm / 韓国語: 데우다",
@@ -6888,7 +7240,7 @@
     "course": "CJ2"
   },
   {
-    "no": "862",
+    "no": "906",
     "word": "温かい",
     "reading": "あたたかい",
     "meaning": "中文：温暖 / Eng: warm / 韓国語: 따뜻하다",
@@ -6896,7 +7248,7 @@
     "course": "CJ2"
   },
   {
-    "no": "863",
+    "no": "907",
     "word": "冷たい",
     "reading": "つめたい",
     "meaning": "中文：冰冷 / Eng: cold / 韓国語: 차갑다",
@@ -6904,7 +7256,7 @@
     "course": "CJ2"
   },
   {
-    "no": "864",
+    "no": "908",
     "word": "冷ます",
     "reading": "さます",
     "meaning": "中文：冷却 / Eng: to cool / 韓国語: 식히다",
@@ -6912,7 +7264,7 @@
     "course": "CJ2"
   },
   {
-    "no": "865",
+    "no": "909",
     "word": "冷やす",
     "reading": "ひやす",
     "meaning": "中文：冷藏/冰镇 / Eng: to chill / 韓国語: 차게 하다",
@@ -6920,7 +7272,7 @@
     "course": "CJ2"
   },
   {
-    "no": "866",
+    "no": "910",
     "word": "冷蔵",
     "reading": "れいぞう",
     "meaning": "中文：冷藏 / Eng: refrigeration / 韓国語: 냉장",
@@ -6928,7 +7280,7 @@
     "course": "CJ2"
   },
   {
-    "no": "867",
+    "no": "911",
     "word": "凍る",
     "reading": "こおる",
     "meaning": "中文：结冰 / Eng: to freeze / 韓国語: 얼다",
@@ -6936,7 +7288,7 @@
     "course": "CJ2"
   },
   {
-    "no": "868",
+    "no": "912",
     "word": "炊事",
     "reading": "すいじ",
     "meaning": "中文：炊事 / Eng: cooking / 韓国語: 취사",
@@ -6944,7 +7296,7 @@
     "course": "CJ2"
   },
   {
-    "no": "869",
+    "no": "913",
     "word": "調理",
     "reading": "ちょうり",
     "meaning": "中文：烹饪 / Eng: cooking/preparation / 韓国語: 조리",
@@ -6952,7 +7304,7 @@
     "course": "CJ2"
   },
   {
-    "no": "870",
+    "no": "914",
     "word": "溶かす",
     "reading": "とかす",
     "meaning": "中文：融化 / Eng: to melt (something) / 韓国語: 녹이다",
@@ -6960,7 +7312,7 @@
     "course": "CJ2"
   },
   {
-    "no": "871",
+    "no": "915",
     "word": "溶ける",
     "reading": "とける",
     "meaning": "中文：融化 / Eng: to melt (itself) / 韓国語: 녹다",
@@ -6968,7 +7320,7 @@
     "course": "CJ2"
   },
   {
-    "no": "872",
+    "no": "916",
     "word": "蒸気",
     "reading": "じょうき",
     "meaning": "中文：蒸汽 / Eng: steam / 韓国語: 증기",
@@ -6976,7 +7328,7 @@
     "course": "CJ2"
   },
   {
-    "no": "873",
+    "no": "917",
     "word": "蒸す",
     "reading": "むす",
     "meaning": "中文：蒸 / Eng: to steam / 韓国語: 찌다",
@@ -6984,7 +7336,7 @@
     "course": "CJ2"
   },
   {
-    "no": "874",
+    "no": "918",
     "word": "氷",
     "reading": "こおり",
     "meaning": "中文：冰 / Eng: ice / 韓国語: 얼음",
@@ -6992,7 +7344,7 @@
     "course": "CJ2"
   },
   {
-    "no": "875",
+    "no": "919",
     "word": "冷凍",
     "reading": "れいとう",
     "meaning": "中文：冷冻 / Eng: freezing / 韓国語: 냉동",
@@ -7000,7 +7352,7 @@
     "course": "CJ2"
   },
   {
-    "no": "876",
+    "no": "920",
     "word": "刻む",
     "reading": "きざむ",
     "meaning": "中文：切碎 / Eng: to chop / 韓国語: 썰다",
@@ -7008,7 +7360,7 @@
     "course": "CJ2"
   },
   {
-    "no": "877",
+    "no": "921",
     "word": "切る",
     "reading": "きる",
     "meaning": "中文：切 / Eng: to cut / 韓国語: 자르다",
@@ -7016,7 +7368,7 @@
     "course": "CJ2"
   },
   {
-    "no": "878",
+    "no": "922",
     "word": "炒める",
     "reading": "いためる",
     "meaning": "中文：炒 / Eng: to stir-fry / 韓国語: 볶다",
@@ -7024,7 +7376,7 @@
     "course": "CJ2"
   },
   {
-    "no": "879",
+    "no": "923",
     "word": "炊く",
     "reading": "たく",
     "meaning": "中文：煮饭 / Eng: to cook (rice) / 韓国語: 밥을 짓다",
@@ -7032,7 +7384,7 @@
     "course": "CJ2"
   },
   {
-    "no": "880",
+    "no": "924",
     "word": "焼く",
     "reading": "やく",
     "meaning": "中文：烤/烧 / Eng: to grill/bake / 韓国語: 굽다",
@@ -7040,7 +7392,7 @@
     "course": "CJ2"
   },
   {
-    "no": "881",
+    "no": "925",
     "word": "加熱",
     "reading": "かねつ",
     "meaning": "中文：加热 / Eng: heating / 韓国語: 가열",
@@ -7048,7 +7400,7 @@
     "course": "CJ2"
   },
   {
-    "no": "882",
+    "no": "926",
     "word": "強火",
     "reading": "つよび",
     "meaning": "中文：大火 / Eng: high heat / 韓国語: 센 불",
@@ -7056,7 +7408,7 @@
     "course": "CJ2"
   },
   {
-    "no": "883",
+    "no": "927",
     "word": "焦げる",
     "reading": "こげる",
     "meaning": "中文：烧焦 / Eng: to burn / 韓国語: 타다",
@@ -7064,7 +7416,7 @@
     "course": "CJ2"
   },
   {
-    "no": "884",
+    "no": "928",
     "word": "揚げる",
     "reading": "あげる",
     "meaning": "中文：油炸 / Eng: to deep fry / 韓国語: 튀기다",
@@ -7072,7 +7424,7 @@
     "course": "CJ2"
   },
   {
-    "no": "885",
+    "no": "929",
     "word": "弱火",
     "reading": "よわび",
     "meaning": "中文：小火 / Eng: low heat / 韓国語: 약한 불",
@@ -7080,7 +7432,7 @@
     "course": "CJ2"
   },
   {
-    "no": "886",
+    "no": "930",
     "word": "煮る",
     "reading": "にる",
     "meaning": "中文：煮 / Eng: to boil/simmer / 韓国語: 끓이다",
@@ -7088,7 +7440,7 @@
     "course": "CJ2"
   },
   {
-    "no": "887",
+    "no": "931",
     "word": "沸かす",
     "reading": "わかす",
     "meaning": "中文：烧开 / Eng: to boil (water) / 韓国語: 끓이다",
@@ -7096,7 +7448,7 @@
     "course": "CJ2"
   },
   {
-    "no": "888",
+    "no": "932",
     "word": "湯のみ",
     "reading": "ゆのみ",
     "meaning": "中文：茶杯 / Eng: teacup / 韓国語: 찻잔",
@@ -7104,7 +7456,7 @@
     "course": "CJ2"
   },
   {
-    "no": "889",
+    "no": "933",
     "word": "コップ",
     "reading": "こっぷ",
     "meaning": "中文：杯子 / Eng: cup / 韓国語: 컵",
@@ -7112,7 +7464,7 @@
     "course": "CJ2"
   },
   {
-    "no": "890",
+    "no": "934",
     "word": "お箸",
     "reading": "おはし",
     "meaning": "中文：筷子 / Eng: chopsticks / 韓国語: 젓가락",
@@ -7120,7 +7472,7 @@
     "course": "CJ2"
   },
   {
-    "no": "891",
+    "no": "935",
     "word": "ポット",
     "reading": "ぽっと",
     "meaning": "中文：热水壶 / Eng: pot/kettle / 韓国語: 포트",
@@ -7128,7 +7480,7 @@
     "course": "CJ2"
   },
   {
-    "no": "892",
+    "no": "936",
     "word": "保温",
     "reading": "ほおん",
     "meaning": "中文：保温 / Eng: keep warm / 韓国語: 보온",
@@ -7136,7 +7488,7 @@
     "course": "CJ2"
   },
   {
-    "no": "893",
+    "no": "937",
     "word": "茶碗",
     "reading": "ちゃわん",
     "meaning": "中文：饭碗 / Eng: rice bowl / 韓国語: 밥공기",
@@ -7144,7 +7496,7 @@
     "course": "CJ2"
   },
   {
-    "no": "894",
+    "no": "938",
     "word": "お皿",
     "reading": "おさら",
     "meaning": "中文：盘子 / Eng: plate / 韓国語: 접시",
@@ -7152,7 +7504,7 @@
     "course": "CJ2"
   },
   {
-    "no": "895",
+    "no": "939",
     "word": "盛る",
     "reading": "もる",
     "meaning": "中文：盛/装盘 / Eng: to serve / 韓国語: 담다",
@@ -7160,7 +7512,7 @@
     "course": "CJ2"
   },
   {
-    "no": "896",
+    "no": "940",
     "word": "夜間",
     "reading": "やかん",
     "meaning": "中文：水壶 / Eng: kettle / 韓国語: 주전자",
@@ -7168,7 +7520,7 @@
     "course": "CJ2"
   },
   {
-    "no": "897",
+    "no": "941",
     "word": "鍋",
     "reading": "なべ",
     "meaning": "中文：锅 / Eng: pot / 韓国語: 냄비",
@@ -7176,7 +7528,7 @@
     "course": "CJ2"
   },
   {
-    "no": "898",
+    "no": "942",
     "word": "包丁",
     "reading": "ほうちょう",
     "meaning": "中文：菜刀 / Eng: kitchen knife / 韓国語: 식칼",
@@ -7184,7 +7536,7 @@
     "course": "CJ2"
   },
   {
-    "no": "899",
+    "no": "943",
     "word": "容器",
     "reading": "ようき",
     "meaning": "中文：容器 / Eng: container / 韓国語: 용기",
@@ -7192,7 +7544,7 @@
     "course": "CJ2"
   },
   {
-    "no": "900",
+    "no": "944",
     "word": "食器",
     "reading": "しょっき",
     "meaning": "中文：食器 / Eng: tableware / 韓国語: 식기",
@@ -7200,7 +7552,7 @@
     "course": "CJ2"
   },
   {
-    "no": "901",
+    "no": "945",
     "word": "沸騰",
     "reading": "ふっとう",
     "meaning": "中文：沸腾 / Eng: boiling / 韓国語: 끓음",
@@ -7208,7 +7560,7 @@
     "course": "CJ2"
   },
   {
-    "no": "902",
+    "no": "946",
     "word": "ゆでる",
     "reading": "ゆでる",
     "meaning": "中文：煮（面/蛋） / Eng: to boil / 韓国語: 삶다",
@@ -7216,7 +7568,7 @@
     "course": "CJ2"
   },
   {
-    "no": "903",
+    "no": "947",
     "word": "北極",
     "reading": "ほっきょく",
     "meaning": "中文：北极 / Eng: Arctic / 韓国語: 북극",
@@ -7224,7 +7576,7 @@
     "course": "CJ2"
   },
   {
-    "no": "904",
+    "no": "948",
     "word": "南極",
     "reading": "なんきょく",
     "meaning": "中文：南极 / Eng: Antarctic / 韓国語: 남극",
@@ -7232,7 +7584,7 @@
     "course": "CJ2"
   },
   {
-    "no": "905",
+    "no": "949",
     "word": "宇宙",
     "reading": "うちゅう",
     "meaning": "中文：宇宙 / Eng: universe / 韓国語: 우주",
@@ -7240,7 +7592,7 @@
     "course": "CJ2"
   },
   {
-    "no": "906",
+    "no": "950",
     "word": "満月",
     "reading": "まんげつ",
     "meaning": "中文：满月 / Eng: full moon / 韓国語: 보름달",
@@ -7248,7 +7600,7 @@
     "course": "CJ2"
   },
   {
-    "no": "907",
+    "no": "951",
     "word": "大陸",
     "reading": "たいりく",
     "meaning": "中文：大陆 / Eng: continent / 韓国語: 대륙",
@@ -7256,7 +7608,7 @@
     "course": "CJ2"
   },
   {
-    "no": "908",
+    "no": "952",
     "word": "陸",
     "reading": "りく",
     "meaning": "中文：陆地 / Eng: land / 韓国語: 육지",
@@ -7264,7 +7616,7 @@
     "course": "CJ2"
   },
   {
-    "no": "909",
+    "no": "953",
     "word": "星",
     "reading": "ほし",
     "meaning": "中文：星星 / Eng: star / 韓国語: 별",
@@ -7272,7 +7624,7 @@
     "course": "CJ2"
   },
   {
-    "no": "910",
+    "no": "954",
     "word": "鉄",
     "reading": "てつ",
     "meaning": "中文：铁 / Eng: iron / 韓国語: 철",
@@ -7280,7 +7632,7 @@
     "course": "CJ2"
   },
   {
-    "no": "911",
+    "no": "955",
     "word": "月",
     "reading": "つき",
     "meaning": "中文：月亮 / Eng: moon / 韓国語: 달",
@@ -7288,7 +7640,7 @@
     "course": "CJ2"
   },
   {
-    "no": "912",
+    "no": "956",
     "word": "地球",
     "reading": "ちきゅう",
     "meaning": "中文：地球 / Eng: earth / 韓国語: 지구",
@@ -7296,7 +7648,7 @@
     "course": "CJ2"
   },
   {
-    "no": "913",
+    "no": "957",
     "word": "砂漠",
     "reading": "さばく",
     "meaning": "中文：沙漠 / Eng: desert / 韓国語: 사막",
@@ -7304,7 +7656,7 @@
     "course": "CJ2"
   },
   {
-    "no": "914",
+    "no": "958",
     "word": "熱帯雨林",
     "reading": "ねったいうりん",
     "meaning": "中文：热带雨林 / Eng: rainforest / 韓国語: 열대우림",
@@ -7312,7 +7664,7 @@
     "course": "CJ2"
   },
   {
-    "no": "915",
+    "no": "959",
     "word": "宝石",
     "reading": "ほうせき",
     "meaning": "中文：宝石 / Eng: jewel / 韓国語: 보석",
@@ -7320,7 +7672,7 @@
     "course": "CJ2"
   },
   {
-    "no": "916",
+    "no": "960",
     "word": "太陽",
     "reading": "たいよう",
     "meaning": "中文：太阳 / Eng: sun / 韓国語: 태양",
@@ -7328,7 +7680,7 @@
     "course": "CJ2"
   },
   {
-    "no": "917",
+    "no": "961",
     "word": "金",
     "reading": "きん",
     "meaning": "中文：金 / Eng: gold / 韓国語: 금",
@@ -7336,7 +7688,7 @@
     "course": "CJ2"
   },
   {
-    "no": "918",
+    "no": "962",
     "word": "夕日",
     "reading": "ゆうひ",
     "meaning": "中文：夕阳 / Eng: sunset / 韓国語: 석양",
@@ -7344,7 +7696,7 @@
     "course": "CJ2"
   },
   {
-    "no": "919",
+    "no": "963",
     "word": "鉱物",
     "reading": "こうぶつ",
     "meaning": "中文：矿物 / Eng: mineral / 韓国語: 광물",
@@ -7352,7 +7704,7 @@
     "course": "CJ2"
   },
   {
-    "no": "920",
+    "no": "964",
     "word": "日",
     "reading": "ひ",
     "meaning": "中文：日 / Eng: day/sun / 韓国語: 해",
@@ -7360,7 +7712,7 @@
     "course": "CJ2"
   },
   {
-    "no": "921",
+    "no": "965",
     "word": "銀",
     "reading": "ぎん",
     "meaning": "中文：银 / Eng: silver / 韓国語: 은",
@@ -7368,7 +7720,7 @@
     "course": "CJ2"
   },
   {
-    "no": "922",
+    "no": "966",
     "word": "朝日",
     "reading": "あさひ",
     "meaning": "中文：朝阳 / Eng: morning sun / 韓国語: 아침 해",
@@ -7376,7 +7728,7 @@
     "course": "CJ2"
   },
   {
-    "no": "923",
+    "no": "967",
     "word": "銅",
     "reading": "どう",
     "meaning": "中文：铜 / Eng: copper / 韓国語: 구리",
@@ -7384,7 +7736,7 @@
     "course": "CJ2"
   },
   {
-    "no": "924",
+    "no": "968",
     "word": "金属",
     "reading": "きんぞく",
     "meaning": "中文：金属 / Eng: metal / 韓国語: 금속",
@@ -7392,7 +7744,7 @@
     "course": "CJ2"
   },
   {
-    "no": "925",
+    "no": "969",
     "word": "大気",
     "reading": "たいき",
     "meaning": "中文：大气 / Eng: atmosphere / 韓国語: 대기",
@@ -7400,7 +7752,7 @@
     "course": "CJ2"
   },
   {
-    "no": "926",
+    "no": "970",
     "word": "気圧",
     "reading": "きあつ",
     "meaning": "中文：气压 / Eng: air pressure / 韓国語: 기압",
@@ -7408,7 +7760,7 @@
     "course": "CJ2"
   },
   {
-    "no": "927",
+    "no": "971",
     "word": "気象",
     "reading": "きしょう",
     "meaning": "中文：气象 / Eng: weather / 韓国語: 기상",
@@ -7416,7 +7768,7 @@
     "course": "CJ2"
   },
   {
-    "no": "928",
+    "no": "972",
     "word": "空気",
     "reading": "くうき",
     "meaning": "中文：空气 / Eng: air / 韓国語: 공기",
@@ -7424,7 +7776,7 @@
     "course": "CJ2"
   },
   {
-    "no": "929",
+    "no": "973",
     "word": "空",
     "reading": "そら",
     "meaning": "中文：天空 / Eng: sky / 韓国語: 하늘",
@@ -7432,7 +7784,7 @@
     "course": "CJ2"
   },
   {
-    "no": "930",
+    "no": "974",
     "word": "天候",
     "reading": "てんこう",
     "meaning": "中文：天气 / Eng: weather / 韓国語: 날씨",
@@ -7440,7 +7792,7 @@
     "course": "CJ2"
   },
   {
-    "no": "931",
+    "no": "975",
     "word": "天気",
     "reading": "てんき",
     "meaning": "中文：天气 / Eng: weather / 韓国語: 날씨",
@@ -7448,7 +7800,7 @@
     "course": "CJ2"
   },
   {
-    "no": "932",
+    "no": "976",
     "word": "気候",
     "reading": "きこう",
     "meaning": "中文：气候 / Eng: climate / 韓国語: 기후",
@@ -7456,7 +7808,7 @@
     "course": "CJ2"
   },
   {
-    "no": "933",
+    "no": "977",
     "word": "晴れ",
     "reading": "はれ",
     "meaning": "中文：晴天 / Eng: sunny / 韓国語: 맑음",
@@ -7464,7 +7816,7 @@
     "course": "CJ2"
   },
   {
-    "no": "934",
+    "no": "978",
     "word": "暖かい",
     "reading": "あたたかい",
     "meaning": "中文：温暖 / Eng: warm / 韓国語: 따뜻하다",
@@ -7472,7 +7824,7 @@
     "course": "CJ2"
   },
   {
-    "no": "935",
+    "no": "979",
     "word": "晴れる",
     "reading": "はれる",
     "meaning": "中文：放晴 / Eng: to clear up / 韓国語: 개다",
@@ -7480,7 +7832,7 @@
     "course": "CJ2"
   },
   {
-    "no": "936",
+    "no": "980",
     "word": "暖まる",
     "reading": "あたたまる",
     "meaning": "中文：变暖 / Eng: to warm up / 韓国語: 따뜻해지다",
@@ -7488,7 +7840,7 @@
     "course": "CJ2"
   },
   {
-    "no": "937",
+    "no": "981",
     "word": "虹",
     "reading": "にじ",
     "meaning": "中文：彩虹 / Eng: rainbow / 韓国語: 무지개",
@@ -7496,7 +7848,7 @@
     "course": "CJ2"
   },
   {
-    "no": "938",
+    "no": "982",
     "word": "暑い",
     "reading": "あつい",
     "meaning": "中文：炎热 / Eng: hot / 韓国語: 덥다",
@@ -7504,7 +7856,7 @@
     "course": "CJ2"
   },
   {
-    "no": "939",
+    "no": "983",
     "word": "乾く",
     "reading": "かわく",
     "meaning": "中文：干 / Eng: to dry / 韓国語: 마르다",
@@ -7512,7 +7864,7 @@
     "course": "CJ2"
   },
   {
-    "no": "940",
+    "no": "984",
     "word": "曇り",
     "reading": "くもり",
     "meaning": "中文：多云 / Eng: cloudy / 韓国語: 흐림",
@@ -7520,7 +7872,7 @@
     "course": "CJ2"
   },
   {
-    "no": "941",
+    "no": "985",
     "word": "澄む",
     "reading": "すむ",
     "meaning": "中文：清澈 / Eng: to be clear / 韓国語: 맑다",
@@ -7528,7 +7880,7 @@
     "course": "CJ2"
   },
   {
-    "no": "942",
+    "no": "986",
     "word": "冷える",
     "reading": "ひえる",
     "meaning": "中文：变冷 / Eng: to get cold / 韓国語: 차가워지다",
@@ -7536,7 +7888,7 @@
     "course": "CJ2"
   },
   {
-    "no": "943",
+    "no": "987",
     "word": "乾燥",
     "reading": "かんそう",
     "meaning": "中文：干燥 / Eng: dryness / 韓国語: 건조",
@@ -7544,7 +7896,7 @@
     "course": "CJ2"
   },
   {
-    "no": "944",
+    "no": "988",
     "word": "涼しい",
     "reading": "すずしい",
     "meaning": "中文：凉快 / Eng: cool / 韓国語: 시원하다",
@@ -7552,7 +7904,7 @@
     "course": "CJ2"
   },
   {
-    "no": "945",
+    "no": "989",
     "word": "冷たい",
     "reading": "つめたい",
     "meaning": "中文：冷的 / Eng: cold (to the touch) / 韓国語: 차갑다",
@@ -7560,7 +7912,7 @@
     "course": "CJ2"
   },
   {
-    "no": "946",
+    "no": "990",
     "word": "湿気",
     "reading": "しっけ",
     "meaning": "中文：湿气 / Eng: humidity / 韓国語: 습기",
@@ -7568,7 +7920,7 @@
     "course": "CJ2"
   },
   {
-    "no": "947",
+    "no": "991",
     "word": "雲",
     "reading": "くも",
     "meaning": "中文：云 / Eng: cloud / 韓国語: 구름",
@@ -7576,7 +7928,7 @@
     "course": "CJ2"
   },
   {
-    "no": "948",
+    "no": "992",
     "word": "曇る",
     "reading": "くもる",
     "meaning": "中文：变阴 / Eng: to become cloudy / 韓国語: 흐려지다",
@@ -7584,7 +7936,7 @@
     "course": "CJ2"
   },
   {
-    "no": "949",
+    "no": "993",
     "word": "寒い",
     "reading": "さむい",
     "meaning": "中文：寒冷 / Eng: cold / 韓国語: 춥다",
@@ -7592,7 +7944,7 @@
     "course": "CJ2"
   },
   {
-    "no": "950",
+    "no": "994",
     "word": "湿度",
     "reading": "しつど",
     "meaning": "中文：湿度 / Eng: humidity / 韓国語: 습도",
@@ -7600,7 +7952,7 @@
     "course": "CJ2"
   },
   {
-    "no": "951",
+    "no": "995",
     "word": "大雨",
     "reading": "おおあめ",
     "meaning": "中文：大雨 / Eng: heavy rain / 韓国語: 폭우",
@@ -7608,7 +7960,7 @@
     "course": "CJ2"
   },
   {
-    "no": "952",
+    "no": "996",
     "word": "凍る",
     "reading": "こおる",
     "meaning": "中文：结冰 / Eng: to freeze / 韓国語: 얼다",
@@ -7616,7 +7968,7 @@
     "course": "CJ2"
   },
   {
-    "no": "953",
+    "no": "997",
     "word": "降る",
     "reading": "ふる",
     "meaning": "中文：下（雨雪） / Eng: to fall (rain/snow) / 韓国語: 내리다",
@@ -7624,7 +7976,7 @@
     "course": "CJ2"
   },
   {
-    "no": "954",
+    "no": "998",
     "word": "雨",
     "reading": "あめ",
     "meaning": "中文：雨 / Eng: rain / 韓国語: 비",
@@ -7632,7 +7984,7 @@
     "course": "CJ2"
   },
   {
-    "no": "955",
+    "no": "999",
     "word": "梅雨",
     "reading": "つゆ",
     "meaning": "中文：梅雨季 / Eng: rainy season / 韓国語: 장마",
@@ -7640,7 +7992,7 @@
     "course": "CJ2"
   },
   {
-    "no": "956",
+    "no": "1000",
     "word": "洪水",
     "reading": "こうずい",
     "meaning": "中文：洪水 / Eng: flood / 韓国語: 홍수",
@@ -7648,7 +8000,7 @@
     "course": "CJ2"
   },
   {
-    "no": "957",
+    "no": "1001",
     "word": "台風",
     "reading": "たいふう",
     "meaning": "中文：台风 / Eng: typhoon / 韓国語: 태풍",
@@ -7656,7 +8008,7 @@
     "course": "CJ2"
   },
   {
-    "no": "958",
+    "no": "1002",
     "word": "嵐",
     "reading": "あらし",
     "meaning": "中文：暴风 / Eng: storm / 韓国語: 폭풍",
@@ -7664,7 +8016,7 @@
     "course": "CJ2"
   },
   {
-    "no": "959",
+    "no": "1003",
     "word": "雪",
     "reading": "ゆき",
     "meaning": "中文：雪 / Eng: snow / 韓国語: 눈",
@@ -7672,7 +8024,7 @@
     "course": "CJ2"
   },
   {
-    "no": "960",
+    "no": "1004",
     "word": "氷",
     "reading": "こおり",
     "meaning": "中文：冰 / Eng: ice / 韓国語: 얼음",
@@ -7680,7 +8032,7 @@
     "course": "CJ2"
   },
   {
-    "no": "961",
+    "no": "1005",
     "word": "雷",
     "reading": "かみなり",
     "meaning": "中文：雷 / Eng: thunder / 韓国語: 천둥",
@@ -7688,7 +8040,7 @@
     "course": "CJ2"
   },
   {
-    "no": "962",
+    "no": "1006",
     "word": "鳴る",
     "reading": "なる",
     "meaning": "中文：响起 / Eng: to ring/thunder / 韓国語: 울리다",
@@ -7696,7 +8048,7 @@
     "course": "CJ2"
   },
   {
-    "no": "963",
+    "no": "1007",
     "word": "積もる",
     "reading": "つもる",
     "meaning": "中文：积 / Eng: to pile up / 韓国語: 쌓이다",
@@ -7704,7 +8056,7 @@
     "course": "CJ2"
   },
   {
-    "no": "964",
+    "no": "1008",
     "word": "風",
     "reading": "かぜ",
     "meaning": "中文：风 / Eng: wind / 韓国語: 바람",
@@ -7712,7 +8064,7 @@
     "course": "CJ2"
   },
   {
-    "no": "965",
+    "no": "1009",
     "word": "吹く",
     "reading": "ふく",
     "meaning": "中文：吹 / Eng: to blow / 韓国語: 불다",
@@ -7720,7 +8072,7 @@
     "course": "CJ2"
   },
   {
-    "no": "966",
+    "no": "1010",
     "word": "渇く",
     "reading": "かわく",
     "meaning": "中文：口渴 / Eng: to be thirsty / 韓国語: 목마르다",
@@ -7728,7 +8080,231 @@
     "course": "CJ2"
   },
   {
-    "no": "967",
+    "no": "1011",
+    "word": "申請",
+    "reading": "しんせい",
+    "meaning": "中文：申请 / Eng: application / 韓国語: 신청",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しんせい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1012",
+    "word": "登録",
+    "reading": "とうろく",
+    "meaning": "中文：登记 / Eng: registration / 韓国語: 등록",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/とうろく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1013",
+    "word": "記入",
+    "reading": "きにゅう",
+    "meaning": "中文：填写 / Eng: entry / filling in / 韓国語: 기입",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/きにゅう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1014",
+    "word": "利用",
+    "reading": "りよう",
+    "meaning": "中文：利用 / Eng: use / utilization / 韓国語: 이용",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/りよう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1015",
+    "word": "再入国許可",
+    "reading": "さいにゅうこくきょか",
+    "meaning": "中文：再入境许可 / Eng: re-entry permit / 韓国語: 재입국 허가",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/さいにゅうこくきょか.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1016",
+    "word": "変更",
+    "reading": "へんこう",
+    "meaning": "中文：变更 / Eng: change / modification / 韓国語: 변경",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/へんこう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1017",
+    "word": "通知",
+    "reading": "つうち",
+    "meaning": "中文：通知 / Eng: notification / 韓国語: 통지",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/つうち.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1018",
+    "word": "免税",
+    "reading": "めんぜい",
+    "meaning": "中文：免税 / Eng: tax exemption / 韓国語: 면세",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/めんぜい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1019",
+    "word": "納める",
+    "reading": "おさめる",
+    "meaning": "中文：缴纳 / Eng: to pay (taxes) / 韓国語: 납부하다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おさめる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1020",
+    "word": "滞納",
+    "reading": "たいのう",
+    "meaning": "中文：拖欠 / Eng: non-payment / 韓国語: 체납",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/たいのう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1021",
+    "word": "給付",
+    "reading": "きゅうふ",
+    "meaning": "中文：给付 / Eng: benefit / payment / 韓国語: 급부",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/きゅうふ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1022",
+    "word": "手当",
+    "reading": "てあて",
+    "meaning": "中文：津贴/补助 / Eng: allowance / compensation / 韓国語: 수당",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/てあて.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1023",
+    "word": "防災",
+    "reading": "ぼうさい",
+    "meaning": "中文：防灾 / Eng: disaster prevention / 韓国語: 방재",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ぼうさい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1024",
+    "word": "問い合わせる",
+    "reading": "といあわせる",
+    "meaning": "中文：咨询/询问 / Eng: to inquire / 韓国語: 문의하다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/といあわせる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1025",
+    "word": "応募",
+    "reading": "おうぼ",
+    "meaning": "中文：应征/报名 / Eng: application (for a job, etc.) / 韓国語: 응모",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おうぼ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1026",
+    "word": "必着",
+    "reading": "ひっちゃく",
+    "meaning": "中文：必须到达 / Eng: must arrive by / 韓国語: 필착",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひっちゃく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1027",
+    "word": "先着",
+    "reading": "せんちゃく",
+    "meaning": "中文：先到先得 / Eng: first arrival / first come / 韓国語: 선착",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せんちゃく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1028",
+    "word": "有料",
+    "reading": "ゆうりょう",
+    "meaning": "中文：收费 / Eng: paid / not free / 韓国語: 유료",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ゆうりょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1029",
+    "word": "開催",
+    "reading": "かいさい",
+    "meaning": "中文：举办 / Eng: holding (an event) / 韓国語: 개최",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かいさい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1030",
+    "word": "交流",
+    "reading": "こうりゅう",
+    "meaning": "中文：交流 / Eng: exchange / interaction / 韓国語: 교류",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/こうりゅう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1031",
+    "word": "主催",
+    "reading": "しゅさい",
+    "meaning": "中文：主办 / Eng: sponsorship / hosting / 韓国語: 주최",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しゅさい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1032",
+    "word": "応援",
+    "reading": "おうえん",
+    "meaning": "中文：支援/加油 / Eng: support / cheering / 韓国語: 응원",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おうえん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1033",
+    "word": "添付",
+    "reading": "てんぷ",
+    "meaning": "中文：附件 / Eng: attachment / 韓国語: 첨부",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/てんぷ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1034",
+    "word": "翻訳",
+    "reading": "ほんやく",
+    "meaning": "中文：翻译 / Eng: translation / 韓国語: 번역",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ほんやく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1035",
+    "word": "用紙",
+    "reading": "ようし",
+    "meaning": "中文：表格/用纸 / Eng: form / sheet / 韓国語: 용지",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ようし.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1036",
+    "word": "在勤",
+    "reading": "ざいきん",
+    "meaning": "中文：在职 / Eng: being employed at / 韓国語: 재근",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ざいきん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1037",
+    "word": "転入",
+    "reading": "てんにゅう",
+    "meaning": "中文：迁入/转入 / Eng: moving in / 韓国語: 전입",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/てんにゅう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1038",
+    "word": "加入",
+    "reading": "かにゅう",
+    "meaning": "中文：加入 / Eng: subscription / joining / 韓国語: 가입",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かにゅう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1039",
     "word": "温暖化",
     "reading": "おんだんか",
     "meaning": "中文：全球变暖 / Eng: global warming / 韓国語: 온난화",
@@ -7736,7 +8312,7 @@
     "course": "CJ2"
   },
   {
-    "no": "968",
+    "no": "1040",
     "word": "人工",
     "reading": "じんこう",
     "meaning": "中文：人工 / Eng: artificial / 韓国語: 인공",
@@ -7744,7 +8320,7 @@
     "course": "CJ2"
   },
   {
-    "no": "969",
+    "no": "1041",
     "word": "オゾン層",
     "reading": "おぞんそう",
     "meaning": "中文：臭氧层 / Eng: ozone layer / 韓国語: 오존층",
@@ -7752,7 +8328,7 @@
     "course": "CJ2"
   },
   {
-    "no": "970",
+    "no": "1042",
     "word": "化学",
     "reading": "かがく",
     "meaning": "中文：化学 / Eng: chemistry / 韓国語: 화학",
@@ -7760,7 +8336,7 @@
     "course": "CJ2"
   },
   {
-    "no": "971",
+    "no": "1043",
     "word": "物質",
     "reading": "ぶっしつ",
     "meaning": "中文：物质 / Eng: substance / 韓国語: 물질",
@@ -7768,7 +8344,7 @@
     "course": "CJ2"
   },
   {
-    "no": "972",
+    "no": "1044",
     "word": "有害",
     "reading": "ゆうがい",
     "meaning": "中文：有害 / Eng: harmful / 韓国語: 유해",
@@ -7776,7 +8352,7 @@
     "course": "CJ2"
   },
   {
-    "no": "973",
+    "no": "1045",
     "word": "酸性雨",
     "reading": "さんせいう",
     "meaning": "中文：酸雨 / Eng: acid rain / 韓国語: 산성비",
@@ -7784,7 +8360,7 @@
     "course": "CJ2"
   },
   {
-    "no": "974",
+    "no": "1046",
     "word": "公害",
     "reading": "こうがい",
     "meaning": "中文：公害 / Eng: pollution / 韓国語: 공해",
@@ -7792,7 +8368,7 @@
     "course": "CJ2"
   },
   {
-    "no": "975",
+    "no": "1047",
     "word": "防ぐ",
     "reading": "ふせぐ",
     "meaning": "中文：防止 / Eng: to prevent / 韓国語: 막다",
@@ -7800,7 +8376,7 @@
     "course": "CJ2"
   },
   {
-    "no": "976",
+    "no": "1048",
     "word": "汚す",
     "reading": "よごす",
     "meaning": "中文：弄脏 / Eng: to pollute / 韓国語: 더럽히다",
@@ -7808,7 +8384,7 @@
     "course": "CJ2"
   },
   {
-    "no": "977",
+    "no": "1049",
     "word": "濁る",
     "reading": "にごる",
     "meaning": "中文：浑浊 / Eng: to become muddy / 韓国語: 탁해지다",
@@ -7816,7 +8392,7 @@
     "course": "CJ2"
   },
   {
-    "no": "978",
+    "no": "1050",
     "word": "汚い",
     "reading": "きたない",
     "meaning": "中文：脏的 / Eng: dirty / 韓国語: 더럽다",
@@ -7824,7 +8400,7 @@
     "course": "CJ2"
   },
   {
-    "no": "979",
+    "no": "1051",
     "word": "二酸化炭素",
     "reading": "にさんかたんそ",
     "meaning": "中文：二氧化碳 / Eng: carbon dioxide / 韓国語: 이산화탄소",
@@ -7832,7 +8408,7 @@
     "course": "CJ2"
   },
   {
-    "no": "980",
+    "no": "1052",
     "word": "工場",
     "reading": "こうじょう",
     "meaning": "中文：工厂 / Eng: factory / 韓国語: 공장",
@@ -7840,7 +8416,7 @@
     "course": "CJ2"
   },
   {
-    "no": "981",
+    "no": "1053",
     "word": "汚染",
     "reading": "おせん",
     "meaning": "中文：污染 / Eng: pollution / 韓国語: 오염",
@@ -7848,7 +8424,7 @@
     "course": "CJ2"
   },
   {
-    "no": "982",
+    "no": "1054",
     "word": "汚れる",
     "reading": "よごれる",
     "meaning": "中文：变脏 / Eng: to get dirty / 韓国語: 더러워지다",
@@ -7856,7 +8432,7 @@
     "course": "CJ2"
   },
   {
-    "no": "983",
+    "no": "1055",
     "word": "廃棄物",
     "reading": "はいきぶつ",
     "meaning": "中文：废弃物 / Eng: waste / 韓国語: 폐기물",
@@ -7864,7 +8440,7 @@
     "course": "CJ2"
   },
   {
-    "no": "984",
+    "no": "1056",
     "word": "被害",
     "reading": "ひがい",
     "meaning": "中文：受害 / Eng: damage / 韓国語: 피해",
@@ -7872,7 +8448,7 @@
     "course": "CJ2"
   },
   {
-    "no": "985",
+    "no": "1057",
     "word": "怖い",
     "reading": "こわい",
     "meaning": "中文：可怕 / Eng: scary / 韓国語: 무섭다",
@@ -7880,7 +8456,7 @@
     "course": "CJ2"
   },
   {
-    "no": "986",
+    "no": "1058",
     "word": "恐れる",
     "reading": "おそれる",
     "meaning": "中文：害怕 / Eng: to fear / 韓国語: 두려워하다",
@@ -7888,7 +8464,7 @@
     "course": "CJ2"
   },
   {
-    "no": "987",
+    "no": "1059",
     "word": "排気ガス",
     "reading": "はいきがす",
     "meaning": "中文：废气 / Eng: exhaust gas / 韓国語: 배기가스",
@@ -7896,7 +8472,7 @@
     "course": "CJ2"
   },
   {
-    "no": "988",
+    "no": "1060",
     "word": "異常",
     "reading": "いじょう",
     "meaning": "中文：异常 / Eng: abnormal / 韓国語: 이상",
@@ -7904,7 +8480,7 @@
     "course": "CJ2"
   },
   {
-    "no": "989",
+    "no": "1061",
     "word": "影響",
     "reading": "えいきょう",
     "meaning": "中文：影响 / Eng: influence / 韓国語: 영향",
@@ -7912,7 +8488,7 @@
     "course": "CJ2"
   },
   {
-    "no": "990",
+    "no": "1062",
     "word": "恐ろしい",
     "reading": "おそろしい",
     "meaning": "中文：恐怖的 / Eng: terrifying / 韓国語: 무섭다",
@@ -7920,7 +8496,7 @@
     "course": "CJ2"
   },
   {
-    "no": "991",
+    "no": "1063",
     "word": "生命",
     "reading": "せいめい",
     "meaning": "中文：生命 / Eng: life / 韓国語: 생명",
@@ -7928,7 +8504,7 @@
     "course": "CJ2"
   },
   {
-    "no": "992",
+    "no": "1064",
     "word": "病気",
     "reading": "びょうき",
     "meaning": "中文：疾病 / Eng: illness / 韓国語: 병",
@@ -7936,7 +8512,7 @@
     "course": "CJ2"
   },
   {
-    "no": "993",
+    "no": "1065",
     "word": "死",
     "reading": "し",
     "meaning": "中文：死亡 / Eng: death / 韓国語: 죽음",
@@ -7944,7 +8520,7 @@
     "course": "CJ2"
   },
   {
-    "no": "994",
+    "no": "1066",
     "word": "動物",
     "reading": "どうぶつ",
     "meaning": "中文：动物 / Eng: animal / 韓国語: 동물",
@@ -7952,7 +8528,7 @@
     "course": "CJ2"
   },
   {
-    "no": "995",
+    "no": "1067",
     "word": "生き物",
     "reading": "いきもの",
     "meaning": "中文：生物 / Eng: living thing / 韓国語: 생물",
@@ -7960,7 +8536,7 @@
     "course": "CJ2"
   },
   {
-    "no": "996",
+    "no": "1068",
     "word": "植物",
     "reading": "しょくぶつ",
     "meaning": "中文：植物 / Eng: plant / 韓国語: 식물",
@@ -7968,7 +8544,7 @@
     "course": "CJ2"
   },
   {
-    "no": "997",
+    "no": "1069",
     "word": "植える",
     "reading": "うえる",
     "meaning": "中文：种植 / Eng: to plant / 韓国語: 심다",
@@ -7976,7 +8552,7 @@
     "course": "CJ2"
   },
   {
-    "no": "998",
+    "no": "1070",
     "word": "命",
     "reading": "いのち",
     "meaning": "中文：生命 / Eng: life (spiritual) / 韓国語: 생명",
@@ -7984,7 +8560,7 @@
     "course": "CJ2"
   },
   {
-    "no": "999",
+    "no": "1071",
     "word": "昆虫",
     "reading": "こんちゅう",
     "meaning": "中文：昆虫 / Eng: insect / 韓国語: 곤충",
@@ -7992,7 +8568,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1000",
+    "no": "1072",
     "word": "枯れる",
     "reading": "かれる",
     "meaning": "中文：枯萎 / Eng: to wither / 韓国語: 시들다",
@@ -8000,7 +8576,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1001",
+    "no": "1073",
     "word": "虫",
     "reading": "むし",
     "meaning": "中文：虫子 / Eng: bug / 韓国語: 벌레",
@@ -8008,7 +8584,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1002",
+    "no": "1074",
     "word": "生える",
     "reading": "はえる",
     "meaning": "中文：生长 / Eng: to grow / 韓国語: 자라다",
@@ -8016,7 +8592,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1003",
+    "no": "1075",
     "word": "生物",
     "reading": "せいぶつ",
     "meaning": "中文：生物 / Eng: organism / 韓国語: 생물",
@@ -8024,7 +8600,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1004",
+    "no": "1076",
     "word": "鳥",
     "reading": "とり",
     "meaning": "中文：鸟 / Eng: bird / 韓国語: 새",
@@ -8032,7 +8608,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1005",
+    "no": "1077",
     "word": "貝",
     "reading": "かい",
     "meaning": "中文：贝类 / Eng: shellfish / 韓国語: 조개",
@@ -8040,7 +8616,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1006",
+    "no": "1078",
     "word": "果実",
     "reading": "かじつ",
     "meaning": "中文：果实 / Eng: fruit (botanical) / 韓国語: 과실",
@@ -8048,7 +8624,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1007",
+    "no": "1079",
     "word": "人間",
     "reading": "にんげん",
     "meaning": "中文：人类 / Eng: human being / 韓国語: 인간",
@@ -8056,7 +8632,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1008",
+    "no": "1080",
     "word": "花",
     "reading": "はな",
     "meaning": "中文：花 / Eng: flower / 韓国語: 꽃",
@@ -8064,7 +8640,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1009",
+    "no": "1081",
     "word": "果物",
     "reading": "くだもの",
     "meaning": "中文：水果 / Eng: fruit / 韓国語: 과일",
@@ -8072,7 +8648,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1010",
+    "no": "1082",
     "word": "実",
     "reading": "み",
     "meaning": "中文：果实 / Eng: fruit/nut / 韓国語: 열매",
@@ -8080,7 +8656,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1011",
+    "no": "1083",
     "word": "神",
     "reading": "かみ",
     "meaning": "中文：神 / Eng: god / 韓国語: 신",
@@ -8088,7 +8664,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1012",
+    "no": "1084",
     "word": "魚",
     "reading": "さかな",
     "meaning": "中文：鱼 / Eng: fish / 韓国語: 물고기",
@@ -8096,7 +8672,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1013",
+    "no": "1085",
     "word": "種",
     "reading": "たね",
     "meaning": "中文：种子/种类 / Eng: seed/species / 韓国語: 씨앗/종",
@@ -8104,7 +8680,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1014",
+    "no": "1086",
     "word": "根",
     "reading": "ね",
     "meaning": "中文：根 / Eng: root / 韓国語: 뿌리",
@@ -8112,7 +8688,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1015",
+    "no": "1087",
     "word": "人類",
     "reading": "じんるい",
     "meaning": "中文：人类 / Eng: mankind / 韓国語: 인류",
@@ -8120,7 +8696,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1016",
+    "no": "1088",
     "word": "草",
     "reading": "くさ",
     "meaning": "中文：草 / Eng: grass / 韓国語: 풀",
@@ -8128,7 +8704,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1017",
+    "no": "1089",
     "word": "葉",
     "reading": "は",
     "meaning": "中文：叶子 / Eng: leaf / 韓国語: 잎",
@@ -8136,7 +8712,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1018",
+    "no": "1090",
     "word": "紅茶",
     "reading": "こうちゃ",
     "meaning": "中文：红茶 / Eng: black tea / 韓国語: 홍차",
@@ -8144,7 +8720,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1019",
+    "no": "1091",
     "word": "お茶",
     "reading": "おちゃ",
     "meaning": "中文：茶 / Eng: tea / 韓国語: 차",
@@ -8152,7 +8728,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1020",
+    "no": "1092",
     "word": "コーヒー",
     "reading": "こーひー",
     "meaning": "中文：咖啡 / Eng: coffee / 韓国語: 커피",
@@ -8160,7 +8736,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1021",
+    "no": "1093",
     "word": "牛乳",
     "reading": "ぎゅうにゅう",
     "meaning": "中文：牛奶 / Eng: milk / 韓国語: 우유",
@@ -8168,7 +8744,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1022",
+    "no": "1094",
     "word": "お菓子",
     "reading": "おかし",
     "meaning": "中文：点心/零食 / Eng: sweets/snacks / 韓国語: 과자",
@@ -8176,7 +8752,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1023",
+    "no": "1095",
     "word": "ケーキ",
     "reading": "けーき",
     "meaning": "中文：蛋糕 / Eng: cake / 韓国語: 케이크",
@@ -8184,7 +8760,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1024",
+    "no": "1096",
     "word": "チョコレート",
     "reading": "ちょこれーと",
     "meaning": "中文：巧克力 / Eng: chocolate / 韓国語: 초콜릿",
@@ -8192,7 +8768,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1025",
+    "no": "1097",
     "word": "お酒",
     "reading": "おさけ",
     "meaning": "中文：酒 / Eng: alcohol / 韓国語: 술",
@@ -8200,7 +8776,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1026",
+    "no": "1098",
     "word": "日本酒",
     "reading": "にほんしゅ",
     "meaning": "中文：日本酒 / Eng: Japanese sake / 韓国語: 일본술",
@@ -8208,7 +8784,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1027",
+    "no": "1099",
     "word": "飲み物",
     "reading": "のみもの",
     "meaning": "中文：饮料 / Eng: drink / 韓国語: 음료",
@@ -8216,7 +8792,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1028",
+    "no": "1100",
     "word": "飲む",
     "reading": "のむ",
     "meaning": "中文：喝 / Eng: to drink / 韓国語: 마시다",
@@ -8224,7 +8800,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1029",
+    "no": "1101",
     "word": "和菓子",
     "reading": "わがし",
     "meaning": "中文：和菓子 / Eng: Japanese sweets / 韓国語: 화과자",
@@ -8232,7 +8808,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1030",
+    "no": "1102",
     "word": "洋菓子",
     "reading": "ようがし",
     "meaning": "中文：西式点心 / Eng: Western sweets / 韓国語: 양과자",
@@ -8240,7 +8816,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1031",
+    "no": "1103",
     "word": "アイスクリーム",
     "reading": "あいすくりーむ",
     "meaning": "中文：冰淇淋 / Eng: ice cream / 韓国語: 아이스크림",
@@ -8248,7 +8824,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1032",
+    "no": "1104",
     "word": "〜杯",
     "reading": "〜はい",
     "meaning": "中文：～杯 / Eng: cup(s)/glass(es) / 韓国語: ~잔",
@@ -8256,7 +8832,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1033",
+    "no": "1105",
     "word": "酔う",
     "reading": "よう",
     "meaning": "中文：醉 / Eng: to get drunk / 韓国語: 취하다",
@@ -8264,7 +8840,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1034",
+    "no": "1106",
     "word": "ビール",
     "reading": "びーる",
     "meaning": "中文：啤酒 / Eng: beer / 韓国語: 맥주",
@@ -8272,7 +8848,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1035",
+    "no": "1107",
     "word": "ワイン",
     "reading": "わいん",
     "meaning": "中文：葡萄酒 / Eng: wine / 韓国語: 와인",
@@ -8280,7 +8856,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1036",
+    "no": "1108",
     "word": "注ぐ",
     "reading": "そそぐ",
     "meaning": "中文：倒/注入 / Eng: to pour / 韓国語: 따르다",
@@ -8288,7 +8864,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1037",
+    "no": "1109",
     "word": "ジュース",
     "reading": "じゅーす",
     "meaning": "中文：果汁 / Eng: juice / 韓国語: 주스",
@@ -8296,7 +8872,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1038",
+    "no": "1110",
     "word": "コーラ",
     "reading": "こーら",
     "meaning": "中文：可乐 / Eng: cola / 韓国語: 콜라",
@@ -8304,7 +8880,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1039",
+    "no": "1111",
     "word": "味噌汁",
     "reading": "みそしる",
     "meaning": "中文：味噌汤 / Eng: miso soup / 韓国語: 미소시루",
@@ -8312,7 +8888,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1040",
+    "no": "1112",
     "word": "スープ",
     "reading": "すーぷ",
     "meaning": "中文：汤 / Eng: soup / 韓国語: 수프",
@@ -8320,7 +8896,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1041",
+    "no": "1113",
     "word": "ハンバーガー",
     "reading": "はんばーがー",
     "meaning": "中文：汉堡 / Eng: hamburger / 韓国語: 햄버거",
@@ -8328,7 +8904,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1042",
+    "no": "1114",
     "word": "ピザ",
     "reading": "ぴざ",
     "meaning": "中文：比萨 / Eng: pizza / 韓国語: 피자",
@@ -8336,7 +8912,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1043",
+    "no": "1115",
     "word": "パスタ",
     "reading": "ぱすた",
     "meaning": "中文：意大利面 / Eng: pasta / 韓国語: 파스타",
@@ -8344,7 +8920,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1044",
+    "no": "1116",
     "word": "サラダ",
     "reading": "さらだ",
     "meaning": "中文：沙拉 / Eng: salad / 韓国語: 샐러드",
@@ -8352,7 +8928,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1045",
+    "no": "1117",
     "word": "注文する",
     "reading": "ちゅうもんする",
     "meaning": "中文：点单 / Eng: to order / 韓国語: 주문하다",
@@ -8360,7 +8936,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1046",
+    "no": "1118",
     "word": "カレー",
     "reading": "かれー",
     "meaning": "中文：咖喱 / Eng: curry / 韓国語: 카레",
@@ -8368,7 +8944,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1047",
+    "no": "1119",
     "word": "洋食",
     "reading": "ようしょく",
     "meaning": "中文：西餐 / Eng: Western food / 韓国語: 양식",
@@ -8376,7 +8952,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1048",
+    "no": "1120",
     "word": "スパゲティ",
     "reading": "すぱげてぃ",
     "meaning": "中文：意大利面 / Eng: spaghetti / 韓国語: 스파게티",
@@ -8384,7 +8960,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1049",
+    "no": "1121",
     "word": "ラーメン",
     "reading": "らーめん",
     "meaning": "中文：拉面 / Eng: ramen / 韓国語: 라면",
@@ -8392,7 +8968,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1050",
+    "no": "1122",
     "word": "蕎麦",
     "reading": "そば",
     "meaning": "中文：荞麦面 / Eng: soba noodles / 韓国語: 소바",
@@ -8400,7 +8976,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1051",
+    "no": "1123",
     "word": "メニュー",
     "reading": "めにゅー",
     "meaning": "中文：菜单 / Eng: menu / 韓国語: 메뉴",
@@ -8408,7 +8984,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1052",
+    "no": "1124",
     "word": "お薦め",
     "reading": "おすすめ",
     "meaning": "中文：推荐 / Eng: recommendation / 韓国語: 추천",
@@ -8416,7 +8992,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1053",
+    "no": "1125",
     "word": "中華料理",
     "reading": "ちゅうかりょうり",
     "meaning": "中文：中餐 / Eng: Chinese food / 韓国語: 중화요리",
@@ -8424,7 +9000,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1054",
+    "no": "1126",
     "word": "寿司",
     "reading": "すし",
     "meaning": "中文：寿司 / Eng: sushi / 韓国語: 초밥",
@@ -8432,7 +9008,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1055",
+    "no": "1127",
     "word": "刺身",
     "reading": "さしみ",
     "meaning": "中文：生鱼片 / Eng: sashimi / 韓国語: 사시미",
@@ -8440,7 +9016,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1056",
+    "no": "1128",
     "word": "和食",
     "reading": "わしょく",
     "meaning": "中文：日式料理 / Eng: Japanese food / 韓国語: 일본 요리",
@@ -8448,7 +9024,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1057",
+    "no": "1129",
     "word": "餃子",
     "reading": "ぎょうざ",
     "meaning": "中文：饺子 / Eng: gyoza dumplings / 韓国語: 교자",
@@ -8456,7 +9032,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1058",
+    "no": "1130",
     "word": "うどん",
     "reading": "うどん",
     "meaning": "中文：乌冬面 / Eng: udon noodles / 韓国語: 우동",
@@ -8464,7 +9040,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1059",
+    "no": "1131",
     "word": "定食",
     "reading": "ていしょく",
     "meaning": "中文：套餐 / Eng: set meal / 韓国語: 정식",
@@ -8472,7 +9048,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1060",
+    "no": "1132",
     "word": "パン",
     "reading": "ぱん",
     "meaning": "中文：面包 / Eng: bread / 韓国語: 빵",
@@ -8480,7 +9056,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1061",
+    "no": "1133",
     "word": "すき焼き",
     "reading": "すきやき",
     "meaning": "中文：寿喜烧 / Eng: sukiyaki / 韓国語: 스키야키",
@@ -8488,7 +9064,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1062",
+    "no": "1134",
     "word": "とんかつ",
     "reading": "とんかつ",
     "meaning": "中文：炸猪排 / Eng: pork cutlet / 韓国語: 돈가스",
@@ -8496,7 +9072,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1063",
+    "no": "1135",
     "word": "天ぷら",
     "reading": "てんぷら",
     "meaning": "中文：天妇罗 / Eng: tempura / 韓国語: 튀김",
@@ -8504,7 +9080,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1064",
+    "no": "1136",
     "word": "牛丼",
     "reading": "ぎゅうどん",
     "meaning": "中文：牛肉盖饭 / Eng: beef bowl / 韓国語: 규동",
@@ -8512,7 +9088,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1065",
+    "no": "1137",
     "word": "ご飯",
     "reading": "ごはん",
     "meaning": "中文：饭 / Eng: rice/meal / 韓国語: 밥",
@@ -8520,7 +9096,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1066",
+    "no": "1138",
     "word": "おかわり",
     "reading": "おかわり",
     "meaning": "中文：再添饭 / Eng: refill/second helping / 韓国語: 추가",
@@ -8528,7 +9104,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1067",
+    "no": "1139",
     "word": "大盛り",
     "reading": "おおもり",
     "meaning": "中文：大份 / Eng: large serving / 韓国語: 곱빼기",
@@ -8536,7 +9112,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1068",
+    "no": "1140",
     "word": "好物",
     "reading": "こうぶつ",
     "meaning": "中文：喜爱的食物 / Eng: favorite food / 韓国語: 좋아하는 음식",
@@ -8544,7 +9120,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1069",
+    "no": "1141",
     "word": "好き嫌い",
     "reading": "すききらい",
     "meaning": "中文：喜好 / Eng: likes and dislikes / 韓国語: 기호",
@@ -8552,7 +9128,471 @@
     "course": "CJ2"
   },
   {
-    "no": "1070",
+    "no": "1142",
+    "word": "担当",
+    "reading": "たんとう",
+    "meaning": "中文：负责人 / Eng: person in charge / 韓国語: 담당",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/たんとう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1143",
+    "word": "相談",
+    "reading": "そうだん",
+    "meaning": "中文：商量/咨询 / Eng: consultation / 韓国語: 상담",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/そうだん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1144",
+    "word": "問い合わせる",
+    "reading": "といあわせる",
+    "meaning": "中文：咨询/打听 / Eng: to inquire / 韓国語: 문의하다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/といあわせる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1145",
+    "word": "窓口",
+    "reading": "まどぐち",
+    "meaning": "中文：窗口 / Eng: service counter / 韓国語: 창구",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/まどぐち.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1146",
+    "word": "案内",
+    "reading": "あんない",
+    "meaning": "中文：指南/介绍 / Eng: information / guidance / 韓国語: 안내",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/あんない.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1147",
+    "word": "ガイド",
+    "reading": "がいど",
+    "meaning": "中文：导游/指南 / Eng: guide / 韓国語: 가이드",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/がいど.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1148",
+    "word": "公報",
+    "reading": "こうほう",
+    "meaning": "中文：公报 / Eng: official bulletin / 韓国語: 공보",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/こうほう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1149",
+    "word": "係",
+    "reading": "かかり",
+    "meaning": "中文：负责人 / Eng: person in charge / staff / 韓国語: 담당자",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かかり.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1150",
+    "word": "申し込む",
+    "reading": "もうしこむ",
+    "meaning": "中文：申请/报名 / Eng: to apply / 韓国語: 신청하다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/もうしこむ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1151",
+    "word": "申し込み",
+    "reading": "もうしこみ",
+    "meaning": "中文：申请/报名 / Eng: application / 韓国語: 신청",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/もうしこみ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1152",
+    "word": "申込書",
+    "reading": "もうしこみしょ",
+    "meaning": "中文：申请书 / Eng: application form / 韓国語: 신청서",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/もうしこみしょ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1153",
+    "word": "説明",
+    "reading": "せつめい",
+    "meaning": "中文：说明 / Eng: explanation / 韓国語: 설명",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せつめい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1154",
+    "word": "受付",
+    "reading": "うけつけ",
+    "meaning": "中文：接待/受理 / Eng: reception / 韓国語: 접수처",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/うけつけ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1155",
+    "word": "募集",
+    "reading": "ぼしゅう",
+    "meaning": "中文：招募 / Eng: recruitment / 韓国語: 모집",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ぼしゅう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1156",
+    "word": "応募",
+    "reading": "おうぼ",
+    "meaning": "中文：应征/报名 / Eng: application (for job, etc.) / 韓国語: 응모",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おうぼ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1157",
+    "word": "資料",
+    "reading": "しりょう",
+    "meaning": "中文：资料 / Eng: materials / documents / 韓国語: 자료",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しりょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1158",
+    "word": "予約",
+    "reading": "よやく",
+    "meaning": "中文：预约 / Eng: reservation / 韓国語: 예약",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/よやく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1159",
+    "word": "対象",
+    "reading": "たいしょう",
+    "meaning": "中文：对象 / Eng: target / subject / 韓国語: 대상",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/たいしょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1160",
+    "word": "提出",
+    "reading": "ていしゅつ",
+    "meaning": "中文：提交 / Eng: submission / 韓国語: 제출",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ていしゅつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1161",
+    "word": "振り込む",
+    "reading": "ふりこむ",
+    "meaning": "中文：汇款 / Eng: to transfer money / 韓国語: 송금하다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ふりこむ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1162",
+    "word": "取り消す",
+    "reading": "とりけす",
+    "meaning": "中文：取消 / Eng: to cancel / 韓国語: 취소하다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/とりけす.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1163",
+    "word": "添付",
+    "reading": "てんぷ",
+    "meaning": "中文：附件 / Eng: attachment / 韓国語: 첨부",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/てんぷ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1164",
+    "word": "方法",
+    "reading": "ほうほう",
+    "meaning": "中文：方法 / Eng: method / 韓国語: 방법",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ほうほう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1165",
+    "word": "締切",
+    "reading": "しめきり",
+    "meaning": "中文：截止 / Eng: deadline / 韓国語: 마감",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しめきり.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1166",
+    "word": "郵送",
+    "reading": "ゆうそう",
+    "meaning": "中文：邮寄 / Eng: mailing / 韓国語: 우송",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ゆうそう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1167",
+    "word": "書類",
+    "reading": "しょるい",
+    "meaning": "中文：文件 / Eng: documents / 韓国語: 서류",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しょるい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1168",
+    "word": "先着",
+    "reading": "せんちゃく",
+    "meaning": "中文：先到先得 / Eng: first arrival / 韓国語: 선착",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せんちゃく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1169",
+    "word": "必着",
+    "reading": "ひっちゃく",
+    "meaning": "中文：必须到达 / Eng: must arrive by / 韓国語: 필착",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひっちゃく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1170",
+    "word": "必要",
+    "reading": "ひつよう",
+    "meaning": "中文：必要 / Eng: necessary / 韓国語: 필요",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひつよう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1171",
+    "word": "文化",
+    "reading": "ぶんか",
+    "meaning": "中文：文化 / Eng: culture / 韓国語: 문화",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ぶんか.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1172",
+    "word": "スポーツ",
+    "reading": "すぽーつ",
+    "meaning": "中文：体育/运动 / Eng: sports / 韓国語: 스포츠",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/すぽーつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1173",
+    "word": "定員",
+    "reading": "ていいん",
+    "meaning": "中文：定员 / Eng: capacity / fixed number / 韓国語: 정원",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ていいん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1174",
+    "word": "有料",
+    "reading": "ゆうりょう",
+    "meaning": "中文：收费 / Eng: paid / not free / 韓国語: 유료",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ゆうりょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1175",
+    "word": "無料",
+    "reading": "むりょう",
+    "meaning": "中文：免费 / Eng: free of charge / 韓国語: 무료",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/むりょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1176",
+    "word": "交流",
+    "reading": "こうりゅう",
+    "meaning": "中文：交流 / Eng: exchange / 韓国語: 교류",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/こうりゅう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1177",
+    "word": "講座",
+    "reading": "こうざ",
+    "meaning": "中文：讲座 / Eng: course / lecture / 韓国語: 강좌",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/こうざ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1178",
+    "word": "催し",
+    "reading": "もよおし",
+    "meaning": "中文：活动 / Eng: event / function / 韓国語: 행사",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/もよおし.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1179",
+    "word": "センター",
+    "reading": "せんたー",
+    "meaning": "中文：中心 / Eng: center / 韓国語: 센터",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/せんたー.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1180",
+    "word": "費用",
+    "reading": "ひよう",
+    "meaning": "中文：费用 / Eng: expense / cost / 韓国語: 비용",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ひよう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1181",
+    "word": "詳細",
+    "reading": "しょうさい",
+    "meaning": "中文：详细 / Eng: details / 韓国語: 상세",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しょうさい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1182",
+    "word": "研修",
+    "reading": "けんしゅう",
+    "meaning": "中文：研修 / Eng: training / 韓国語: 연수",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/けんしゅう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1183",
+    "word": "講習",
+    "reading": "こうしゅう",
+    "meaning": "中文：讲习 / Eng: short course / class / 韓国語: 강습",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/こうしゅう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1184",
+    "word": "行事",
+    "reading": "ぎょうじ",
+    "meaning": "中文：活动/仪式 / Eng: event / 韓国語: 행사",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ぎょうじ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1185",
+    "word": "イベント",
+    "reading": "いべんと",
+    "meaning": "中文：活动 / Eng: event / 韓国語: 이벤트",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/いべんと.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1186",
+    "word": "訳",
+    "reading": "やく",
+    "meaning": "中文：翻译 / Eng: translation / 韓国語: 번역",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/やく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1187",
+    "word": "通訳",
+    "reading": "つうやく",
+    "meaning": "中文：口译 / Eng: interpreting / 韓国語: 통역",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/つうやく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1188",
+    "word": "翻訳",
+    "reading": "ほんやく",
+    "meaning": "中文：笔译 / Eng: translation (written) / 韓国語: 번역",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ほんやく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1189",
+    "word": "お知らせ",
+    "reading": "おしらせ",
+    "meaning": "中文：通知 / Eng: notice / announcement / 韓国語: 알림",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おしらせ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1190",
+    "word": "開催",
+    "reading": "かいさい",
+    "meaning": "中文：举办 / Eng: holding (event) / 韓国語: 개최",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かいさい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1191",
+    "word": "主催",
+    "reading": "しゅさい",
+    "meaning": "中文：主办 / Eng: sponsorship / hosting / 韓国語: 주최",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しゅさい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1192",
+    "word": "利用",
+    "reading": "りよう",
+    "meaning": "中文：利用 / Eng: use / utilization / 韓国語: 이용",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/りよう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1193",
+    "word": "会場",
+    "reading": "かいじょう",
+    "meaning": "中文：会场 / Eng: venue / 韓国語: 회장",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かいじょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1194",
+    "word": "期間",
+    "reading": "きかん",
+    "meaning": "中文：期间 / Eng: period / duration / 韓国語: 기간",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/きかん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1195",
+    "word": "参加",
+    "reading": "さんか",
+    "meaning": "中文：参加 / Eng: participation / 韓国語: 참가",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/さんか.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1196",
+    "word": "施設",
+    "reading": "しせつ",
+    "meaning": "中文：设施 / Eng: facility / 韓国語: 시설",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しせつ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1197",
+    "word": "予定",
+    "reading": "よてい",
+    "meaning": "中文：预定/计划 / Eng: schedule / plan / 韓国語: 예정",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/よてい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1198",
+    "word": "日時",
+    "reading": "にちじ",
+    "meaning": "中文：日期时间 / Eng: date and time / 韓国語: 일시",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/にちじ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1199",
+    "word": "日程",
+    "reading": "にってい",
+    "meaning": "中文：日程 / Eng: schedule / 韓国語: 일정",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/にってい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1200",
     "word": "渡る",
     "reading": "わたる",
     "meaning": "中文：渡过 / Eng: to cross / 韓国語: 건너다",
@@ -8560,7 +9600,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1071",
+    "no": "1201",
     "word": "橋",
     "reading": "はし",
     "meaning": "中文：桥 / Eng: bridge / 韓国語: 다리",
@@ -8568,7 +9608,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1072",
+    "no": "1202",
     "word": "歩道橋",
     "reading": "ほどうきょう",
     "meaning": "中文：人行天桥 / Eng: pedestrian bridge / 韓国語: 육교",
@@ -8576,7 +9616,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1073",
+    "no": "1203",
     "word": "角を曲がる",
     "reading": "かどをまがる",
     "meaning": "中文：拐角 / Eng: to turn a corner / 韓国語: 모퉁이를 돌다",
@@ -8584,7 +9624,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1074",
+    "no": "1204",
     "word": "高速道路",
     "reading": "こうそくどうろ",
     "meaning": "中文：高速公路 / Eng: expressway / 韓国語: 고속도로",
@@ -8592,7 +9632,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1075",
+    "no": "1205",
     "word": "四角",
     "reading": "しかく",
     "meaning": "中文：四方形 / Eng: square (shape) / 韓国語: 사각형",
@@ -8600,7 +9640,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1076",
+    "no": "1206",
     "word": "交差点",
     "reading": "こうさてん",
     "meaning": "中文：十字路口 / Eng: intersection / 韓国語: 교차로",
@@ -8608,7 +9648,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1077",
+    "no": "1207",
     "word": "大通り",
     "reading": "おおどおり",
     "meaning": "中文：大街 / Eng: main street / 韓国語: 큰길",
@@ -8616,7 +9656,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1078",
+    "no": "1208",
     "word": "坂道",
     "reading": "さかみち",
     "meaning": "中文：坡道 / Eng: slope/hill road / 韓国語: 비탈길",
@@ -8624,7 +9664,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1079",
+    "no": "1209",
     "word": "道路",
     "reading": "どうろ",
     "meaning": "中文：道路 / Eng: road / 韓国語: 도로",
@@ -8632,7 +9672,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1080",
+    "no": "1210",
     "word": "道",
     "reading": "みち",
     "meaning": "中文：道路/路 / Eng: road/street / 韓国語: 길",
@@ -8640,7 +9680,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1081",
+    "no": "1211",
     "word": "路",
     "reading": "ろ",
     "meaning": "中文：路 / Eng: route / 韓国語: 로",
@@ -8648,7 +9688,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1082",
+    "no": "1212",
     "word": "歩道",
     "reading": "ほどう",
     "meaning": "中文：人行道 / Eng: sidewalk / 韓国語: 보도",
@@ -8656,7 +9696,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1083",
+    "no": "1213",
     "word": "横断歩道",
     "reading": "おうだんほどう",
     "meaning": "中文：斑马线 / Eng: crosswalk / 韓国語: 횡단보도",
@@ -8664,7 +9704,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1084",
+    "no": "1214",
     "word": "信号",
     "reading": "しんごう",
     "meaning": "中文：红绿灯 / Eng: traffic light / 韓国語: 신호등",
@@ -8672,7 +9712,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1085",
+    "no": "1215",
     "word": "通り",
     "reading": "とおり",
     "meaning": "中文：街道 / Eng: street/avenue / 韓国語: 거리",
@@ -8680,7 +9720,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1086",
+    "no": "1216",
     "word": "踏切",
     "reading": "ふみきり",
     "meaning": "中文：道口/铁道口 / Eng: railroad crossing / 韓国語: 건널목",
@@ -8688,7 +9728,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1087",
+    "no": "1217",
     "word": "車道",
     "reading": "しゃどう",
     "meaning": "中文：车行道 / Eng: roadway (for cars) / 韓国語: 차도",
@@ -8696,7 +9736,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1088",
+    "no": "1218",
     "word": "自動車",
     "reading": "じどうしゃ",
     "meaning": "中文：汽车 / Eng: automobile / 韓国語: 자동차",
@@ -8704,7 +9744,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1089",
+    "no": "1219",
     "word": "車",
     "reading": "くるま",
     "meaning": "中文：车 / Eng: car / 韓国語: 차",
@@ -8712,7 +9752,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1090",
+    "no": "1220",
     "word": "タクシー",
     "reading": "たくしー",
     "meaning": "中文：出租车 / Eng: taxi / 韓国語: 택시",
@@ -8720,7 +9760,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1091",
+    "no": "1221",
     "word": "乗車",
     "reading": "じょうしゃ",
     "meaning": "中文：乘车 / Eng: boarding (a vehicle) / 韓国語: 승차",
@@ -8728,7 +9768,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1092",
+    "no": "1222",
     "word": "渋滞",
     "reading": "じゅうたい",
     "meaning": "中文：堵车 / Eng: traffic jam / 韓国語: 교통 체증",
@@ -8736,7 +9776,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1093",
+    "no": "1223",
     "word": "ガソリンスタンド",
     "reading": "がそりんすたんど",
     "meaning": "中文：加油站 / Eng: gas station / 韓国語: 주유소",
@@ -8744,7 +9784,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1094",
+    "no": "1224",
     "word": "乗用車",
     "reading": "じょうようしゃ",
     "meaning": "中文：小汽车 / Eng: passenger car / 韓国語: 승용차",
@@ -8752,7 +9792,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1095",
+    "no": "1225",
     "word": "下車",
     "reading": "げしゃ",
     "meaning": "中文：下车 / Eng: getting off / 韓国語: 하차",
@@ -8760,7 +9800,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1096",
+    "no": "1226",
     "word": "バス",
     "reading": "ばす",
     "meaning": "中文：公共汽车 / Eng: bus / 韓国語: 버스",
@@ -8768,7 +9808,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1097",
+    "no": "1227",
     "word": "停留所",
     "reading": "ていりゅうじょ",
     "meaning": "中文：公交站 / Eng: bus stop / 韓国語: 정류장",
@@ -8776,7 +9816,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1098",
+    "no": "1228",
     "word": "駐車場",
     "reading": "ちゅうしゃじょう",
     "meaning": "中文：停车场 / Eng: parking lot / 韓国語: 주차장",
@@ -8784,7 +9824,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1099",
+    "no": "1229",
     "word": "車両",
     "reading": "しゃりょう",
     "meaning": "中文：车辆 / Eng: vehicle / train car / 韓国語: 차량",
@@ -8792,7 +9832,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1100",
+    "no": "1230",
     "word": "オートバイ",
     "reading": "おーとばい",
     "meaning": "中文：摩托车 / Eng: motorbike / 韓国語: 오토바이",
@@ -8800,7 +9840,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1101",
+    "no": "1231",
     "word": "自転車",
     "reading": "じてんしゃ",
     "meaning": "中文：自行车 / Eng: bicycle / 韓国語: 자전거",
@@ -8808,7 +9848,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1102",
+    "no": "1232",
     "word": "停車",
     "reading": "ていしゃ",
     "meaning": "中文：停车 / Eng: stopping (train, bus) / 韓国語: 정차",
@@ -8816,7 +9856,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1103",
+    "no": "1233",
     "word": "発車",
     "reading": "はっしゃ",
     "meaning": "中文：发车 / Eng: departure (of train, bus) / 韓国語: 발차",
@@ -8824,7 +9864,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1104",
+    "no": "1234",
     "word": "乗り場",
     "reading": "のりば",
     "meaning": "中文：乘车处 / Eng: boarding area / 韓国語: 승차장",
@@ -8832,7 +9872,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1105",
+    "no": "1235",
     "word": "駅前",
     "reading": "えきまえ",
     "meaning": "中文：车站前 / Eng: in front of station / 韓国語: 역앞",
@@ -8840,7 +9880,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1106",
+    "no": "1236",
     "word": "駅",
     "reading": "えき",
     "meaning": "中文：车站 / Eng: station / 韓国語: 역",
@@ -8848,7 +9888,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1107",
+    "no": "1237",
     "word": "売店",
     "reading": "ばいてん",
     "meaning": "中文：小卖部 / Eng: kiosk/shop / 韓国語: 매점",
@@ -8856,7 +9896,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1108",
+    "no": "1238",
     "word": "駅ビル",
     "reading": "えきびる",
     "meaning": "中文：车站大楼 / Eng: station building / 韓国語: 역 빌딩",
@@ -8864,7 +9904,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1109",
+    "no": "1239",
     "word": "繁華街",
     "reading": "はんかがい",
     "meaning": "中文：繁华街 / Eng: downtown/shopping district / 韓国語: 번화가",
@@ -8872,7 +9912,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1110",
+    "no": "1240",
     "word": "デパート",
     "reading": "でぱーと",
     "meaning": "中文：百货商店 / Eng: department store / 韓国語: 백화점",
@@ -8880,7 +9920,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1111",
+    "no": "1241",
     "word": "コンビニ",
     "reading": "こんびに",
     "meaning": "中文：便利店 / Eng: convenience store / 韓国語: 편의점",
@@ -8888,7 +9928,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1112",
+    "no": "1242",
     "word": "スーパー",
     "reading": "すーぱー",
     "meaning": "中文：超市 / Eng: supermarket / 韓国語: 슈퍼",
@@ -8896,7 +9936,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1113",
+    "no": "1243",
     "word": "百貨店",
     "reading": "ひゃっかてん",
     "meaning": "中文：百货店 / Eng: department store / 韓国語: 백화점",
@@ -8904,7 +9944,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1114",
+    "no": "1244",
     "word": "電気店",
     "reading": "でんきてん",
     "meaning": "中文：电器店 / Eng: electronics shop / 韓国語: 전파사",
@@ -8912,7 +9952,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1115",
+    "no": "1245",
     "word": "チェーン店",
     "reading": "ちぇーんてん",
     "meaning": "中文：连锁店 / Eng: chain store / 韓国語: 체인점",
@@ -8920,7 +9960,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1116",
+    "no": "1246",
     "word": "家電量販店",
     "reading": "かでんりょうはんてん",
     "meaning": "中文：家电量贩店 / Eng: electronics retail store / 韓国語: 가전 양판점",
@@ -8928,7 +9968,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1117",
+    "no": "1247",
     "word": "割引",
     "reading": "わりびき",
     "meaning": "中文：折扣 / Eng: discount / 韓国語: 할인",
@@ -8936,7 +9976,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1118",
+    "no": "1248",
     "word": "激安",
     "reading": "げきやす",
     "meaning": "中文：超便宜 / Eng: super cheap / 韓国語: 엄청 싸다",
@@ -8944,7 +9984,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1119",
+    "no": "1249",
     "word": "自然",
     "reading": "しぜん",
     "meaning": "中文：自然 / Eng: nature / 韓国語: 자연",
@@ -8952,7 +9992,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1120",
+    "no": "1250",
     "word": "天然",
     "reading": "てんねん",
     "meaning": "中文：天然 / Eng: natural / 韓国語: 천연",
@@ -8960,7 +10000,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1121",
+    "no": "1251",
     "word": "人工",
     "reading": "じんこう",
     "meaning": "中文：人工 / Eng: artificial / 韓国語: 인공",
@@ -8968,7 +10008,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1122",
+    "no": "1252",
     "word": "現象",
     "reading": "げんしょう",
     "meaning": "中文：现象 / Eng: phenomenon / 韓国語: 현상",
@@ -8976,7 +10016,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1123",
+    "no": "1253",
     "word": "環境",
     "reading": "かんきょう",
     "meaning": "中文：环境 / Eng: environment / 韓国語: 환경",
@@ -8984,7 +10024,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1124",
+    "no": "1254",
     "word": "保護",
     "reading": "ほご",
     "meaning": "中文：保护 / Eng: protection / 韓国語: 보호",
@@ -8992,7 +10032,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1125",
+    "no": "1255",
     "word": "守る",
     "reading": "まもる",
     "meaning": "中文：守护 / Eng: to protect / 韓国語: 지키다",
@@ -9000,7 +10040,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1126",
+    "no": "1256",
     "word": "防ぐ",
     "reading": "ふせぐ",
     "meaning": "中文：防止 / Eng: to prevent / 韓国語: 막다",
@@ -9008,7 +10048,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1127",
+    "no": "1257",
     "word": "破壊",
     "reading": "はかい",
     "meaning": "中文：破坏 / Eng: destruction / 韓国語: 파괴",
@@ -9016,7 +10056,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1128",
+    "no": "1258",
     "word": "被害",
     "reading": "ひがい",
     "meaning": "中文：受害 / Eng: damage / 韓国語: 피해",
@@ -9024,7 +10064,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1129",
+    "no": "1259",
     "word": "公害",
     "reading": "こうがい",
     "meaning": "中文：公害 / Eng: pollution / 韓国語: 공해",
@@ -9032,7 +10072,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1130",
+    "no": "1260",
     "word": "汚染",
     "reading": "おせん",
     "meaning": "中文：污染 / Eng: contamination / 韓国語: 오염",
@@ -9040,7 +10080,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1131",
+    "no": "1261",
     "word": "物質",
     "reading": "ぶっしつ",
     "meaning": "中文：物质 / Eng: substance / 韓国語: 물질",
@@ -9048,7 +10088,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1132",
+    "no": "1262",
     "word": "影響",
     "reading": "えいきょう",
     "meaning": "中文：影响 / Eng: influence / 韓国語: 영향",
@@ -9056,7 +10096,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1133",
+    "no": "1263",
     "word": "異常",
     "reading": "いじょう",
     "meaning": "中文：异常 / Eng: abnormality / 韓国語: 이상",
@@ -9064,7 +10104,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1134",
+    "no": "1264",
     "word": "宇宙",
     "reading": "うちゅう",
     "meaning": "中文：宇宙 / Eng: universe / 韓国語: 우주",
@@ -9072,7 +10112,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1135",
+    "no": "1265",
     "word": "地球",
     "reading": "ちきゅう",
     "meaning": "中文：地球 / Eng: earth / 韓国語: 지구",
@@ -9080,7 +10120,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1136",
+    "no": "1266",
     "word": "天候",
     "reading": "てんこう",
     "meaning": "中文：天气 / Eng: weather / 韓国語: 날씨",
@@ -9088,7 +10128,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1137",
+    "no": "1267",
     "word": "乾燥",
     "reading": "かんそう",
     "meaning": "中文：干燥 / Eng: dryness / 韓国語: 건조",
@@ -9096,7 +10136,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1138",
+    "no": "1268",
     "word": "湿度",
     "reading": "しつど",
     "meaning": "中文：湿度 / Eng: humidity / 韓国語: 습도",
@@ -9104,7 +10144,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1139",
+    "no": "1269",
     "word": "土地",
     "reading": "とち",
     "meaning": "中文：土地 / Eng: land / 韓国語: 토지",
@@ -9112,7 +10152,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1140",
+    "no": "1270",
     "word": "金属",
     "reading": "きんぞく",
     "meaning": "中文：金属 / Eng: metal / 韓国語: 금속",
@@ -9120,7 +10160,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1141",
+    "no": "1271",
     "word": "地震",
     "reading": "じしん",
     "meaning": "中文：地震 / Eng: earthquake / 韓国語: 지진",
@@ -9128,7 +10168,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1142",
+    "no": "1272",
     "word": "資源",
     "reading": "しげん",
     "meaning": "中文：资源 / Eng: resources / 韓国語: 자원",
@@ -9136,7 +10176,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1143",
+    "no": "1273",
     "word": "オゾン層",
     "reading": "おぞんそう",
     "meaning": "中文：臭氧层 / Eng: ozone layer / 韓国語: 오존층",
@@ -9144,7 +10184,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1144",
+    "no": "1274",
     "word": "深刻",
     "reading": "しんこく",
     "meaning": "中文：严重 / Eng: serious / 韓国語: 심각",
@@ -9152,7 +10192,7 @@
     "course": "CJ2"
   },
   {
-    "no": "1145",
+    "no": "1275",
     "word": "生物",
     "reading": "せいぶつ",
     "meaning": "中文：生物 / Eng: living things / 韓国語: 생물",
@@ -9160,11 +10200,531 @@
     "course": "CJ2"
   },
   {
-    "no": "1146",
+    "no": "1276",
     "word": "恐れる",
     "reading": "おそれる",
     "meaning": "中文：害怕 / Eng: to fear / 韓国語: 두려워하다",
     "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おそれる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1277",
+    "word": "行政",
+    "reading": "ぎょうせい",
+    "meaning": "中文：行政 / Eng: administration / 韓国語: 행정",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ぎょうせい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1278",
+    "word": "機関",
+    "reading": "きかん",
+    "meaning": "中文：机关/机构 / Eng: institution / agency / 韓国語: 기관",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/きかん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1279",
+    "word": "大使館",
+    "reading": "たいしかん",
+    "meaning": "中文：大使馆 / Eng: embassy / 韓国語: 대사관",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/たいしかん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1280",
+    "word": "公共",
+    "reading": "こうきょう",
+    "meaning": "中文：公共 / Eng: public / 韓国語: 공공",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/こうきょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1281",
+    "word": "省庁",
+    "reading": "しょうちょう",
+    "meaning": "中文：省厅 / Eng: ministries and government offices / 韓国語: 성청",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しょうちょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1282",
+    "word": "領事館",
+    "reading": "りょうじかん",
+    "meaning": "中文：领事馆 / Eng: consulate / 韓国語: 영사관",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/りょうじかん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1283",
+    "word": "入国管理局",
+    "reading": "にゅうこくかんりきょく",
+    "meaning": "中文：入国管理局 / Eng: immigration bureau / 韓国語: 출입국 관리국",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/にゅうこくかんりきょく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1284",
+    "word": "外務省",
+    "reading": "がいむしょう",
+    "meaning": "中文：外务省 / Eng: Ministry of Foreign Affairs / 韓国語: 외무성",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/がいむしょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1285",
+    "word": "都庁",
+    "reading": "とちょう",
+    "meaning": "中文：东京都厅 / Eng: Tokyo Metropolitan Government / 韓国語: 도청",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/とちょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1286",
+    "word": "パスポート",
+    "reading": "ぱすぽーと",
+    "meaning": "中文：护照 / Eng: passport / 韓国語: 여권",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ぱすぽーと.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1287",
+    "word": "ビザ",
+    "reading": "びざ",
+    "meaning": "中文：签证 / Eng: visa / 韓国語: 비자",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/びざ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1288",
+    "word": "県庁",
+    "reading": "けんちょう",
+    "meaning": "中文：县政府 / Eng: prefectural office / 韓国語: 현청",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/けんちょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1289",
+    "word": "市役所",
+    "reading": "しやくしょ",
+    "meaning": "中文：市政府 / Eng: city hall / 韓国語: 시청",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しやくしょ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1290",
+    "word": "区役所",
+    "reading": "くやくしょ",
+    "meaning": "中文：区政府 / Eng: ward office / 韓国語: 구청",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/くやくしょ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1291",
+    "word": "役所",
+    "reading": "やくしょ",
+    "meaning": "中文：政府机关 / Eng: government office / 韓国語: 관청",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/やくしょ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1292",
+    "word": "在住",
+    "reading": "ざいじゅう",
+    "meaning": "中文：居住 / Eng: residing / 韓国語: 재주",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ざいじゅう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1293",
+    "word": "役場",
+    "reading": "やくば",
+    "meaning": "中文：町役所 / Eng: town hall / 韓国語: 읍사무소",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/やくば.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1294",
+    "word": "職員",
+    "reading": "しょくいん",
+    "meaning": "中文：职员 / Eng: staff / personnel / 韓国語: 직원",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しょくいん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1295",
+    "word": "役人",
+    "reading": "やくにん",
+    "meaning": "中文：官员 / Eng: government official / 韓国語: 관원",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/やくにん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1296",
+    "word": "免税",
+    "reading": "めんぜい",
+    "meaning": "中文：免税 / Eng: tax exemption / 韓国語: 면세",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/めんぜい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1297",
+    "word": "課税",
+    "reading": "かぜい",
+    "meaning": "中文：课税 / Eng: taxation / 韓国語: 과세",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かぜい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1298",
+    "word": "公務員",
+    "reading": "こうむいん",
+    "meaning": "中文：公务员 / Eng: public servant / 韓国語: 공무원",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/こうむいん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1299",
+    "word": "県民",
+    "reading": "けんみん",
+    "meaning": "中文：县民 / Eng: prefectural citizen / 韓国語: 현민",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/けんみん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1300",
+    "word": "税務署",
+    "reading": "ぜいむしょ",
+    "meaning": "中文：税务署 / Eng: tax office / 韓国語: 세무서",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ぜいむしょ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1301",
+    "word": "税金",
+    "reading": "ぜいきん",
+    "meaning": "中文：税金 / Eng: tax / 韓国語: 세금",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ぜいきん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1302",
+    "word": "国民",
+    "reading": "こくみん",
+    "meaning": "中文：国民 / Eng: citizen (of a country) / 韓国語: 국민",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/こくみん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1303",
+    "word": "納める",
+    "reading": "おさめる",
+    "meaning": "中文：缴纳 / Eng: to pay (taxes) / 韓国語: 납부하다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おさめる.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1304",
+    "word": "納税",
+    "reading": "のうぜい",
+    "meaning": "中文：纳税 / Eng: tax payment / 韓国語: 납세",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/のうぜい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1305",
+    "word": "滞納",
+    "reading": "たいのう",
+    "meaning": "中文：拖欠 / Eng: non-payment / 韓国語: 체납",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/たいのう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1306",
+    "word": "市民",
+    "reading": "しみん",
+    "meaning": "中文：市民 / Eng: citizen / 韓国語: 시민",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しみん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1307",
+    "word": "住民",
+    "reading": "じゅうみん",
+    "meaning": "中文：居民 / Eng: resident / 韓国語: 주민",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/じゅうみん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1308",
+    "word": "都民",
+    "reading": "とみん",
+    "meaning": "中文：东京都民 / Eng: Tokyo resident / 韓国語: 도민",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/とみん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1309",
+    "word": "住民税",
+    "reading": "じゅうみんぜい",
+    "meaning": "中文：居民税 / Eng: resident tax / 韓国語: 주민세",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/じゅうみんぜい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1310",
+    "word": "消費税",
+    "reading": "しょうひぜい",
+    "meaning": "中文：消费税 / Eng: consumption tax / 韓国語: 소비세",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しょうひぜい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1311",
+    "word": "所得税",
+    "reading": "しょとくぜい",
+    "meaning": "中文：所得税 / Eng: income tax / 韓国語: 소득세",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しょとくぜい.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1312",
+    "word": "払う",
+    "reading": "はらう",
+    "meaning": "中文：支付 / Eng: to pay / 韓国語: 지불하다",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/はらう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1313",
+    "word": "未納",
+    "reading": "みのう",
+    "meaning": "中文：未缴 / Eng: non-payment (unpaid) / 韓国語: 미납",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/みのう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1314",
+    "word": "区民",
+    "reading": "くみん",
+    "meaning": "中文：区民 / Eng: ward resident / 韓国語: 구민",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/くみん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1315",
+    "word": "年金",
+    "reading": "ねんきん",
+    "meaning": "中文：养老金 / Eng: pension / 韓国語: 연금",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ねんきん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1316",
+    "word": "保険",
+    "reading": "ほけん",
+    "meaning": "中文：保险 / Eng: insurance / 韓国語: 보험",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ほけん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1317",
+    "word": "出産",
+    "reading": "しゅっさん",
+    "meaning": "中文：生育 / Eng: childbirth / 韓国語: 출산",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しゅっさん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1318",
+    "word": "サービス",
+    "reading": "さーびす",
+    "meaning": "中文：服务 / Eng: service / 韓国語: 서비스",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/さーびす.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1319",
+    "word": "育児",
+    "reading": "いくじ",
+    "meaning": "中文：育儿 / Eng: childcare / 韓国語: 육아",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/いくじ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1320",
+    "word": "需給",
+    "reading": "じゅきゅう",
+    "meaning": "中文：供需 / Eng: supply and demand / 韓国語: 수급",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/じゅきゅう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1321",
+    "word": "給付",
+    "reading": "きゅうふ",
+    "meaning": "中文：给付 / Eng: benefit / payment / 韓国語: 급부",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/きゅうふ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1322",
+    "word": "結婚",
+    "reading": "けっこん",
+    "meaning": "中文：结婚 / Eng: marriage / 韓国語: 결혼",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/けっこん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1323",
+    "word": "離婚",
+    "reading": "りこん",
+    "meaning": "中文：离婚 / Eng: divorce / 韓国語: 이혼",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/りこん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1324",
+    "word": "補助",
+    "reading": "ほじょ",
+    "meaning": "中文：补助 / Eng: assistance / subsidy / 韓国語: 보조",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ほじょ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1325",
+    "word": "サポート",
+    "reading": "さぽーと",
+    "meaning": "中文：支持/帮助 / Eng: support / 韓国語: 서포트",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/さぽーと.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1326",
+    "word": "手当",
+    "reading": "てあて",
+    "meaning": "中文：津贴/补助 / Eng: allowance / benefit / 韓国語: 수당",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/てあて.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1327",
+    "word": "子育て",
+    "reading": "こそだて",
+    "meaning": "中文：育儿 / Eng: child-raising / 韓国語: 육아",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/こそだて.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1328",
+    "word": "介護",
+    "reading": "かいご",
+    "meaning": "中文：看护/护理 / Eng: nursing care / 韓国語: 간호",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/かいご.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1329",
+    "word": "福祉",
+    "reading": "ふくし",
+    "meaning": "中文：福祉 / Eng: welfare / 韓国語: 복지",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ふくし.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1330",
+    "word": "高齢者",
+    "reading": "こうれいしゃ",
+    "meaning": "中文：高龄者 / Eng: elderly person / 韓国語: 고령자",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/こうれいしゃ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1331",
+    "word": "支援",
+    "reading": "しえん",
+    "meaning": "中文：支援 / Eng: support / assistance / 韓国語: 지원",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しえん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1332",
+    "word": "応援",
+    "reading": "おうえん",
+    "meaning": "中文：加油/支援 / Eng: cheering / support / 韓国語: 응원",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/おうえん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1333",
+    "word": "教育",
+    "reading": "きょういく",
+    "meaning": "中文：教育 / Eng: education / 韓国語: 교육",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/きょういく.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1334",
+    "word": "健康診断",
+    "reading": "けんこうしんだん",
+    "meaning": "中文：体检 / Eng: health checkup / 韓国語: 건강진단",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/けんこうしんだん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1335",
+    "word": "保健所",
+    "reading": "ほけんじょ",
+    "meaning": "中文：保健所 / Eng: public health center / 韓国語: 보건소",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ほけんじょ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1336",
+    "word": "予防接種",
+    "reading": "よぼうせっしゅ",
+    "meaning": "中文：预防接种 / Eng: vaccination / 韓国語: 예방접종",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/よぼうせっしゅ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1337",
+    "word": "保健",
+    "reading": "ほけん",
+    "meaning": "中文：保健 / Eng: healthcare / 韓国語: 보건",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ほけん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1338",
+    "word": "訪問",
+    "reading": "ほうもん",
+    "meaning": "中文：访问 / Eng: visit / 韓国語: 방문",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/ほうもん.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1339",
+    "word": "医療",
+    "reading": "いりょう",
+    "meaning": "中文：医疗 / Eng: medical care / 韓国語: 의료",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/いりょう.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1340",
+    "word": "身体障害者",
+    "reading": "しんたいしょうがいしゃ",
+    "meaning": "中文：残疾人 / Eng: disabled person / 韓国語: 신체장애인",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/しんたいしょうがいしゃ.mp3",
+    "course": "CJ2"
+  },
+  {
+    "no": "1341",
+    "word": "助成",
+    "reading": "じょせい",
+    "meaning": "中文：资助/补助 / Eng: subsidy / aid / 韓国語: 조성",
+    "audio": "https://cdn.jsdelivr.net/gh/Autoxhk/kana-audio-library/audio/じょせい.mp3",
     "course": "CJ2"
   }
 ]
