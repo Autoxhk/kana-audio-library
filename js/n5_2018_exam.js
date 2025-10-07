@@ -1,0 +1,647 @@
+module.exports = {
+  "examInfo": {
+    "level": "N5",
+    "year": 2018,
+    "title": "日本語能力試験 N5 2018年",
+    "sections": [
+      {
+        "name": "言語知識（文字・語彙）",
+        "duration": 25,
+        "totalQuestions": 35
+      },
+      {
+        "name": "言語知識（文法）・読解",
+        "duration": 50,
+        "totalQuestions": 32
+      },
+      {
+        "name": "聴解",
+        "duration": 30,
+        "totalQuestions": 32
+      }
+    ]
+  },
+  "sections": [
+    {
+      "sectionId": "vocabulary",
+      "sectionName": "言語知識（文字・語彙）",
+      "problems": [
+        {
+          "problemId": 1,
+          "problemType": "kanji_to_hiragana",
+          "description": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+          "questions": [
+            {
+              "questionNumber": 1,
+              "question": "あしたは　雨ですか。",
+              "underlinedWord": "雨",
+              "options": ["ゆき", "はれ", "くもり", "あめ"],
+              "correctAnswer": 4
+            },
+            {
+              "questionNumber": 2,
+              "question": "きょうしつで　書いて　ください。",
+              "underlinedWord": "書",
+              "options": ["かいて", "きいて", "はいて", "ひいて"],
+              "correctAnswer": 1
+            },
+            {
+              "questionNumber": 3,
+              "question": "しゃしんは　はこの　中に　あります。",
+              "underlinedWord": "中",
+              "options": ["そば", "そと", "なか", "よこ"],
+              "correctAnswer": 3
+            },
+            {
+              "questionNumber": 4,
+              "question": "この　いすは　小さいです。",
+              "underlinedWord": "小",
+              "options": ["ちいさい", "ちさい", "しいさい", "しさい"],
+              "correctAnswer": 1
+            },
+            {
+              "questionNumber": 5,
+              "question": "あしたは　火よう日です。",
+              "underlinedWord": "火よう日",
+              "options": ["どようび", "すいようび", "かようび", "にちようび"],
+              "correctAnswer": 3
+            },
+            {
+              "questionNumber": 6,
+              "question": "きれいな　空ですね。",
+              "underlinedWord": "空",
+              "options": ["いえ", "うみ", "にわ", "そら"],
+              "correctAnswer": 4
+            },
+            {
+              "questionNumber": 7,
+              "question": "せいとは　百人　います。",
+              "underlinedWord": "百人",
+              "options": ["ひゃくにん", "びゃくにん", "ひゃくじん", "びゃくじん"],
+              "correctAnswer": 1
+            },
+            {
+              "questionNumber": 8,
+              "question": "魚が　たくさん　いますよ。",
+              "underlinedWord": "魚",
+              "options": ["ねこ", "とり", "いぬ", "さかな"],
+              "correctAnswer": 4
+            },
+            {
+              "questionNumber": 9,
+              "question": "パンを　半分　ともだちに　あげました。",
+              "underlinedWord": "半分",
+              "options": ["はんふん", "はんぶん", "ほんぶん", "ほんふん"],
+              "correctAnswer": 2
+            },
+            {
+              "questionNumber": 10,
+              "question": "ぎんこうと　スーパーの　間に　ほそい　みちが　あります。",
+              "underlinedWord": "間",
+              "options": ["あいた", "となり", "あいだ", "どなり"],
+              "correctAnswer": 3
+            },
+            {
+              "questionNumber": 11,
+              "question": "たまごを　三つ　とって　ください。",
+              "underlinedWord": "三つ",
+              "options": ["いつつ", "みっつ", "さんつ", "ごつ"],
+              "correctAnswer": 2
+            },
+            {
+              "questionNumber": 12,
+              "question": "きょうは　元気が　いいですね。",
+              "underlinedWord": "元気",
+              "options": ["けんき", "げんき", "でんき", "てんき"],
+              "correctAnswer": 2
+            }
+          ]
+        },
+        {
+          "problemId": 2,
+          "problemType": "hiragana_to_kanji",
+          "description": "＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+          "questions": [
+            {
+              "questionNumber": 13,
+              "question": "この　わいしゃつを　ください。",
+              "underlinedWord": "わいしゃつ",
+              "options": ["ウイシャソ", "ウイシャツ", "ワイシャソ", "ワイシャツ"],
+              "correctAnswer": 4
+            },
+            {
+              "questionNumber": 14,
+              "question": "わたしの　くには　かわが　おおいです。",
+              "underlinedWord": "かわ",
+              "options": ["花", "山", "川", "木"],
+              "correctAnswer": 3
+            },
+            {
+              "questionNumber": 15,
+              "question": "ヤンさんの　がっこうは　どこですか。",
+              "underlinedWord": "がっこう",
+              "options": ["宇校", "学校", "宇枚", "学枚"],
+              "correctAnswer": 2
+            },
+            {
+              "questionNumber": 16,
+              "question": "この　ざっしを　みて　ください。",
+              "underlinedWord": "みて",
+              "options": ["見て", "買て", "貝て", "目て"],
+              "correctAnswer": 1
+            },
+            {
+              "questionNumber": 17,
+              "question": "この　カメラは　たかいですね。",
+              "underlinedWord": "たかい",
+              "options": ["高い", "安い", "古い", "新い"],
+              "correctAnswer": 1
+            },
+            {
+              "questionNumber": 18,
+              "question": "きのうは　かいしゃを　やすみました。",
+              "underlinedWord": "かいしゃ",
+              "options": ["公仕", "公社", "会仕", "会社"],
+              "correctAnswer": 4
+            },
+            {
+              "questionNumber": 19,
+              "question": "まだ　いわないで　ください。",
+              "underlinedWord": "いわないで",
+              "options": ["行わないで", "立わないで", "言わないで", "食わないで"],
+              "correctAnswer": 3
+            },
+            {
+              "questionNumber": 20,
+              "question": "らいげつ　けっこんします。",
+              "underlinedWord": "らいげつ",
+              "options": ["今月", "来月", "来週", "今週"],
+              "correctAnswer": 2
+            }
+          ]
+        },
+        {
+          "problemId": 3,
+          "problemType": "contextual_usage",
+          "description": "（　　）に　なにが　はいりますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+          "questions": [
+            {
+              "questionNumber": 21,
+              "question": "わたしの　へやは　この　アパートの　2（　　）です。",
+              "options": ["ほん", "さつ", "だい", "かい"],
+              "correctAnswer": 4
+            },
+            {
+              "questionNumber": 22,
+              "question": "その　ナイフで　りんごを（　　）ください。",
+              "options": ["おきて", "つけて", "しめて", "きって"],
+              "correctAnswer": 4
+            },
+            {
+              "questionNumber": 23,
+              "question": "（　　）を　わすれましたから、じかんが　わかりません。",
+              "options": ["じしょ", "ちず", "とけい", "さいふ"],
+              "correctAnswer": 3
+            },
+            {
+              "questionNumber": 24,
+              "question": "わたしの　うちは　えきに　ちかいですから、（　　）です。",
+              "options": ["べんり", "じょうぶ", "いっぱい", "へた"],
+              "correctAnswer": 1
+            },
+            {
+              "questionNumber": 25,
+              "question": "なつやすみは　まいにち（　　）で　およぎました。",
+              "options": ["レストラン", "プール", "エレベーター", "ビル"],
+              "correctAnswer": 2
+            },
+            {
+              "questionNumber": 26,
+              "question": "しらない　ことばが　ありましたから、せんせいに（　　）しました。",
+              "options": ["しつもん", "べんきょう", "れんしゅう", "じゅぎょう"],
+              "correctAnswer": 1
+            },
+            {
+              "questionNumber": 27,
+              "question": "この　へやは　あついですから、（　　）を　あけましょう。",
+              "options": ["おふろ", "まど", "エアコン", "テーブル"],
+              "correctAnswer": 2
+            },
+            {
+              "questionNumber": 28,
+              "question": "きのうは　がっこうで　たくさん　かんじを（　　）。",
+              "options": ["うりました", "もちました", "おぼえました", "こまりました"],
+              "correctAnswer": 3
+            },
+            {
+              "questionNumber": 29,
+              "question": "この　コーヒーは、さとうを　たくさん　いれましたから、（　　）です。",
+              "options": ["わかい", "くろい", "まるい", "あまい"],
+              "correctAnswer": 4
+            },
+            {
+              "questionNumber": 30,
+              "question": "つよい　かぜが（　　）います。",
+              "options": ["ふいて", "いそいで", "とんで", "はしって"],
+              "correctAnswer": 1
+            }
+          ]
+        },
+        {
+          "problemId": 4,
+          "problemType": "paraphrase",
+          "description": "＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+          "questions": [
+            {
+              "questionNumber": 31,
+              "question": "これは　りょうしんの　しゃしんです。",
+              "options": [
+                "これは　そふと　そぼの　しゃしんです。",
+                "これは　ちちと　ははの　しゃしんです。",
+                "これは　あにと　おとうとの　しゃしんです。",
+                "これは　あねと　いもうとの　しゃしんです。"
+              ],
+              "correctAnswer": 2
+            },
+            {
+              "questionNumber": 32,
+              "question": "この　ダンスは　やさしいです。",
+              "options": [
+                "この　ダンスは　かんたんです。",
+                "この　ダンスは　たいへんです。",
+                "この　ダンスは　たのしいです。",
+                "この　ダンスは　つまらないです。"
+              ],
+              "correctAnswer": 1
+            },
+            {
+              "questionNumber": 33,
+              "question": "ふくを　せんたくしました。",
+              "options": [
+                "ふくを　ぬぎました。",
+                "ふくを　わたしました。",
+                "ふくを　あらいました。",
+                "ふくを　きました。"
+              ],
+              "correctAnswer": 3
+            },
+            {
+              "questionNumber": 34,
+              "question": "この　へやは　くらいですね。",
+              "options": [
+                "この　へやは　あかるいですね。",
+                "この　へやは　あかるくないですね。",
+                "この　へやは　しずかじゃ　ないですね。",
+                "この　へやは　しずかですね。"
+              ],
+              "correctAnswer": 2
+            },
+            {
+              "questionNumber": 35,
+              "question": "リーさんは　もりさんに　ペンを　かしました。",
+              "options": [
+                "リーさんは　もりさんに　ペンを　もらいました。",
+                "もりさんは　リーさんに　ペンを　もらいました。",
+                "リーさんは　もりさんに　ペンを　かりました。",
+                "もりさんは　リーさんに　ペンを　かりました。"
+              ],
+              "correctAnswer": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionId": "grammar_reading",
+      "sectionName": "言語知識（文法）・読解",
+      "problems": [
+        {
+          "problemId": 1,
+          "problemType": "grammar_fill",
+          "description": "（　　）に　何を　入れますか。１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。",
+          "questions": [
+            {
+              "questionNumber": 1,
+              "question": "私は　あしたの　ひこうき（　　）国へ　帰ります。",
+              "options": ["に", "で", "か", "を"],
+              "correctAnswer": 2
+            },
+            {
+              "questionNumber": 2,
+              "question": "先週　デパートで　かばん（　　）くつなどを　買いました。",
+              "options": ["は", "も", "へ", "や"],
+              "correctAnswer": 4
+            },
+            {
+              "questionNumber": 3,
+              "question": "私は　毎朝　7時ごろ　家（　　）出ます。",
+              "options": ["を", "と", "が", "で"],
+              "correctAnswer": 1
+            },
+            {
+              "questionNumber": 4,
+              "question": "きのう　スーパーで　田中さん（　　）会いました。",
+              "options": ["を", "の", "で", "に"],
+              "correctAnswer": 4
+            },
+            {
+              "questionNumber": 5,
+              "question": "私の　うちの　ほんだなは、きょねん　父（　　）作りました。",
+              "options": ["や", "が", "を", "で"],
+              "correctAnswer": 2
+            },
+            {
+              "questionNumber": 6,
+              "question": "今日　やおやで　りんごを　買いました。五つ（　　）300円でした。",
+              "options": ["に", "と", "で", "や"],
+              "correctAnswer": 3
+            },
+            {
+              "questionNumber": 7,
+              "question": "きのう（　　）少し　寒かったですが、今日（　　）寒くないです。",
+              "options": ["は／は", "に／に", "も／も", "を／を"],
+              "correctAnswer": 1
+            },
+            {
+              "questionNumber": 8,
+              "question": "南町は、海が　きれい（　　）、静かです。",
+              "options": ["も", "や", "で", "と"],
+              "correctAnswer": 3
+            },
+            {
+              "questionNumber": 9,
+              "question": "前川「林さん、（　　）に　ある　カメラは　林さんのですか。」林「いいえ。田中さんのですよ。」",
+              "options": ["そこ", "どこ", "その", "どの"],
+              "correctAnswer": 1
+            },
+            {
+              "questionNumber": 10,
+              "question": "Ａ「先週　はじめて　スキーを　しました。」Ｂ「そうですか。（　　）でしたか。」Ａ「とても　楽しかったです。」",
+              "options": ["いくつ", "いかが", "どなた", "どちら"],
+              "correctAnswer": 2
+            },
+            {
+              "questionNumber": 11,
+              "question": "森「ケンさん、大学の　じゅぎょうは　始まりましたか。」ケン「いいえ、（　　）です。来週　始まります。」",
+              "options": ["よく", "もう", "ちょっと", "まだ"],
+              "correctAnswer": 4
+            },
+            {
+              "questionNumber": 12,
+              "question": "（びょういんで）いしゃ「今日から　一週間　薬を　飲んで、来週の　月曜日に（　　）来て　ください。」",
+              "options": ["たくさん", "あまり", "また", "だんだん"],
+              "correctAnswer": 3
+            },
+            {
+              "questionNumber": 13,
+              "question": "父は　毎朝　コーヒーを（　　）ながら　新聞を　読みます。",
+              "options": ["飲む", "飲み", "飲んで", "飲んだ"],
+              "correctAnswer": 2
+            },
+            {
+              "questionNumber": 14,
+              "question": "私は　小さいとき、なっとうが　好き（　　）でした。",
+              "options": ["ない", "じゃない", "ありません", "じゃありません"],
+              "correctAnswer": 4
+            },
+            {
+              "questionNumber": 15,
+              "question": "（ケーキ屋で）店の　人「いらっしゃいませ。」山下「すみません、いちごの　ケーキを　二つ（　　）。」店の　人「はい。ありがとうございます。500円です。」",
+              "options": ["ありますか", "どうぞ", "ください", "ほしいですか"],
+              "correctAnswer": 3
+            },
+            {
+              "questionNumber": 16,
+              "question": "リー「日曜日に、私の　家で　アンさんと　べんきょうを　します。キムさんも（　　）。」キム「あ、行きたいです。」",
+              "options": ["来ませんか", "来て　いますか", "来ませんでしたか", "来て　いましたか"],
+              "correctAnswer": 1
+            }
+          ]
+        },
+        {
+          "problemId": 2,
+          "problemType": "sentence_order",
+          "description": "★　に　入る　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。",
+          "questions": [
+            {
+              "questionNumber": 17,
+              "question": "（タクシーの　中で）Ａ「すみません、つぎの　★　まがって　ください。」Ｂ「はい、わかりました。」",
+              "parts": ["に", "しんごう", "右", "を"],
+              "correctAnswer": 4,
+              "correctOrder": ["しんごう", "を", "右", "に"]
+            },
+            {
+              "questionNumber": 18,
+              "question": "私は　日曜日に　兄　★　で　出かけました。",
+              "parts": ["の", "と", "子ども", "いっしょに"],
+              "correctAnswer": 4,
+              "correctOrder": ["の", "子ども", "と", "いっしょに"]
+            },
+            {
+              "questionNumber": 19,
+              "question": "きのう　買った　おかしは　★　でした。",
+              "parts": ["色", "きれい", "が", "まるくて"],
+              "correctAnswer": 2,
+              "correctOrder": ["色", "が", "きれい", "で"]
+            },
+            {
+              "questionNumber": 20,
+              "question": "駅の　★　で　ざっしを　買いました。",
+              "parts": ["に", "ある", "近く", "本屋"],
+              "correctAnswer": 3,
+              "correctOrder": ["近く", "に", "ある", "本屋"]
+            },
+            {
+              "questionNumber": 21,
+              "question": "先週　★　の　こうちゃは　とても　おいしかったです。",
+              "parts": ["もらった", "ともだち", "外国", "に"],
+              "correctAnswer": 2,
+              "correctOrder": ["外国", "に", "もらった", "ともだち"]
+            }
+          ]
+        },
+        {
+          "problemId": 3,
+          "problemType": "passage_fill",
+          "description": "22　から　26　に　何を　入れますか。ぶんしょうの　いみを　かんがえて、１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。",
+          "passage": "ニンさんと　メイさんは「私の　好きな　飲み物」の　さくぶんを　書いて、クラスの　みんなの　前で　読みます。",
+          "questions": [
+            {
+              "questionNumber": 22,
+              "question": "私の　好きな　飲み物は　くだものの　ジュースです。大好きな　ジュースは　すいかジュースです。私の　国では　いろいろな　店に　あります。（22）、日本では　売って　いる　店を　知りません。",
+              "options": ["だから", "でも", "いつも", "もっと"],
+              "correctAnswer": 2
+            },
+            {
+              "questionNumber": 23,
+              "question": "みなさんは　何の　ジュースが　好きですか。好きな　ジュースを（23）。",
+              "options": ["教えて　ください", "教えたいです", "教えますよ", "教えて　います"],
+              "correctAnswer": 1
+            },
+            {
+              "questionNumber": 24,
+              "question": "きっさてんに（24）。名前は「はな」です。",
+              "options": ["入るからです", "入ったからです", "入ります", "入りました"],
+              "correctAnswer": 4
+            },
+            {
+              "questionNumber": 25,
+              "question": "「はな」（25）コーヒーは　安かったです。",
+              "options": ["から", "と", "の", "より"],
+              "correctAnswer": 3
+            },
+            {
+              "questionNumber": 26,
+              "question": "私は　2はい　飲みました。来週も「はな」に　コーヒーを（26）。",
+              "options": ["飲んで　行きます", "飲んで　来ます", "飲みに　行きます", "飲みに　来ます"],
+              "correctAnswer": 3
+            }
+          ]
+        },
+        {
+          "problemId": 4,
+          "problemType": "short_reading",
+          "description": "つぎの　(1)から　(3)の　ぶんしょうを　読んで、しつもんに　こたえて　ください。こたえは、１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。",
+          "passages": [
+            {
+              "passageNumber": 1,
+              "text": "わたしは　毎朝　ご飯と　なっとうか、パンと　たまごを　食べて、学校へ　行きます。でも、けさは　なにも　食べませんでした。バナナを　学校へ　持っていきました。起きた　時間が　おそかったからです。",
+              "question": "けさ「わたし」は　学校へ　行く　前に、何を　食べましたか。",
+              "options": [
+                "ご飯と　なっとうを　食べました。",
+                "パンと　たまごを　食べました。",
+                "なにも　食べませんでした。",
+                "バナナを　食べました。"
+              ],
+              "correctAnswer": 3
+            },
+            {
+              "passageNumber": 2,
+              "text": "「日本語１」と「日本語２」の　クラスの　みなさんへ\n今日　出川先生は　お昼まで　お休みです。午前の「日本語１」の　クラスは　ありません。午後の「日本語２」の　クラスは　あります。\n・「日本語１」の　しゅくだいは　来週　出して　ください。\n2016年12月2日　高見大学",
+              "question": "大学は「日本語１」の　クラスの　学生に　何が　言いたいですか。",
+              "options": [
+                "今日　クラスは　ありません。しゅくだいは　午後　出して　ください。",
+                "今日　クラスは　ありません。しゅくだいは　来週　出して　ください。",
+                "今日　クラスが　ありますが、しゅくだいは　来週　出して　ください。",
+                "今日　クラスが　ありますから、しゅくだいを　出して　ください。"
+              ],
+              "correctAnswer": 2
+            },
+            {
+              "passageNumber": 3,
+              "text": "ボゴさん\n10時ごろ　ゆうびんきょくの　人が　この　にもつを　とりに　来ますから、にもっと　お金を　わたして　ください。お金は　中西さんが　持って　います。ゆうびんきょくの　人が　来る　前に　もらいに　行って　ください。\nよろしく　おねがいします。\n多田\n11月30日　9:30",
+              "question": "この　メモを　読んで、ボゴさんは　はじめに　何を　しますか。",
+              "options": [
+                "中西さんに　お金を　もらいます。",
+                "中西さんに　にもつと　お金を　わたします。",
+                "ゆうびんきょくの　人に　にもつを　もらいます。",
+                "ゆうびんきょくの　人に　にもつと　お金を　わたします。"
+              ],
+              "correctAnswer": 1
+            }
+          ]
+        },
+        {
+          "problemId": 5,
+          "problemType": "long_reading",
+          "description": "つぎの　ぶんしょうを　読んで、しつもんに　こたえて　ください。こたえは、１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。",
+          "text": "これは　チンさんが　書いた　さくぶんです。\n\nまちがえました\nチン・シュン\n\nわたしは　きのうの　日曜日、友だちと　サッカーを　しました。朝から　ゆうがたまで　しましたから、とても　つかれました。ゆうべは　ばんご飯を　食べた　あとで、すぐに　ねました。ですから、今日の　かんじテストの　べんきょうが　できませんでした。\n\nけさは　5時に　起きました。シャワーを　あびて、朝ご飯を　食べました。それから、すぐ　かんじの　テキストの　41ページから　60ページまで　べんきょうしました。それから　学校へ　行きました。とても　いそがしい　朝でした。\n\nしかし、きょうしつで　かんじを　べんきょうしている　人は　いませんでした。まちがえました。テストは　今日ではなくて、あしたでした。",
+          "questions": [
+            {
+              "questionNumber": 30,
+              "question": "どうして　①けさは　5時に　起きましたか。",
+              "options": [
+                "朝から　ゆうがたまで　サッカーを　したかったから",
+                "かんじテストの　べんきょうが　したかったから",
+                "シャワーを　あびて、朝ご飯を　食べたかったから",
+                "学校へ　行って、べんきょうが　したかったから"
+              ],
+              "correctAnswer": 2
+            },
+            {
+              "questionNumber": 31,
+              "question": "チンさんは　何を　②まちがえましたか。",
+              "options": [
+                "かんじの　テキスト",
+                "かんじの　テキストの　ページ",
+                "かんじの　テストが　ある　日",
+                "かんじの　テストを　する　きょうしつ"
+              ],
+              "correctAnswer": 3
+            }
+          ]
+        },
+        {
+          "problemId": 6,
+          "problemType": "information_search",
+          "description": "右の　ページを　見て、下の　しつもんに　こたえて　ください。こたえは、１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。",
+          "text": "高木大学に　来たい　人へ\n\n①　かかる　時間：46分　かかる　お金：300円\n寺西駅　→（バス 45分）→ バスてい「高木大学前」→（歩く 1分）→ 高木大学\n\n②　かかる　時間：30分　かかる　お金：550円\n花田駅　→（電車 25分）→ 水村駅　→（歩く 5分）→ 高木大学\n\n③　かかる　時間：40分　かかる　お金：450円\n花田駅　→（ちかてつ 30分）→ 木山駅　→（歩く 10分）→ 高木大学\n\n④　かかる　時間：35分　かかる　お金：430円\n糸川駅　→（電車 25分）→ 木山駅　→（歩く 10分）→ 高木大学",
+          "questions": [
+            {
+              "questionNumber": 32,
+              "question": "パブロさんは　高木大学に　行きたいです。花田駅か　糸川駅から　乗ります。駅から　大学まで　かかる　お金は　500円までで、時間は　みじかいほうが　いいです。パブロさんは　どの　行き方で　行きますか。",
+              "options": ["①", "②", "③", "④"],
+              "correctAnswer": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionId": "listening",
+      "sectionName": "聴解",
+      "problems": [
+        {
+          "problemId": 1,
+          "problemType": "task_comprehension",
+          "description": "もんだい１では、はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+          "totalQuestions": 7,
+          "answers": [3, 3, 1, 4, 2, 1, 4]
+        },
+        {
+          "problemId": 2,
+          "problemType": "point_comprehension",
+          "description": "もんだい２では、はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+          "totalQuestions": 6,
+          "answers": [4, 1, 3, 1, 2, 2]
+        },
+        {
+          "problemId": 3,
+          "problemType": "utterance_expressions",
+          "description": "もんだい３では、えを　みながら　しつもんを　きいて　ください。→（やじるし）の　ひとは　なんと　いいますか。１から３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+          "totalQuestions": 5,
+          "answers": [3, 3, 1, 2, 2]
+        },
+        {
+          "problemId": 4,
+          "problemType": "quick_response",
+          "description": "もんだい４は、えなどが　ありません。ぶんを　きいて、１から３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+          "totalQuestions": 6,
+          "answers": [1, 3, 3, 2, 1, 2]
+        }
+      ]
+    }
+  ],
+  "answerKey": {
+    "vocabulary": {
+      "problem1": [4, 1, 3, 1, 3, 4, 1, 4, 2, 3, 2, 2],
+      "problem2": [4, 3, 2, 1, 1, 4, 3, 2],
+      "problem3": [4, 4, 3, 1, 2, 1, 2, 3, 4, 1],
+      "problem4": [2, 1, 3, 2, 4]
+    },
+    "grammar_reading": {
+      "problem1": [2, 4, 1, 4, 2, 3, 1, 3, 1, 2, 4, 3, 2, 4, 3, 1],
+      "problem2": [4, 2, 3, 2, 1],
+      "problem3": [2, 1, 4, 3, 3],
+      "problem4": [3, 2, 1],
+      "problem5": [2, 3],
+      "problem6": [4]
+    },
+    "listening": {
+      "problem1": [3, 3, 1, 4, 2, 1, 4, 3],
+      "problem2": [3, 4, 1, 3, 1, 2, 2],
+      "problem3": [3, 3, 3, 1, 2, 2],
+      "problem4": [2, 1, 3, 3, 2, 1, 2]
+    }
+  }
+};
