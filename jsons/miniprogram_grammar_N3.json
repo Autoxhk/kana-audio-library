@@ -1,0 +1,986 @@
+{
+  "level": "N3",
+  "total_items": 140,
+  "all_items": [
+    {
+      "id": 1,
+      "pattern": "~間",
+      "page": 137,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 2,
+      "pattern": "~間に",
+      "page": 137,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 3,
+      "pattern": "~があります",
+      "page": 137,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 4,
+      "pattern": "~いい/よい",
+      "page": 137,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 5,
+      "pattern": "~一方(で)",
+      "page": 138,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 6,
+      "pattern": "~うちに",
+      "page": 138,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 7,
+      "pattern": "~上で(の)",
+      "page": 138,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 8,
+      "pattern": "~上で(は)/上での",
+      "page": 139,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 9,
+      "pattern": "~上に",
+      "page": 139,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 10,
+      "pattern": "~うちに/ないうちに",
+      "page": 139,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 11,
+      "pattern": "~おかげで/おかげだ",
+      "page": 140,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 12,
+      "pattern": "~おきに",
+      "page": 140,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 13,
+      "pattern": "~恐れがある",
+      "page": 140,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 14,
+      "pattern": "~がたい",
+      "page": 141,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 15,
+      "pattern": "~がちだ",
+      "page": 141,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 16,
+      "pattern": "~か何か",
+      "page": 141,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 17,
+      "pattern": "~から言うと/から言えば/から言って",
+      "page": 141,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 18,
+      "pattern": "~からすると/からすれば",
+      "page": 142,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 19,
+      "pattern": "~からにかけて",
+      "page": 142,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 20,
+      "pattern": "~から見ると/から見れば/から見て",
+      "page": 142,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 21,
+      "pattern": "~きる/きれる/きれない",
+      "page": 142,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 22,
+      "pattern": "~くせに",
+      "page": 143,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 23,
+      "pattern": "~くらい/ぐらい",
+      "page": 143,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 24,
+      "pattern": "~けれど/けれども",
+      "page": 144,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 25,
+      "pattern": "~こと",
+      "page": 144,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 26,
+      "pattern": "~ことから",
+      "page": 144,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 27,
+      "pattern": "~ことに",
+      "page": 145,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 28,
+      "pattern": "~ことになっている/こととなっている",
+      "page": 145,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 29,
+      "pattern": "~ことになる",
+      "page": 146,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 30,
+      "pattern": "~ことはない/こともない",
+      "page": 146,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 31,
+      "pattern": "~最中に",
+      "page": 146,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 32,
+      "pattern": "~さえ",
+      "page": 147,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 33,
+      "pattern": "~さえ~ば",
+      "page": 147,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 34,
+      "pattern": "~さえ~ば",
+      "page": 147,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 35,
+      "pattern": "~じゃん/じゃない/じゃないの/じゃないか/じゃ",
+      "page": 147,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 36,
+      "pattern": "~上(は)",
+      "page": 147,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 37,
+      "pattern": "~上で",
+      "page": 148,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 38,
+      "pattern": "~ずとも",
+      "page": 148,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 39,
+      "pattern": "~(は)ずがる/(も)する",
+      "page": 149,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 40,
+      "pattern": "~せいで/せいだ/せいか",
+      "page": 149,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 41,
+      "pattern": "~そうにない/そうもない",
+      "page": 149,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 42,
+      "pattern": "~たきり~ない",
+      "page": 149,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 43,
+      "pattern": "~だけでなく",
+      "page": 150,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 44,
+      "pattern": "~だけでは",
+      "page": 150,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 45,
+      "pattern": "~たとたんに/すると",
+      "page": 150,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 46,
+      "pattern": "~たところ/だった",
+      "page": 151,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 47,
+      "pattern": "~たとたん(に)/とたん(に)",
+      "page": 151,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 48,
+      "pattern": "~たばかりだ",
+      "page": 151,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 49,
+      "pattern": "~たびに",
+      "page": 152,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 50,
+      "pattern": "~たまえ",
+      "page": 152,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 51,
+      "pattern": "~たまらない",
+      "page": 152,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 52,
+      "pattern": "~たったら/としたら",
+      "page": 152,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 53,
+      "pattern": "~たらどうですか",
+      "page": 153,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 54,
+      "pattern": "~たらどうか",
+      "page": 153,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 55,
+      "pattern": "~って",
+      "page": 153,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 56,
+      "pattern": "~って",
+      "page": 153,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 57,
+      "pattern": "~で",
+      "page": 154,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 58,
+      "pattern": "~で",
+      "page": 155,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 59,
+      "pattern": "~で以来",
+      "page": 155,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 60,
+      "pattern": "~でしか/でしかない/でしょうがない",
+      "page": 155,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 61,
+      "pattern": "~てしかた(が)ない/てしょうがない",
+      "page": 155,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 62,
+      "pattern": "~で済む/で済まない",
+      "page": 156,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 63,
+      "pattern": "~てはならない",
+      "page": 156,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 64,
+      "pattern": "~では/では",
+      "page": 157,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 65,
+      "pattern": "~では",
+      "page": 157,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 66,
+      "pattern": "~ではないか",
+      "page": 157,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 67,
+      "pattern": "~(の)ではないか",
+      "page": 157,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 68,
+      "pattern": "~ではならない",
+      "page": 158,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 69,
+      "pattern": "~てほしい",
+      "page": 158,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 70,
+      "pattern": "~てみせる",
+      "page": 158,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 71,
+      "pattern": "~てもしかた(が)ない/てもしょうがない",
+      "page": 158,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 72,
+      "pattern": "~ても始まらない",
+      "page": 159,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 73,
+      "pattern": "~てやってくれないか",
+      "page": 159,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 74,
+      "pattern": "~てよかった/なくてよかった",
+      "page": 159,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 75,
+      "pattern": "~ということだ",
+      "page": 159,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 76,
+      "pattern": "~というと/といえば/といったら",
+      "page": 160,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 77,
+      "pattern": "~というのは",
+      "page": 161,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 78,
+      "pattern": "~というほどではない/というほどでもない",
+      "page": 161,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 79,
+      "pattern": "~というものは",
+      "page": 161,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 80,
+      "pattern": "~(や)~といった",
+      "page": 161,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 81,
+      "pattern": "~といっても",
+      "page": 162,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 82,
+      "pattern": "~とおり(に)/とおりの/どおり(に)/どおりの",
+      "page": 162,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 83,
+      "pattern": "~とされている",
+      "page": 162,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 84,
+      "pattern": "~として/としての/としても",
+      "page": 163,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 85,
+      "pattern": "~とは限らない",
+      "page": 163,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 86,
+      "pattern": "~なかなか",
+      "page": 163,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 87,
+      "pattern": "~筈だ",
+      "page": 164,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 88,
+      "pattern": "~筈がない",
+      "page": 164,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 89,
+      "pattern": "~なんか/なんて",
+      "page": 164,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 90,
+      "pattern": "~において/における",
+      "page": 165,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 91,
+      "pattern": "~にかわって/にかわり",
+      "page": 165,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 92,
+      "pattern": "~に関して/に関しても/に関する",
+      "page": 165,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 93,
+      "pattern": "~に比べて(て)/と比べて(て)",
+      "page": 166,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 94,
+      "pattern": "~にしたら/にしては/にせよ/にせよ",
+      "page": 166,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 95,
+      "pattern": "~に対して/に対する",
+      "page": 166,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 96,
+      "pattern": "~について/についての",
+      "page": 167,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 97,
+      "pattern": "~につれて/につれ",
+      "page": 167,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 98,
+      "pattern": "~にて",
+      "page": 167,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 99,
+      "pattern": "~にとって",
+      "page": 168,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 100,
+      "pattern": "~にほかない",
+      "page": 168,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 101,
+      "pattern": "~に基づく/に基づく/による",
+      "page": 168,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 102,
+      "pattern": "~ぬ/ん",
+      "page": 169,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 103,
+      "pattern": "~ねばならない/ねばならぬ",
+      "page": 169,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 104,
+      "pattern": "~の",
+      "page": 170,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 105,
+      "pattern": "~のに",
+      "page": 170,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 106,
+      "pattern": "~の場合では",
+      "page": 171,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 107,
+      "pattern": "~ばかりだ",
+      "page": 171,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 108,
+      "pattern": "~ほど",
+      "page": 171,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 109,
+      "pattern": "~まい",
+      "page": 172,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 110,
+      "pattern": "~まさか",
+      "page": 172,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 111,
+      "pattern": "~べきだ/べきではない",
+      "page": 172,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 112,
+      "pattern": "~ほど",
+      "page": 173,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 113,
+      "pattern": "~向きだ/に向き/に向きの",
+      "page": 174,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 114,
+      "pattern": "~へ向けて/向けに/向けの",
+      "page": 174,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 115,
+      "pattern": "~もの/もん",
+      "page": 174,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 116,
+      "pattern": "~ものがある",
+      "page": 175,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 117,
+      "pattern": "~ものだから/もんだから",
+      "page": 175,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 118,
+      "pattern": "~ものなら",
+      "page": 176,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 119,
+      "pattern": "~ようとする/ようとしている",
+      "page": 176,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 120,
+      "pattern": "~ように見える",
+      "page": 177,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 121,
+      "pattern": "~(っ)ぽく/らしさ(自然さ)",
+      "page": 177,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 122,
+      "pattern": "~わけがない/わけはない",
+      "page": 177,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 123,
+      "pattern": "~わけではない/わけでもない",
+      "page": 178,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 124,
+      "pattern": "~わりに(は)",
+      "page": 178,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 125,
+      "pattern": "~を中心に/を中心として",
+      "page": 178,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 126,
+      "pattern": "~を通して/を通じて",
+      "page": 179,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 127,
+      "pattern": "~をとする",
+      "page": 179,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 128,
+      "pattern": "~をはじめとして/をはじめとする",
+      "page": 179,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 129,
+      "pattern": "~をはじめとして/をはじめとする/をはじめ",
+      "page": 179,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 130,
+      "pattern": "~んじゃない",
+      "page": 179,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 131,
+      "pattern": "お/ご~です",
+      "page": 180,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 132,
+      "pattern": "お/ご~になれる",
+      "page": 180,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 133,
+      "pattern": "~ていらっしゃる/ておいでになる",
+      "page": 180,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 134,
+      "pattern": "お/ご~できる",
+      "page": 181,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 135,
+      "pattern": "お/ご~いただく",
+      "page": 181,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 136,
+      "pattern": "お/ご~願う",
+      "page": 181,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 137,
+      "pattern": "~ていただけませんか",
+      "page": 181,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 138,
+      "pattern": "~てもよろしいでしょうか",
+      "page": 182,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 139,
+      "pattern": "~(さ)せていただく",
+      "page": 182,
+      "type": "文法",
+      "level": "N3"
+    },
+    {
+      "id": 140,
+      "pattern": "敬語的特殊形式",
+      "page": 182,
+      "type": "文法",
+      "level": "N3"
+    }
+  ]
+}

@@ -1,0 +1,846 @@
+{
+  "level": "N5",
+  "total_items": 120,
+  "all_items": [
+    {
+      "id": 1,
+      "pattern": "名詞1+は+名詞2+です/ではありません",
+      "page": 229,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 2,
+      "pattern": "名詞1+は+名詞2+でした/ではありませんでした",
+      "page": 229,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 3,
+      "pattern": "名詞1+は+名詞2+だ/ではない",
+      "page": 229,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 4,
+      "pattern": "名詞1+は+名詞2+だった/ではなかった",
+      "page": 229,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 5,
+      "pattern": "名詞1+は+名詞2+ですか/でしたか",
+      "page": 229,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 6,
+      "pattern": "名詞1+は+名詞2+です",
+      "page": 230,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 7,
+      "pattern": "これ/それ/あれ/どれ",
+      "page": 230,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 8,
+      "pattern": "この/その/あの/どの",
+      "page": 230,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 9,
+      "pattern": "ここ/そこ/あそこ/どこ",
+      "page": 231,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 10,
+      "pattern": "こう/そう/ああ/どう",
+      "page": 231,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 11,
+      "pattern": "こちら/そちら/あちら/どちら",
+      "page": 231,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 12,
+      "pattern": "こんな/そんな/あんな/どんな",
+      "page": 231,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 13,
+      "pattern": "基数詞",
+      "page": 232,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 14,
+      "pattern": "序数詞",
+      "page": 233,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 15,
+      "pattern": "常用助数詞",
+      "page": 233,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 16,
+      "pattern": "常用数詞的读法",
+      "page": 234,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 17,
+      "pattern": "三类动词区分",
+      "page": 236,
+      "type": "词性变化",
+      "level": "N5"
+    },
+    {
+      "id": 18,
+      "pattern": "自动词和他动词",
+      "page": 236,
+      "type": "词性变化",
+      "level": "N5"
+    },
+    {
+      "id": 19,
+      "pattern": "动词ます形/动词体形",
+      "page": 237,
+      "type": "词性变化",
+      "level": "N5"
+    },
+    {
+      "id": 20,
+      "pattern": "动词て形",
+      "page": 238,
+      "type": "词性变化",
+      "level": "N5"
+    },
+    {
+      "id": 21,
+      "pattern": "动词た形",
+      "page": 239,
+      "type": "词性变化",
+      "level": "N5"
+    },
+    {
+      "id": 22,
+      "pattern": "动词ない形",
+      "page": 240,
+      "type": "词性变化",
+      "level": "N5"
+    },
+    {
+      "id": 23,
+      "pattern": "动词体形普通形",
+      "page": 240,
+      "type": "词性变化",
+      "level": "N5"
+    },
+    {
+      "id": 24,
+      "pattern": "する",
+      "page": 241,
+      "type": "词性变化",
+      "level": "N5"
+    },
+    {
+      "id": 25,
+      "pattern": "やる",
+      "page": 241,
+      "type": "词性变化",
+      "level": "N5"
+    },
+    {
+      "id": 26,
+      "pattern": "できる",
+      "page": 242,
+      "type": "词性变化",
+      "level": "N5"
+    },
+    {
+      "id": 27,
+      "pattern": "ある",
+      "page": 242,
+      "type": "词性变化",
+      "level": "N5"
+    },
+    {
+      "id": 28,
+      "pattern": "いる",
+      "page": 243,
+      "type": "词性变化",
+      "level": "N5"
+    },
+    {
+      "id": 29,
+      "pattern": "形容词普通形",
+      "page": 244,
+      "type": "词性变化",
+      "level": "N5"
+    },
+    {
+      "id": 30,
+      "pattern": "形容词敬体形",
+      "page": 244,
+      "type": "词性变化",
+      "level": "N5"
+    },
+    {
+      "id": 31,
+      "pattern": "形容词て形",
+      "page": 244,
+      "type": "词性变化",
+      "level": "N5"
+    },
+    {
+      "id": 32,
+      "pattern": "形容词た形",
+      "page": 245,
+      "type": "词性变化",
+      "level": "N5"
+    },
+    {
+      "id": 33,
+      "pattern": "い形容词普通形",
+      "page": 245,
+      "type": "词性变化",
+      "level": "N5"
+    },
+    {
+      "id": 34,
+      "pattern": "い形容词敬体形",
+      "page": 245,
+      "type": "词性变化",
+      "level": "N5"
+    },
+    {
+      "id": 35,
+      "pattern": "い形容词+名词",
+      "page": 245,
+      "type": "词性变化",
+      "level": "N5"
+    },
+    {
+      "id": 36,
+      "pattern": "い形容词て形",
+      "page": 246,
+      "type": "词性变化",
+      "level": "N5"
+    },
+    {
+      "id": 37,
+      "pattern": "い形容词た形",
+      "page": 246,
+      "type": "词性变化",
+      "level": "N5"
+    },
+    {
+      "id": 38,
+      "pattern": "い形容词+动词",
+      "page": 246,
+      "type": "词性变化",
+      "level": "N5"
+    },
+    {
+      "id": 39,
+      "pattern": "いくつ",
+      "page": 247,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 40,
+      "pattern": "いか",
+      "page": 247,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 41,
+      "pattern": "誰/の/どなた/どの方",
+      "page": 247,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 42,
+      "pattern": "どう/いかが",
+      "page": 247,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 43,
+      "pattern": "どのぐらい/どれぐらい",
+      "page": 248,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 44,
+      "pattern": "何/幾",
+      "page": 248,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 45,
+      "pattern": "なぜ/どうして/なんで",
+      "page": 248,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 46,
+      "pattern": "が",
+      "page": 249,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 47,
+      "pattern": "を",
+      "page": 250,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 48,
+      "pattern": "で",
+      "page": 250,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 49,
+      "pattern": "に",
+      "page": 251,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 50,
+      "pattern": "と",
+      "page": 251,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 51,
+      "pattern": "の",
+      "page": 252,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 52,
+      "pattern": "へ",
+      "page": 253,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 53,
+      "pattern": "まで",
+      "page": 253,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 54,
+      "pattern": "~を",
+      "page": 253,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 55,
+      "pattern": "~と",
+      "page": 255,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 56,
+      "pattern": "~や",
+      "page": 255,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 57,
+      "pattern": "~か",
+      "page": 255,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 58,
+      "pattern": "~も",
+      "page": 255,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 59,
+      "pattern": "~は",
+      "page": 256,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 60,
+      "pattern": "~しか~ない",
+      "page": 256,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 61,
+      "pattern": "~だけ",
+      "page": 257,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 62,
+      "pattern": "~くらい/ぐらい",
+      "page": 257,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 63,
+      "pattern": "~など",
+      "page": 257,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 64,
+      "pattern": "~が",
+      "page": 258,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 65,
+      "pattern": "~も/でも",
+      "page": 258,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 66,
+      "pattern": "~けれども/けど/けれど",
+      "page": 259,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 67,
+      "pattern": "~しかし",
+      "page": 259,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 68,
+      "pattern": "~から",
+      "page": 259,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 69,
+      "pattern": "~ので",
+      "page": 260,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 70,
+      "pattern": "~て/で",
+      "page": 260,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 71,
+      "pattern": "~ながら",
+      "page": 260,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 72,
+      "pattern": "~それに",
+      "page": 260,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 73,
+      "pattern": "~それとも",
+      "page": 261,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 74,
+      "pattern": "~それから",
+      "page": 261,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 75,
+      "pattern": "~そして",
+      "page": 261,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 76,
+      "pattern": "~それで",
+      "page": 261,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 77,
+      "pattern": "~ね",
+      "page": 261,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 78,
+      "pattern": "~ねえ",
+      "page": 261,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 79,
+      "pattern": "~よ",
+      "page": 262,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 80,
+      "pattern": "~よね",
+      "page": 262,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 81,
+      "pattern": "~かな/かしら",
+      "page": 262,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 82,
+      "pattern": "~時間+すぎ/まえ",
+      "page": 263,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 83,
+      "pattern": "~たち/ら/た",
+      "page": 263,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 84,
+      "pattern": "~や~や",
+      "page": 263,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 85,
+      "pattern": "~一度/一度に",
+      "page": 264,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 86,
+      "pattern": "~ずつ",
+      "page": 264,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 87,
+      "pattern": "~と/も",
+      "page": 264,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 88,
+      "pattern": "~あまり",
+      "page": 264,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 89,
+      "pattern": "~少し",
+      "page": 265,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 90,
+      "pattern": "~ぜんぜん",
+      "page": 265,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 91,
+      "pattern": "~ほとんど",
+      "page": 265,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 92,
+      "pattern": "~いつも",
+      "page": 265,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 93,
+      "pattern": "~どうぞ",
+      "page": 265,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 94,
+      "pattern": "~やっと",
+      "page": 265,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 95,
+      "pattern": "~ぜひ",
+      "page": 266,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 96,
+      "pattern": "~そろそろ",
+      "page": 266,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 97,
+      "pattern": "~をください",
+      "page": 267,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 98,
+      "pattern": "~てください/ないでください",
+      "page": 267,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 99,
+      "pattern": "~てくださいませんか/ないでくださいませんか",
+      "page": 267,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 100,
+      "pattern": "~ましょう",
+      "page": 267,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 101,
+      "pattern": "~ましょうか",
+      "page": 268,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 102,
+      "pattern": "~たい",
+      "page": 268,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 103,
+      "pattern": "~がほしい",
+      "page": 268,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 104,
+      "pattern": "~でしょう/だろう",
+      "page": 269,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 105,
+      "pattern": "~たほうがいい",
+      "page": 269,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 106,
+      "pattern": "~にする/になる",
+      "page": 269,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 107,
+      "pattern": "~の/もの",
+      "page": 269,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 108,
+      "pattern": "~もう/また",
+      "page": 270,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 109,
+      "pattern": "~まだ",
+      "page": 270,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 110,
+      "pattern": "~ずっと",
+      "page": 270,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 111,
+      "pattern": "~までに",
+      "page": 271,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 112,
+      "pattern": "~ほうが/へ",
+      "page": 271,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 113,
+      "pattern": "~前に",
+      "page": 271,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 114,
+      "pattern": "~とき",
+      "page": 271,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 115,
+      "pattern": "~場合",
+      "page": 272,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 116,
+      "pattern": "~てから",
+      "page": 272,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 117,
+      "pattern": "~あとで",
+      "page": 272,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 118,
+      "pattern": "~ほかに(は)",
+      "page": 272,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 119,
+      "pattern": "~と~とどちらが~か",
+      "page": 273,
+      "type": "文法",
+      "level": "N5"
+    },
+    {
+      "id": 120,
+      "pattern": "~で~がいちばん",
+      "page": 273,
+      "type": "文法",
+      "level": "N5"
+    }
+  ]
+}
