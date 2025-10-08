@@ -1,0 +1,29 @@
+{
+  "examInfo": {
+    "level": "N5",
+    "year": 2018,
+    "title": "日本語能力試験 N5 2018年 答案"
+  },
+  "answerKey": {
+    "vocabulary": {
+      "problem1": [4, 1, 3, 1, 3, 4, 1, 4, 2, 3, 2, 2],
+      "problem2": [4, 3, 2, 1, 1, 4, 3, 2],
+      "problem3": [4, 4, 3, 1, 2, 1, 2, 3, 4, 1],
+      "problem4": [2, 1, 3, 2, 4]
+    },
+    "grammar_reading": {
+      "problem1": [2, 4, 1, 4, 2, 3, 1, 3, 1, 2, 4, 3, 2, 4, 3, 1],
+      "problem2": [4, 2, 3, 2, 1],
+      "problem3": [2, 1, 4, 3, 3],
+      "problem4": [3, 2, 1],
+      "problem5": [2, 3],
+      "problem6": [4]
+    },
+    "listening": {
+      "problem1": [3, 3, 1, 4, 2, 1, 4],
+      "problem2": [4, 1, 3, 1, 2, 2],
+      "problem3": [3, 3, 1, 2, 2],
+      "problem4": [1, 3, 3, 2, 1, 2]
+    }
+  }
+}
