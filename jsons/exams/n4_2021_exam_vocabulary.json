@@ -1,0 +1,361 @@
+{
+  "sectionId": "vocabulary",
+  "sectionName": "言語知識（文字・語彙）",
+  "problems": [
+    {
+      "problemId": 1,
+      "problemType": "kanji_to_hiragana",
+      "description": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "バスが　８時に　出発します。",
+          "underlinedWord": "出発",
+          "options": [
+            "しゅっはつ",
+            "しゅうはつ",
+            "しゅっぱつ",
+            "しゅうぱつ"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "questionNumber": 2,
+          "question": "すぐに　答えて　ください。",
+          "underlinedWord": "答",
+          "options": [
+            "おぼえて",
+            "おしえて",
+            "かんがえて",
+            "こたえて"
+          ],
+          "correctAnswer": 4
+        },
+        {
+          "questionNumber": 3,
+          "question": "あの　人は　心が　きれいです。",
+          "underlinedWord": "心",
+          "options": [
+            "きもち",
+            "あたま",
+            "かだち",
+            "こころ"
+          ],
+          "correctAnswer": 4
+        },
+        {
+          "questionNumber": 4,
+          "question": "最後の　ページを　見て　ください。",
+          "underlinedWord": "最後",
+          "options": [
+            "さいしょ",
+            "さいご",
+            "せいご",
+            "せいしょ"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "questionNumber": 5,
+          "question": "この　みちを　行くと、少し　遠いです。",
+          "underlinedWord": "遠",
+          "options": [
+            "おそい",
+            "ちかい",
+            "とおい",
+            "はやい"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "questionNumber": 6,
+          "question": "おととしの　冬、日本を　りょこうしました。",
+          "underlinedWord": "冬",
+          "options": [
+            "あき",
+            "ゆ",
+            "なつ",
+            "はる"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "questionNumber": 7,
+          "question": "あしたの　じゅぎょうの　子習をします。",
+          "underlinedWord": "子習",
+          "options": [
+            "よしゅう",
+            "ようしゅう",
+            "よしゅ",
+            "ようしゅ"
+          ],
+          "correctAnswer": 2
+        }
+      ]
+    },
+    {
+      "problemId": 2,
+      "problemType": "hiragana_to_kanji",
+      "description": "＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+      "questions": [
+        {
+          "questionNumber": 8,
+          "question": "としょかんで　えいがの　本を　かりました。",
+          "underlinedWord": "えいが",
+          "options": [
+            "映語",
+            "英語",
+            "英画",
+            "映画"
+          ],
+          "correctAnswer": 4
+        },
+        {
+          "questionNumber": 9,
+          "question": "すずきさんは　何を　つくって　いますか。",
+          "underlinedWord": "つくって",
+          "options": [
+            "送って",
+            "使って",
+            "作って",
+            "売って"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "questionNumber": 10,
+          "question": "たくさん　うんどうを　したので、つかれました。",
+          "underlinedWord": "うんどう",
+          "options": [
+            "連動",
+            "運動",
+            "連働",
+            "運働"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "questionNumber": 11,
+          "question": "あそこに　大きな　ふねが　見えます。",
+          "underlinedWord": "ふね",
+          "options": [
+            "寺",
+            "船",
+            "島",
+            "雲"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "questionNumber": 12,
+          "question": "わからない　かんじを　じしょで　しらべる。",
+          "underlinedWord": "しらべる",
+          "options": [
+            "探べる",
+            "知べる",
+            "調べる",
+            "研べる"
+          ],
+          "correctAnswer": 3
+        }
+      ]
+    },
+    {
+      "problemId": 3,
+      "problemType": "contextual_usage",
+      "description": "（　　）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+      "questions": [
+        {
+          "questionNumber": 13,
+          "question": "あの（　　）を　かぶって　いる　人が　たなかさんです。",
+          "options": [
+            "くつした",
+            "とけい",
+            "ぼうし",
+            "めがね"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "questionNumber": 14,
+          "question": "のった　電車はとても（　　）いたので、すわれませんでした。",
+          "options": [
+            "あつまって",
+            "こんで",
+            "たりて",
+            "くりかえして"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "questionNumber": 15,
+          "question": "日本に　行った　とき、きものを　きたり、まつりで　おどったり、いろいろな（　　）を　しました。",
+          "options": [
+            "けいけん",
+            "しゅうかん",
+            "きょうみ",
+            "けっか"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "questionNumber": 16,
+          "question": "どんな　まんがが　すきか、小学生に（　　）を　しました。",
+          "options": [
+            "コンサート",
+            "コンピュータ",
+            "アンケート",
+            "アルコール"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "questionNumber": 17,
+          "question": "わたしが　かりて　いる　アパートの（　　）は１か月７万円です。",
+          "options": [
+            "ふりこみ",
+            "ちょきん",
+            "おつり",
+            "やちん"
+          ],
+          "correctAnswer": 4
+        },
+        {
+          "questionNumber": 18,
+          "question": "この　しゃしんに（　　）いるのは　わたしの　りょうしんです。",
+          "options": [
+            "かかって",
+            "ついて",
+            "うつって",
+            "とどいて"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "questionNumber": 19,
+          "question": "しんかんせんの　きっぷは、かたみちなら１万円、（　　）なら２万円です。",
+          "options": [
+            "みいでん",
+            "おうふく",
+            "うんでん",
+            "あんない"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "questionNumber": 20,
+          "question": "ひっこしの　とき、さらは　かみで（　　）はこに　入れます。",
+          "options": [
+            "ひろって",
+            "かたづけて",
+            "つかまえて",
+            "つつんで"
+          ],
+          "correctAnswer": 4
+        }
+      ]
+    },
+    {
+      "problemId": 4,
+      "problemType": "paraphrase",
+      "description": "＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+      "questions": [
+        {
+          "questionNumber": 21,
+          "question": "２ねんまえに　きょうとへ　行きました。",
+          "options": [
+            "きのう　きょうとへ　行きました。",
+            "おととい　きょうとへ　行きました。",
+            "きょねん　きょうとへ　行きました。",
+            "おととし　きょうとへ　行きました。"
+          ],
+          "correctAnswer": 4
+        },
+        {
+          "questionNumber": 22,
+          "question": "もりさんは　にこにこして　いました。",
+          "options": [
+            "もりさんは　やすんで　いました。",
+            "もりさんは　あそんで　いました。",
+            "もりさんは　うたって　いました。",
+            "もりさんは　わらって　いました。"
+          ],
+          "correctAnswer": 4
+        },
+        {
+          "questionNumber": 23,
+          "question": "たなかさんは　どくしんです。",
+          "options": [
+            "たなかさんは　けっこんして　います。",
+            "たなかさんは　けっこんして　いません。",
+            "たなかさんは　ひとりで　すんで　います。",
+            "たなかさんは　はたらいて　いません。"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "questionNumber": 24,
+          "question": "これは　やわらかいです。",
+          "options": [
+            "これは　かたく　ないですね。",
+            "これは　にがく　ないですね。",
+            "これは　つめたく　ないですね。",
+            "これは　きたなく　ないですね。"
+          ],
+          "correctAnswer": 1
+        }
+      ]
+    },
+    {
+      "problemId": 5,
+      "problemType": "following_instructions",
+      "description": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　１・２・３・４から　ひとつ　えらんで　ください。",
+      "questions": [
+        {
+          "questionNumber": 25,
+          "question": "しめる",
+          "options": [
+            "きょうかしょを　しめて　ください。",
+            "目を　しめて　ください。",
+            "ドアを　しめて　ください。",
+            "ラジオを　しめて　ください。"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "questionNumber": 26,
+          "question": "むしあつい",
+          "options": [
+            "ゆうべは　むしあつくて、あまり　ねられませんでした。",
+            "アルバイトに　行く　日を　カレンダーに　れんらくして　おきます。",
+            "はじめて　会った人に　めいしを　れんらくして、あいさつを　しました。",
+            "あしたの　かいぎの　時間を　はやしさんに　れんらくしました。"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "questionNumber": 27,
+          "question": "けいかく",
+          "options": [
+            "ひこうきの　チケットは　電話か　メールで　けいかくが　できます。",
+            "あしたは　ゆうがたから　雨が　ふる　けいかくです。",
+            "来月　行く　りょこうの　けいかくが　まだ　きまって　いません。",
+            "来週は　しごとが　いそがしく　なる　けいかくです。"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "questionNumber": 28,
+          "question": "そだてる",
+          "options": [
+            "母が　そだてた　花が　きれいに　さきました。",
+            "外国に　行きたいので、お金を　そだてて　います。",
+            "おきゃくさんが　来るので、あさから　ごちそうを　そだてました。",
+            "１年前から　そだてて　いる　ビルが　もうすぐ　できます。"
+          ],
+          "correctAnswer": 1
+        }
+      ]
+    }
+  ]
+}

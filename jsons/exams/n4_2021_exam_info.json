@@ -1,0 +1,25 @@
+{
+  "examInfo": {
+    "level": "N4",
+    "year": 2021,
+    "month": 12,
+    "title": "日本語能力試験 N4 2021年12月",
+    "sections": [
+      {
+        "name": "言語知識（文字・語彙）",
+        "duration": 30,
+        "totalQuestions": 28
+      },
+      {
+        "name": "言語知識（文法）・読解",
+        "duration": 60,
+        "totalQuestions": 29
+      },
+      {
+        "name": "聴解",
+        "duration": 35,
+        "totalQuestions": 23
+      }
+    ]
+  }
+}

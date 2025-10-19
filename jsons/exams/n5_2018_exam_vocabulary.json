@@ -1,0 +1,439 @@
+{
+  "sectionId": "vocabulary",
+  "sectionName": "言語知識（文字・語彙）",
+  "problems": [
+    {
+      "problemId": 1,
+      "problemType": "kanji_to_hiragana",
+      "description": "＿＿の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "あしたは　雨ですか。",
+          "underlinedWord": "雨",
+          "options": [
+            "ゆき",
+            "はれ",
+            "くもり",
+            "あめ"
+          ],
+          "correctAnswer": 4
+        },
+        {
+          "questionNumber": 2,
+          "question": "きょうしつで　書いて　ください。",
+          "underlinedWord": "書",
+          "options": [
+            "かいて",
+            "きいて",
+            "はいて",
+            "ひいて"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "questionNumber": 3,
+          "question": "しゃしんは　はこの　中に　あります。",
+          "underlinedWord": "中",
+          "options": [
+            "そば",
+            "そと",
+            "なか",
+            "よこ"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "questionNumber": 4,
+          "question": "この　いすは　小さいです。",
+          "underlinedWord": "小",
+          "options": [
+            "ちいさい",
+            "ちさい",
+            "しいさい",
+            "しさい"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "questionNumber": 5,
+          "question": "あしたは　火よう日です。",
+          "underlinedWord": "火よう日",
+          "options": [
+            "どようび",
+            "すいようび",
+            "かようび",
+            "にちようび"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "questionNumber": 6,
+          "question": "きれいな　空ですね。",
+          "underlinedWord": "空",
+          "options": [
+            "いえ",
+            "うみ",
+            "にわ",
+            "そら"
+          ],
+          "correctAnswer": 4
+        },
+        {
+          "questionNumber": 7,
+          "question": "せいとは　百人　います。",
+          "underlinedWord": "百人",
+          "options": [
+            "ひゃくにん",
+            "びゃくにん",
+            "ひゃくじん",
+            "びゃくじん"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "questionNumber": 8,
+          "question": "魚が　たくさん　いますよ。",
+          "underlinedWord": "魚",
+          "options": [
+            "ねこ",
+            "とり",
+            "いぬ",
+            "さかな"
+          ],
+          "correctAnswer": 4
+        },
+        {
+          "questionNumber": 9,
+          "question": "パンを　半分　ともだちに　あげました。",
+          "underlinedWord": "半分",
+          "options": [
+            "はんふん",
+            "はんぶん",
+            "ほんぶん",
+            "ほんふん"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "questionNumber": 10,
+          "question": "ぎんこうと　スーパーの　間に　ほそい　みちが　あります。",
+          "underlinedWord": "間",
+          "options": [
+            "あいた",
+            "となり",
+            "あいだ",
+            "どなり"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "questionNumber": 11,
+          "question": "たまごを　三つ　とって　ください。",
+          "underlinedWord": "三つ",
+          "options": [
+            "いつつ",
+            "みっつ",
+            "さんつ",
+            "ごつ"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "questionNumber": 12,
+          "question": "きょうは　元気が　いいですね。",
+          "underlinedWord": "元気",
+          "options": [
+            "けんき",
+            "げんき",
+            "でんき",
+            "てんき"
+          ],
+          "correctAnswer": 2
+        }
+      ]
+    },
+    {
+      "problemId": 2,
+      "problemType": "hiragana_to_kanji",
+      "description": "＿＿の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+      "questions": [
+        {
+          "questionNumber": 13,
+          "question": "この　わいしゃつを　ください。",
+          "underlinedWord": "わいしゃつ",
+          "options": [
+            "ウイシャソ",
+            "ウイシャツ",
+            "ワイシャソ",
+            "ワイシャツ"
+          ],
+          "correctAnswer": 4
+        },
+        {
+          "questionNumber": 14,
+          "question": "わたしの　くには　かわが　おおいです。",
+          "underlinedWord": "かわ",
+          "options": [
+            "花",
+            "山",
+            "川",
+            "木"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "questionNumber": 15,
+          "question": "ヤンさんの　がっこうは　どこですか。",
+          "underlinedWord": "がっこう",
+          "options": [
+            "宇校",
+            "学校",
+            "宇枚",
+            "学枚"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "questionNumber": 16,
+          "question": "この　ざっしを　みて　ください。",
+          "underlinedWord": "みて",
+          "options": [
+            "見て",
+            "買て",
+            "貝て",
+            "目て"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "questionNumber": 17,
+          "question": "この　カメラは　たかいですね。",
+          "underlinedWord": "たかい",
+          "options": [
+            "高い",
+            "安い",
+            "古い",
+            "新い"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "questionNumber": 18,
+          "question": "きのうは　かいしゃを　やすみました。",
+          "underlinedWord": "かいしゃ",
+          "options": [
+            "公仕",
+            "公社",
+            "会仕",
+            "会社"
+          ],
+          "correctAnswer": 4
+        },
+        {
+          "questionNumber": 19,
+          "question": "まだ　いわないで　ください。",
+          "underlinedWord": "いわないで",
+          "options": [
+            "行わないで",
+            "立わないで",
+            "言わないで",
+            "食わないで"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "questionNumber": 20,
+          "question": "らいげつ　けっこんします。",
+          "underlinedWord": "らいげつ",
+          "options": [
+            "今月",
+            "来月",
+            "来週",
+            "今週"
+          ],
+          "correctAnswer": 2
+        }
+      ]
+    },
+    {
+      "problemId": 3,
+      "problemType": "contextual_usage",
+      "description": "（　　）に　なにが　はいりますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+      "questions": [
+        {
+          "questionNumber": 21,
+          "question": "わたしの　へやは　この　アパートの　2（　　）です。",
+          "options": [
+            "ほん",
+            "さつ",
+            "だい",
+            "かい"
+          ],
+          "correctAnswer": 4
+        },
+        {
+          "questionNumber": 22,
+          "question": "その　ナイフで　りんごを（　　）ください。",
+          "options": [
+            "おきて",
+            "つけて",
+            "しめて",
+            "きって"
+          ],
+          "correctAnswer": 4
+        },
+        {
+          "questionNumber": 23,
+          "question": "（　　）を　わすれましたから、じかんが　わかりません。",
+          "options": [
+            "じしょ",
+            "ちず",
+            "とけい",
+            "さいふ"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "questionNumber": 24,
+          "question": "わたしの　うちは　えきに　ちかいですから、（　　）です。",
+          "options": [
+            "べんり",
+            "じょうぶ",
+            "いっぱい",
+            "へた"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "questionNumber": 25,
+          "question": "なつやすみは　まいにち（　　）で　およぎました。",
+          "options": [
+            "レストラン",
+            "プール",
+            "エレベーター",
+            "ビル"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "questionNumber": 26,
+          "question": "しらない　ことばが　ありましたから、せんせいに（　　）しました。",
+          "options": [
+            "しつもん",
+            "べんきょう",
+            "れんしゅう",
+            "じゅぎょう"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "questionNumber": 27,
+          "question": "この　へやは　あついですから、（　　）を　あけましょう。",
+          "options": [
+            "おふろ",
+            "まど",
+            "エアコン",
+            "テーブル"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "questionNumber": 28,
+          "question": "きのうは　がっこうで　たくさん　かんじを（　　）。",
+          "options": [
+            "うりました",
+            "もちました",
+            "おぼえました",
+            "こまりました"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "questionNumber": 29,
+          "question": "この　コーヒーは、さとうを　たくさん　いれましたから、（　　）です。",
+          "options": [
+            "わかい",
+            "くろい",
+            "まるい",
+            "あまい"
+          ],
+          "correctAnswer": 4
+        },
+        {
+          "questionNumber": 30,
+          "question": "つよい　かぜが（　　）います。",
+          "options": [
+            "ふいて",
+            "いそいで",
+            "とんで",
+            "はしって"
+          ],
+          "correctAnswer": 1
+        }
+      ]
+    },
+    {
+      "problemId": 4,
+      "problemType": "paraphrase",
+      "description": "＿＿の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。",
+      "questions": [
+        {
+          "questionNumber": 31,
+          "question": "これは　りょうしんの　しゃしんです。",
+          "options": [
+            "これは　そふと　そぼの　しゃしんです。",
+            "これは　ちちと　ははの　しゃしんです。",
+            "これは　あにと　おとうとの　しゃしんです。",
+            "これは　あねと　いもうとの　しゃしんです。"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "questionNumber": 32,
+          "question": "この　ダンスは　やさしいです。",
+          "options": [
+            "この　ダンスは　かんたんです。",
+            "この　ダンスは　たいへんです。",
+            "この　ダンスは　たのしいです。",
+            "この　ダンスは　つまらないです。"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "questionNumber": 33,
+          "question": "ふくを　せんたくしました。",
+          "options": [
+            "ふくを　ぬぎました。",
+            "ふくを　わたしました。",
+            "ふくを　あらいました。",
+            "ふくを　きました。"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "questionNumber": 34,
+          "question": "この　へやは　くらいですね。",
+          "options": [
+            "この　へやは　あかるいですね。",
+            "この　へやは　あかるくないですね。",
+            "この　へやは　しずかじゃ　ないですね。",
+            "この　へやは　しずかですね。"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "questionNumber": 35,
+          "question": "リーさんは　もりさんに　ペンを　かしました。",
+          "options": [
+            "リーさんは　もりさんに　ペンを　もらいました。",
+            "もりさんは　リーさんに　ペンを　もらいました。",
+            "リーさんは　もりさんに　ペンを　かりました。",
+            "もりさんは　リーさんに　ペンを　かりました。"
+          ],
+          "correctAnswer": 4
+        }
+      ]
+    }
+  ]
+}

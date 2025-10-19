@@ -1,0 +1,240 @@
+{
+  "N5": {
+    "level": "N5",
+    "total_items": 22,
+    "all_items": [
+      {
+        "id": 17,
+        "pattern": "三类动词区分",
+        "page": 236,
+        "type": "词性变化",
+        "level": "N5"
+      },
+      {
+        "id": 18,
+        "pattern": "自动词和他动词",
+        "page": 236,
+        "type": "词性变化",
+        "level": "N5"
+      },
+      {
+        "id": 19,
+        "pattern": "动词ます形/动词体形",
+        "page": 237,
+        "type": "词性变化",
+        "level": "N5"
+      },
+      {
+        "id": 20,
+        "pattern": "动词て形",
+        "page": 238,
+        "type": "词性变化",
+        "level": "N5"
+      },
+      {
+        "id": 21,
+        "pattern": "动词た形",
+        "page": 239,
+        "type": "词性变化",
+        "level": "N5"
+      },
+      {
+        "id": 22,
+        "pattern": "动词ない形",
+        "page": 240,
+        "type": "词性变化",
+        "level": "N5"
+      },
+      {
+        "id": 23,
+        "pattern": "动词体形普通形",
+        "page": 240,
+        "type": "词性变化",
+        "level": "N5"
+      },
+      {
+        "id": 24,
+        "pattern": "する",
+        "page": 241,
+        "type": "词性变化",
+        "level": "N5"
+      },
+      {
+        "id": 25,
+        "pattern": "やる",
+        "page": 241,
+        "type": "词性变化",
+        "level": "N5"
+      },
+      {
+        "id": 26,
+        "pattern": "できる",
+        "page": 242,
+        "type": "词性变化",
+        "level": "N5"
+      },
+      {
+        "id": 27,
+        "pattern": "ある",
+        "page": 242,
+        "type": "词性变化",
+        "level": "N5"
+      },
+      {
+        "id": 28,
+        "pattern": "いる",
+        "page": 243,
+        "type": "词性变化",
+        "level": "N5"
+      },
+      {
+        "id": 29,
+        "pattern": "形容词普通形",
+        "page": 244,
+        "type": "词性变化",
+        "level": "N5"
+      },
+      {
+        "id": 30,
+        "pattern": "形容词敬体形",
+        "page": 244,
+        "type": "词性变化",
+        "level": "N5"
+      },
+      {
+        "id": 31,
+        "pattern": "形容词て形",
+        "page": 244,
+        "type": "词性变化",
+        "level": "N5"
+      },
+      {
+        "id": 32,
+        "pattern": "形容词た形",
+        "page": 245,
+        "type": "词性变化",
+        "level": "N5"
+      },
+      {
+        "id": 33,
+        "pattern": "い形容词普通形",
+        "page": 245,
+        "type": "词性变化",
+        "level": "N5"
+      },
+      {
+        "id": 34,
+        "pattern": "い形容词敬体形",
+        "page": 245,
+        "type": "词性变化",
+        "level": "N5"
+      },
+      {
+        "id": 35,
+        "pattern": "い形容词+名词",
+        "page": 245,
+        "type": "词性变化",
+        "level": "N5"
+      },
+      {
+        "id": 36,
+        "pattern": "い形容词て形",
+        "page": 246,
+        "type": "词性变化",
+        "level": "N5"
+      },
+      {
+        "id": 37,
+        "pattern": "い形容词た形",
+        "page": 246,
+        "type": "词性变化",
+        "level": "N5"
+      },
+      {
+        "id": 38,
+        "pattern": "い形容词+动词",
+        "page": 246,
+        "type": "词性变化",
+        "level": "N5"
+      }
+    ]
+  },
+  "N4": {
+    "level": "N4",
+    "total_items": 7,
+    "all_items": [
+      {
+        "id": 8,
+        "pattern": "~可能助动词~られる/られる",
+        "page": 189,
+        "type": "词性变化",
+        "level": "N4"
+      },
+      {
+        "id": 9,
+        "pattern": "~使役助动词~せる/させる",
+        "page": 190,
+        "type": "词性变化",
+        "level": "N4"
+      },
+      {
+        "id": 10,
+        "pattern": "~被动助动词~れる/られる",
+        "page": 190,
+        "type": "词性变化",
+        "level": "N4"
+      },
+      {
+        "id": 11,
+        "pattern": "~使役被动助动词~される/させられる",
+        "page": 191,
+        "type": "词性变化",
+        "level": "N4"
+      },
+      {
+        "id": 12,
+        "pattern": "~命令助动词~ろ/よ",
+        "page": 191,
+        "type": "词性变化",
+        "level": "N4"
+      },
+      {
+        "id": 13,
+        "pattern": "~禁止助动词~な",
+        "page": 191,
+        "type": "词性变化",
+        "level": "N4"
+      },
+      {
+        "id": 111,
+        "pattern": "~敬語助动词~れる/られる",
+        "page": 221,
+        "type": "词性变化",
+        "level": "N4"
+      }
+    ]
+  },
+  "N3": {
+    "level": "N3",
+    "total_items": 0,
+    "all_items": []
+  },
+  "N2": {
+    "level": "N2",
+    "total_items": 1,
+    "all_items": [
+      {
+        "id": 6,
+        "pattern": "~得る/得ない",
+        "page": 80,
+        "type": "词性变化",
+        "level": "N2"
+      }
+    ]
+  },
+  "N1": {
+    "level": "N1",
+    "total_items": 0,
+    "all_items": []
+  }
+}

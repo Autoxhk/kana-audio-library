@@ -1,0 +1,24 @@
+{
+  "examInfo": {
+    "level": "N5",
+    "year": 2018,
+    "title": "日本語能力試験 N5 2018年",
+    "sections": [
+      {
+        "name": "言語知識（文字・語彙）",
+        "duration": 25,
+        "totalQuestions": 35
+      },
+      {
+        "name": "言語知識（文法）・読解",
+        "duration": 50,
+        "totalQuestions": 32
+      },
+      {
+        "name": "聴解",
+        "duration": 30,
+        "totalQuestions": 32
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "sectionId": "listening",
+  "sectionName": "聴解",
+  "problems": [
+    {
+      "problemId": 1,
+      "problemType": "task_comprehension",
+      "description": "もんだい１では、はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+      "totalQuestions": 7,
+      "answers": [
+        3,
+        3,
+        1,
+        4,
+        2,
+        1,
+        4
+      ]
+    },
+    {
+      "problemId": 2,
+      "problemType": "point_comprehension",
+      "description": "もんだい２では、はじめに　しつもんを　きいて　ください。それから　はなしを　きいて、もんだいようしの　１から４の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+      "totalQuestions": 6,
+      "answers": [
+        4,
+        1,
+        3,
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "problemId": 3,
+      "problemType": "utterance_expressions",
+      "description": "もんだい３では、えを　みながら　しつもんを　きいて　ください。→（やじるし）の　ひとは　なんと　いいますか。１から３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+      "totalQuestions": 5,
+      "answers": [
+        3,
+        3,
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "problemId": 4,
+      "problemType": "quick_response",
+      "description": "もんだい４は、えなどが　ありません。ぶんを　きいて、１から３の　なかから、いちばん　いい　ものを　ひとつ　えらんで　ください。",
+      "totalQuestions": 6,
+      "answers": [
+        1,
+        3,
+        3,
+        2,
+        1,
+        2
+      ]
+    }
+  ]
+}

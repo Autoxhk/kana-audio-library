@@ -1,0 +1,13 @@
+{
+  "level": "N2",
+  "total_items": 1,
+  "all_items": [
+    {
+      "id": 6,
+      "pattern": "~得る/得ない",
+      "page": 80,
+      "type": "词性变化",
+      "level": "N2"
+    }
+  ]
+}
