@@ -1,0 +1,123 @@
+{
+  "category": "Economics",
+  "topic": "Capital Flows and the FX Market",
+  "total_questions": 10,
+  "questions": [
+    {
+      "title": "Capital Flows and the FX Market",
+      "question_number": 1,
+      "question": "<div><div><div>\n<p>What will be the effect on a direct exchange rate quote if the domestic currency appreciates?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Increase",
+        "B": "Decrease",
+        "C": "No change"
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. In the case of a direct exchange rate, the domestic currency is the price currency (the numerator) and the foreign currency is the base currency (the denominator). If the domestic currency appreciates, then fewer units of the domestic currency are required to buy one unit of the foreign currency, and the exchange rate (domestic per foreign) declines. For example, if British pound sterling (GBP) appreciates against the euro (EUR), then euro–sterling (GBP/EUR) might decline.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> In the case of a direct exchange rate, the domestic currency is the price currency (the numerator) and the foreign currency is the base currency (the denominator). If the domestic currency appreciates, then fewer units of the domestic currency are required to buy one unit of the foreign currency, and the exchange rate (domestic per foreign) declines. For example, if British pound sterling (GBP) appreciates against the euro (EUR), then euro–sterling (GBP/EUR) might decline.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Capital Flows and the FX Market",
+      "question_number": 2,
+      "question": "<div><div><p>The <em>most likely</em> reason for a country to encourage foreign direct investment while heavily restricting foreign investment in liquid domestic assets is to:</p>\n<ol>\n<li>prevent capital flight.</li>\n<li>generate an increase in the domestic interest rate.</li>\n<li>stabilize the production capacity of the domestic country.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. Capital flight occurs when foreign investment in liquid domestic assets suddenly decreases. Restricting foreign investment in liquid domestic assets and encouraging foreign direct investment (i.e., investment in illiquid domestic assets) prevents capital flight. Incorrect. Restricting foreign investment in liquid domestic assets will keep the domestic interest rate from rising. Incorrect. Foreign direct investment increases the production capacity of the domestic country. Capital Flows and the FX Market describe common objectives of capital restrictions imposed by governments",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> Capital flight occurs when foreign investment in liquid domestic assets suddenly decreases. Restricting foreign investment in liquid domestic assets and encouraging foreign direct investment (i.e., investment in illiquid domestic assets) prevents capital flight.</p>\n</li>\n<li>\n<p>Incorrect. Restricting foreign investment in liquid domestic assets will keep the domestic interest rate from rising.</p>\n</li>\n<li>\n<p>Incorrect. Foreign direct investment increases the production capacity of the domestic country.</p>\n</li>\n</ol>\n<h4>Capital Flows and the FX Market</h4>\n<ul>\n<li>describe common objectives of capital restrictions imposed by governments</li>\n</ul>\n</div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Capital Flows and the FX Market",
+      "question_number": 3,
+      "question": "<div><div><p>In the classification of currency regimes, a currency board system (CBS) <em>most likely </em>differs from a fixed-rate parity system in that:</p>\n<ol>\n<li>a CBS has a discretionary target level of foreign exchange reserves.</li>\n<li>a CBS can peg to a basket of currencies but a fixed-rate system cannot.</li>\n<li>the monetary authority within a CBS does not act as a traditional lender of last resort.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. In a fixed parity system the monetary authority has a discretionary target level of reserves, but in a CBS it does not because there is a commitment to exchange domestic currency for a specified foreign currency at a fixed exchange rate. Incorrect. It is the fixed-rate system that can use a basket of currencies for the peg. Correct. In a CBS, the monetary authority has an obligation to maintain 100% foreign currency reserves against the monetary base. It therefore cannot lend to troubled financial institutions. As long as the country under a fixed parity regime maintains its exchange peg, the central bank can serve as a lender of last resort. Capital Flows and the FX Market describe exchange rate regimes and explain the effects of exchange rates on countries’ international trade and capital flows",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. In a fixed parity system the monetary authority has a discretionary target level of reserves, but in a CBS it does not because there is a commitment to exchange domestic currency for a specified foreign currency at a fixed exchange rate.</p>\n</li>\n<li>\n<p>Incorrect. It is the fixed-rate system that can use a basket of currencies for the peg.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> In a CBS, the monetary authority has an obligation to maintain 100% foreign currency reserves against the monetary base. It therefore cannot lend to troubled financial institutions. As long as the country under a fixed parity regime maintains its exchange peg, the central bank can serve as a lender of last resort.</p>\n</li>\n</ol>\n<h4>Capital Flows and the FX Market</h4>\n<ul>\n<li>describe exchange rate regimes and explain the effects of exchange rates on countries’ international trade and capital flows</li>\n</ul>\n</div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Capital Flows and the FX Market",
+      "question_number": 4,
+      "question": "<div><div><div>\n<p>An executive from Switzerland checks into a hotel room in Spain and is told by the manager that EUR1 will buy CHF1.2983. From the executive’s perspective, an indirect exchange rate quote would be:</p>\n</div></div></div>",
+      "choices": {
+        "A": "EUR0.7702 per CHF1.",
+        "B": "CHF0.7702 per EUR1.",
+        "C": "EUR1.2983 per CHF1."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. An indirect quote takes the foreign country as the price currency and the domestic country as the base currency. To get Swiss francs—which is the executive’s domestic currency—as the base currency, the quote must be stated as EUR/CHF. Using the manager’s information, the indirect exchange rate is (1/1.2983) = 0.7702.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> An indirect quote takes the foreign country as the price currency and the domestic country as the base currency. To get Swiss francs—which is the executive’s domestic currency—as the base currency, the quote must be stated as EUR/CHF. Using the manager’s information, the indirect exchange rate is (1/1.2983) = 0.7702.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Capital Flows and the FX Market",
+      "question_number": 5,
+      "question": "<div><div><p>Which of the following is <em>most likely</em> a characteristic of a country that follows the dollarization exchange rate regime? The country:</p>\n<ol>\n<li>is able to monetize its domestic debt.</li>\n<li>has the currency credibility of the US dollar.</li>\n<li>has a term structure similar to that of the United States.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. Adopting the US currency will impose fiscal discipline, preventing the government from monetizing its debt. Correct. When a country adopts the US currency as its currency, hence the name dollarization , the dollarized country inherits the currency credibility of the US dollar. Incorrect. The interest rates in a country that adopts the US currency as its currency are generally not the same as in the United States. Capital Flows and the FX Market describe exchange rate regimes and explain the effects of exchange rates on countries’ international trade and capital flows",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Adopting the US currency will impose fiscal discipline, preventing the government from monetizing its debt.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> When a country adopts the US currency as its currency, hence the name <em>dollarization</em>, the dollarized country inherits the currency credibility of the US dollar.</p>\n</li>\n<li>\n<p>Incorrect. The interest rates in a country that adopts the US currency as its currency are generally not the same as in the United States.</p>\n</li>\n</ol>\n<h4>Capital Flows and the FX Market</h4>\n<ul>\n<li>describe exchange rate regimes and explain the effects of exchange rates on countries’ international trade and capital flows</li>\n</ul>\n</div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Capital Flows and the FX Market",
+      "question_number": 6,
+      "question": "<div><div><div>\n<p>Over the past month, the Swiss franc (CHF) has depreciated 12 percent against the British pound (GBP). How much has the pound sterling appreciated against the Swiss franc?</p>\n</div></div></div>",
+      "choices": {
+        "A": "12 percent",
+        "B": "Less than 12 percent",
+        "C": "More than 12 percent"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. The appreciation of the British pound against the Swiss franc is the inverse of the 12 percent depreciation of the Swiss franc against the pound sterling: [1/(1 – 0.12)] – 1 = (1/0.88) – 1 = 0.1364, or 13.64%.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> The appreciation of the British pound against the Swiss franc is the inverse of the 12 percent depreciation of the Swiss franc against the pound sterling: [1/(1 – 0.12)] – 1 = (1/0.88) – 1 = 0.1364, or 13.64%.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Capital Flows and the FX Market",
+      "question_number": 7,
+      "question": "<div><div><div>\n<table class=\"table-style1\" style=\"width:483px\">\n<thead>\n<tr>\n<td style=\"text-align:left; vertical-align:top; width:87px; max-width:87px\"></td>\n<td style=\"text-align:center; vertical-align:bottom; width:97px; max-width:97px\"><strong>Spot Rate</strong></td>\n<td style=\"text-align:center; vertical-align:bottom; width:286px; max-width:286px\"><strong>Expected Spot Rate in One Year</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left; vertical-align:top; width:87px; max-width:87px\">USD/EUR</td>\n<td style=\"text-align:center; vertical-align:top; width:97px; max-width:97px\">1.3001</td>\n<td style=\"text-align:center; vertical-align:top; width:286px; max-width:286px\">1.3456</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top; width:87px; max-width:87px\">USD/GBP</td>\n<td style=\"text-align:center; vertical-align:top; width:97px; max-width:97px\">1.5805</td>\n<td style=\"text-align:center; vertical-align:top; width:286px; max-width:286px\">1.5489</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>Based on the table, the appreciation of which of the following currencies is <em>most likely</em> to occur?</p>\n<ol>\n<li>The US dollar against the euro by 3.38%</li>\n<li>The euro against the US dollar by 3.50%</li>\n<li>The British pound against the US dollar by 2.00%</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. The appreciation of the euro against the US dollar can also be expressed as a depreciation of the US dollar against the euro. Inverting the exchange rate quote from USD/EUR to EUR/USD, so the euro is now the price currency, leads to (1.3001/1.3456) – 1 = –3.38%. The US dollar is expected to depreciate, not appreciate, against the euro by 3.38%. Correct. In the exchange rate quotation, USD/EUR, the US dollar is the price currency and the euro is the base currency. The USD/EUR is expected to increase from 1.3001 to 1.3456. This represents a 3.5% appreciation of the euro against the dollar, i.e., a percentage change of (1.3456/1.3001) – 1 = +3.50%. Incorrect. The USD/GBP is expected to decrease from 1.5805 to 1.5489. This represents a percentage change of (1.5489/1.5805) – 1 = –2.00%. The British pound is expected to depreciate, not appreciate, against the US dollar by 2% because the USD/GBP exchange rate is expressed with the US dollar as the price currency. Capital Flows and the FX Market describe the foreign exchange market, including its functions and participants, distinguish between nominal and real exchange rates, and calculate and interpret the percentage change in a currency relative to another currency",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. The appreciation of the euro against the US dollar can also be expressed as a depreciation of the US dollar against the euro. Inverting the exchange rate quote from USD/EUR to EUR/USD, so the euro is now the price currency, leads to (1.3001/1.3456) – 1 = –3.38%. The US dollar is expected to depreciate, not appreciate, against the euro by 3.38%.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> In the exchange rate quotation, USD/EUR, the US dollar is the price currency and the euro is the base currency. The USD/EUR is expected to increase from 1.3001 to 1.3456. This represents a 3.5% appreciation of the euro against the dollar, i.e., a percentage change of (1.3456/1.3001) – 1 = +3.50%.</p>\n</li>\n<li>\n<p>Incorrect. The USD/GBP is expected to decrease from 1.5805 to 1.5489. This represents a percentage change of (1.5489/1.5805) – 1 = –2.00%. The British pound is expected to depreciate, not appreciate, against the US dollar by 2% because the USD/GBP exchange rate is expressed with the US dollar as the price currency.</p>\n</li>\n</ol>\n<h4>Capital Flows and the FX Market</h4>\n<ul>\n<li>describe the foreign exchange market, including its functions and participants, distinguish between nominal and real exchange rates, and calculate and interpret the percentage change in a currency relative to another currency</li>\n</ul>\n</div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Capital Flows and the FX Market",
+      "question_number": 8,
+      "question": "<div><div><div>\n<p>An exchange rate between two currencies has increased to 1.4500. If the base currency has appreciated by 8 percent against the price currency, the initial exchange rate between the two currencies was <em>closest</em> to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "1.3340.",
+        "B": "1.3426.",
+        "C": "1.5660."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The percentage appreciation of the base currency can be calculated by dividing the appreciated exchange rate by the initial exchange rate. In this case, the unknown is the initial exchange rate. The initial exchange is the value of X that satisfies the formula: 1.4500/ X = 1.08 Solving for X leads to 1.45/1.08 = 1.3426.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The percentage appreciation of the base currency can be calculated by dividing the appreciated exchange rate by the initial exchange rate. In this case, the unknown is the initial exchange rate. The initial exchange is the value of <em>X</em> that satisfies the formula:</p>\n<span>1.4500/<em>X</em> = 1.08</span><p>Solving for <em>X</em> leads to 1.45/1.08 = 1.3426.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Capital Flows and the FX Market",
+      "question_number": 9,
+      "question": "<div><div><p>Assume that the nominal spot exchange rate (USD/EUR) increases by 7.5%, the eurozone price level decreases by 4%, and the US price level increases by 2.5%. The change in the real exchange rate (%) is <em>closest</em> to:</p>\n<ol>\n<li>–6.3%.</li>\n<li>0.7%.</li>\n<li>14.8%.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect because the change in the nominal exchange rate is not included: (1 – 4%)/(1 + 2.5%) – 1= –6.3%. Correct. Real exchange rate = Nominal spot exchange rate × (CPI of the foreign country/CPI of the domestic country) Change in the real exchange rate = [(1 + Change in exchange rate) × (1 + Change in price level in foreign country)]/(1 + Change in price level in domestic country) – 1 = [(1 + 7.5%) × (1 – 4%)]/(1 + 2.5%) – 1 = 0.7% Incorrect because the change in the price levels are inverted: [(1 + 7.5%) × (1 + 2.5%)[/(1 – 4%) – 1= 14.8%. Capital Flows and the FX Market describe the foreign exchange market, including its functions and participants, distinguish between nominal and real exchange rates, and calculate and interpret the percentage change in a currency relative to another currency",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because the change in the nominal exchange rate is not included: (1 – 4%)/(1 + 2.5%) – 1= –6.3%.</p>\n</li>\n<li>\n<p><strong>Correct.</strong></p>\n<p>Real exchange rate = Nominal spot exchange rate × (CPI of the foreign country/CPI of the domestic country)</p>\n<p>Change in the real exchange rate = [(1 + Change in exchange rate) × (1 + Change in price level in foreign country)]/(1 + Change in price level in domestic country) – 1</p>\n<p>= [(1 + 7.5%) × (1 – 4%)]/(1 + 2.5%) – 1 = 0.7%</p>\n</li>\n<li>\n<p>Incorrect because the change in the price levels are inverted: [(1 + 7.5%) × (1 + 2.5%)[/(1 – 4%) – 1= 14.8%.</p>\n</li>\n</ol>\n<h4>Capital Flows and the FX Market</h4>\n<ul>\n<li>describe the foreign exchange market, including its functions and participants, distinguish between nominal and real exchange rates, and calculate and interpret the percentage change in a currency relative to another currency</li>\n</ul>\n</div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Capital Flows and the FX Market",
+      "question_number": 10,
+      "question": "<div><div><p>Which market participants are <em>most likely</em> to limit the use of leverage in the management of their accounts?</p>\n<ol>\n<li>Exchange-traded funds</li>\n<li>Commodity trading advisers</li>\n<li>Bank proprietary trading desks</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. Exchange-traded funds are part of a class of institutional investors referred to as real money accounts. They are usually restricted in their use of leverage or financial derivatives in their accounts. Incorrect. Commodity trading advisers are part of the professional trading community that uses leverage or financial derivatives in the management of their accounts. Incorrect. Proprietary trading desks at banks are part of the professional trading community that uses leverage or financial derivatives in the management of their accounts. Capital Flows and the FX Market describe the foreign exchange market, including its functions and participants, distinguish between nominal and real exchange rates, and calculate and interpret the percentage change in a currency relative to another currency",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> Exchange-traded funds are part of a class of institutional investors referred to as real money accounts. They are usually restricted in their use of leverage or financial derivatives in their accounts.</p>\n</li>\n<li>\n<p>Incorrect. Commodity trading advisers are part of the professional trading community that uses leverage or financial derivatives in the management of their accounts.</p>\n</li>\n<li>\n<p>Incorrect. Proprietary trading desks at banks are part of the professional trading community that uses leverage or financial derivatives in the management of their accounts.</p>\n</li>\n</ol>\n<h4>Capital Flows and the FX Market</h4>\n<ul>\n<li>describe the foreign exchange market, including its functions and participants, distinguish between nominal and real exchange rates, and calculate and interpret the percentage change in a currency relative to another currency</li>\n</ul>\n</div>",
+      "category": "Economics"
+    }
+  ]
+}

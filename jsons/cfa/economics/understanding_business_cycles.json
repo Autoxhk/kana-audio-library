@@ -1,0 +1,227 @@
+{
+  "category": "Economics",
+  "topic": "Understanding Business Cycles",
+  "total_questions": 16,
+  "questions": [
+    {
+      "title": "Understanding Business Cycles",
+      "question_number": 1,
+      "question": "<div><div><p>After noting positive changes in the aggregate index of coincident economic indicators, an increase in the ratio of consumer installment debt to income would <em>most likely</em> help confirm that an expansion is:</p>\n<ol>\n<li>ending.</li>\n<li>underway.</li>\n<li>forthcoming.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. Although the ratio of consumer installment debt to income is a lagging indicator, it is more directly indicating that an upturn has been underway, not that the expansion is over because consumers only borrow heavily when they are confident in the economy. Correct. The ratio of consumer installment debt to income is a lagging indicator. An increase in it, by itself, would be evidence that an upturn is already underway. This would confirm the implication of positive changes in coincident indicators that an expansion is in place. Incorrect. Leading indicators indicate what is coming, but the ratio of consumer installment debt to income is a lagging indicator. The reason it is a lagging indicator is because consumers only borrow heavily when they are confident in the economy. Understanding Business Cycles describe how resource use, consumer and business activity, housing sector activity, and external trade sector activity vary over the business cycle and describe their measurement using economic indicators",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Although the ratio of consumer installment debt to income is a lagging indicator, it is more directly indicating that an upturn has been underway, not that the expansion is over because consumers only borrow heavily when they are confident in the economy.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> The ratio of consumer installment debt to income is a lagging indicator. An increase in it, by itself, would be evidence that an upturn is already underway. This would confirm the implication of positive changes in coincident indicators that an expansion is in place.</p>\n</li>\n<li>\n<p>Incorrect. Leading indicators indicate what is coming, but the ratio of consumer installment debt to income is a lagging indicator. The reason it is a lagging indicator is because consumers only borrow heavily when they are confident in the economy.</p>\n</li>\n</ol>\n<h4>Understanding Business Cycles</h4>\n<ul>\n<li>describe how resource use, consumer and business activity, housing sector activity, and external trade sector activity vary over the business cycle and describe their measurement using economic indicators</li>\n</ul>\n</div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Understanding Business Cycles",
+      "question_number": 2,
+      "question": "<div><div><div>\n<p>Based on typical labor utilization patterns across the business cycle, productivity (output per hours worked) is <em>most likely</em> to be highest:</p>\n</div></div></div>",
+      "choices": {
+        "A": "at the peak of a boom.",
+        "B": "into a maturing expansion.",
+        "C": "at the bottom of a recession."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. At the end of a recession, firms will run “lean production” to generate maximum output with the fewest number of workers.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> At the end of a recession, firms will run “lean production” to generate maximum output with the fewest number of workers.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Understanding Business Cycles",
+      "question_number": 3,
+      "question": "<div><div><div>\n<p>As the expansion phase of the business cycle advances from early stage to late stage, businesses <em>most likely</em> experience a decrease in:</p>\n</div></div></div>",
+      "choices": {
+        "A": "labor costs.",
+        "B": "capital investment.",
+        "C": "availability of qualified workers."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. When an economy’s expansion is well established, businesses often have difficulty finding qualified workers.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> When an economy’s expansion is well established, businesses often have difficulty finding qualified workers.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Understanding Business Cycles",
+      "question_number": 4,
+      "question": "<div><div><div>\n<p>An analyst writes in an economic report that the current phase of the business cycle is characterized by accelerating inflationary pressures and borrowing by companies. The analyst is <em>most likely</em> referring to the:</p>\n</div></div></div>",
+      "choices": {
+        "A": "peak of the business cycle.",
+        "B": "contraction phase of the business cycle.",
+        "C": "early expansion phase of the business cycle."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Accelerating inflation and rapidly expanding capital expenditures typically characterize the peak of the business cycle. During such times, many businesses finance their capital expenditures with debt to expand their production capacity.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Accelerating inflation and rapidly expanding capital expenditures typically characterize the peak of the business cycle. During such times, many businesses finance their capital expenditures with debt to expand their production capacity.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Understanding Business Cycles",
+      "question_number": 5,
+      "question": "<div><div><div>\n<p>The indicator indexes created by various organizations or research agencies:</p>\n</div></div></div>",
+      "choices": {
+        "A": "include only leading indicators to compute their value.",
+        "B": "are highly reliable signals on the phase of business cycles.",
+        "C": "evolve over time in terms of composition and computation formula."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. The indicator indexes are constantly updated for their composition and methodology based on the accumulation of empirical knowledge, and they can certainly include more than just leading indicators.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> The indicator indexes are constantly updated for their composition and methodology based on the accumulation of empirical knowledge, and they can certainly include more than just leading indicators.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Understanding Business Cycles",
+      "question_number": 6,
+      "question": "<div><div><div>\n<p>Which one of the following trends in various economic indicators is <em>most</em> consistent with a recovery from a recession?</p>\n</div></div></div>",
+      "choices": {
+        "A": "A declining inventory–sales ratio and stable industrial production index",
+        "B": "A rising broad stock market index and unit labor costs turning from increasing to decreasing",
+        "C": "A decrease in average weekly initial claims for unemployment insurance and an increase in aggregate real personal income"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. The improving leading indicator, average weekly initial claims for unemployment insurance, and the improving coincident indicator, aggregate real personal income, are most consistent with an economic recovery. Even though a declining inventory-to-sales ratio, a lagging indicator, is consistent with an early recovery, the coincident indicator, the stable industrial production index, does not support that conclusion. Although a rising stock market index can signal economic expansion, the lagging indicator, the unit labor costs, has peaked, which is more consistent with a recession.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> The improving leading indicator, average weekly initial claims for unemployment insurance, and the improving coincident indicator, aggregate real personal income, are most consistent with an economic recovery. Even though a declining inventory-to-sales ratio, a lagging indicator, is consistent with an early recovery, the coincident indicator, the stable industrial production index, does not support that conclusion. Although a rising stock market index can signal economic expansion, the lagging indicator, the unit labor costs, has peaked, which is more consistent with a recession.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Understanding Business Cycles",
+      "question_number": 7,
+      "question": "<div><div><div>\n<p>Which of the following statements gives the <em>best</em> description of nowcasting?</p>\n</div></div></div>",
+      "choices": {
+        "A": "This method is used to forecast future trends in economic variables based on their past and current values.",
+        "B": "This method is used for real-time monitoring of economic and financial variables to continuously assess current conditions and provide an estimate of the current state.",
+        "C": "This method is used to study past relationships between variables to determine which ones have explained the path of a particular variable of interest."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Nowcasting involves the use of techniques to estimate the present state. A is incorrect because nowcasting aims to estimate the present, not forecast the future. C is incorrect because the focus of nowcasting is to estimate the current, present value of a variable, such as GDP.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Nowcasting involves the use of techniques to estimate the present state. A is incorrect because nowcasting aims to estimate the present, not forecast the future. C is incorrect because the focus of nowcasting is to estimate the current, present value of a variable, such as GDP.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Understanding Business Cycles",
+      "question_number": 8,
+      "question": "<div><div><div>\n<p>Which of the following statements is the <em>best</em> description of the characteristics of economic indicators?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Leading indicators are important because they track the entire economy.",
+        "B": "Lagging indicators, in measuring past conditions, do not require revisions.",
+        "C": "A combination of leading and coincident indicators can offer effective forecasts."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Although no single indicator is definitive, a mix of them—which can be affected by various economic determinants—can offer the strongest signal of performance.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Although no single indicator is definitive, a mix of them—which can be affected by various economic determinants—can offer the strongest signal of performance.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Understanding Business Cycles",
+      "question_number": 9,
+      "question": "<div><div><div>\n<p>When the spread between 10-year US Treasury yields and the short-term federal funds rate narrows and at the same time the prime rate stays unchanged, this mix of indicators <em>most likely</em> forecasts future economic:</p>\n</div></div></div>",
+      "choices": {
+        "A": "growth.",
+        "B": "decline.",
+        "C": "stability."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The narrowing spread of this leading indicator foretells a drop in short-term rates and a fall in economic activity. The prime rate is a lagging indicator and typically moves after the economy turns.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The narrowing spread of this leading indicator foretells a drop in short-term rates and a fall in economic activity. The prime rate is a lagging indicator and typically moves after the economy turns.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Understanding Business Cycles",
+      "question_number": 10,
+      "question": "<div><div><div>\n<p>Current economic statistics indicating little change in services inflation, rising residential building permits, and increasing average duration of unemployment are <em>best</em> interpreted as:</p>\n</div></div></div>",
+      "choices": {
+        "A": "conflicting evidence about the direction of the economy.",
+        "B": "evidence that a cyclical upturn is expected to occur in the future.",
+        "C": "evidence that a cyclical downturn is expected to occur in the future."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Rising building permits—a leading indicator—indicate that an upturn is expected to occur or continue. Increasing average duration of unemployment—a lagging indicator—indicates that a downturn has occurred, whereas the lack of any change in services inflation—also a lagging indicator—is neither negative nor positive for the direction of the economy. Taken together, these statistics indicate that a cyclical upturn may be expected to occur.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Rising building permits—a leading indicator—indicate that an upturn is expected to occur or continue. Increasing average duration of unemployment—a lagging indicator—indicates that a downturn has occurred, whereas the lack of any change in services inflation—also a lagging indicator—is neither negative nor positive for the direction of the economy. Taken together, these statistics indicate that a cyclical upturn may be expected to occur.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Understanding Business Cycles",
+      "question_number": 11,
+      "question": "<div><div><div>\n<p>If relative to prior values of their respective indicators, the inventory–sales ratio has risen, unit labor cost is stable, and real personal income has decreased, it is <em>most likely</em> that a peak in the business cycle:</p>\n</div></div></div>",
+      "choices": {
+        "A": "has occurred.",
+        "B": "is just about to occur.",
+        "C": "will occur sometime in the future."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Both inventory–sales and unit labor costs are lagging indicators that decline somewhat after a peak. Real personal income is a coincident indicator that, by its decline, shows a slowdown in business activity.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Both inventory–sales and unit labor costs are lagging indicators that decline somewhat after a peak. Real personal income is a coincident indicator that, by its decline, shows a slowdown in business activity.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Understanding Business Cycles",
+      "question_number": 12,
+      "question": "<div><div><div>\n<p>When aggregate real personal income, industrial output, and the S&amp;P 500 Index all increase in a given period, it is <em>most accurate</em> to conclude that a cyclical upturn is:</p>\n</div></div></div>",
+      "choices": {
+        "A": "occurring.",
+        "B": "about to end.",
+        "C": "about to begin."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Aggregate real personal income and industrial output are coincident indicators, whereas the S&P 500 is a leading indicator. An increase in aggregate personal income and industrial output signals that an expansion is occurring, whereas an increase in the S&P 500 signals that an expansion will occur or is expected to continue. Taken together, these statistics indicate that a cyclical upturn is occurring.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Aggregate real personal income and industrial output are coincident indicators, whereas the S&amp;P 500 is a leading indicator. An increase in aggregate personal income and industrial output signals that an expansion is occurring, whereas an increase in the S&amp;P 500 signals that an expansion will occur or is expected to continue. Taken together, these statistics indicate that a cyclical upturn is occurring.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Understanding Business Cycles",
+      "question_number": 13,
+      "question": "<div><div><div>\n<p>Which of the following is <em>most likely</em> to increase after an increase in aggregate real personal income?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Equity prices",
+        "B": "Building permits for new private housing units",
+        "C": "The ratio of consumer installment debt to income"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Aggregate real personal income is a coincident indicator of the business cycle, and the ratio of consumer installment debt to income is a lagging indicator. Increases in the ratio of consumer installment debt follow increases in average aggregate income during the typical business cycle.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Aggregate real personal income is a coincident indicator of the business cycle, and the ratio of consumer installment debt to income is a lagging indicator. Increases in the ratio of consumer installment debt follow increases in average aggregate income during the typical business cycle.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Understanding Business Cycles",
+      "question_number": 14,
+      "question": "<div><div><div>\n<p>Which of the following indicators is <em>most</em> appropriate in predicting a turning point in the economy?</p>\n</div></div></div>",
+      "choices": {
+        "A": "The Industrial Production Index",
+        "B": "The average bank prime lending rate",
+        "C": "Average weekly hours, manufacturing"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Leading economic indicators have turning points that usually precede those of the overall economy. Average weekly hours, manufacturing is a leading economic indicator. The Industrial Production Index is a coincident economic indicator, and the average bank prime lending rate is a lagging economic indicator.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Leading economic indicators have turning points that usually precede those of the overall economy. Average weekly hours, manufacturing is a leading economic indicator. The Industrial Production Index is a coincident economic indicator, and the average bank prime lending rate is a lagging economic indicator.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Understanding Business Cycles",
+      "question_number": 15,
+      "question": "<div><div><div>\n<p>The unemployment rate is considered a lagging indicator because:</p>\n</div></div></div>",
+      "choices": {
+        "A": "new job types must be defined to count their workers.",
+        "B": "multiworker households change jobs at a slower pace.",
+        "C": "businesses are slow to hire and fire due to related costs."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. This effect makes unemployment rise more slowly as recessions start and fall more slowly as recoveries begin.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> This effect makes unemployment rise more slowly as recessions start and fall more slowly as recoveries begin.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Understanding Business Cycles",
+      "question_number": 16,
+      "question": "<div><div><div>\n<p>During an economic recovery, a lagging unemployment rate is <em>most likely</em> attributable to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "businesses quickly rehiring workers.",
+        "B": "new job seekers entering the labor force.",
+        "C": "underemployed workers transitioning to higher-paying jobs."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. In an economic recovery, new job seekers return to the labor force, and because they seldom find work immediately, their return may initially raise the unemployment rate.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> In an economic recovery, new job seekers return to the labor force, and because they seldom find work immediately, their return may initially raise the unemployment rate.</p></div>",
+      "category": "Economics"
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "category": "Portfolio Management",
+  "topic": "Portfolio Management_ An Overview",
+  "total_questions": 26,
+  "questions": [
+    {
+      "title": "Portfolio Management_ An Overview",
+      "question_number": 1,
+      "question": "<div><div><div>\n<p>Investors should use a portfolio approach to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "reduce risk.",
+        "B": "monitor risk.",
+        "C": "eliminate risk."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Combining assets into a portfolio should reduce the portfolio’s volatility. Specifically, “individuals and institutions should hold portfolios to reduce risk.” As illustrated in the reading, however, risk reduction may not be as great during a period of dramatic economic change.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Combining assets into a portfolio should reduce the portfolio’s volatility. Specifically, “individuals and institutions should hold portfolios to reduce risk.” As illustrated in the reading, however, risk reduction may not be as great during a period of dramatic economic change.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Management_ An Overview",
+      "question_number": 2,
+      "question": "<div><div><p>A key difference between a wrap account and a mutual fund is that wrap accounts:</p>\n<ol>\n<li>have assets that are owned directly by the individual.</li>\n<li>cannot be tailored to the tax needs of a client.</li>\n<li>have a lower required minimum investment.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct . The key difference between a wrap account and a mutual fund is that in a wrap account, the assets are owned directly by the individual. Incorrect. Wrap accounts can be tailored to the tax needs of a client. Incorrect. Wrap accounts have higher required minimum investments. Portfolio Management: An Overview describe mutual funds and compare them with other pooled investment products",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong>. The key difference between a wrap account and a mutual fund is that in a wrap account, the assets are owned directly by the individual.</p>\n</li>\n<li>\n<p>Incorrect. Wrap accounts can be tailored to the tax needs of a client.</p>\n</li>\n<li>\n<p>Incorrect. Wrap accounts have higher required minimum investments.</p>\n</li>\n</ol>\n<h4>Portfolio Management: An Overview</h4>\n<ul>\n<li>describe mutual funds and compare them with other pooled investment products</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Management_ An Overview",
+      "question_number": 3,
+      "question": "<div><div><p>Which of the following is <em>least likely</em> true for a separately managed account (SMA) compared with a mutual fund?</p>\n<ol>\n<li>Assets are directly owned by the individual.</li>\n<li>The minimum investment required to open a SMA is lower than that of a mutual fund.</li>\n<li>Transactions can be tailored to the specific tax needs of the investor.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. SMA assets are directly owned by the individual. The investor has control over which assets are bought and sold as well as the timing of the transactions. Correct . The minimum investment required to open a separately managed account is usually much higher than that to open a mutual fund. Incorrect. SMA transactions can be tailored to the specific tax needs of the investor. Portfolio Management: An Overview describe mutual funds and compare them with other pooled investment products",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. SMA assets are directly owned by the individual. The investor has control over which assets are bought and sold as well as the timing of the transactions.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. The minimum investment required to open a separately managed account is usually much higher than that to open a mutual fund.</p>\n</li>\n<li>\n<p>Incorrect. SMA transactions can be tailored to the specific tax needs of the investor.</p>\n</li>\n</ol>\n<h4>Portfolio Management: An Overview</h4>\n<ul>\n<li>describe mutual funds and compare them with other pooled investment products</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Management_ An Overview",
+      "question_number": 4,
+      "question": "<div><div><div>\n<p>Which of the following is the <em>best</em> reason for an investor to be concerned with the composition of a portfolio?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Risk reduction.",
+        "B": "Downside risk protection.",
+        "C": "Avoidance of investment disasters."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Combining assets into a portfolio should reduce the portfolio’s volatility. The portfolio approach does not necessarily provide downside protection or guarantee that the portfolio always will avoid losses.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Combining assets into a portfolio should reduce the portfolio’s volatility. The portfolio approach does not necessarily provide downside protection or guarantee that the portfolio always will avoid losses.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Management_ An Overview",
+      "question_number": 5,
+      "question": "<div><div><p>ABC Fund invests in Singapore’s government debt with maturities up to three months. It is <em>most likely</em> classified as a:</p>\n<ol>\n<li>fixed-income arbitrage fund.</li>\n<li>money market fund.</li>\n<li>bond mutual fund.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. A fixed-income arbitrage fund attempts to profit from arbitrage opportunities in interest rate securities. Correct . Money market funds invest in short-term corporate or government debt. The difference between a bond mutual fund and a money market fund is the maturity of the underlying assets. In a money market fund, the maturity is as short as overnight and rarely longer than 90 days. Incorrect. Bond mutual funds hold bonds with maturities as short as one year and as long as 30 years. Portfolio Management: An Overview describe mutual funds and compare them with other pooled investment products",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. A fixed-income arbitrage fund attempts to profit from arbitrage opportunities in interest rate securities.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. Money market funds invest in short-term corporate or government debt. The difference between a bond mutual fund and a money market fund is the maturity of the underlying assets. In a money market fund, the maturity is as short as overnight and rarely longer than 90 days.</p>\n</li>\n<li>\n<p>Incorrect. Bond mutual funds hold bonds with maturities as short as one year and as long as 30 years.</p>\n</li>\n</ol>\n<h4>Portfolio Management: An Overview</h4>\n<ul>\n<li>describe mutual funds and compare them with other pooled investment products</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Management_ An Overview",
+      "question_number": 6,
+      "question": "<div><div><div>\n<p>With respect to the formation of portfolios, which of the following statements is <em>most accurate</em>?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Portfolios affect risk less than returns.",
+        "B": "Portfolios affect risk more than returns.",
+        "C": "Portfolios affect risk and returns equally."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. As illustrated in the reading, portfolios reduce risk more than they increase returns.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> As illustrated in the reading, portfolios reduce risk more than they increase returns.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Management_ An Overview",
+      "question_number": 7,
+      "question": "<div><div><div>\n<p>With respect to the portfolio management process, the asset allocation is determined in the:</p>\n</div></div></div>",
+      "choices": {
+        "A": "planning step.",
+        "B": "feedback step.",
+        "C": "execution step."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. The client’s objectives and constraints are established in the investment policy statement and are used to determine the client’s target asset allocation, which occurs in the execution step of the portfolio management process.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> The client’s objectives and constraints are established in the investment policy statement and are used to determine the client’s target asset allocation, which occurs in the execution step of the portfolio management process.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Management_ An Overview",
+      "question_number": 8,
+      "question": "<div><div><p>Which of the following is <em>least likely</em> a part of the execution step of the portfolio management process?</p>\n<ol>\n<li>Security analysis</li>\n<li>Portfolio construction</li>\n<li>Performance measurement</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. Security analysis is a part of the execution step of the portfolio management process. Incorrect. Portfolio construction is a part of the execution step of the portfolio management process. Correct . Performance measurement is a part of the feedback step of the portfolio management process. The execution step includes asset allocation, security analysis, and portfolio construction. Portfolio Management: An Overview describe the steps in the portfolio management process",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Security analysis is a part of the execution step of the portfolio management process.</p>\n</li>\n<li>\n<p>Incorrect. Portfolio construction is a part of the execution step of the portfolio management process.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. Performance measurement is a part of the feedback step of the portfolio management process. The execution step includes asset allocation, security analysis, and portfolio construction.</p>\n</li>\n</ol>\n<h4>Portfolio Management: An Overview</h4>\n<ul>\n<li>describe the steps in the portfolio management process</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Management_ An Overview",
+      "question_number": 9,
+      "question": "<div><div><div>\n<p>The planning step of the portfolio management process is <em>least likely</em> to include an assessment of the client’s</p>\n</div></div></div>",
+      "choices": {
+        "A": "securities.",
+        "B": "constraints.",
+        "C": "risk tolerance."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Securities are analyzed in the execution step. In the planning step, a client’s objectives and constraints are used to develop the investment policy statement.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Securities are analyzed in the execution step. In the planning step, a client’s objectives and constraints are used to develop the investment policy statement.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Management_ An Overview",
+      "question_number": 10,
+      "question": "<div><div><p>The execution step of the portfolio management process includes:</p>\n<ol>\n<li>preparing the investment policy statement.</li>\n<li>finalizing the asset allocation.</li>\n<li>monitoring the portfolio performance.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. Preparation of the investment policy statement occurs in the planning step. Correct . Asset allocation occurs in the execution step. Incorrect. Portfolio monitoring occurs in the feedback step. Portfolio Management: An Overview describe the steps in the portfolio management process",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Preparation of the investment policy statement occurs in the planning step.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. Asset allocation occurs in the execution step.</p>\n</li>\n<li>\n<p>Incorrect. Portfolio monitoring occurs in the feedback step.</p>\n</li>\n</ol>\n<h4>Portfolio Management: An Overview</h4>\n<ul>\n<li>describe the steps in the portfolio management process</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Management_ An Overview",
+      "question_number": 11,
+      "question": "<div><div><p>With respect to the portfolio management process, asset allocation decisions are <em>most likely</em> made in the:</p>\n<ol>\n<li>execution step.</li>\n<li>planning step.</li>\n<li>feedback step.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct . Asset allocation decisions are made in the execution step. Incorrect. Asset allocation decisions are not made in the planning step. Incorrect. Asset allocation decisions are not made in the feedback step. Portfolio Management: An Overview describe the steps in the portfolio management process",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong>. Asset allocation decisions are made in the execution step.</p>\n</li>\n<li>\n<p>Incorrect. Asset allocation decisions are not made in the planning step.</p>\n</li>\n<li>\n<p>Incorrect. Asset allocation decisions are not made in the feedback step.</p>\n</li>\n</ol>\n<h4>Portfolio Management: An Overview</h4>\n<ul>\n<li>describe the steps in the portfolio management process</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Management_ An Overview",
+      "question_number": 12,
+      "question": "<div><div><div>\n<p>With respect to the portfolio management process, the rebalancing of a portfolio’s composition is <em>most likely</em> to occur in the:</p>\n</div></div></div>",
+      "choices": {
+        "A": "planning step.",
+        "B": "feedback step.",
+        "C": "execution step."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Portfolio monitoring and rebalancing occurs in the feedback step of the portfolio management process.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Portfolio monitoring and rebalancing occurs in the feedback step of the portfolio management process.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Management_ An Overview",
+      "question_number": 13,
+      "question": "<div><div><div>\n<p>An analyst gathers the following information for the asset allocations of three portfolios:</p>\n<div>\n<table>\n<thead>\n<tr>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong>Portfolio</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong>Fixed Income (%)</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong>Equity (%)</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong>Alternative Assets (%)</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">1</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">25</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">60</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">15</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">2</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">60</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">25</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">15</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">3</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">15</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">60</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">25</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>Which of the portfolios is <em>most likely</em> appropriate for a client who has a high degree of risk tolerance?</p>\n</div>\n</div></div>",
+      "choices": {
+        "A": "Portfolio 1.",
+        "B": "Portfolio 2.",
+        "C": "Portfolio 3."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Portfolio 3 has the same equity exposure as Portfolio 1 and has a higher exposure to alternative assets, which have greater volatility (as discussed in the section of the reading comparing the endowments from Yale University and the University of Virginia).",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Portfolio 3 has the same equity exposure as Portfolio 1 and has a higher exposure to alternative assets, which have greater volatility (as discussed in the section of the reading comparing the endowments from Yale University and the University of Virginia).</p>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Management_ An Overview",
+      "question_number": 14,
+      "question": "<div><div><p>Security analysis is <em>most likely</em> a part of which step in the portfolio management process?</p>\n<ol>\n<li>The feedback step</li>\n<li>The execution step</li>\n<li>The planning step</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. Under the planning step, there are two parts: understating the client’s needs and preparation of an investment policy statement. Correct . The execution step of the portfolio management process has three parts: asset allocation, security analysis, and portfolio construction. Incorrect. Under the feedback step, there are two parts: portfolio monitoring and rebalancing and performance measurement and reporting. Portfolio Management: An Overview describe the steps in the portfolio management process",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Under the planning step, there are two parts: understating the client’s needs and preparation of an investment policy statement.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. The execution step of the portfolio management process has three parts: asset allocation, security analysis, and portfolio construction.</p>\n</li>\n<li>\n<p>Incorrect. Under the feedback step, there are two parts: portfolio monitoring and rebalancing and performance measurement and reporting.</p>\n</li>\n</ol>\n<h4>Portfolio Management: An Overview</h4>\n<ul>\n<li>describe the steps in the portfolio management process</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Management_ An Overview",
+      "question_number": 15,
+      "question": "<div><div><div>\n<p>Which of the following institutions will <em>on average</em> have the greatest need for liquidity?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Banks.",
+        "B": "Investment companies.",
+        "C": "Non-life insurance companies."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The excess reserves invested by banks need to be relatively liquid. Although investment companies and non-life insurance companies have high liquidity needs, the liquidity need for banks is on average the greatest.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The excess reserves invested by banks need to be relatively liquid. Although investment companies and non-life insurance companies have high liquidity needs, the liquidity need for banks is on average the greatest.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Management_ An Overview",
+      "question_number": 16,
+      "question": "<div><div><p>Which of the following institutional investors is <em>most likely</em> to have a low tolerance for investment risk and relatively high liquidity needs?</p>\n<ol>\n<li>Insurance company</li>\n<li>Defined-benefit pension plan</li>\n<li>Charitable foundation</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct . Insurance companies need to be relatively conservative and liquid, given the necessity of paying claims when due. Incorrect. Defined-benefit pension plans tend to have quite high risk tolerances and quite low liquidity needs. Incorrect. Endowments/foundations typically have high risk tolerances and quite low liquidity needs. Portfolio Management: An Overview describe types of investors and distinctive characteristics and needs of each",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong>. Insurance companies need to be relatively conservative and liquid, given the necessity of paying claims when due.</p>\n</li>\n<li>\n<p>Incorrect. Defined-benefit pension plans tend to have quite high risk tolerances and quite low liquidity needs.</p>\n</li>\n<li>\n<p>Incorrect. Endowments/foundations typically have high risk tolerances and quite low liquidity needs.</p>\n</li>\n</ol>\n<h4>Portfolio Management: An Overview</h4>\n<ul>\n<li>describe types of investors and distinctive characteristics and needs of each</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Management_ An Overview",
+      "question_number": 17,
+      "question": "<div><div><div>\n<p>Which of the following institutional investors will <em>most likely</em> have the longest time horizon?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Defined benefit plan.",
+        "B": "University endowment.",
+        "C": "Life insurance company."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Most foundations and endowments are established with the intent of having perpetual lives. Although defined benefit plans and life insurance companies have portfolios with a long time horizon, they are not perpetual.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Most foundations and endowments are established with the intent of having perpetual lives. Although defined benefit plans and life insurance companies have portfolios with a long time horizon, they are not perpetual.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Management_ An Overview",
+      "question_number": 18,
+      "question": "<div><div><p>Which of the following types of institutions is <em>most likely</em> to have a long investment time horizon and a higher level of risk tolerance?</p>\n<ol>\n<li>An endowment</li>\n<li>An insurance company</li>\n<li>A bank</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct . Endowments have a long investment time horizon and a high level of risk tolerance. Incorrect. Insurance companies have a short investment time horizon and a low level of risk tolerance. Incorrect. Banks have a short investment time horizon and a low level of risk tolerance. Portfolio Management: An Overview describe types of investors and distinctive characteristics and needs of each",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong>. Endowments have a long investment time horizon and a high level of risk tolerance.</p>\n</li>\n<li>\n<p>Incorrect. Insurance companies have a short investment time horizon and a low level of risk tolerance.</p>\n</li>\n<li>\n<p>Incorrect. Banks have a short investment time horizon and a low level of risk tolerance.</p>\n</li>\n</ol>\n<h4>Portfolio Management: An Overview</h4>\n<ul>\n<li>describe types of investors and distinctive characteristics and needs of each</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Management_ An Overview",
+      "question_number": 19,
+      "question": "<div><div><p>Which of the following types of investment clients <em>most likely</em> have the lowest liquidity needs?</p>\n<ol>\n<li>Insurance companies</li>\n<li>Banks</li>\n<li>Endowments and foundations</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. Insurance companies have liquidity needs to meet claims. Incorrect. Banks have high liquidity needs to meet repayment of deposits. Correct . A typical investment objective of an endowment or a foundation is to maintain the real capital value of the fund while generating income to fund the objectives of the institution. Liquidity needs are typically rather low. Portfolio Management: An Overview describe types of investors and distinctive characteristics and needs of each",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Insurance companies have liquidity needs to meet claims.</p>\n</li>\n<li>\n<p>Incorrect. Banks have high liquidity needs to meet repayment of deposits.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. A typical investment objective of an endowment or a foundation is to maintain the real capital value of the fund while generating income to fund the objectives of the institution. Liquidity needs are typically rather low.</p>\n</li>\n</ol>\n<h4>Portfolio Management: An Overview</h4>\n<ul>\n<li>describe types of investors and distinctive characteristics and needs of each</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Management_ An Overview",
+      "question_number": 20,
+      "question": "<div><div><div>\n<p>A defined benefit plan with a large number of retirees is <em>likely</em> to have a high need for:</p>\n</div></div></div>",
+      "choices": {
+        "A": "income.",
+        "B": "liquidity.",
+        "C": "insurance."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Income is necessary to meet the cash flow obligation to retirees. Although defined benefit plans have a need for income, the need for liquidity typically is quite low. A retiree may need life insurance; however, a defined benefit plan does not need insurance.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Income is necessary to meet the cash flow obligation to retirees. Although defined benefit plans have a need for income, the need for liquidity typically is quite low. A retiree may need life insurance; however, a defined benefit plan does not need insurance.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Management_ An Overview",
+      "question_number": 21,
+      "question": "<div><div><p>Which of the following is <em>most likely</em> a feature of a defined-contribution pension plan? The</p>\n<ol>\n<li>employer accepts the investment risk.</li>\n<li>employer provides a specified retirement benefit.</li>\n<li>employee accepts the investment risk.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. This is a feature of a defined-benefit plan. Incorrect. This is a feature of a defined-benefit plan. Correct . In a defined-contribution pension plan, the employee accepts the investment risk and is responsible for ensuring that the plan contains enough funds to meet retirement needs. Portfolio Management: An Overview describe defined contribution and defined benefit pension plans",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. This is a feature of a defined-benefit plan.</p>\n</li>\n<li>\n<p>Incorrect. This is a feature of a defined-benefit plan.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. In a defined-contribution pension plan, the employee accepts the investment risk and is responsible for ensuring that the plan contains enough funds to meet retirement needs.</p>\n</li>\n</ol>\n<h4>Portfolio Management: An Overview</h4>\n<ul>\n<li>describe defined contribution and defined benefit pension plans</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Management_ An Overview",
+      "question_number": 22,
+      "question": "<div><div><div>\n<p>Which of the following institutional investors is <em>most likely</em> to manage investments in mutual funds?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Insurance companies.",
+        "B": "Investment companies.",
+        "C": "University endowments."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Investment companies manage investments in mutual funds. Although endowments and insurance companies may own mutual funds, they do not issue or redeem shares of mutual funds.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Investment companies manage investments in mutual funds. Although endowments and insurance companies may own mutual funds, they do not issue or redeem shares of mutual funds.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Management_ An Overview",
+      "question_number": 23,
+      "question": "<div><div><div>\n<p>Which of the following investment products is <em>most likely</em> to trade at their net asset value per share?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Exchange traded funds.",
+        "B": "Open-end mutual funds.",
+        "C": "Closed-end mutual funds."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Open-end funds trade at their net asset value per share, whereas closed-end funds and exchange traded funds can trade at a premium or a discount.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Open-end funds trade at their net asset value per share, whereas closed-end funds and exchange traded funds can trade at a premium or a discount.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Management_ An Overview",
+      "question_number": 24,
+      "question": "<div><div><div>\n<p>Which of the following financial products is <em>least likely</em> to have a capital gain distribution?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Exchange traded funds.",
+        "B": "Open-end mutual funds.",
+        "C": "Closed-end mutual funds."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Exchange traded funds do not have capital gain distributions. If an investor sells shares of an ETF (or open-end mutual fund or closed-end mutual fund), the investor may have a capital gain or loss on the shares sold; however, the gain (or loss) from the sale is not a distribution.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Exchange traded funds do not have capital gain distributions. If an investor sells shares of an ETF (or open-end mutual fund or closed-end mutual fund), the investor may have a capital gain or loss on the shares sold; however, the gain (or loss) from the sale is not a distribution.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Management_ An Overview",
+      "question_number": 25,
+      "question": "<div><div><div>\n<p>Which of the following forms of pooled investments is subject to the <em>least</em> amount of regulation?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Hedge funds.",
+        "B": "Exchange traded funds.",
+        "C": "Closed-end mutual funds."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Hedge funds are currently exempt from the reporting requirements of a typical public investment company.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Hedge funds are currently exempt from the reporting requirements of a typical public investment company.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Management_ An Overview",
+      "question_number": 26,
+      "question": "<div><div><div>\n<p>Which of the following pooled investments is <em>most likely</em> characterized by a few large investments?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Hedge funds.",
+        "B": "Buyout funds.",
+        "C": "Venture capital funds."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Buyout funds or private equity firms make only a few large investments in private companies with the intent of selling the restructured companies in three to five years. Venture capital funds also have a short time horizon; however, these funds consist of many small investments in companies with the expectation that only a few will have a large payoff (and that most will fail).",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Buyout funds or private equity firms make only a few large investments in private companies with the intent of selling the restructured companies in three to five years. Venture capital funds also have a short time horizon; however, these funds consist of many small investments in companies with the expectation that only a few will have a large payoff (and that most will fail).</p></div>",
+      "category": "Portfolio Management"
+    }
+  ]
+}

@@ -1,0 +1,725 @@
+{
+  "category": "Equity Investments",
+  "topic": "Market Organization and Structure",
+  "total_questions": 57,
+  "questions": [
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 1,
+      "question": "<div><div><p>An investor purchases 1,000 shares of a non-dividend paying stock on margin and sells them after one year as follows:</p>\n<table class=\"table-style1\" style=\"width:227px; height:123px\">\n<tbody>\n<tr>\n<td style=\"width:183px; max-width:183px\">Purchase price per share</td>\n<td style=\"text-align:center; width:36px; max-width:36px\">$25</td>\n</tr>\n<tr>\n<td style=\"width:183px; max-width:183px\">Sale price per share</td>\n<td style=\"text-align:center; width:36px; max-width:36px\">$20</td>\n</tr>\n<tr>\n<td style=\"width:183px; max-width:183px\">Annual call money rate</td>\n<td style=\"text-align:center; width:36px; max-width:36px\">5%</td>\n</tr>\n<tr>\n<td style=\"width:183px; max-width:183px\">Leverage ratio</td>\n<td style=\"text-align:center; width:36px; max-width:36px\">2</td>\n</tr>\n</tbody>\n</table>\n<p>Ignoring commissions, the investor's holding period return is <em>closest</em> to:</p>\n<ol>\n<li>–45%.</li>\n<li>–40%.</li>\n<li>–23%.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct because this is the return on investment to the investor. Total purchase price = $25/share × 1,000 shares = $25,000 Leverage ratio of 2 indicates buyer's equity of 1/2 Buyer's equity = 1/2 × $25,000 = $12,500 Borrowed money = $25,000 – $12,500 = $12,500 Interest on borrowed money = 5% × $12,500 = $625 Sale proceeds = $20/share × 1,000 shares = $20,000 Net return to buyer = Sale proceeds – purchase price – interest payment = $20,000 – $25,000 – $625 = –$5,625 Return on investment to the buyer = –$5,625 / $12,500 = –45% Incorrect because in determining the return to the investor, cost of borrowing is not taken into account. ($20,000 – $25,000)/$12,500 = –40% Incorrect because this is the return on purchase value ignoring leverage. ($20,000 – $625 – $25,000)/$25,000 = –22.5% Market Organization and Structure calculate and interpret the leverage ratio, the rate of return on a margin transaction, and the security price at which the investor would receive a margin call",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong> because this is the return on investment to the investor.</p>\n<p>Total purchase price = $25/share × 1,000 shares = $25,000</p>\n<p>Leverage ratio of 2 indicates buyer's equity of 1/2</p>\n<p>Buyer's equity = 1/2 × $25,000 = $12,500</p>\n<p>Borrowed money = $25,000 – $12,500 = $12,500</p>\n<p>Interest on borrowed money = 5% × $12,500 = $625</p>\n<p>Sale proceeds = $20/share × 1,000 shares = $20,000</p>\n<p>Net return to buyer = Sale proceeds – purchase price – interest payment = $20,000 – $25,000 – $625 = –$5,625</p>\n<p>Return on investment to the buyer = –$5,625 / $12,500 = –45%</p>\n</li>\n<li>\n<p>Incorrect because in determining the return to the investor, cost of borrowing is not taken into account.</p>\n<p>($20,000 – $25,000)/$12,500 = –40%</p>\n</li>\n<li>\n<p>Incorrect because this is the return on purchase value ignoring leverage.</p>\n<p>($20,000 – $625 – $25,000)/$25,000 = –22.5%</p>\n</li>\n</ol>\n<h4>Market Organization and Structure</h4>\n<ul>\n<li>calculate and interpret the leverage ratio, the rate of return on a margin transaction, and the security price at which the investor would receive a margin call</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 2,
+      "question": "<div><div><div>\n<p>Akihiko Takabe has designed a sophisticated forecasting model, which predicts the movements in the overall stock market, in the hope of earning a return in excess of a fair return for the risk involved. He uses the predictions of the model to decide whether to buy, hold, or sell the shares of an index fund that aims to replicate the movements of the stock market. Takabe would <em>best</em> be characterized as a(n):</p>\n</div></div></div>",
+      "choices": {
+        "A": "hedger.",
+        "B": "investor.",
+        "C": "information-motivated trader."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Takabe is best characterized as an information-motivated trader. Takabe believes that his model provides him superior information about the movements in the stock market and his motive for trading is to profit from this information.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Takabe is best characterized as an information-motivated trader. Takabe believes that his model provides him superior information about the movements in the stock market and his motive for trading is to profit from this information.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 3,
+      "question": "<div><div><p>If it is difficult to find a buyer or a seller for an asset, the asset <em>most likely</em> trades on:</p>\n<ol>\n<li>brokered markets.</li>\n<li>order-driven markets.</li>\n<li>quote-driven markets.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct because brokered markets are markets in which brokers arrange trades among their clients. Brokers organize markets for instruments for which finding a buyer or seller willing to trade is difficult because the instruments are unique. Incorrect because organizing order-driven markets for these instruments (assets for which finding a buyer or seller is difficult) is not sensible because too few traders would submit orders for them. Incorrect because dealers generally are unable or unwilling to hold these assets in their inventories, they will not make markets in them. Market Organization and Structure describe how securities, contracts, and currencies are traded in quote-driven, order-driven, and brokered markets",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong> because brokered markets are markets in which brokers arrange trades among their clients. Brokers organize markets for instruments for which finding a buyer or seller willing to trade is difficult because the instruments are unique.</p>\n</li>\n<li>\n<p>Incorrect because organizing order-driven markets for these instruments (assets for which finding a buyer or seller is difficult) is not sensible because too few traders would submit orders for them.</p>\n</li>\n<li>\n<p>Incorrect because dealers generally are unable or unwilling to hold these assets in their inventories, they will not make markets in them.</p>\n</li>\n</ol>\n<h4>Market Organization and Structure</h4>\n<ul>\n<li>describe how securities, contracts, and currencies are traded in quote-driven, order-driven, and brokered markets</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 4,
+      "question": "<div><div><div>\n<p>James Beach is young and has substantial wealth. A significant proportion of his stock portfolio consists of emerging market stocks that offer relatively high expected returns at the cost of relatively high risk. Beach believes that investment in emerging market stocks is appropriate for him given his ability and willingness to take risk. Which of the following labels <em>most appropriately</em> describes Beach?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Hedger.",
+        "B": "Investor.",
+        "C": "Information-motivated trader."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Beach is an investor. He is simply investing in risky assets consistent with his level of risk aversion. Beach is not hedging any existing risk or using information to identify and trade mispriced securities. Therefore, he is not a hedger or an information-motivated trader.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Beach is an investor. He is simply investing in risky assets consistent with his level of risk aversion. Beach is not hedging any existing risk or using information to identify and trade mispriced securities. Therefore, he is not a hedger or an information-motivated trader.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 5,
+      "question": "<div><div><p>The economic equilibrium interest rate in a well-functioning financial system is <em>most likely</em> determined by:</p>\n<ol>\n<li>central bank policy.</li>\n<li>the supply and demand of money.</li>\n<li>the time consumption preferences of borrowers.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. Central bank policy is a specific example impacting the supply of money, but it does not address the demand of money. Correct. The economic equilibrium interest rate in a well-functioning financial system is determined by the aggregate supply and demand of money. An expected rate of return exists, in theory, in which the aggregate supply of funds for investing and the aggregate demand for funds through borrowing and equity issuing are equal. Incorrect. Time consumption preferences of borrowers are a specific example impacting the demand of money, but they do not address the supply of money. Market Organization and Structure explain the main functions of the financial system",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Central bank policy is a specific example impacting the supply of money, but it does not address the demand of money.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> The economic equilibrium interest rate in a well-functioning financial system is determined by the aggregate supply and demand of money. An expected rate of return exists, in theory, in which the aggregate supply of funds for investing and the aggregate demand for funds through borrowing and equity issuing are equal.</p>\n</li>\n<li>\n<p>Incorrect. Time consumption preferences of borrowers are a specific example impacting the demand of money, but they do not address the supply of money.</p>\n</li>\n</ol>\n<h4>Market Organization and Structure</h4>\n<ul>\n<li>explain the main functions of the financial system</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 6,
+      "question": "<div><div><div>\n<p>Lisa Smith owns a manufacturing company in the United States. Her company has sold goods to a customer in Brazil and will be paid in Brazilian real (BRL) in three months. Smith is concerned about the possibility of the BRL depreciating more than expected against the US dollar (USD). Therefore, she is planning to sell three-month futures contracts on the BRL. The seller of such contracts generally gains when the BRL depreciates against the USD. If Smith were to sell these future contracts, she would <em>most appropriately</em> be described as a(n):</p>\n</div></div></div>",
+      "choices": {
+        "A": "hedger.",
+        "B": "investor.",
+        "C": "information-motivated trader."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Smith is a hedger. The short position on the BRL futures contract offsets the BRL long position in three months. She is hedging the risk of the BRL depreciating against the USD. If the BRL depreciates, the value of the cash inflow goes down in USD terms but there is a gain on the futures contracts.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Smith is a hedger. The short position on the BRL futures contract offsets the BRL long position in three months. She is hedging the risk of the BRL depreciating against the USD. If the BRL depreciates, the value of the cash inflow goes down in USD terms but there is a gain on the futures contracts.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 7,
+      "question": "<div><div><p>A pension fund has decided to invest in alternative investments. Which of the following assets is the fund <em>most likely</em> to include in this strategy?</p>\n<ol>\n<li>Securitized debt</li>\n<li>Convertible bonds</li>\n<li>Equity exchange-traded funds</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. Securitized debt is an alternative investment, so it could be included in this strategy. Incorrect. Convertible bonds are traditional, not alternative, investments. Incorrect. Equity exchange-traded funds are traditional not alternative investments. Market Organization and Structure describe classifications of assets and markets",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> Securitized debt is an alternative investment, so it could be included in this strategy.</p>\n</li>\n<li>\n<p>Incorrect. Convertible bonds are traditional, not alternative, investments.</p>\n</li>\n<li>\n<p>Incorrect. Equity exchange-traded funds are traditional not alternative investments.</p>\n</li>\n</ol>\n<h4>Market Organization and Structure</h4>\n<ul>\n<li>describe classifications of assets and markets</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 8,
+      "question": "<div><div><div>\n<p>Which of the following is <em>not</em> a function of the financial system?</p>\n</div></div></div>",
+      "choices": {
+        "A": "To regulate arbitrageurs’ profits (excess returns).",
+        "B": "To help the economy achieve allocational efficiency.",
+        "C": "To facilitate borrowing by businesses to fund current operations."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Regulation of arbitrageurs’ profits is not a function of the financial system. The financial system facilitates the allocation of capital to the best uses and the purposes for which people use the financial system, including borrowing money.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Regulation of arbitrageurs’ profits is not a function of the financial system. The financial system facilitates the allocation of capital to the best uses and the purposes for which people use the financial system, including borrowing money.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 9,
+      "question": "<div><div><p>A university endowment fund is mandated to hold some of its value in alternative investments. Which of the following would <em>most likely</em> be included in the fund’s alternative investments portfolio?</p>\n<ol>\n<li>Real estate securities</li>\n<li>Exchange-traded funds</li>\n<li>Convertible preferred shares</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. Real estate securities qualify as alternative investments. Incorrect. Exchange-traded funds are publicly traded and do not qualify as alternative investments Incorrect. Convertible preferred shares may be publicly traded and do not qualify as alternative investments. Market Organization and Structure describe classifications of assets and markets",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> Real estate securities qualify as alternative investments.</p>\n</li>\n<li>\n<p>Incorrect. Exchange-traded funds are publicly traded and do not qualify as alternative investments</p>\n</li>\n<li>\n<p>Incorrect. Convertible preferred shares may be publicly traded and do not qualify as alternative investments.</p>\n</li>\n</ol>\n<h4>Market Organization and Structure</h4>\n<ul>\n<li>describe classifications of assets and markets</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 10,
+      "question": "<div><div><div>\n<p>An investor primarily invests in stocks of publicly traded companies. The investor wants to increase the diversification of his portfolio. A friend has recommended investing in real estate properties. The purchase of real estate would <em>best</em> be characterized as a transaction in the:</p>\n</div></div></div>",
+      "choices": {
+        "A": "derivative investment market.",
+        "B": "traditional investment market.",
+        "C": "alternative investment market."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. The purchase of real estate properties is a transaction in the alternative investment market.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> The purchase of real estate properties is a transaction in the alternative investment market.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 11,
+      "question": "<div><div><div>\n<p>A hedge fund holds its excess cash in 90-day commercial paper and negotiable certificates of deposit. The cash management policy of the hedge fund is <em>best described</em> as using:</p>\n</div></div></div>",
+      "choices": {
+        "A": "capital market instruments.",
+        "B": "money market instruments.",
+        "C": "intermediate-term debt instruments."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The 90-day commercial paper and negotiable certificates of deposit are money market instruments.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The 90-day commercial paper and negotiable certificates of deposit are money market instruments.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 12,
+      "question": "<div><div><p>When parties exchange fixed cash payments for payments that depend on the returns to a stock or a stock index, they are purchasing a(n):</p>\n<ol>\n<li>index fund.</li>\n<li>equity swap.</li>\n<li>stock option.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. The payments depend on the returns to a stock or a stock index, but an index fund has not been directly purchased. Correct. Equity swaps consist of parties exchanging fixed cash payments for payments that depend on the returns to a stock or a stock index. Incorrect. An option contract allows the holder (the purchaser) of the option to buy or sell an underlying instrument at a specified price at or before a specified date in the future. Market Organization and Structure describe classifications of assets and markets",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. The payments depend on the returns to a stock or a stock index, but an index fund has not been directly purchased.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> Equity swaps consist of parties exchanging fixed cash payments for payments that depend on the returns to a stock or a stock index.</p>\n</li>\n<li>\n<p>Incorrect. An option contract allows the holder (the purchaser) of the option to buy or sell an underlying instrument at a specified price at or before a specified date in the future.</p>\n</li>\n</ol>\n<h4>Market Organization and Structure</h4>\n<ul>\n<li>describe classifications of assets and markets</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 13,
+      "question": "<div><div><p>Forward contracts are <em>most likely</em> to be attractive hedging vehicles to investors who:</p>\n<ol>\n<li>do not want to make an upfront outlay of cash.</li>\n<li>want to reserve the right to close out their position early.</li>\n<li>are not in a position to investigate the creditworthiness of their counterparties.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. Most forward contracts do not require an upfront cash outlay. Other hedging vehicles, such as futures (which require margin accounts) and options (which must be purchased for a fee), do require upfront payments. Incorrect. Because forward contracts are custom agreements, it is difficult to find another party who is both willing to take over the contract obligations and acceptable to the existing counterparty. Futures would be more suitable in this circumstance because they can be closed out early. Incorrect. Forward contracts are custom agreements that depend on each counterparty’s knowledge of the creditworthiness of the other. Market Organization and Structure describe the major types of securities, currencies, contracts, commodities, and real assets that trade in organized markets, including their distinguishing characteristics and major subtypes",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> Most forward contracts do not require an upfront cash outlay. Other hedging vehicles, such as futures (which require margin accounts) and options (which must be purchased for a fee), do require upfront payments.</p>\n</li>\n<li>\n<p>Incorrect. Because forward contracts are custom agreements, it is difficult to find another party who is both willing to take over the contract obligations and acceptable to the existing counterparty. Futures would be more suitable in this circumstance because they can be closed out early.</p>\n</li>\n<li>\n<p>Incorrect. Forward contracts are custom agreements that depend on each counterparty’s knowledge of the creditworthiness of the other.</p>\n</li>\n</ol>\n<h4>Market Organization and Structure</h4>\n<ul>\n<li>describe the major types of securities, currencies, contracts, commodities, and real assets that trade in organized markets, including their distinguishing characteristics and major subtypes</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 14,
+      "question": "<div><div><div>\n<p>An oil and gas exploration and production company announces that it is offering 30 million shares to the public at $45.50 each. This transaction is <em>most likely</em> a sale in the:</p>\n</div></div></div>",
+      "choices": {
+        "A": "futures market.",
+        "B": "primary market.",
+        "C": "secondary market."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. This transaction is a sale in the primary market. It is a sale of shares from the issuer to the investor and funds flow to the issuer of the security from the purchaser.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> This transaction is a sale in the primary market. It is a sale of shares from the issuer to the investor and funds flow to the issuer of the security from the purchaser.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 15,
+      "question": "<div><div><p>Dark pools are <em>best</em> described as:</p>\n<ol>\n<li>operated by investment dealers that specialize in high-risk securities.</li>\n<li>trading venues that exercise little regulatory authority over their subscribers.</li>\n<li>certain groups of similar assets that issue securities representing shared ownership.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. Dark pools may be operated by investment dealers but do not necessarily trade high risk securities. Correct. Dark pools are trading venues that function like exchanges but do not exercise regulatory authority over their subscribers except with respect to the conduct of their trading in those venues. Incorrect. This is the definition of pooled investment vehicles. Market Organization and Structure describe types of financial intermediaries and services that they provide",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Dark pools may be operated by investment dealers but do not necessarily trade high risk securities.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> Dark pools are trading venues that function like exchanges but do not exercise regulatory authority over their subscribers except with respect to the conduct of their trading in those venues.</p>\n</li>\n<li>\n<p>Incorrect. This is the definition of pooled investment vehicles.</p>\n</li>\n</ol>\n<h4>Market Organization and Structure</h4>\n<ul>\n<li>describe types of financial intermediaries and services that they provide</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 16,
+      "question": "<div><div><div>\n<p>Consider a mutual fund that invests primarily in fixed-income securities that have been determined to be appropriate given the fund’s investment goal. Which of the following is <em>least likely</em> to be a part of this fund?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Warrants.",
+        "B": "Commercial paper.",
+        "C": "Repurchase agreements."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Warrants are least likely to be part of the fund. Warrant holders have the right to buy the issuer’s common stock. Thus, warrants are typically classified as equity and are least likely to be a part of a fixed-income mutual fund. Commercial paper and repurchase agreements are short-term fixed-income securities.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Warrants are least likely to be part of the fund. Warrant holders have the right to buy the issuer’s common stock. Thus, warrants are typically classified as equity and are least likely to be a part of a fixed-income mutual fund. Commercial paper and repurchase agreements are short-term fixed-income securities.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 17,
+      "question": "<div><div><div>\n<p>A friend has asked you to explain the differences between open-end and closed-end funds. Which of the following will you <em>most likely</em> include in your explanation?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Closed-end funds are unavailable to new investors.",
+        "B": "When investors sell the shares of an open-end fund, they can receive a discount or a premium to the fund’s net asset value.",
+        "C": "When selling shares, investors in an open-end fund sell the shares back to the fund whereas investors in a closed-end fund sell the shares to others in the secondary market."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. When investors want to sell their shares, investors of an open-end fund sell the shares back to the fund whereas investors of a closed-end fund sell the shares to others in the secondary market. Closed-end funds are available to new investors but they must purchase shares in the fund in the secondary market. The shares of a closed-end fund trade at a premium or discount to net asset value.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> When investors want to sell their shares, investors of an open-end fund sell the shares back to the fund whereas investors of a closed-end fund sell the shares to others in the secondary market. Closed-end funds are available to new investors but they must purchase shares in the fund in the secondary market. The shares of a closed-end fund trade at a premium or discount to net asset value.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 18,
+      "question": "<div><div><p>Which of the following statements is <em>most</em> accurate concerning a short position of 100 shares of a stock at $50 per share?</p>\n<ol>\n<li>Maximum loss of $5,000</li>\n<li>Maximum gain of $5,000</li>\n<li>Unlimited maximum gain</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. The potential losses are unbounded because the market price that an investor can repurchase the stock to return to the security’s lender can go up with no limit. If the stock goes from $50 to $135 per share the loss would be $8,500. Correct. The potential gains on a short position are limited to no more than 100%; the potential losses are unbounded. The lowest market price per share an investor can repurchase the stock to return to the security’s lender is $0, so the maximum gain is ($50 – $0) × 100 = $5,000. Incorrect. The potential gains on a short position are limited to no more than 100%: ($50 – $0) × 100 = $5,000. Market Organization and Structure compare positions an investor can take in an asset",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. The potential losses are unbounded because the market price that an investor can repurchase the stock to return to the security’s lender can go up with no limit. If the stock goes from $50 to $135 per share the loss would be $8,500.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> The potential gains on a short position are limited to no more than 100%; the potential losses are unbounded. The lowest market price per share an investor can repurchase the stock to return to the security’s lender is $0, so the maximum gain is ($50 – $0) × 100 = $5,000.</p>\n</li>\n<li>\n<p>Incorrect. The potential gains on a short position are limited to no more than 100%: ($50 – $0) × 100 = $5,000.</p>\n</li>\n</ol>\n<h4>Market Organization and Structure</h4>\n<ul>\n<li>compare positions an investor can take in an asset</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 19,
+      "question": "<div><div><div>\n<p>An investor buys a stock on margin. Assume that the interest on the loan and the dividend are both paid at the end of the holding period. The data related to the transaction are as follows:</p>\n<table class=\"table-style1\" style=\"width:415px\">\n<tbody>\n<tr>\n<td style=\"width:243px; max-width:243px\">Number of shares</td>\n<td style=\"width:162px; max-width:162px; text-align:center\">500</td>\n</tr>\n<tr>\n<td style=\"width:243px; max-width:243px\">Purchase price per share</td>\n<td style=\"width:162px; max-width:162px; text-align:center\">$28</td>\n</tr>\n<tr>\n<td style=\"width:243px; max-width:243px\">Leverage ratio</td>\n<td style=\"width:162px; max-width:162px; text-align:center\">3.33</td>\n</tr>\n<tr>\n<td style=\"width:243px; max-width:243px\">Commission</td>\n<td style=\"width:162px; max-width:162px; text-align:center\">$0.05/share</td>\n</tr>\n<tr>\n<td style=\"width:243px; max-width:243px\">Position holding period</td>\n<td style=\"width:162px; max-width:162px; text-align:center\">Six months</td>\n</tr>\n<tr>\n<td style=\"width:243px; max-width:243px\">Sale price per share</td>\n<td style=\"width:162px; max-width:162px; text-align:center\">$30</td>\n</tr>\n<tr>\n<td style=\"width:243px; max-width:243px\">Call money rate</td>\n<td style=\"width:162px; max-width:162px; text-align:center\">5% per year</td>\n</tr>\n<tr>\n<td style=\"width:243px; max-width:243px\">Dividend</td>\n<td style=\"width:162px; max-width:162px; text-align:center\">$0.40/share</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>The investor’s total return on this investment over the margin holding period is <em>closest</em> to:</p>\n<ol>\n<li>15.6%.</li>\n<li>16.7%.</li>\n<li>21.4%.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. It computes margin interest for the entire year, not six months. Initial investment [($28 × 500) × (1/3.33)] + ($0.05 × 500) $4,229 – Purchase commission $0.05 × 500 –25 + Trading gain ($30 – $28) × 500 1,000 – Margin interest paid $9,800 × 0.05 –490 + Dividends received $0.40 × 500 200 – Sales commission paid $0.05 × 500 –25 = Remaining equity --- $4,889 Return on investment ($4,889 – $4,229)/$4,229 15.6% Incorrect. It ignores the dividend received during the margin period. Initial investment [($28 × 500) × (1/3.33)] + ($0.05 × 500) $4,229 – Purchase commission $0.05 × 500 –25 + Trading gain ($30 – $28) × 500 1,000 – Margin interest paid $9,800 × 0.05 × 6 months –245 + Dividends received --- 0 – Sales commission paid $0.05 × 500 –25 = Remaining equity --- $4,934 Return on investment ($4,934 – $4,229)/$4,229 16.7% Correct. Initial investment [($28 × 500) × (1/3.33)] + ($0.05 × 500) $4,229 – Purchase commission $0.05 × 500 –25 + Trading gain ($30 – $28) × 500 1,000 – Margin interest paid $9,800 × 0.05 × 6 months –245 + Dividends received $0.40 × 500 200 – Sales commission paid $0.05 × 500 –25 = Remaining equity --- $5,134 Return on investment ($5,134 – $4,229)/$4,229 21.4% Market Organization and Structure calculate and interpret the leverage ratio, the rate of return on a margin transaction, and the security price at which the investor would receive a margin call",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. It computes margin interest for the entire year, not six months.</p>\n<div>\n<table class=\"table-style1\">\n<tbody>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Initial investment</td>\n<td style=\"text-align:center; vertical-align:top\">[($28 × 500) × (1/3.33)] + ($0.05 × 500)</td>\n<td style=\"text-align:center; vertical-align:top\">$4,229</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">– Purchase commission</td>\n<td style=\"text-align:center; vertical-align:top\">$0.05 × 500</td>\n<td style=\"text-align:center; vertical-align:top\">–25</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">+ Trading gain</td>\n<td style=\"text-align:center; vertical-align:top\">($30 – $28) × 500</td>\n<td style=\"text-align:center; vertical-align:top\">1,000</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">– Margin interest paid</td>\n<td style=\"text-align:center; vertical-align:top\">$9,800 × 0.05</td>\n<td style=\"text-align:center; vertical-align:top\">–490</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">+ Dividends received</td>\n<td style=\"text-align:center; vertical-align:top\">$0.40 × 500</td>\n<td style=\"text-align:center; vertical-align:top\">200</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">– Sales commission paid</td>\n<td style=\"text-align:center; vertical-align:top\">$0.05 × 500</td>\n<td style=\"text-align:center; vertical-align:top\">–25</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">= Remaining equity</td>\n<td style=\"vertical-align: top; text-align: center;\">---</td>\n<td style=\"text-align:center; vertical-align:top\">$4,889</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Return on investment</td>\n<td style=\"text-align:center; vertical-align:top\">($4,889 – $4,229)/$4,229</td>\n<td style=\"text-align:center; vertical-align:top\">15.6%</td>\n</tr>\n</tbody>\n</table>\n</div>\n</li>\n<li>\n<p>Incorrect. It ignores the dividend received during the margin period.</p>\n<div>\n<table class=\"table-style1\">\n<tbody>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Initial investment</td>\n<td style=\"text-align:center; vertical-align:top\">[($28 × 500) × (1/3.33)] + ($0.05 × 500)</td>\n<td style=\"text-align:center; vertical-align:top\">$4,229</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">– Purchase commission</td>\n<td style=\"text-align:center; vertical-align:top\">$0.05 × 500</td>\n<td style=\"text-align:center; vertical-align:top\">–25</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">+ Trading gain</td>\n<td style=\"text-align:center; vertical-align:top\">($30 – $28) × 500</td>\n<td style=\"text-align:center; vertical-align:top\">1,000</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">– Margin interest paid</td>\n<td style=\"text-align:center; vertical-align:top\">$9,800 × 0.05 × 6 months</td>\n<td style=\"text-align:center; vertical-align:top\">–245</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">+ Dividends received</td>\n<td style=\"vertical-align: top; text-align: center;\">---</td>\n<td style=\"text-align:center; vertical-align:top\">0</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">– Sales commission paid</td>\n<td style=\"text-align:center; vertical-align:top\">$0.05 × 500</td>\n<td style=\"text-align:center; vertical-align:top\">–25</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">= Remaining equity</td>\n<td style=\"vertical-align: top; text-align: center;\">---</td>\n<td style=\"text-align:center; vertical-align:top\">$4,934</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Return on investment</td>\n<td style=\"text-align:center; vertical-align:top\">($4,934 – $4,229)/$4,229</td>\n<td style=\"text-align:center; vertical-align:top\">16.7%</td>\n</tr>\n</tbody>\n</table>\n</div>\n</li>\n<li>\n<p><strong>Correct.</strong></p>\n<div>\n<table class=\"table-style1\">\n<tbody>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Initial investment</td>\n<td style=\"text-align:center; vertical-align:top\">[($28 × 500) × (1/3.33)] + ($0.05 × 500)</td>\n<td style=\"text-align:center; vertical-align:top\">$4,229</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">– Purchase commission</td>\n<td style=\"text-align:center; vertical-align:top\">$0.05 × 500</td>\n<td style=\"text-align:center; vertical-align:top\">–25</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">+ Trading gain</td>\n<td style=\"text-align:center; vertical-align:top\">($30 – $28) × 500</td>\n<td style=\"text-align:center; vertical-align:top\">1,000</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">– Margin interest paid</td>\n<td style=\"text-align:center; vertical-align:top\">$9,800 × 0.05 × 6 months</td>\n<td style=\"text-align:center; vertical-align:top\">–245</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">+ Dividends received</td>\n<td style=\"text-align:center; vertical-align:top\">$0.40 × 500</td>\n<td style=\"text-align:center; vertical-align:top\">200</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">– Sales commission paid</td>\n<td style=\"text-align:center; vertical-align:top\">$0.05 × 500</td>\n<td style=\"text-align:center; vertical-align:top\">–25</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">= Remaining equity</td>\n<td style=\"vertical-align: top; text-align: center;\">---</td>\n<td style=\"text-align:center; vertical-align:top\">$5,134</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Return on investment</td>\n<td style=\"text-align:center; vertical-align:top\">($5,134 – $4,229)/$4,229</td>\n<td style=\"text-align:center; vertical-align:top\">21.4%</td>\n</tr>\n</tbody>\n</table>\n</div>\n</li>\n</ol>\n<h4>Market Organization and Structure</h4>\n<ul>\n<li>calculate and interpret the leverage ratio, the rate of return on a margin transaction, and the security price at which the investor would receive a margin call</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 20,
+      "question": "<div><div><div>\n<p>The Standard &amp; Poor’s Depositary Receipts (SPDRs) is an investment that tracks the S&amp;P 500 stock market index. Purchases and sales of SPDRs during an average trading day are <em>best</em> described as:</p>\n</div></div></div>",
+      "choices": {
+        "A": "primary market transactions in a pooled investment.",
+        "B": "secondary market transactions in a pooled investment.",
+        "C": "secondary market transactions in an actively managed investment."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. SPDRs trade in the secondary market and are a pooled investment vehicle.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> SPDRs trade in the secondary market and are a pooled investment vehicle.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 21,
+      "question": "<div><div><div>\n<p>Which of the following statements about exchange-traded funds is <em>most correct</em>?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Exchange-traded funds are not backed by any assets.",
+        "B": "The investment companies that create exchange-traded funds are financial intermediaries.",
+        "C": "The transaction costs of trading shares of exchange-traded funds are substantially greater than the combined costs of trading the underlying assets of the fund."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The investment companies that create exchange-traded funds (ETFs) are financial intermediaries. ETFs are securities that represent ownership in the assets held by the fund. The transaction costs of trading shares of ETFs are substantially lower than the combined costs of trading the underlying assets of the ETF.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The investment companies that create exchange-traded funds (ETFs) are financial intermediaries. ETFs are securities that represent ownership in the assets held by the fund. The transaction costs of trading shares of ETFs are substantially lower than the combined costs of trading the underlying assets of the ETF.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 22,
+      "question": "<div><div><div>\n<p>The following data pertain to a margin purchase of a stock:</p>\n<table class=\"table-style1\" style=\"width:437px\">\n<tbody>\n<tr>\n<td style=\"width:284px; max-width:284px\">Purchase price</td>\n<td style=\"width:142px; max-width:142px; text-align:center\">$50/share</td>\n</tr>\n<tr>\n<td style=\"width:284px; max-width:284px\">Sale price</td>\n<td style=\"width:142px; max-width:142px; text-align:center\">$55/share</td>\n</tr>\n<tr>\n<td style=\"width:284px; max-width:284px\">Shares purchased</td>\n<td style=\"width:142px; max-width:142px; text-align:center\">500</td>\n</tr>\n<tr>\n<td style=\"width:284px; max-width:284px\">Margin</td>\n<td style=\"width:142px; max-width:142px; text-align:center\">45%</td>\n</tr>\n<tr>\n<td style=\"width:284px; max-width:284px\">Call money rate</td>\n<td style=\"width:142px; max-width:142px; text-align:center\">6%</td>\n</tr>\n<tr>\n<td style=\"width:284px; max-width:284px\">Dividend</td>\n<td style=\"width:142px; max-width:142px; text-align:center\">$1.80/share</td>\n</tr>\n<tr>\n<td style=\"width:284px; max-width:284px\">Commission on purchase and sale</td>\n<td style=\"width:142px; max-width:142px; text-align:center\">$0.05/share</td>\n</tr>\n</tbody>\n</table>\n<div>If the stock is sold exactly one year after the purchase, the total return on this investment is <em>closest</em> to:</div>\n</div>\n<ol>\n<li>14.4%.</li>\n<li>19.4%.</li>\n<li>22.4%.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. It ignores the dividend received. Proceeds on sale: $55 × 500 $27,500 Payoff loan: $50 × 500 × 0.55 –$13,750 Margin interest paid: $13,750 × 0.06 –$825 Dividend received: $1.80 × 500 Ignored Sales commission paid: $0.05 × 500 –$25 Remaining equity $12,900 Initial Investment: ($50 × 500 × 0.45) + ($0.05 × 500) $11,275 Return on the initial investment: ($12,900 – $11,275)/$11,275 14.4% Incorrect. It switches the percentages between margin and loan. Proceeds on sale: $55 × 500 $27,500 Payoff loan: $50 × 500 × 0.45 –$11,250 Margin interest paid: $11,250 × 0.06 –$675 Dividend received: $1.80 × 500 $900 Sales commission paid: $0.05 × 500 –$25 Remaining equity $16,450 Initial Investment: ($50 × 500 × 0.55) + ($0.05 × 500) $13,775 Return on the initial investment: ($16,450 – $13,775)/$13,775 19.4% Correct. Proceeds on sale $55 × 500 $27,500 Minus payoff loan $50 × 500 × 0.55 –$13,750 Minus margin interest paid $13,750 × 0.06 –$825 Plus dividend received $1.80 × 500 $900 Minus sales commission paid on sale $0.05 × 500 –$25 = Remaining equity $13,800 Initial Investment (including commission) ($50 × 500 × 0.45) + ($0.05 × 500) $11,275 Return on the initial investment: ($13,800 – $11,275)/$11,275 22.4% Market Organization and Structure calculate and interpret the leverage ratio, the rate of return on a margin transaction, and the security price at which the investor would receive a margin call",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. It ignores the dividend received.</p>\n<div>\n<table class=\"table-style1\">\n<tbody>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Proceeds on sale: $55 × 500</td>\n<td style=\"text-align:center; vertical-align:top\">$27,500</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Payoff loan: $50 × 500 × 0.55</td>\n<td style=\"text-align:center; vertical-align:top\">–$13,750</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Margin interest paid: $13,750 × 0.06</td>\n<td style=\"text-align:center; vertical-align:top\">–$825</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Dividend received: $1.80 × 500</td>\n<td style=\"text-align:center; vertical-align:top\">Ignored</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Sales commission paid: $0.05 × 500</td>\n<td style=\"text-align:center; vertical-align:top\">–$25</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Remaining equity</td>\n<td style=\"text-align:center; vertical-align:top\">$12,900</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Initial Investment: ($50 × 500 × 0.45) + ($0.05 × 500)</td>\n<td style=\"text-align:center; vertical-align:top\">$11,275</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Return on the initial investment: ($12,900 – $11,275)/$11,275</td>\n<td style=\"text-align:center; vertical-align:top\"><strong>14.4%</strong></td>\n</tr>\n</tbody>\n</table>\n</div>\n</li>\n<li>\n<p>Incorrect. It switches the percentages between margin and loan.</p>\n<div>\n<div>\n<table class=\"table-style1\">\n<tbody>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Proceeds on sale: $55 × 500</td>\n<td style=\"text-align:center; vertical-align:top\">$27,500</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Payoff loan: $50 × 500 × 0.45</td>\n<td style=\"text-align:center; vertical-align:top\">–$11,250</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Margin interest paid: $11,250 × 0.06</td>\n<td style=\"text-align:center; vertical-align:top\">–$675</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Dividend received: $1.80 × 500</td>\n<td style=\"text-align:center; vertical-align:top\">$900</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Sales commission paid: $0.05 × 500</td>\n<td style=\"text-align:center; vertical-align:top\">–$25</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Remaining equity</td>\n<td style=\"text-align:center; vertical-align:top\">$16,450</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Initial Investment: ($50 × 500 × 0.55) + ($0.05 × 500)</td>\n<td style=\"text-align:center; vertical-align:top\">$13,775</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Return on the initial investment: ($16,450 – $13,775)/$13,775</td>\n<td style=\"text-align:center; vertical-align:top\"><strong>19.4%</strong></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</li>\n<li>\n<p><strong>Correct.</strong></p>\n<div>\n<table class=\"table-style1\">\n<tbody>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Proceeds on sale</td>\n<td style=\"text-align:center; vertical-align:top\">$55 × 500</td>\n<td style=\"text-align:center; vertical-align:top\">$27,500</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">\n<strong>Minus</strong> payoff loan</td>\n<td style=\"text-align:center; vertical-align:top\">$50 × 500 × 0.55</td>\n<td style=\"text-align:center; vertical-align:top\">–$13,750</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">\n<strong>Minus</strong> margin interest paid</td>\n<td style=\"text-align:center; vertical-align:top\">$13,750 × 0.06</td>\n<td style=\"text-align:center; vertical-align:top\">–$825</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">\n<strong>Plus</strong> dividend received</td>\n<td style=\"text-align:center; vertical-align:top\">$1.80 × 500</td>\n<td style=\"text-align:center; vertical-align:top\">$900</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">\n<strong>Minus</strong> sales commission paid on sale</td>\n<td style=\"text-align:center; vertical-align:top\">$0.05 × 500</td>\n<td style=\"text-align:center; vertical-align:top\">–$25</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">= Remaining equity</td>\n<td style=\"text-align:left; vertical-align:top\"></td>\n<td style=\"text-align:center; vertical-align:top\">$13,800</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Initial Investment (including commission)</td>\n<td style=\"text-align:center; vertical-align:top\">($50 × 500 × 0.45) + ($0.05 × 500)</td>\n<td style=\"text-align:center; vertical-align:top\">$11,275</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Return on the initial investment:</td>\n<td style=\"text-align:center; vertical-align:top\">($13,800 – $11,275)/$11,275</td>\n<td style=\"text-align:center; vertical-align:top\"><strong>22.4%</strong></td>\n</tr>\n</tbody>\n</table>\n</div>\n<p></p>\n</li>\n</ol>\n<h4>Market Organization and Structure</h4>\n<ul>\n<li>calculate and interpret the leverage ratio, the rate of return on a margin transaction, and the security price at which the investor would receive a margin call</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 23,
+      "question": "<div><div><p>A trader buys a stock at $64 on margin with a leverage ratio of 2.5 and a maintenance margin of 30%. Below what price will a margin call <em>most likely</em> occur?</p>\n<ol>\n<li>$36.57</li>\n<li>$44.80</li>\n<li>$54.86</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. Mistakes 60% as initial equity. Initial equity = $64 × 0.6 = $38.40 $ 38.40 + 𝑃 − $ 64 𝑃 = 30 % $ 38.40 + P − $ 64 P = 30 % P = $36.57 Incorrect. Simply takes 70% of the original purchase price by mistaking (1 – maintenance margin %) to be equal to the critical price for margin call = 64 × 0.7 = $44.80. Correct. Equity = 1 Leverage ratio = 1 2.5 = 0.4 1 Leverage ratio = 1 2.5 = 0.4 Initial equity = $64 × 0.4 = $25.60 Critical “ P ” for margin call = Equity Share ÷ Price Share = $ 25.60 + 𝑃 − $ 64 𝑃 = 30 % Equity Share ÷ Price Share = $ 25.60 + P − $ 64 P = 30 % P = $54.86 Alternate solution: Debit balance 1 − maintenance margin% = 64 × 0.6 1 − 0.3 = Unknown node type: strong Debit balance 1 − maintenance margin% = 64 × 0.6 1 − 0.3 = Unknown node type: strong Market Organization and Structure calculate and interpret the leverage ratio, the rate of return on a margin transaction, and the security price at which the investor would receive a margin call",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Mistakes 60% as initial equity.</p>\n<p>Initial equity = $64 × 0.6 = $38.40</p>\n<p><span></span><span><nobr><span><span><span><span><span><span><span><span><span><span><span>$</span><span>38.40</span><span>+</span><span>𝑃<span></span></span><span>−</span><span>$</span><span>64</span></span><span></span></span><span><span>𝑃<span></span></span><span></span></span><span><span></span><span></span></span></span></span><span>=</span><span>30</span><span>%</span></span></span></span><span></span></span></span><span></span></span></nobr><span><math><semantics><mrow><mfrac><mrow><mi>$</mi><mn>38.40</mn><mo>+</mo><mi>P</mi><mo>−</mo><mi>$</mi><mn>64</mn></mrow><mi>P</mi></mfrac><mo>=</mo><mn>30</mn><mi>%</mi></mrow></semantics></math></span></span><script><math style=\"font-family:Arial\"><semantics> <mrow> <mfrac> <mrow> <mi>$</mi><mn>38.40</mn><mo>+</mo><mi>P</mi><mo>−</mo><mi>$</mi><mn>64</mn></mrow> <mi>P</mi> </mfrac> <mo>=</mo><mn>30</mn><mi>%</mi></mrow></semantics></math></script></p>\n<p><em>P</em> = $36.57</p>\n</li>\n<li>\n<p>Incorrect. Simply takes 70% of the original purchase price by mistaking (1 – maintenance margin %) to be equal to the critical price for margin call = 64 × 0.7 = $44.80.</p>\n</li>\n<li>\n<p><strong>Correct.</strong></p>\n<p>Equity = <span></span><span><nobr><span><span><span><span><span><span><span><span><span><span>1</span><span></span></span><span><span><span>Leverage ratio</span></span><span></span></span><span><span></span><span></span></span></span></span><span>=</span><span><span><span><span>1</span><span></span></span><span><span><span>2.5</span></span><span></span></span><span><span></span><span></span></span></span></span><span>=</span><span>0.4</span></span></span></span><span></span></span></span><span></span></span></nobr><span><math><semantics><mrow><mfrac><mn>1</mn><mrow><mtext>Leverage ratio</mtext></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mrow><mn>2.5</mn></mrow></mfrac><mo>=</mo><mn>0.4</mn></mrow></semantics></math></span></span><script><math style=\"font-family:Arial\"><semantics> <mrow> <mfrac> <mn>1</mn> <mrow> <mtext>Leverage&nbsp;ratio</mtext></mrow> </mfrac> <mo>=</mo><mfrac> <mn>1</mn> <mrow> <mn>2.5</mn></mrow> </mfrac> <mo>=</mo><mn>0.4</mn></mrow></semantics></math></script></p>\n<p>Initial equity = $64 × 0.4 = $25.60</p>\n<p>Critical “<em>P</em>” for margin call = <span></span><span><nobr><span><span><span><span><span><span><span><span><span><span><span>Equity</span></span><span></span></span><span><span><span>Share</span></span><span></span></span><span><span></span><span></span></span></span></span><span>÷</span><span><span><span><span><span>Price</span></span><span></span></span><span><span><span>Share</span></span><span></span></span><span><span></span><span></span></span></span></span><span>=</span><span><span><span><span><span>$</span><span>25.60</span><span>+</span><span>𝑃<span></span></span><span>−</span><span>$</span><span>64</span></span><span></span></span><span><span>𝑃<span></span></span><span></span></span><span><span></span><span></span></span></span></span><span>=</span><span>30</span><span>%</span></span></span></span><span></span></span></span><span></span></span></nobr><span><math><semantics><mrow><mfrac><mrow><mtext>Equity</mtext></mrow><mrow><mtext>Share</mtext></mrow></mfrac><mo>÷</mo><mfrac><mrow><mtext>Price</mtext></mrow><mrow><mtext>Share</mtext></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>$</mi><mn>25.60</mn><mo>+</mo><mi>P</mi><mo>−</mo><mi>$</mi><mn>64</mn></mrow><mi>P</mi></mfrac><mo>=</mo><mn>30</mn><mi>%</mi></mrow></semantics></math></span></span><script><math style=\"font-family:Arial\"><semantics> <mrow> <mfrac> <mrow> <mtext>Equity</mtext></mrow> <mrow> <mtext>Share</mtext></mrow> </mfrac> <mo>÷</mo><mfrac> <mrow> <mtext>Price</mtext></mrow> <mrow> <mtext>Share</mtext></mrow> </mfrac> <mo>=</mo><mfrac> <mrow> <mi>$</mi><mn>25.60</mn><mo>+</mo><mi>P</mi><mo>−</mo><mi>$</mi><mn>64</mn></mrow> <mi>P</mi> </mfrac> <mo>=</mo><mn>30</mn><mi>%</mi></mrow></semantics></math></script></p>\n<p><em>P</em> = $54.86</p>\n<p>Alternate solution:</p>\n<p><span></span><span><nobr><span><span><span><span><span><span><span><span><span><span><span>Debit balance</span></span><span></span></span><span><span><span>1</span><span>−</span><span>maintenance margin%</span></span><span></span></span><span><span></span><span></span></span></span></span><span>=</span><span><span><span><span><span>64</span><span>×</span><span>0.6</span></span><span></span></span><span><span><span>1</span><span>−</span><span>0.3</span></span><span></span></span><span><span></span><span></span></span></span></span><span>=</span><span><span><span><span><span><span>Unknown node type: strong</span></span></span></span></span></span></span></span></span><span></span></span></span><span></span></span></nobr><span><math><semantics><mrow><mfrac><mrow><mtext>Debit balance</mtext></mrow><mrow><mn>1</mn><mo>−</mo><mtext>maintenance margin%</mtext></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>64</mn><mo>×</mo><mn>0.6</mn></mrow><mrow><mn>1</mn><mo>−</mo><mn>0.3</mn></mrow></mfrac><mo>=</mo><mi><merror><mtext>Unknown node type: strong</mtext></merror></mi></mrow></semantics></math></span></span><script><math style=\"font-family:Arial\"><semantics> <mrow> <mfrac> <mrow> <mtext>Debit&nbsp;balance</mtext></mrow> <mrow> <mn>1</mn><mo>−</mo><mtext>maintenance&nbsp;margin%</mtext></mrow> </mfrac> <mo>=</mo><mfrac> <mrow> <mn>64</mn><mo>×</mo><mn>0.6</mn></mrow> <mrow> <mn>1</mn><mo>−</mo><mn>0.3</mn></mrow> </mfrac> <mo>=</mo><mi><strong>$54.86</strong></mi></mrow></semantics></math></script></p>\n</li>\n</ol>\n<h4>Market Organization and Structure</h4>\n<ul>\n<li>calculate and interpret the leverage ratio, the rate of return on a margin transaction, and the security price at which the investor would receive a margin call</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 24,
+      "question": "<div><div><div>\n<p>The usefulness of a forward contract is limited by some problems. Which of the following is <em>most likely</em> one of those problems?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Once you have entered into a forward contract, it is difficult to exit from the contract.",
+        "B": "Entering into a forward contract requires the long party to deposit an initial amount with the short party.",
+        "C": "If the price of the underlying asset moves adversely from the perspective of the long party, periodic payments must be made to the short party."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Once you have entered into a forward contract, it is difficult to exit from the contract. As opposed to a futures contract, trading out of a forward contract is quite difficult. There is no exchange of cash at the origination of a forward contract. There is no exchange on a forward contract until the maturity of the contract.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Once you have entered into a forward contract, it is difficult to exit from the contract. As opposed to a futures contract, trading out of a forward contract is quite difficult. There is no exchange of cash at the origination of a forward contract. There is no exchange on a forward contract until the maturity of the contract.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 25,
+      "question": "<div><div><p>A trader places a limit order to buy shares at a price of $49.94 with the stock trading at a market bid price of $49.49 and the bid–ask spread of 0.7%. The order will <em>most likely</em> be filled at:</p>\n<ol>\n<li>$49.49.</li>\n<li>$49.84.</li>\n<li>$49.94.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. The trader can only sell (not buy) at the market bid price. He has to buy at the market ask price. Correct. An order is filled at the best available price as long as this price is lower than the limit price. In this case, the best available price is the market ask price = $49.49 × (1 + 0.7%) = $49.84. Because this price is lower than the limit price of $49.94, the order will be filled at this price. Incorrect. The order limit of $49.94 is larger than the market ask price and accordingly the order will be filled at the market ask price (i.e., $49.84) and not the limit order price. Market Organization and Structure compare execution, validity, and clearing instructions",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. The trader can only sell (not buy) at the market bid price. He has to buy at the market ask price.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> An order is filled at the best available price as long as this price is lower than the limit price. In this case, the best available price is the market ask price = $49.49 × (1 + 0.7%) = $49.84. Because this price is lower than the limit price of $49.94, the order will be filled at this price.</p>\n</li>\n<li>\n<p>Incorrect. The order limit of $49.94 is larger than the market ask price and accordingly the order will be filled at the market ask price (i.e., $49.84) and not the limit order price.</p>\n</li>\n</ol>\n<h4>Market Organization and Structure</h4>\n<ul>\n<li>compare execution, validity, and clearing instructions</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 26,
+      "question": "<div><div><div>\n<p>Tony Harris is planning to start trading in commodities. He has heard about the use of futures contracts on commodities and is learning more about them. Which of the following is Harris <em>least likely</em> to find associated with a futures contract?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Existence of counterparty risk.",
+        "B": "Standardized contractual terms.",
+        "C": "Payment of an initial margin to enter into a contract."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Harris is least likely to find counterparty risk associated with a futures contract. There is limited counterparty risk in a futures contract because the clearinghouse is on the other side of every contract.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Harris is least likely to find counterparty risk associated with a futures contract. There is limited counterparty risk in a futures contract because the clearinghouse is on the other side of every contract.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 27,
+      "question": "<div><div><p>A trader buys a stock at $30 and wants to limit downside risk. Which of the following orders will <em>most likely</em> guarantee that he can sell the stock at $25?</p>\n<ol>\n<li>GTC (good till canceled), stop $25, market sell order</li>\n<li>Put option buy market order with a strike price of $25</li>\n<li>GTC (good till canceled), stop $25, limit $25 sell order</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. A “GTC, stop $25, market sell” order becomes a market order when the price drops to or below $25 and is executed at the best price available in the market. Thus, the selling price of $25 is not guaranteed. Correct. Option contracts can be viewed as limit orders for which execution is guaranteed at the strike price. Therefore, a put buy order at a strike price of $25 will guarantee selling the stock at $25. Incorrect. A “GTC, stop $25, limit $25 sell” order limits the lower boundary to $25 but it does not guarantee execution at $25; in a fast-moving market prices may have dropped below the limit and the order will then not be executed. Market Organization and Structure compare execution, validity, and clearing instructions",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. A “GTC, stop $25, market sell” order becomes a market order when the price drops to or below $25 and is executed at the best price available in the market. Thus, the selling price of $25 is not guaranteed.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> Option contracts can be viewed as limit orders for which execution is guaranteed at the strike price. Therefore, a put buy order at a strike price of $25 will guarantee selling the stock at $25.</p>\n</li>\n<li>\n<p>Incorrect. A “GTC, stop $25, limit $25 sell” order limits the lower boundary to $25 but it does not guarantee execution at $25; in a fast-moving market prices may have dropped below the limit and the order will then not be executed.</p>\n</li>\n</ol>\n<h4>Market Organization and Structure</h4>\n<ul>\n<li>compare execution, validity, and clearing instructions</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 28,
+      "question": "<div><div><div>\n<p>A German company that exports machinery is expecting to receive $10 million in three months. The firm converts all its foreign currency receipts into euros. The chief financial officer of the company wishes to lock in a minimum fixed rate for converting the $10 million to euro but also wants to keep the flexibility to use the future spot rate if it is favorable. What hedging transaction is <em>most likely</em> to achieve this objective?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Selling dollars forward.",
+        "B": "Buying put options on the dollar.",
+        "C": "Selling futures contracts on dollars."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Buying a put option on the dollar will ensure a minimum exchange rate but does not have to be exercised if the exchange rate moves in a favorable direction. Forward and futures contracts would lock in a fixed rate but would not allow for the possibility to profit in case the value of the dollar three months later in the spot market turns out to be greater than the value in the forward or futures contract.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Buying a put option on the dollar will ensure a minimum exchange rate but does not have to be exercised if the exchange rate moves in a favorable direction. Forward and futures contracts would lock in a fixed rate but would not allow for the possibility to profit in case the value of the dollar three months later in the spot market turns out to be greater than the value in the forward or futures contract.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 29,
+      "question": "<div><div><p>A stop-buy order is <em>most likely</em> placed when a trader:</p>\n<ol>\n<li>thinks that the stock is overvalued.</li>\n<li>wants to limit the loss on a long position.</li>\n<li>wants to limit the loss on a short position.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. A stop-buy order is beneficial when the stock is undervalued (not overvalued) but the trader is unwilling to trade without market confirmation. Incorrect. A stop-sell order is appropriate when the trader holds a long position, not short position. A stop-sell order becomes valid when the stock price falls. Correct. A trader who has entered into a short sale will incur losses if the stock price begins to increase. A stop-buy order helps limit the loss on a short position because it becomes valid for execution when the stock price rises above the specified stop price. Market Organization and Structure compare execution, validity, and clearing instructions",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. A stop-buy order is beneficial when the stock is undervalued (not overvalued) but the trader is unwilling to trade without market confirmation.</p>\n</li>\n<li>\n<p>Incorrect. A stop-sell order is appropriate when the trader holds a long position, not short position. A stop-sell order becomes valid when the stock price falls.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> A trader who has entered into a short sale will incur losses if the stock price begins to increase. A stop-buy order helps limit the loss on a short position because it becomes valid for execution when the stock price rises above the specified stop price.</p>\n</li>\n</ol>\n<h4>Market Organization and Structure</h4>\n<ul>\n<li>compare execution, validity, and clearing instructions</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 30,
+      "question": "<div><div><div>\n<p>A book publisher requires substantial quantities of paper. The publisher and a paper producer have entered into an agreement for the publisher to buy and the producer to supply a given quantity of paper four months later at a price agreed upon today. This agreement is a:</p>\n</div></div></div>",
+      "choices": {
+        "A": "futures contract.",
+        "B": "forward contract.",
+        "C": "commodity swap."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The agreement between the publisher and the paper supplier to respectively buy and supply paper in the future at a price agreed upon today is a forward contract.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The agreement between the publisher and the paper supplier to respectively buy and supply paper in the future at a price agreed upon today is a forward contract.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 31,
+      "question": "<div><div><div>\n<p>The Standard &amp; Poor’s Depositary Receipts (SPDRs) is an exchange-traded fund in the United States that is designed to track the S&amp;P 500 stock market index. The latest price of a share of SPDRs is $290. A trader has just bought call options on shares of SPDRs for a premium of $3 per share. The call options expire in six months and have an exercise price of $305 per share. On the expiration date, the trader will exercise the call options (ignore any transaction costs) if and only if the shares of SPDRs are trading:</p>\n</div></div></div>",
+      "choices": {
+        "A": "below $305 per share.",
+        "B": "above $305 per share.",
+        "C": "above $308 per share."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The holder of the call option will exercise the call options if the price is above the exercise price of $305 per share. Note that if the stock price is above $305 but less than $308, the option would be exercised even though the net result for the option buyer after considering the premium is a loss. For example, if the stock price is $307, the option buyer would exercise the option to make $2 = $307 – $305 per share, resulting in a loss of $1 = $3 – $2 after considering the premium. It is better to exercise and have a loss of only $1, however, rather than not exercise and lose the entire $3 premium.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The holder of the call option will exercise the call options if the price is above the exercise price of $305 per share. Note that if the stock price is above $305 but less than $308, the option would be exercised even though the net result for the option buyer after considering the premium is a loss. For example, if the stock price is $307, the option buyer would exercise the option to make $2 = $307 – $305 per share, resulting in a loss of $1 = $3 – $2 after considering the premium. It is better to exercise and have a loss of only $1, however, rather than not exercise and lose the entire $3 premium.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 32,
+      "question": "<div><div><p>A trader who owns shares of a stock currently trading at $100 per share and who acquired the shares $100 per share places a “GTC, stop $90, limit $85 sell” order (GTC means good till cancelled). Assuming the specified stop condition is satisfied and the order becomes executed, which of the following statements is <em>most</em> accurate?</p>\n<ol>\n<li>The order will be executed at either $90 or $85.</li>\n<li>The trader faces a maximum realized loss of $15.</li>\n<li>The order becomes a market order when the price falls below $85 and remains valid for execution.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. The order can be executed at any prices between $85 and $90. Correct. The order becomes valid when the price falls to, or below, $90. The “limit $85 sell” indicates that the trader is unwilling to sell below $85. Thus, the trader faces a maximum loss of $15 ($100 – $85). Incorrect. The order becomes invalid for execution when the price falls below $85. Market Organization and Structure compare market orders with limit orders",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. The order can be executed at any prices between $85 and $90.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> The order becomes valid when the price falls to, or below, $90. The “limit $85 sell” indicates that the trader is unwilling to sell below $85. Thus, the trader faces a maximum loss of $15 ($100 – $85).</p>\n</li>\n<li>\n<p>Incorrect. The order becomes invalid for execution when the price falls below $85.</p>\n</li>\n</ol>\n<h4>Market Organization and Structure</h4>\n<ul>\n<li>compare market orders with limit orders</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 33,
+      "question": "<div><div><div>\n<p>Jason Schmidt works for a hedge fund and he specializes in finding profit opportunities that are the result of inefficiencies in the market for convertible bonds—bonds that can be converted into a predetermined amount of a company’s common stock. Schmidt tries to find convertibles that are priced inefficiently relative to the underlying stock. The trading strategy involves the simultaneous purchase of the convertible bond and the short sale of the underlying common stock. The above process could best be described as:</p>\n</div></div></div>",
+      "choices": {
+        "A": "hedging.",
+        "B": "arbitrage.",
+        "C": "securitization."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The process can best be described as arbitrage because it involves buying and selling instruments, whose values are closely related, at different prices in different markets.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The process can best be described as arbitrage because it involves buying and selling instruments, whose values are closely related, at different prices in different markets.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 34,
+      "question": "<div><div><p>Which of the following is <em>most likely</em> a primary market transaction?</p>\n<ol>\n<li>A private placement of shares</li>\n<li>A market order sale of bonds</li>\n<li>The exercise of an exchange-traded call option</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. Private placements qualify as primary market transactions because they are sales of securities by issuers directly to a small group of qualified investors. Incorrect. Market order sales take place in secondary markets. Incorrect. The exercise of an exchange-traded call option is a secondary market transaction involving the purchase by option owner of previously issued security. Market Organization and Structure define primary and secondary markets and explain how secondary markets support primary markets",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> Private placements qualify as primary market transactions because they are sales of securities by issuers directly to a small group of qualified investors.</p>\n</li>\n<li>\n<p>Incorrect. Market order sales take place in secondary markets.</p>\n</li>\n<li>\n<p>Incorrect. The exercise of an exchange-traded call option is a secondary market transaction involving the purchase by option owner of previously issued security.</p>\n</li>\n</ol>\n<h4>Market Organization and Structure</h4>\n<ul>\n<li>define primary and secondary markets and explain how secondary markets support primary markets</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 35,
+      "question": "<div><div><p>A Japanese exporter will sell US dollars for Japanese yen in the quote-driven currency markets. Which of the following statements <em>best</em> describes her currency exchange transactions?</p>\n<ol>\n<li>Her counterparties are dealers.</li>\n<li>She will pay commissions for exchange services.</li>\n<li>This currency exchange transaction takes place in organized exchanges.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. In the quote-driven currency markets, dealers are counterparties to currency exchange transactions. Incorrect. A Japanese exporter pays no fee or commission to dealers. Dealers will profit from the bid–ask spreads. Incorrect. In the quote-driven currency markets, currency exchange transactions take place in the over-the-counter, not organized, exchanges. Market Organization and Structure describe how securities, contracts, and currencies are traded in quote-driven, order-driven, and brokered markets",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> In the quote-driven currency markets, dealers are counterparties to currency exchange transactions.</p>\n</li>\n<li>\n<p>Incorrect. A Japanese exporter pays no fee or commission to dealers. Dealers will profit from the bid–ask spreads.</p>\n</li>\n<li>\n<p>Incorrect. In the quote-driven currency markets, currency exchange transactions take place in the over-the-counter, not organized, exchanges.</p>\n</li>\n</ol>\n<h4>Market Organization and Structure</h4>\n<ul>\n<li>describe how securities, contracts, and currencies are traded in quote-driven, order-driven, and brokered markets</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 36,
+      "question": "<div><div><div>\n<p>Pierre-Louis Robert just purchased a call option on shares of the Michelin Group. A few days ago he wrote a put option on Michelin shares. The call and put options have the same exercise price, expiration date, and number of shares underlying. Considering both positions, Robert’s exposure to the risk of the stock of the Michelin Group is:</p>\n</div></div></div>",
+      "choices": {
+        "A": "long.",
+        "B": "short.",
+        "C": "neutral."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Robert’s exposure to the risk of the stock of the Michelin Group is long. The exposure as a result of the long call position is long. The exposure as a result of the short put position is also long. Therefore, the combined exposure is long.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Robert’s exposure to the risk of the stock of the Michelin Group is long. The exposure as a result of the long call position is long. The exposure as a result of the short put position is also long. Therefore, the combined exposure is long.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 37,
+      "question": "<div><div><div>\n<p>An online brokerage firm has set the minimum margin requirement at 55 percent. What is the maximum leverage ratio associated with a position financed by this minimum margin requirement?</p>\n</div></div></div>",
+      "choices": {
+        "A": "1.55.",
+        "B": "1.82.",
+        "C": "2.22."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The maximum leverage ratio is 1.82 = 100% position ÷ 55% equity. The maximum leverage ratio associated with a position financed by the minimum margin requirement is one divided by the minimum margin requirement.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The maximum leverage ratio is 1.82 = 100% position ÷ 55% equity. The maximum leverage ratio associated with a position financed by the minimum margin requirement is one divided by the minimum margin requirement.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 38,
+      "question": "<div><div><p>The type of efficiency that exists in an economy that distributes capital in the most productive way is <em>best</em> described as:</p>\n<ol>\n<li>operational.</li>\n<li>allocational.</li>\n<li>informational.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. An operationally efficient financial system is one in which the costs of arranging trades are low. Correct. Economies are said to be allocationally efficient when their financial systems allocate capital (funds) to those uses that are most productive. Incorrect. An informationally efficient financial system is one in which the prices of assets and contracts reflect all available information related to their fundamental values. Market Organization and Structure describe characteristics of a well-functioning financial system",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. An operationally efficient financial system is one in which the costs of arranging trades are low.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> Economies are said to be allocationally efficient when their financial systems allocate capital (funds) to those uses that are most productive.</p>\n</li>\n<li>\n<p>Incorrect. An informationally efficient financial system is one in which the prices of assets and contracts reflect all available information related to their fundamental values.</p>\n</li>\n</ol>\n<h4>Market Organization and Structure</h4>\n<ul>\n<li>describe characteristics of a well-functioning financial system</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 39,
+      "question": "<div><div><div>\n<p>A trader has purchased 200 shares of a non-dividend-paying firm on margin at a price of $50 per share. The leverage ratio is 2.5. Six months later, the trader sells these shares at $60 per share. Ignoring the interest paid on the borrowed amount and the transaction costs, what was the return to the trader during the six-month period?</p>\n</div></div></div>",
+      "choices": {
+        "A": "20 percent.",
+        "B": "33.33 percent.",
+        "C": "50 percent."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. The return is 50 percent. If the position had been unleveraged, the return would be 20% = (60 – 50)/50. Because of leverage, the return is 50% = 2.5 × 20%. Another way to look at this problem is that the equity contributed by the trader (the minimum margin requirement) is 40% = 100% ÷ 2.5. The trader contributed $20 = 40% of $50 per share. The gain is $10 per share, resulting in a return of 50% = 10/20.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> The return is 50 percent. If the position had been unleveraged, the return would be 20% = (60 – 50)/50. Because of leverage, the return is 50% = 2.5 × 20%.</p>\n<p>Another way to look at this problem is that the equity contributed by the trader (the minimum margin requirement) is 40% = 100% ÷ 2.5. The trader contributed $20 = 40% of $50 per share. The gain is $10 per share, resulting in a return of 50% = 10/20.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 40,
+      "question": "<div><div><p>Which of the following statements concerning the objectives of market regulation is <em>least</em> accurate?</p>\n<ol>\n<li>Regulators promote fair and orderly markets.</li>\n<li>ensure that systems are in place to prevent fraud.</li>\n<li>Regulators set standards to ensure that all agents acting in the market are skilled.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. One of the objectives of market regulation is to promote fair and orderly markets in which traders can trade at prices that accurately reflect fundamental values. Incorrect. Regulators ensure that systems are in place to protect customers from fraud. Correct. Regulators help solve agency problems by setting minimum standards of competence, not skill, for agents and by defining and enforcing minimum standards of practice. Market Organization and Structure describe objectives of market regulation",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. One of the objectives of market regulation is to promote fair and orderly markets in which traders can trade at prices that accurately reflect fundamental values.</p>\n</li>\n<li>\n<p>Incorrect. Regulators ensure that systems are in place to protect customers from fraud.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> Regulators help solve agency problems by setting minimum standards of competence, not skill, for agents and by defining and enforcing minimum standards of practice.</p>\n</li>\n</ol>\n<h4>Market Organization and Structure</h4>\n<ul>\n<li>describe objectives of market regulation</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 41,
+      "question": "<div><div><div>\n<p>Jason Williams purchased 500 shares of a company at $32 per share. The stock was bought on 75 percent margin. One month later, Williams had to pay interest on the amount borrowed at a rate of 2 percent per month. At that time, Williams received a dividend of $0.50 per share. Immediately after that he sold the shares at $28 per share. He paid commissions of $10 on the purchase and $10 on the sale of the stock. What was the rate of return on this investment for the one-month period?</p>\n</div></div></div>",
+      "choices": {
+        "A": "−12.5 percent.",
+        "B": "–15.4 percent.",
+        "C": "–50.1 percent."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The return is –15.4 percent. Total cost of the purchase = $16,000 = 500 × $32 Equity invested = $12,000 = 0.75 × $16,000 Amount borrowed = $4,000 = 16,000 – 12,000 Interest paid at month end = $80 = 0.02 × $4,000 Dividend received at month end = $250 = 500 × $0.50 Proceeds on stock sale = $14,000 = 500 × $28 Total commissions paid = $20 = $10 + $10 Net gain/loss = −$1,850 = −16,000 − 80 + 250 + 14,000 − 20 Initial investment including commission on purchase = $12,010 Return = −15.4% = −$1,850/$12,010",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The return is –15.4 percent.</p>\n<ul>\n<li><p>Total cost of the purchase = $16,000 = 500 × $32</p></li>\n<li><p>Equity invested = $12,000 = 0.75 × $16,000</p></li>\n<li><p>Amount borrowed = $4,000 = 16,000 – 12,000</p></li>\n<li><p>Interest paid at month end = $80 = 0.02 × $4,000</p></li>\n<li><p>Dividend received at month end = $250 = 500 × $0.50</p></li>\n<li><p>Proceeds on stock sale = $14,000 = 500 × $28</p></li>\n<li><p>Total commissions paid = $20 = $10 + $10</p></li>\n<li><p>Net gain/loss = −$1,850 = −16,000 − 80 + 250 + 14,000 − 20</p></li>\n<li><p>Initial investment including commission on purchase = $12,010</p></li>\n<li><p>Return = −15.4% = −$1,850/$12,010</p></li>\n</ul></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 42,
+      "question": "<div><div><div>\n<p>Caroline Rogers believes the price of Gamma Corp. stock will go down in the near future. She has decided to sell short 200 shares of Gamma Corp. at the current market price of €47. The initial margin requirement is 40 percent. Which of the following is an appropriate statement regarding the margin requirement that Rogers is subject to on this short sale?</p>\n</div></div></div>",
+      "choices": {
+        "A": "She will need to contribute €3,760 as margin.",
+        "B": "She will need to contribute €5,640 as margin.",
+        "C": "She will only need to leave the proceeds from the short sale as deposit and does not need to contribute any additional funds."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. She will need to contribute €3,760 as margin. In view of the possibility of a loss, if the stock price goes up, she will need to contribute €3,760 = 40% of €9,400 as the initial margin. Rogers will need to leave the proceeds from the short sale (€9,400 = 200 × €47) on deposit.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> She will need to contribute €3,760 as margin. In view of the possibility of a loss, if the stock price goes up, she will need to contribute €3,760 = 40% of €9,400 as the initial margin. Rogers will need to leave the proceeds from the short sale (€9,400 = 200 × €47) on deposit.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 43,
+      "question": "<div><div><div>\n<p>The current price of a stock is $25 per share. You have $10,000 to invest. You borrow an additional $10,000 from your broker and invest $20,000 in the stock. If the maintenance margin is 30 percent, at what price will a margin call first occur?</p>\n</div></div></div>",
+      "choices": {
+        "A": "$9.62.",
+        "B": "$17.86.",
+        "C": "$19.71."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. A margin call will first occur at a price of $17.86. Because you have contributed half and borrowed the remaining half, your initial equity is 50 percent of the initial stock price, or $12.50 = 0.50 × $25. If P is the subsequent price, your equity would change by an amount equal to the change in price. So, your equity at price P would be 12.50 + ( P – 25). A margin call will occur when the percentage margin drops to 30 percent. So, the price at which a margin call will occur is the solution to the following equation. Equity/Share Price/Share = 12.50 + 𝑃 − 25 𝑃 = 30 % Equity/Share Price/Share = 12.50 + P − 25 P = 30 % The solution is P = $17.86.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> A margin call will first occur at a price of $17.86. Because you have contributed half and borrowed the remaining half, your initial equity is 50 percent of the initial stock price, or $12.50 = 0.50 × $25. If <em>P</em> is the subsequent price, your equity would change by an amount equal to the change in price. So, your equity at price <em>P</em> would be 12.50 + (<em>P</em> – 25). A margin call will occur when the percentage margin drops to 30 percent. So, the price at which a margin call will occur is the solution to the following equation.<span><span></span><span><nobr><span><span><span><span><span><span><span><span><span><span><span><span><span>Equity/Share</span></span><span></span></span><span><span><span>Price/Share</span></span><span></span></span><span><span></span><span></span></span></span></span></span></span><span>=</span><span><span><span><span><span><span><span>12.50</span><span>+</span><span>𝑃<span></span></span><span>−</span><span>25</span></span><span></span></span><span><span>𝑃<span></span></span><span></span></span><span><span></span><span></span></span></span></span></span></span><span>=</span><span>30</span><span>%</span></span></span></span><span></span></span></span><span></span></span></nobr><span><math><semantics><mrow><mstyle><mfrac><mrow><mtext>Equity/Share</mtext></mrow><mrow><mtext>Price/Share</mtext></mrow></mfrac></mstyle><mo>=</mo><mstyle><mfrac><mrow><mn>12.50</mn><mo>+</mo><mi>P</mi><mo>−</mo><mn>25</mn></mrow><mi>P</mi></mfrac></mstyle><mo>=</mo><mn>30</mn><mi>%</mi></mrow></semantics></math></span></span><script><math><semantics><mrow><mstyle displaystyle=\"true\"><mfrac><mrow><mtext>Equity/Share</mtext></mrow><mrow><mtext>Price/Share</mtext></mrow></mfrac></mstyle><mo>=</mo><mstyle displaystyle=\"true\"><mfrac><mrow><mn>12.50</mn><mo>+</mo><mi>P</mi><mo>−</mo><mn>25</mn></mrow><mi>P</mi></mfrac></mstyle><mo>=</mo><mn>30</mn><mi>%</mi></mrow></semantics></math></script></span></p>\n<p>The solution is <em>P</em> = $17.86.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 44,
+      "question": "<div><div><div>\n<p>A market has the following limit orders standing on its book for a particular stock. The bid and ask sizes are number of shares in hundreds.</p>\n<div>\n<table>\n<thead>\n<tr>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: bottom;\"><strong>Bid Size</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong>Limit Price (€)</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong>Offer Size</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">5</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">9.73</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"></td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">12</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">9.81</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"></td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">4</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">9.84</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"></td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">6</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">9.95</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"></td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"></td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">10.02</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">5</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"></td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">10.10</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">12</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"></td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">10.14</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">8</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>What is the market?</p>\n</div>\n</div></div>",
+      "choices": {
+        "A": "9.73 bid, offered at 10.14.",
+        "B": "9.81 bid, offered at 10.10.",
+        "C": "9.95 bid, offered at 10.02."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. The market is 9.95 bid, offered at 10.02. The best bid is at €9.95 and the best offer is €10.02.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> The market is 9.95 bid, offered at 10.02. The best bid is at €9.95 and the best offer is €10.02.</p>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 45,
+      "question": "<div><div><div>\n<p>Consider the following limit order book for a stock. The bid and ask sizes are number of shares in hundreds.</p>\n<div>\n<table>\n<thead>\n<tr>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: bottom;\"><strong>Bid Size</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong>Limit Price (¥)</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong>Offer Size</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">3</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">122.80</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"></td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">8</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">123.00</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"></td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">4</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">123.35</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"></td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"></td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">123.80</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">7</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"></td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">124.10</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">6</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"></td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">124.50</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">7</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>A new buy limit order is placed for 300 shares at ¥123.40. This limit order is said to:</p>\n</div>\n</div></div>",
+      "choices": {
+        "A": "take the market.",
+        "B": "make the market.",
+        "C": "make a new market."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. This order is said to make a new market. The new buy order is at ¥123.40, which is better than the current best bid of ¥123.35. Therefore, the buy order is making a new market. Had the new order been at ¥123.35, it would be said to make the market. Because the new buy limit order is at a price less than the best offer of ¥123.80, it will not immediately execute and is not taking the market.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> This order is said to make a new market. The new buy order is at ¥123.40, which is better than the current best bid of ¥123.35. Therefore, the buy order is making a new market. Had the new order been at ¥123.35, it would be said to make the market. Because the new buy limit order is at a price less than the best offer of ¥123.80, it will not immediately execute and is not taking the market.</p>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 46,
+      "question": "<div><div><div>\n<p>Currently, the market in a stock is “$54.62 bid, offered at $54.71.” A new sell limit order is placed at $54.62. This limit order is said to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "take the market.",
+        "B": "make the market.",
+        "C": "make a new market."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. This order is said to take the market. The new sell order is at $54.62, which is at the current best bid. Therefore, the new sell order will immediately trade with the current best bid and is taking the market.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> This order is said to take the market. The new sell order is at $54.62, which is at the current best bid. Therefore, the new sell order will immediately trade with the current best bid and is taking the market.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 47,
+      "question": "<div><div><div>\n<p>You have placed a sell market-on-open order—a market order that would automatically be submitted at the market’s open tomorrow and would fill at the market price. Your instruction, to sell the shares at the market open, is a(n):</p>\n</div></div></div>",
+      "choices": {
+        "A": "execution instruction.",
+        "B": "validity instruction.",
+        "C": "clearing instruction."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. An instruction regarding when to fill an order is considered a validity instruction.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> An instruction regarding when to fill an order is considered a validity instruction.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 48,
+      "question": "<div><div><div>\n<p>Jim White has sold short 100 shares of Super Stores at a price of $42 per share. He has also simultaneously placed a “good-till-cancelled, stop 50, limit 55 buy” order. Assume that if the stop condition specified by White is satisfied and the order becomes valid, it will get executed. Excluding transaction costs, what is the maximum possible loss that White can have?</p>\n</div></div></div>",
+      "choices": {
+        "A": "$800.",
+        "B": "$1,300.",
+        "C": "Unlimited."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The maximum possible loss is $1,300. If the stock price crosses $50, the stop buy order will become valid and will get executed at a maximum limit price of $55. The maximum loss per share is $13 = $55 – $42, or $1,300 for 100 shares.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The maximum possible loss is $1,300. If the stock price crosses $50, the stop buy order will become valid and will get executed at a maximum limit price of $55. The maximum loss per share is $13 = $55 – $42, or $1,300 for 100 shares.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 49,
+      "question": "<div><div><div>\n<p>You own shares of a company that are currently trading at $30 a share. Your technical analysis of the shares indicates a support level of $27.50. That is, if the price of the shares is going down, it is more likely to stay above this level rather than fall below it. If the price does fall below this level, however, you believe that the price may continue to decline. You have no immediate intent to sell the shares but are concerned about the possibility of a huge loss if the share price declines below the support level. Which of the following types of orders could you place to most appropriately address your concern?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Short sell order.",
+        "B": "Good-till-cancelled stop sell order.",
+        "C": "Good-till-cancelled stop buy order."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The most appropriate order is a good-till-cancelled stop sell order. This order will be acted on if the stock price declines below a specified price (in this case, $27.50). This order is sometimes referred to as a good-till-cancelled stop loss sell order. You are generally bullish about the stock, as indicated by no immediate intent to sell, and would expect a loss on short selling the stock. A stop buy order is placed to buy a stock when the stock is going up.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The most appropriate order is a good-till-cancelled stop sell order. This order will be acted on if the stock price declines below a specified price (in this case, $27.50). This order is sometimes referred to as a good-till-cancelled stop loss sell order. You are generally bullish about the stock, as indicated by no immediate intent to sell, and would expect a loss on short selling the stock. A stop buy order is placed to buy a stock when the stock is going up.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 50,
+      "question": "<div><div><div>\n<p>In an underwritten offering, the risk that the entire issue may not be sold to the public at the stipulated offering price is borne by the:</p>\n</div></div></div>",
+      "choices": {
+        "A": "issuer.",
+        "B": "investment bank.",
+        "C": "buyers of the part of the issue that is sold."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The investment bank bears the risk that the issue may be undersubscribed at the offering price. If the entire issue is not sold, the investment bank underwriting the issue will buy the unsold securities at the offering price.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The investment bank bears the risk that the issue may be undersubscribed at the offering price. If the entire issue is not sold, the investment bank underwriting the issue will buy the unsold securities at the offering price.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 51,
+      "question": "<div><div><div>\n<p>A British company listed on AIM (formerly the Alternative Investment Market) of the London Stock Exchange announced the sale of 6,686,665 shares to a small group of qualified investors at £0.025 per share. Which of the following <em>best describes</em> this sale?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Shelf registration.",
+        "B": "Private placement.",
+        "C": "Initial public offering."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. This sale is a private placement. As the company is already publicly traded, the share sale is clearly not an initial public offering. The sale also does not involve a shelf registration because the company is not selling shares to the public on a piecemeal basis.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> This sale is a private placement. As the company is already publicly traded, the share sale is clearly not an initial public offering. The sale also does not involve a shelf registration because the company is not selling shares to the public on a piecemeal basis.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 52,
+      "question": "<div><div><div>\n<p>A German publicly traded company, to raise new capital, gave its existing shareholders the opportunity to subscribe for new shares. The existing shareholders could purchase two new shares at a subscription price of €4.58 per share for every 15 shares held. This is an example of a(n):</p>\n</div></div></div>",
+      "choices": {
+        "A": "rights offering.",
+        "B": "private placement.",
+        "C": "initial public offering."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. This offering is a rights offering. The company is distributing rights to buy stock at a fixed price to existing shareholders in proportion to their holdings.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> This offering is a rights offering. The company is distributing rights to buy stock at a fixed price to existing shareholders in proportion to their holdings.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 53,
+      "question": "<div><div><div>\n<p><strong>Q. </strong></p>\n<div>Consider an order-driven system that allows hidden orders. The following four sell orders on a particular stock are currently in the system’s limit order book. Based on the commonly used order precedence hierarchy, which of these orders will have precedence over others?<div><table>\n<thead><tr>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: bottom;\"><strong>Order </strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">\n<strong>Time of Arrival</strong><br/><strong>(HH:MM:SS)</strong>\n</th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">\n<strong>Limit Price </strong><br/><strong>(€)</strong>\n</th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">\n<strong>Special Instruction</strong><br/><strong>(If any)</strong>\n</th>\n</tr></thead>\n<tbody>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">I</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">9:52:01</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">20.33</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"> </td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">II</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">9:52:08</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">20.29</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">Hidden order</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">III</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">9:53:04</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">20.29</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"> </td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">IV</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">9:53:49</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">20.29</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"> </td>\n</tr>\n</tbody>\n</table></div>\n</div>\n</div></div></div>",
+      "choices": {
+        "A": "Order I (time of arrival of 9:52:01).",
+        "B": "Order II (time of arrival of 9:52:08).",
+        "C": "Order III (time of arrival of 9:53:04)."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Order III (time of arrival of 9:53:04) has precedence. In the order precedence hierarchy, the first rule is price priority. Based on this rule, sell orders II, III, and IV get precedence over order I. The next rule is display precedence at a given price. Because order II is a hidden order, orders III and IV get precedence. Finally, order III gets precedence over order IV based on time priority at same price and same display status.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Order III (time of arrival of 9:53:04) has precedence. In the order precedence hierarchy, the first rule is price priority. Based on this rule, sell orders II, III, and IV get precedence over order I. The next rule is display precedence at a given price. Because order II is a hidden order, orders III and IV get precedence. Finally, order III gets precedence over order IV based on time priority at same price and same display status.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 54,
+      "question": "<div><div><div>\n<p>Zhenhu Li has submitted an immediate-or-cancel buy order for 500 shares of a company at a limit price of CNY 74.25. There are two sell limit orders standing in that stock’s order book at that time. One is for 300 shares at a limit price of CNY 74.30 and the other is for 400 shares at a limit price of CNY 74.35. How many shares in Li’s order would get cancelled?</p>\n</div></div></div>",
+      "choices": {
+        "A": "None (the order would remain open but unfilled).",
+        "B": "200 (300 shares would get filled).",
+        "C": "500 (there would be no fill)."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. The order for 500 shares would get cancelled; there would be no fill. Li is willing to buy at CNY 74.25 or less but the minimum offer price in the book is CNY 74.30; therefore, no part of the order would be filled. Because Li’s order is immediate-or-cancel, it would be cancelled.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> The order for 500 shares would get cancelled; there would be no fill. Li is willing to buy at CNY 74.25 or less but the minimum offer price in the book is CNY 74.30; therefore, no part of the order would be filled. Because Li’s order is immediate-or-cancel, it would be cancelled.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 55,
+      "question": "<div><div><div>\n<p><strong>Q. </strong></p>\n<div>A market has the following limit orders standing on its book for a particular stock:<div><table>\n<thead><tr>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: bottom;\"><strong>Buyer</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">\n<strong>Bid Size</strong><br/><strong>(Number of Shares)</strong>\n</th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong>Limit Price (£)</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">\n<strong>Offer Size</strong><br/><strong>(Number of Shares)</strong>\n</th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: bottom;\"><strong>Seller</strong></th>\n</tr></thead>\n<tbody>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">Keith</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">1,000</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">19.70</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"> </td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"> </td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">Paul</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">200</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">19.84</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"> </td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"> </td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">Ann</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">400</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">19.89</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"> </td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"> </td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">Mary</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">300</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">20.02</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"> </td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"> </td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"> </td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"> </td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">20.03</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">800</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">Jack</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"> </td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"> </td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">20.11</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">1,100</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">Margaret</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"> </td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"> </td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">20.16</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">400</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">Jeff</td>\n</tr>\n</tbody>\n</table></div>\n</div>\n<p>Ian submits a day order to sell 1,000 shares, limit £19.83. Assuming that no more buy orders are submitted on that day after Ian submits his order, what would be Ian’s average trade price?</p>\n</div></div></div>",
+      "choices": {
+        "A": "£19.70.",
+        "B": "£19.92.",
+        "C": "£20.05."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Ian’s average trade price is: £ 19.92 = 300 × £ 20.02 + 400 × £ 19.89 + 200 × £ 19.84 300 + 400 + 200 £ 19.92 = 300 × £ 20.02 + 400 × £ 19.89 + 200 × £ 19.84 300 + 400 + 200 Ian’s sell order first fills with the most aggressively priced buy order, which is Mary’s order for 300 shares at £20.02. Ian still has 700 shares for sale. The next most aggressively priced buy order is Ann’s order for 400 shares at £19.89. This order is filled. Ian still has 300 shares for sale. The next most aggressively priced buy order is Paul’s order for 200 shares at £19.84. A third trade takes place. Ian still has 100 shares for sale. The next buy order is Keith’s order for 1,000 shares at £19.70. However, this price is below Ian’s limit price of £19.83. Therefore, no more trade is possible.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Ian’s average trade price is:<span><span></span><span><nobr><span><span><span><span><span><span><span>£</span><span>19.92</span><span>=</span><span><span><span><span><span><span><span>300</span><span>×</span><span>£</span><span>20.02</span><span>+</span><span>400</span><span>×</span><span>£</span><span>19.89</span><span> </span><span>+</span><span> </span><span>200</span><span>×</span><span>£</span><span>19.84</span></span><span></span></span><span><span><span>300</span><span>+</span><span>400</span><span>+</span><span>200</span></span><span></span></span><span><span></span><span></span></span></span></span></span></span></span></span></span><span></span></span></span><span></span></span></nobr><span><math><semantics><mrow><mo>£</mo><mn>19.92</mn><mo>=</mo><mstyle><mfrac><mrow><mn>300</mn><mo>×</mo><mo>£</mo><mn>20.02</mn><mo>+</mo><mn>400</mn><mo>×</mo><mo>£</mo><mn>19.89</mn><mtext> </mtext><mo>+</mo><mtext> </mtext><mn>200</mn><mo>×</mo><mo>£</mo><mn>19.84</mn></mrow><mrow><mn>300</mn><mo>+</mo><mn>400</mn><mo>+</mo><mn>200</mn></mrow></mfrac></mstyle></mrow></semantics></math></span></span><script><math><semantics><mrow><mo>£</mo><mn>19.92</mn><mo>=</mo><mstyle displaystyle=\"true\"><mfrac><mrow><mn>300</mn><mo>×</mo><mo>£</mo><mn>20.02</mn><mo>+</mo><mn>400</mn><mo>×</mo><mo>£</mo><mn>19.89</mn><mtext>&nbsp;</mtext><mo>+</mo><mtext>&nbsp;</mtext><mn>200</mn><mo>×</mo><mo>£</mo><mn>19.84</mn></mrow><mrow><mn>300</mn><mo>+</mo><mn>400</mn><mo>+</mo><mn>200</mn></mrow></mfrac></mstyle></mrow></semantics></math></script></span></p>\n<p>Ian’s sell order first fills with the most aggressively priced buy order, which is Mary’s order for 300 shares at £20.02. Ian still has 700 shares for sale. The next most aggressively priced buy order is Ann’s order for 400 shares at £19.89. This order is filled. Ian still has 300 shares for sale. The next most aggressively priced buy order is Paul’s order for 200 shares at £19.84. A third trade takes place. Ian still has 100 shares for sale.</p>\n<p>The next buy order is Keith’s order for 1,000 shares at £19.70. However, this price is below Ian’s limit price of £19.83. Therefore, no more trade is possible.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 56,
+      "question": "<div><div><div>\n<p>A financial analyst is examining whether a country’s financial market is well functioning. She finds that the transaction costs in this market are low and trading volumes are high. She concludes that the market is quite liquid. In such a market:</p>\n</div></div></div>",
+      "choices": {
+        "A": "traders will find it hard to make use of their information.",
+        "B": "traders will find it easy to trade and their trading will make the market less informationally efficient.",
+        "C": "traders will find it easy to trade and their trading will make the market more informationally efficient."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. In such a market, well-informed traders will find it easy to trade and their trading will make the market more informationally efficient. In a liquid market, it is easier for informed traders to fill their orders. Their trading will cause prices to incorporate their information and the prices will be more in line with the fundamental values.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> In such a market, well-informed traders will find it easy to trade and their trading will make the market more informationally efficient. In a liquid market, it is easier for informed traders to fill their orders. Their trading will cause prices to incorporate their information and the prices will be more in line with the fundamental values.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Organization and Structure",
+      "question_number": 57,
+      "question": "<div><div><div>\n<p>The government of a country whose financial markets are in an early stage of development has hired you as a consultant on financial market regulation. Your first task is to prepare a list of the objectives of market regulation. Which of the following is <em>least likely</em> to be included in this list of objectives?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Minimize agency problems in the financial markets.",
+        "B": "Ensure that financial markets are fair and orderly.",
+        "C": "Ensure that investors in the stock market achieve a rate of return that is at least equal to the risk-free rate of return."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Ensure that investors in the stock market achieve a rate of return that is at least equal to the risk-free rate of return is least likely to be included as an objective of market regulation. Stocks are risky investments and there would be occasions when a stock market investment would not only have a return less than the risk-free rate but also a negative return. Minimizing agency costs and ensuring that financial markets are fair and orderly are objectives of market regulation.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Ensure that investors in the stock market achieve a rate of return that is at least equal to the risk-free rate of return is least likely to be included as an objective of market regulation. Stocks are risky investments and there would be occasions when a stock market investment would not only have a return less than the risk-free rate but also a negative return. Minimizing agency costs and ensuring that financial markets are fair and orderly are objectives of market regulation.</p></div>",
+      "category": "Equity Investments"
+    }
+  ]
+}

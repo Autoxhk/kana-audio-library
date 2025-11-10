@@ -1,0 +1,541 @@
+{
+  "category": "Equity Investments",
+  "topic": "Market Efficiency",
+  "total_questions": 43,
+  "questions": [
+    {
+      "title": "Market Efficiency",
+      "question_number": 1,
+      "question": "<div><div><div>\n<p>If markets are efficient, the difference between the intrinsic value and market value of a company’s security is:</p>\n</div></div></div>",
+      "choices": {
+        "A": "negative.",
+        "B": "zero.",
+        "C": "positive."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. A security’s intrinsic value and market value should be equal when markets are efficient.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> A security’s intrinsic value and market value should be equal when markets are efficient.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 2,
+      "question": "<div><div><p>Which of the following factors would <em>most likely</em> increase market efficiency? Limits on:</p>\n<ol>\n<li>short selling</li>\n<li>transaction costs</li>\n<li>trading by foreign investors</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect because restrictions on short selling limit arbitrage trading, which impedes market efficiency. Correct because transaction costs are incurred in trading to exploit any perceived market inefficiency. If there are limits on transaction costs, more investors would be encouraged to trade. This brings about increased number of market participants which in turn contributes to market efficiency. One of the most critical factors contributing to the degree of efficiency in a market is the number of market participants. Incorrect because a lack of trading activity can cause or accentuate other market imperfections that impede market efficiency. In fact, in many of these markets, such as China, trading in many of the listed stocks is restricted for foreigners. By nature, this limitation reduces the number of market participants, restricts the potential for trading activity, and hence reduces market efficiency. Market Efficiency explain factors that affect a market’s efficiency",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because restrictions on short selling limit arbitrage trading, which impedes market efficiency.</p>\n</li>\n<li>\n<p><strong>Correct</strong> because transaction costs are incurred in trading to exploit any perceived market inefficiency. If there are limits on transaction costs, more investors would be encouraged to trade. This brings about increased number of market participants which in turn contributes to market efficiency. One of the most critical factors contributing to the degree of efficiency in a market is the number of market participants.</p>\n</li>\n<li>\n<p>Incorrect because a lack of trading activity can cause or accentuate other market imperfections that impede market efficiency. In fact, in many of these markets, such as China, trading in many of the listed stocks is restricted for foreigners. By nature, this limitation reduces the number of market participants, restricts the potential for trading activity, and hence reduces market efficiency.</p>\n</li>\n</ol>\n<h4>Market Efficiency</h4>\n<ul>\n<li>explain factors that affect a market’s efficiency</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 3,
+      "question": "<div><div><div>\n<p>The intrinsic value of an undervalued asset is:</p>\n</div></div></div>",
+      "choices": {
+        "A": "less than the asset’s market value.",
+        "B": "greater than the asset’s market value.",
+        "C": "the value at which the asset can currently be bought or sold."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The intrinsic value of an undervalued asset is greater than the market value of the asset, where the market value is the transaction price at which an asset can be currently bought or sold.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The intrinsic value of an undervalued asset is greater than the market value of the asset, where the market value is the transaction price at which an asset can be currently bought or sold.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 4,
+      "question": "<div><div><p>If investors can successfully predict future asset prices based on past prices, markets are <em>most likely</em>:</p>\n<ol>\n<li>inefficient.</li>\n<li>weak-form efficient only.</li>\n<li>semi-strong-form efficient.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct because under all forms of market efficiency past trading data are already reflected in current prices and investors cannot predict future price changes by extrapolating prices or patterns of prices from the past. Therefore, if investors can predict future asset prices based on past prices, markets are inefficient. Incorrect because in the weak-form efficient market hypothesis, security prices fully reflect all past market data, which refers to all historical prices and trading volume information. If markets are weak-form efficient, past trading data are already reflected in current prices and investors cannot predict future price changes by extrapolating prices or patterns of prices from the past. Incorrect because under all forms of market efficiency past trading data are already reflected in current prices and investors cannot predict future price changes by extrapolating prices or patterns of prices from the past. Market Efficiency explain the implications of each form of market efficiency for fundamental analysis, technical analysis, and the choice between active and passive portfolio management",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong> because under all forms of market efficiency past trading data are already reflected in current prices and investors cannot predict future price changes by extrapolating prices or patterns of prices from the past. Therefore, if investors can predict future asset prices based on past prices, markets are inefficient.</p>\n</li>\n<li>\n<p>Incorrect because in the weak-form efficient market hypothesis, security prices fully reflect all past market data, which refers to all historical prices and trading volume information. If markets are weak-form efficient, past trading data are already reflected in current prices and investors cannot predict future price changes by extrapolating prices or patterns of prices from the past.</p>\n</li>\n<li>\n<p>Incorrect because under all forms of market efficiency past trading data are already reflected in current prices and investors cannot predict future price changes by extrapolating prices or patterns of prices from the past.</p>\n</li>\n</ol>\n<h4>Market Efficiency</h4>\n<ul>\n<li>explain the implications of each form of market efficiency for fundamental analysis, technical analysis, and the choice between active and passive portfolio management</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 5,
+      "question": "<div><div><p>Which of the following statements is <em>most</em> accurate in an efficient market?</p>\n<ol>\n<li>Securities market prices fully reflect their fundamental values.</li>\n<li>Active strategies will lead to excess risk-adjusted portfolio returns.</li>\n<li>Securities market prices respond over time to changes in economic information.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. In an efficient market, market participants will process available information, and those with opposite views will trade among each other until securities market prices fully reflect their fundamental values. An efficient market is thus a market in which asset prices reflect all past and present information. Incorrect. In an efficient market, securities market prices reflect their fundamental values, so opportunities for active strategies to achieve excess risk adjusted returns may not exist. Incorrect. An efficient market is a market in which asset prices reflect information quickly, not over time. Market Efficiency describe market efficiency and related concepts, including their importance to investment practitioners",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> In an efficient market, market participants will process available information, and those with opposite views will trade among each other until securities market prices fully reflect their fundamental values. An efficient market is thus a market in which asset prices reflect all past and present information.</p>\n</li>\n<li>\n<p>Incorrect. In an efficient market, securities market prices reflect their fundamental values, so opportunities for active strategies to achieve excess risk adjusted returns may not exist.</p>\n</li>\n<li>\n<p>Incorrect. An efficient market is a market in which asset prices reflect information quickly, not over time.</p>\n</li>\n</ol>\n<h4>Market Efficiency</h4>\n<ul>\n<li>describe market efficiency and related concepts, including their importance to investment practitioners</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 6,
+      "question": "<div><div><div>\n<p>The market value of an undervalued asset is:</p>\n</div></div></div>",
+      "choices": {
+        "A": "greater than the asset’s intrinsic value.",
+        "B": "the value at which the asset can currently be bought or sold.",
+        "C": "equal to the present value of all the asset’s expected cash flows."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The market value is the transaction price at which an asset can be currently bought or sold.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The market value is the transaction price at which an asset can be currently bought or sold.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 7,
+      "question": "<div><div><div>\n<p>In an efficient market, the change in a company’s share price is <em>most likely</em> the result of:</p>\n</div></div></div>",
+      "choices": {
+        "A": "insiders’ private information.",
+        "B": "the previous day’s change in stock price.",
+        "C": "new information coming into the market."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Today’s price change is independent of the one from yesterday, and in an efficient market, investors will react to new, independent information as it is made public.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Today’s price change is independent of the one from yesterday, and in an efficient market, investors will react to new, independent information as it is made public.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 8,
+      "question": "<div><div><p>Arbitrage activity will <em>most likely</em> be higher in securities markets:</p>\n<ol>\n<li>that are efficient.</li>\n<li>with no restrictions on short selling.</li>\n<li>with high information acquisition costs.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. In an efficient market security prices tend to be closely aligned with the intrinsic values. Thus, arbitrage activity will be less in markets that are efficient. Correct. Short selling helps in price discovery. Arbitrageurs benefit from pricing discrepancies (inefficiencies); therefore, arbitrage activity will be higher in markets with no restrictions on short selling. Incorrect. High trading costs (transaction costs and information-acquisition costs) would negatively impact the potential profits thereby impeding the arbitrage activity. Market Efficiency describe market efficiency and related concepts, including their importance to investment practitioners",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. In an efficient market security prices tend to be closely aligned with the intrinsic values. Thus, arbitrage activity will be less in markets that are efficient.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> Short selling helps in price discovery. Arbitrageurs benefit from pricing discrepancies (inefficiencies); therefore, arbitrage activity will be higher in markets with no restrictions on short selling.</p>\n</li>\n<li>\n<p>Incorrect. High trading costs (transaction costs and information-acquisition costs) would negatively impact the potential profits thereby impeding the arbitrage activity.</p>\n</li>\n</ol>\n<h4>Market Efficiency</h4>\n<ul>\n<li>describe market efficiency and related concepts, including their importance to investment practitioners</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 9,
+      "question": "<div><div><div>\n<p>Regulation that restricts some investors from participating in a market will <em>most likely</em>:</p>\n</div></div></div>",
+      "choices": {
+        "A": "impede market efficiency.",
+        "B": "not affect market efficiency.",
+        "C": "contribute to market efficiency."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Reducing the number of market participants can accentuate market imperfections and impede market efficiency (e.g., restrictions on foreign investor trading).",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Reducing the number of market participants can accentuate market imperfections and impede market efficiency (e.g., restrictions on foreign investor trading).</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 10,
+      "question": "<div><div><p>In a highly efficient market, unexpected positive news on a stock is announced to the public. After this announcement, the difference between the market value and the intrinsic value of the stock will <em>most likely</em>:</p>\n<ol>\n<li>decrease.</li>\n<li>remain zero.</li>\n<li>increase.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. In a highly efficient market, (1) market value reflects new information quickly and rationally, and (2) an asset’s market value equals its intrinsic value. In an inefficient market, (1) the market value of a stock adjusts slowly to an unexpected news, and (2) there are probably discrepancies between market value and intrinsic value. Therefore, only in an inefficient market could the difference between market and intrinsic values decrease after the announcement of an unexpected positive news. Correct. In a highly efficient market, (1) market value reflects new information quickly and rationally, and (2) an asset’s market value equals its intrinsic value. Therefore, after the announcement, the difference between a stock’s market value and its intrinsic value will remain equal to zero because both market and intrinsic values adjust to reflect the unexpected news by the same amount and at the same time. Incorrect. In a highly efficient market, (1) market value reflects new information quickly and rationally, and (2) an asset’s market value equals its intrinsic value. In an inefficient market, (1) the market value of a stock adjusts slowly to an unexpected news, and (2) there are probably discrepancies between market value and intrinsic value. Therefore, only in an inefficient market could the difference between market and intrinsic values increase after the announcement of an unexpected positive news. Market Efficiency contrast market value and intrinsic value",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. In a highly efficient market, (1) market value reflects new information quickly and rationally, and (2) an asset’s market value equals its intrinsic value. In an inefficient market, (1) the market value of a stock adjusts slowly to an unexpected news, and (2) there are probably discrepancies between market value and intrinsic value. Therefore, only in an inefficient market could the difference between market and intrinsic values decrease after the announcement of an unexpected positive news.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> In a highly efficient market, (1) market value reflects new information quickly and rationally, and (2) an asset’s market value equals its intrinsic value. Therefore, after the announcement, the difference between a stock’s market value and its intrinsic value will remain equal to zero because both market and intrinsic values adjust to reflect the unexpected news by the same amount and at the same time.</p>\n</li>\n<li>\n<p>Incorrect. In a highly efficient market, (1) market value reflects new information quickly and rationally, and (2) an asset’s market value equals its intrinsic value. In an inefficient market, (1) the market value of a stock adjusts slowly to an unexpected news, and (2) there are probably discrepancies between market value and intrinsic value. Therefore, only in an inefficient market could the difference between market and intrinsic values increase after the announcement of an unexpected positive news.</p>\n</li>\n</ol>\n<h4>Market Efficiency</h4>\n<ul>\n<li>contrast market value and intrinsic value</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 11,
+      "question": "<div><div><div>\n<p>With respect to efficient market theory, when a market allows short selling, the efficiency of the market is <em>most likely</em> to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "increase.",
+        "B": "decrease.",
+        "C": "remain the same."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. According to theory, reducing the restrictions on trading will allow for more arbitrage trading, thereby promoting more efficient pricing. Although regulators argue that short selling exaggerates downward price movements, empirical research indicates that short selling is helpful in price discovery.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> According to theory, reducing the restrictions on trading will allow for more arbitrage trading, thereby promoting more efficient pricing. Although regulators argue that short selling exaggerates downward price movements, empirical research indicates that short selling is helpful in price discovery.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 12,
+      "question": "<div><div><p>If a security’s intrinsic value is $55 per share and is currently selling for $50 per share, the security is:</p>\n<ol>\n<li>undervalued.</li>\n<li>fairly valued.</li>\n<li>overvalued.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct because the security’s market price is less than its intrinsic value, indicating that it is undervalued. The dividend discount model can be used to estimate an asset’s intrinsic value. Incorrect because the security’s market price is less than its intrinsic value, indicating that it is undervalued. The dividend discount model can be used to estimate an asset’s intrinsic value. Incorrect because the security’s market price is less than its intrinsic value, indicating that it is undervalued. The dividend discount model can be used to estimate an asset’s intrinsic value. Market Efficiency contrast market value and intrinsic value",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong> because the security’s market price is less than its intrinsic value, indicating that it is undervalued. The dividend discount model can be used to estimate an asset’s intrinsic value.</p>\n</li>\n<li>\n<p>Incorrect because the security’s market price is less than its intrinsic value, indicating that it is undervalued. The dividend discount model can be used to estimate an asset’s intrinsic value.</p>\n</li>\n<li>\n<p>Incorrect because the security’s market price is less than its intrinsic value, indicating that it is undervalued. The dividend discount model can be used to estimate an asset’s intrinsic value.</p>\n</li>\n</ol>\n<h4>Market Efficiency</h4>\n<ul>\n<li>contrast market value and intrinsic value</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 13,
+      "question": "<div><div><p>Which of the following situations will <em>most likely</em> promote an increase in market efficiency?</p>\n<ol>\n<li>A decrease in trading activity</li>\n<li>An increase in arbitrage opportunities</li>\n<li>An increase in information availability</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. A decrease in trading activity can cause or accentuate other market imperfections that impede market efficiency. Incorrect. Arbitrage is a set of transactions that produces riskless profits. Arbitrageurs are traders who engage in such trades to benefit from pricing discrepancies (inefficiencies) in markets. Such trading activity contributes to market efficiency. If arbitrage opportunities increase, it means that there are either more pricing discrepancies or fewer arbitrageurs (or both), and this situation will lead to a reduction in market efficiency. Correct. Information availability (e.g., active financial news media or information regarding trading activity and traded companies) and financial disclosure should promote or increase market efficiency. Market Efficiency explain factors that affect a market’s efficiency",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. A decrease in trading activity can cause or accentuate other market imperfections that impede market efficiency.</p>\n</li>\n<li>\n<p>Incorrect. Arbitrage is a set of transactions that produces riskless profits. Arbitrageurs are traders who engage in such trades to benefit from pricing discrepancies (inefficiencies) in markets. Such trading activity contributes to market efficiency. If arbitrage opportunities increase, it means that there are either more pricing discrepancies or fewer arbitrageurs (or both), and this situation will lead to a reduction in market efficiency.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> Information availability (e.g., active financial news media or information regarding trading activity and traded companies) and financial disclosure should promote or increase market efficiency.</p>\n</li>\n</ol>\n<h4>Market Efficiency</h4>\n<ul>\n<li>explain factors that affect a market’s efficiency</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 14,
+      "question": "<div><div><div>\n<p>Which of the following regulations will <em>most likely</em> contribute to market efficiency? Regulatory restrictions on:</p>\n</div></div></div>",
+      "choices": {
+        "A": "short selling.",
+        "B": "foreign traders.",
+        "C": "insiders trading with nonpublic information."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Regulation to restrict unfair use of nonpublic information encourages greater participation in the market, which increases market efficiency. Regulators (e.g., US SEC) discourage illegal insider trading by issuing penalties to violators of their insider trading rules.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Regulation to restrict unfair use of nonpublic information encourages greater participation in the market, which increases market efficiency. Regulators (e.g., US SEC) discourage illegal insider trading by issuing penalties to violators of their insider trading rules.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 15,
+      "question": "<div><div><p>Which of the following statements about the forms of market efficiency is <em>least</em> accurate? If the form of market efficiency is:</p>\n<ol>\n<li>strong, then prices reflect only private information.</li>\n<li>semi-strong, then security prices fully reflect all past market data.</li>\n<li>weak, then investment strategies based on fundamental analysis could achieve abnormal returns.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. If markets are strong-form efficient, prices reflect not only private information but also past market data and public information. If markets are weak-form efficient, investment strategies based on fundamental analysis of public information and past market data could achieve abnormal returns. The semi-strong-form of market efficiency also encompasses the weak form. Therefore, security prices reflect not only publicly known and available information but also all past market data. Incorrect. This statement is correct because the semi-strong-form of market efficiency also encompasses the weak-form; therefore, security prices reflect not only publicly known and available information but also all past market data. Incorrect. This statement is correct because if markets are weak-form efficient only, investment strategies based on fundamental analysis could achieve abnormal returns. Market Efficiency contrast weak-form, semi-strong-form, and strong-form market efficiency",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> If markets are strong-form efficient, prices reflect not only private information but also past market data and public information. If markets are weak-form efficient, investment strategies based on fundamental analysis of public information and past market data could achieve abnormal returns. The semi-strong-form of market efficiency also encompasses the weak form. Therefore, security prices reflect not only publicly known and available information but also all past market data.</p>\n</li>\n<li>\n<p>Incorrect. This statement is correct because the semi-strong-form of market efficiency also encompasses the weak-form; therefore, security prices reflect not only publicly known and available information but also all past market data.</p>\n</li>\n<li>\n<p>Incorrect. This statement is correct because if markets are weak-form efficient only, investment strategies based on fundamental analysis could achieve abnormal returns.</p>\n</li>\n</ol>\n<h4>Market Efficiency</h4>\n<ul>\n<li>contrast weak-form, semi-strong-form, and strong-form market efficiency</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 16,
+      "question": "<div><div><div>\n<p>Which of the following market regulations will <em>most likely</em> impede market efficiency?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Restricting traders’ ability to short sell.",
+        "B": "Allowing unrestricted foreign investor trading.",
+        "C": "Penalizing investors who trade with nonpublic information."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Restricting short selling will reduce arbitrage trading, which promotes market efficiency. Permitting foreign investor trading increases market participation, which makes markets more efficient. Penalizing insider trading encourages greater market participation, which increases market efficiency.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Restricting short selling will reduce arbitrage trading, which promotes market efficiency. Permitting foreign investor trading increases market participation, which makes markets more efficient. Penalizing insider trading encourages greater market participation, which increases market efficiency.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 17,
+      "question": "<div><div><p>The weak-form market efficiency <em>most</em> accurately assumes that current security prices:</p>\n<ol>\n<li>adjust rapidly to the release of all public information.</li>\n<li>fully reflect all information from public and private sources.</li>\n<li>fully reflect all past market information, including transactions by exchange specialists.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. It is the assumption of the semi-strong-form efficient market that security prices reflect all publicly known and available information. Incorrect. It is the assumption of the strong-form efficient market that security prices fully reflect both public and private information. Correct. In the weak-form efficient market hypothesis, security prices fully reflect all past market data including transactions by exchange specialists. Market Efficiency contrast weak-form, semi-strong-form, and strong-form market efficiency",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. It is the assumption of the semi-strong-form efficient market that security prices reflect all publicly known and available information.</p>\n</li>\n<li>\n<p>Incorrect. It is the assumption of the strong-form efficient market that security prices fully reflect both public and private information.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> In the weak-form efficient market hypothesis, security prices fully reflect all past market data including transactions by exchange specialists.</p>\n</li>\n</ol>\n<h4>Market Efficiency</h4>\n<ul>\n<li>contrast weak-form, semi-strong-form, and strong-form market efficiency</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 18,
+      "question": "<div><div><div>\n<p>An increase in the time between when an order to trade a security is placed and when the order is executed <em>most likely</em> indicates that market efficiency has:</p>\n</div></div></div>",
+      "choices": {
+        "A": "decreased.",
+        "B": "remained the same.",
+        "C": "increased."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Operating inefficiencies reduce market efficiency.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Operating inefficiencies reduce market efficiency.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 19,
+      "question": "<div><div><div>\n<p>With respect to the efficient market hypothesis, if security prices reflect <em>only</em> past prices and trading volume information, then the market is:</p>\n</div></div></div>",
+      "choices": {
+        "A": "weak-form efficient.",
+        "B": "strong-form efficient.",
+        "C": "semi-strong-form efficient."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The weak-form efficient market hypothesis is defined as a market where security prices fully reflect all market data, which refers to all past price and trading volume information.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The weak-form efficient market hypothesis is defined as a market where security prices fully reflect all market data, which refers to all past price and trading volume information.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 20,
+      "question": "<div><div><p>An observation that stocks with above average price-to-earnings ratios have consistently underperformed those with below average price-to-earnings ratios <em>least likely</em> contradicts which form of market efficiency?</p>\n<ol>\n<li>Weak form</li>\n<li>Semi-strong form</li>\n<li>Strong form</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. The observation that stocks with high above average price-to-earnings ratios have consistently underperformed those with below average price-to-earnings ratios is a cross-sectional anomaly. It is a contradiction to the semi-strong form of market efficiency and strong form market efficiency because all the information used to categorize stocks by their price-to-earnings ratios is publicly available. It is not a contradiction to weak form market efficiency. Incorrect. The data on price-to-earnings ratios are publicly available, and the related anomaly therefore is a contradiction to the semi-strong form of market efficiency. Incorrect. The data on price-to-earnings ratios are publicly available, and the related anomaly therefore is a contradiction to the semi-strong and strong forms of market efficiency. Market Efficiency contrast weak-form, semi-strong-form, and strong-form market efficiency",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> The observation that stocks with high above average price-to-earnings ratios have consistently underperformed those with below average price-to-earnings ratios is a cross-sectional anomaly. It is a contradiction to the semi-strong form of market efficiency and strong form market efficiency because all the information used to categorize stocks by their price-to-earnings ratios is publicly available. It is not a contradiction to weak form market efficiency.</p>\n</li>\n<li>\n<p>Incorrect. The data on price-to-earnings ratios are publicly available, and the related anomaly therefore is a contradiction to the semi-strong form of market efficiency.</p>\n</li>\n<li>\n<p>Incorrect. The data on price-to-earnings ratios are publicly available, and the related anomaly therefore is a contradiction to the semi-strong and strong forms of market efficiency.</p>\n</li>\n</ol>\n<h4>Market Efficiency</h4>\n<ul>\n<li>contrast weak-form, semi-strong-form, and strong-form market efficiency</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 21,
+      "question": "<div><div><p>After the public announcement of the merger of two firms, an investor makes abnormal returns by going long on the target firm and short on the acquiring firm. This <em>most likely</em> violates which form of market efficiency?</p>\n<ol>\n<li>Semi-strong-form only</li>\n<li>Weak-form and semi-strong-form</li>\n<li>Semi-strong-form and strong-form</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. A market that is not semi-strong-form efficient is also not strong-form efficient. Thus, violating the semi-strong-form efficiency also implies violating the strong-form efficiency. Incorrect. The market could still be weak-form efficient, as past prices are not being used to make abnormal profits. Thus, we cannot say that the weak-form market efficiency has been violated. Correct. In a semi-strong-form efficient market, prices adjust quickly and accurately to new information. In this case, prices would quickly adjust to the merger announcement, and if the market is a semi-strong-form efficient market, investors acting after the merger announcement would not be able to earn abnormal returns. Therefore, the market is not semi-strong-form efficient. A market that is not semi-strong-form efficient is also not strong-form efficient. Thus, violating the semi-strong-form efficiency also implies violating the strong-form efficiency. However, the market could still be weak-form efficient because past prices are not being used to make abnormal profits. Thus, we cannot say that the weak-form market efficiency has been violated. Market Efficiency contrast weak-form, semi-strong-form, and strong-form market efficiency",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. A market that is not semi-strong-form efficient is also not strong-form efficient. Thus, violating the semi-strong-form efficiency also implies violating the strong-form efficiency.</p>\n</li>\n<li>\n<p>Incorrect. The market could still be weak-form efficient, as past prices are not being used to make abnormal profits. Thus, we cannot say that the weak-form market efficiency has been violated.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> In a semi-strong-form efficient market, prices adjust quickly and accurately to new information. In this case, prices would quickly adjust to the merger announcement, and if the market is a semi-strong-form efficient market, investors acting after the merger announcement would not be able to earn abnormal returns. Therefore, the market is not semi-strong-form efficient. A market that is not semi-strong-form efficient is also not strong-form efficient. Thus, violating the semi-strong-form efficiency also implies violating the strong-form efficiency. However, the market could still be weak-form efficient because past prices are not being used to make abnormal profits. Thus, we cannot say that the weak-form market efficiency has been violated.</p>\n</li>\n</ol>\n<h4>Market Efficiency</h4>\n<ul>\n<li>contrast weak-form, semi-strong-form, and strong-form market efficiency</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 22,
+      "question": "<div><div><div>\n<p>Which one of the following statements <em>best</em> describes the semi-strong form of market efficiency?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Empirical tests examine the historical patterns in security prices.",
+        "B": "Security prices reflect all publicly known and available information.",
+        "C": "Semi-strong-form efficient markets are not necessarily weak-form efficient."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. In semi-strong-form efficient markets, security prices reflect all publicly available information.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> In semi-strong-form efficient markets, security prices reflect all publicly available information.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 23,
+      "question": "<div><div><p>If markets are only weak-form efficient, which of the following investment approaches is <em>least likely</em> to consistently earn abnormal profits?</p>\n<ol>\n<li>Exploiting of non-public information</li>\n<li>Trading based on patterns of prices and volume</li>\n<li>Buying and selling based on fundamental analysis</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. If markets are weak-form efficient, only past market data, but not private (nonpublic) information, are reflected in current prices. Consequently, exploiting nonpublic information can consistently earn abnormal profits. In most countries, such activity is prohibited. Correct. In the weak-form efficient market hypothesis, security prices fully reflect all past market data, which refers to all historical price and trading volume information. Consequently, trading by looking at patterns of prices and volume from the past cannot consistently earn abnormal profits. Incorrect. Fundamental analysis is the examination of publicly available information and the formulation of forecasts to estimate the intrinsic value of assets. If markets are weak-form efficient, only past market data, but not all publicly available information, are reflected in current prices. Consequently, buying and selling based on fundamental analysis can consistently earn abnormal profits. Market Efficiency explain the implications of each form of market efficiency for fundamental analysis, technical analysis, and the choice between active and passive portfolio management",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. If markets are weak-form efficient, only past market data, but not private (nonpublic) information, are reflected in current prices. Consequently, exploiting nonpublic information can consistently earn abnormal profits. In most countries, such activity is prohibited.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> In the weak-form efficient market hypothesis, security prices fully reflect all past market data, which refers to all historical price and trading volume information. Consequently, trading by looking at patterns of prices and volume from the past cannot consistently earn abnormal profits.</p>\n</li>\n<li>\n<p>Incorrect. Fundamental analysis is the examination of publicly available information and the formulation of forecasts to estimate the intrinsic value of assets. If markets are weak-form efficient, only past market data, but not all publicly available information, are reflected in current prices. Consequently, buying and selling based on fundamental analysis can consistently earn abnormal profits.</p>\n</li>\n</ol>\n<h4>Market Efficiency</h4>\n<ul>\n<li>explain the implications of each form of market efficiency for fundamental analysis, technical analysis, and the choice between active and passive portfolio management</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 24,
+      "question": "<div><div><div>\n<p>If prices reflect all public and private information, the market is <em>best</em> described as:</p>\n</div></div></div>",
+      "choices": {
+        "A": "weak-form efficient.",
+        "B": "strong-form efficient.",
+        "C": "semi-strong-form efficient."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The strong-form efficient market hypothesis assumes all information, public or private, has already been reflected in the prices.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The strong-form efficient market hypothesis assumes all information, public or private, has already been reflected in the prices.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 25,
+      "question": "<div><div><p>If securities markets are semi-strong-form efficient, the <em>most</em> appropriate role of a portfolio manager is to:</p>\n<ol>\n<li>exploit appropriate trading rules and serial correlations for achieving excess returns.</li>\n<li>invest by analyzing publicly available information to consistently generate abnormal returns.</li>\n<li>manage portfolios with appropriate diversification and asset allocation, taking into consideration investor preferences.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. Exploiting trading rules and serial correlations would not be feasible if markets are weak-form efficient, leave alone semi-strong-form efficiency. Incorrect. The semi-strong-form efficiency assumes that prices reflect all publicly known and available information, and therefore efforts to analyze publicly available information is futile. Correct. If markets are semi-strong-form efficient (which also encompasses weak-form efficiency), the role of a portfolio manager is not necessarily to beat the market, but rather to establish and manage a portfolio consistent with the portfolio’s objectives, with appropriate diversification and asset allocation, while taking into consideration the risk preferences and tax situation of the investor. Market Efficiency explain the implications of each form of market efficiency for fundamental analysis, technical analysis, and the choice between active and passive portfolio management",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Exploiting trading rules and serial correlations would not be feasible if markets are weak-form efficient, leave alone semi-strong-form efficiency.</p>\n</li>\n<li>\n<p>Incorrect. The semi-strong-form efficiency assumes that prices reflect all publicly known and available information, and therefore efforts to analyze publicly available information is futile.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> If markets are semi-strong-form efficient (which also encompasses weak-form efficiency), the role of a portfolio manager is not necessarily to beat the market, but rather to establish and manage a portfolio consistent with the portfolio’s objectives, with appropriate diversification and asset allocation, while taking into consideration the risk preferences and tax situation of the investor.</p>\n</li>\n</ol>\n<h4>Market Efficiency</h4>\n<ul>\n<li>explain the implications of each form of market efficiency for fundamental analysis, technical analysis, and the choice between active and passive portfolio management</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 26,
+      "question": "<div><div><div>\n<p>If markets are semi-strong efficient, standard fundamental analysis will yield abnormal trading profits that are:</p>\n</div></div></div>",
+      "choices": {
+        "A": "negative.",
+        "B": "equal to zero.",
+        "C": "positive."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. If all public information should already be reflected in the market price, then the abnormal trading profit will be equal to zero when fundamental analysis is used.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> If all public information should already be reflected in the market price, then the abnormal trading profit will be equal to zero when fundamental analysis is used.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 27,
+      "question": "<div><div><p>A trader is able to obtain persistent abnormal returns by adopting an investment strategy that purchases stocks that have recently experienced high returns. This strategy exploits a market-pricing anomaly <em>best</em> described as:</p>\n<ol>\n<li>data mining.</li>\n<li>momentum.</li>\n<li>the overreaction effect.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. Data mining is not a market anomaly but a type of process that could be used to discover statistically significant price patterns. Correct. A momentum anomaly occurs when securities that have experienced high short-term returns continue to generate higher returns in subsequent periods. Therefore, if a trader can obtain persistent abnormal returns by adopting an investment strategy that purchases stocks that have recently experienced high returns, then he or she is exploiting a momentum anomaly. Incorrect. The overreaction effect is a pricing anomaly that occurs when investors overreact to the release of unexpected public information, inflating (depressing) stock prices of companies releasing good (bad) information. Market Efficiency describe market anomalies",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Data mining is not a market anomaly but a type of process that could be used to discover statistically significant price patterns.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> A momentum anomaly occurs when securities that have experienced high short-term returns continue to generate higher returns in subsequent periods. Therefore, if a trader can obtain persistent abnormal returns by adopting an investment strategy that purchases stocks that have recently experienced high returns, then he or she is exploiting a momentum anomaly.</p>\n</li>\n<li>\n<p>Incorrect. The overreaction effect is a pricing anomaly that occurs when investors overreact to the release of unexpected public information, inflating (depressing) stock prices of companies releasing good (bad) information.</p>\n</li>\n</ol>\n<h4>Market Efficiency</h4>\n<ul>\n<li>describe market anomalies</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 28,
+      "question": "<div><div><div>\n<p>If markets are semi-strong-form efficient, then passive portfolio management strategies are <em>most likely</em> to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "earn abnormal returns.",
+        "B": "outperform active trading strategies.",
+        "C": "underperform active trading strategies."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Costs associated with active trading strategies would be difficult to recover; thus, such active trading strategies would have difficulty outperforming passive strategies on a consistent after-cost basis.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Costs associated with active trading strategies would be difficult to recover; thus, such active trading strategies would have difficulty outperforming passive strategies on a consistent after-cost basis.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 29,
+      "question": "<div><div><div>\n<p>If a market is semi-strong-form efficient, the risk-adjusted returns of a passively managed portfolio relative to an actively managed portfolio are <em>most likely</em>:</p>\n</div></div></div>",
+      "choices": {
+        "A": "lower.",
+        "B": "higher.",
+        "C": "the same."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. In a semi-strong-form efficient market, passive portfolio strategies should outperform active portfolio strategies on a risk-adjusted basis.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> In a semi-strong-form efficient market, passive portfolio strategies should outperform active portfolio strategies on a risk-adjusted basis.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 30,
+      "question": "<div><div><p>The value effect market-pricing anomaly <em>most likely</em> occurs when stocks that have below-average price-to-earnings and market-to-book ratios, as well as above-average dividend yields, consistently outperform:</p>\n<ol>\n<li>growth stocks.</li>\n<li>large-cap stocks.</li>\n<li>stocks that have had negative earnings surprises.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. The value effect occurs when value stocks, which are generally referred to as stocks that have below-average price-to-earnings and market-to-book ratios, as well as above-average dividend yields, outperform growth stocks consistently and for long periods. Incorrect. It is the size effect, not the value effect, that compares returns with respect to large-cap stocks. Incorrect. Value effect does not compare stocks on the basis of earnings surprises. It is the “earnings surprise” anomaly that compares companies on the basis of the unexpected part of the earnings announcement. Market Efficiency describe market anomalies",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> The value effect occurs when value stocks, which are generally referred to as stocks that have below-average price-to-earnings and market-to-book ratios, as well as above-average dividend yields, outperform growth stocks consistently and for long periods.</p>\n</li>\n<li>\n<p>Incorrect. It is the size effect, not the value effect, that compares returns with respect to large-cap stocks.</p>\n</li>\n<li>\n<p>Incorrect. Value effect does not compare stocks on the basis of earnings surprises. It is the “earnings surprise” anomaly that compares companies on the basis of the unexpected part of the earnings announcement.</p>\n</li>\n</ol>\n<h4>Market Efficiency</h4>\n<ul>\n<li>describe market anomalies</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 31,
+      "question": "<div><div><p>The behavioral bias in which investors tend to avoid realizing losses but rather seek to realize gains is <em>best</em> described as:</p>\n<ol>\n<li>mental accounting.</li>\n<li>the gambler’s fallacy.</li>\n<li>the disposition effect.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. The disposition effect is a behavioral bias in which investors tend to avoid realizing losses but rather seek to realize gains. Incorrect. The gambler’s fallacy is a behavioral bias in which recent outcomes affect investors’ estimates of future probabilities. Correct. Behavioral biases in which investors tend to avoid realizing losses but rather seek to realize gains is the disposition effect. Market Efficiency describe behavioral finance and its potential relevance to understanding market anomalies",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. The disposition effect is a behavioral bias in which investors tend to avoid realizing losses but rather seek to realize gains.</p>\n</li>\n<li>\n<p>Incorrect. The gambler’s fallacy is a behavioral bias in which recent outcomes affect investors’ estimates of future probabilities.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> Behavioral biases in which investors tend to avoid realizing losses but rather seek to realize gains is the disposition effect.</p>\n</li>\n</ol>\n<h4>Market Efficiency</h4>\n<ul>\n<li>describe behavioral finance and its potential relevance to understanding market anomalies</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 32,
+      "question": "<div><div><div>\n<p>Technical analysts assume that markets are:</p>\n</div></div></div>",
+      "choices": {
+        "A": "weak-form efficient.",
+        "B": "weak-form inefficient.",
+        "C": "semi-strong-form efficient."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Technical analysts use past prices and volume to predict future prices, which is inconsistent with the weakest form of market efficiency (i.e., weak-form market efficiency). Weak-form market efficiency states that investors cannot earn abnormal returns by trading on the basis of past trends in price and volume.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Technical analysts use past prices and volume to predict future prices, which is inconsistent with the weakest form of market efficiency (i.e., weak-form market efficiency). Weak-form market efficiency states that investors cannot earn abnormal returns by trading on the basis of past trends in price and volume.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 33,
+      "question": "<div><div><p>An internal evaluation of the trading behavior of three fund managers of a mutual fund company during the past year has revealed the following:</p>\n<ul>\n<li>\n<strong>Manager X:</strong> Was slower than peers when reacting to changes in information</li>\n<li>\n<strong>Manager Y: </strong>Rarely realized investment losses but realized most of the investment gains</li>\n<li>\n<strong>Manager Z:</strong> Tended to overreact by disliking losses more than liking comparable gains</li>\n</ul>\n<p>Which of the three managers <em>most likely</em> displayed the disposition effect bias?</p>\n<ol>\n<li>Manager X</li>\n<li>Manager Y</li>\n<li>Manager Z</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. Manager X’s behavior of reacting slow to changes is consistent with conservatism. Correct. The disposition effect relates to the behavioral bias in which investors tend to avoid realizing losses but, rather, seek to realize gains. Manager Y has displayed this bias. Incorrect. Over-reacting, including a dislike for losses more than liking comparable gains, displayed by Manager Z is reflective of a behavioral bias called loss aversion. Market Efficiency describe behavioral finance and its potential relevance to understanding market anomalies",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Manager X’s behavior of reacting slow to changes is consistent with conservatism.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> The disposition effect relates to the behavioral bias in which investors tend to avoid realizing losses but, rather, seek to realize gains. Manager Y has displayed this bias.</p>\n</li>\n<li>\n<p>Incorrect. Over-reacting, including a dislike for losses more than liking comparable gains, displayed by Manager Z is reflective of a behavioral bias called loss aversion.</p>\n</li>\n</ol>\n<h4>Market Efficiency</h4>\n<ul>\n<li>describe behavioral finance and its potential relevance to understanding market anomalies</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 34,
+      "question": "<div><div><div>\n<p>Fundamental analysts assume that markets are:</p>\n</div></div></div>",
+      "choices": {
+        "A": "weak-form inefficient.",
+        "B": "semi-strong-form efficient.",
+        "C": "semi-strong-form inefficient."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Fundamental analysts use publicly available information to estimate a security’s intrinsic value to determine if the security is mispriced, which is inconsistent with the semi-strong form of market efficiency. Semi-strong-form market efficiency states that investors cannot earn abnormal returns by trading based on publicly available information.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Fundamental analysts use publicly available information to estimate a security’s intrinsic value to determine if the security is mispriced, which is inconsistent with the semi-strong form of market efficiency. Semi-strong-form market efficiency states that investors cannot earn abnormal returns by trading based on publicly available information.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 35,
+      "question": "<div><div><div>\n<p>If a market is weak-form efficient but semi-strong-form inefficient, then which of the following types of portfolio management is <em>most likely</em> to produce abnormal returns?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Passive portfolio management.",
+        "B": "Active portfolio management based on technical analysis.",
+        "C": "Active portfolio management based on fundamental analysis."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. If markets are not semi-strong-form efficient, then fundamental analysts are able to use publicly available information to estimate a security’s intrinsic value and identify misvalued securities. Technical analysis is not able to earn abnormal returns if markets are weak-form efficient. Passive portfolio managers outperform fundamental analysis if markets are semi-strong-form efficient.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> If markets are not semi-strong-form efficient, then fundamental analysts are able to use publicly available information to estimate a security’s intrinsic value and identify misvalued securities. Technical analysis is not able to earn abnormal returns if markets are weak-form efficient. Passive portfolio managers outperform fundamental analysis if markets are semi-strong-form efficient.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 36,
+      "question": "<div><div><div>\n<p>Which of the following is <em>least likely</em> to explain the January effect anomaly?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Tax-loss selling.",
+        "B": "Release of new information in January.",
+        "C": "Window dressing of portfolio holdings."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The excess returns in January are not attributed to any new information or news; however, research has found that part of the seasonal pattern can be explained by tax-loss selling and portfolio window dressing.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The excess returns in January are not attributed to any new information or news; however, research has found that part of the seasonal pattern can be explained by tax-loss selling and portfolio window dressing.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 37,
+      "question": "<div><div><div>\n<p>If a researcher conducting empirical tests of a trading strategy using time series of returns finds statistically significant abnormal returns, then the researcher has <em>most likely</em> found:</p>\n</div></div></div>",
+      "choices": {
+        "A": "a market anomaly.",
+        "B": "evidence of market inefficiency.",
+        "C": "a strategy to produce future abnormal returns."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Finding significant abnormal returns does not necessarily indicate that markets are inefficient or that abnormal returns can be realized by applying the strategy to future time periods. Abnormal returns are considered market anomalies because they may be the result of the model used to estimate the expected returns or may be the result of underestimating transaction costs or other expenses associated with implementing the strategy, rather than because of market inefficiency.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Finding significant abnormal returns does not necessarily indicate that markets are inefficient or that abnormal returns can be realized by applying the strategy to future time periods. Abnormal returns are considered market anomalies because they may be the result of the model used to estimate the expected returns or may be the result of underestimating transaction costs or other expenses associated with implementing the strategy, rather than because of market inefficiency.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 38,
+      "question": "<div><div><div>\n<p>Researchers have found that value stocks have consistently outperformed growth stocks. An investor wishing to exploit the value effect should purchase the stock of companies with above-average:</p>\n</div></div></div>",
+      "choices": {
+        "A": "dividend yields.",
+        "B": "market-to-book ratios.",
+        "C": "price-to-earnings ratios."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Higher than average dividend yield is a characteristic of a value stock, along with low price-to-earnings and low market-to-book ratios. Growth stocks are characterized by low dividend yields and high price-to-earnings and high market-to-book ratios.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Higher than average dividend yield is a characteristic of a value stock, along with low price-to-earnings and low market-to-book ratios. Growth stocks are characterized by low dividend yields and high price-to-earnings and high market-to-book ratios.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 39,
+      "question": "<div><div><div>\n<p>Which of the following market anomalies is inconsistent with weak-form market efficiency?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Earnings surprise.",
+        "B": "Momentum pattern.",
+        "C": "Closed-end fund discount."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Trading based on historical momentum indicates that price patterns exist and can be exploited by using historical price information. A momentum trading strategy that produces abnormal returns contradicts the weak form of the efficient market hypothesis, which states that investors cannot earn abnormal returns on the basis of past trends in prices.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Trading based on historical momentum indicates that price patterns exist and can be exploited by using historical price information. A momentum trading strategy that produces abnormal returns contradicts the weak form of the efficient market hypothesis, which states that investors cannot earn abnormal returns on the basis of past trends in prices.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 40,
+      "question": "<div><div><div>\n<p>With respect to efficient markets, a company whose share price changes gradually after the public release of its annual report <em>most likely</em> indicates that the market where the company trades is:</p>\n</div>\n</div></div>",
+      "choices": {
+        "A": "strong-form efficient.",
+        "B": "subject to behavioral biases.",
+        "C": "receiving additional information about the company."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. If markets are efficient, the information from the annual report is reflected in the stock prices; therefore, the gradual changes must be from the release of additional information.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> If markets are efficient, the information from the annual report is reflected in the stock prices; therefore, the gradual changes must be from the release of additional information.</p>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 41,
+      "question": "<div><div><div>\n<p>With respect to rational and irrational investment decisions, the efficient market hypothesis requires:</p>\n</div></div></div>",
+      "choices": {
+        "A": "only that the market is rational.",
+        "B": "that all investors make rational decisions.",
+        "C": "that some investors make irrational decisions."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The efficient market hypothesis and asset-pricing models only require that the market is rational. Behavioral finance is used to explain some of the market anomalies as irrational decisions.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The efficient market hypothesis and asset-pricing models only require that the market is rational. Behavioral finance is used to explain <em>some</em> of the market anomalies as irrational decisions.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 42,
+      "question": "<div><div><div>\n<p>Observed overreactions in markets can be explained by an investor’s degree of:</p>\n</div></div></div>",
+      "choices": {
+        "A": "risk aversion.",
+        "B": "loss aversion.",
+        "C": "confidence in the market."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Behavioral theories of loss aversion can explain observed overreaction in markets, such that investors dislike losses more than comparable gains (i.e., risk is not symmetrical).",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Behavioral theories of loss aversion can explain observed overreaction in markets, such that investors dislike losses more than comparable gains (i.e., risk is not symmetrical).</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Market Efficiency",
+      "question_number": 43,
+      "question": "<div><div><div>\n<p>Like traditional finance models, the behavioral theory of loss aversion assumes that investors dislike risk; however, the dislike of risk in behavioral theory is assumed to be:</p>\n</div></div></div>",
+      "choices": {
+        "A": "leptokurtic.",
+        "B": "symmetrical.",
+        "C": "asymmetrical."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Behavioral theories of loss aversion allow for the possibility that the dislike for risk is not symmetrical, which allows for loss aversion to explain observed overreaction in markets such that investors dislike losses more than they like comparable gains.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Behavioral theories of loss aversion allow for the possibility that the dislike for risk is not symmetrical, which allows for loss aversion to explain observed overreaction in markets such that investors dislike losses more than they like comparable gains.</p></div>",
+      "category": "Equity Investments"
+    }
+  ]
+}

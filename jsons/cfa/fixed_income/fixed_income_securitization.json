@@ -1,0 +1,149 @@
+{
+  "category": "Fixed Income",
+  "topic": "Fixed Income Securitization",
+  "total_questions": 11,
+  "questions": [
+    {
+      "title": "Fixed Income Securitization",
+      "question_number": 1,
+      "question": "<div><div><p>Proceeds for repaying securitized bonds <em>most likely</em> come from the:</p>\n<ol>\n<li>claims-paying ability of the operating entity.</li>\n<li>cash flows of the underlying financial assets.</li>\n<li>cash flows of the project the bond is financing.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect because the pool of assets are the securitized assets, also called the reference portfolio or collateral. In turn, that legal entity issues securities backed by these pooled assets to investors and uses the cash flows to pay interest and repay the principal to investors. Correct because the securitization process pools and transfers the ownership of cash flow generating assets, such as loans or receivables, from the original lender into a specially created legal entity. The pool of assets are the securitized assets, also called the reference portfolio or collateral. In turn, that legal entity issues securities backed by these pooled assets to investors and uses the cash flows to pay interest and repay the principal to investors. Incorrect because the pool of assets are the securitized assets, also called the reference portfolio or collateral. In turn, that legal entity issues securities backed by these pooled assets to investors and uses the cash flows to pay interest and repay the principal to investors. Fixed-Income Securitization explain benefits of securitization for issuers, investors, economies, and financial markets",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because the pool of assets are the securitized assets, also called the reference portfolio or collateral. In turn, that legal entity issues securities backed by these pooled assets to investors and uses the cash flows to pay interest and repay the principal to investors.</p>\n</li>\n<li>\n<p><strong>Correct</strong> because the securitization process pools and transfers the ownership of cash flow generating assets, such as loans or receivables, from the original lender into a specially created legal entity. The pool of assets are the securitized assets, also called the reference portfolio or collateral. In turn, that legal entity issues securities backed by these pooled assets to investors and uses the cash flows to pay interest and repay the principal to investors.</p>\n</li>\n<li>\n<p>Incorrect because the pool of assets are the securitized assets, also called the reference portfolio or collateral. In turn, that legal entity issues securities backed by these pooled assets to investors and uses the cash flows to pay interest and repay the principal to investors.</p>\n</li>\n</ol>\n<h4>Fixed-Income Securitization</h4>\n<ul>\n<li>explain benefits of securitization for issuers, investors, economies, and financial markets</li>\n</ul>\n</div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Fixed Income Securitization",
+      "question_number": 2,
+      "question": "<div><div><div>\n<p>Which of the following benefits of securitization is most likely to be important for investors?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Increased efficiency",
+        "B": "Reduced liquidity risk",
+        "C": "The ability to tailor interest rate and credit risk exposures"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution The correct answer is C. Securitization provides a direct conduit between borrowers and investors. It also allows investors to tailor interest rate and credit risk exposures to suit their specific risk, return, and maturity needs. A is incorrect because securitization creates efficiency for issuers and financial markets more directly than for investors. Securitization allows issuers to sell illiquid assets and operate more efficiently on a risk-adjusted basis. Moreover, because securitization creates tradable securities with higher liquidity than the original underlying assets, it makes financial markets more efficient. B is incorrect because securitization improves overall liquidity in the financial system and reduces liquidity risk, which benefits participants in financial markets.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>The correct answer is C.</strong> Securitization provides a direct conduit between borrowers and investors. It also allows investors to tailor interest rate and credit risk exposures to suit their specific risk, return, and maturity needs. A is incorrect because securitization creates efficiency for issuers and financial markets more directly than for investors. Securitization allows issuers to sell illiquid assets and operate more efficiently on a risk-adjusted basis. Moreover, because securitization creates tradable securities with higher liquidity than the original underlying assets, it makes financial markets more efficient. B is incorrect because securitization improves overall liquidity in the financial system and reduces liquidity risk, which benefits participants in financial markets.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Fixed Income Securitization",
+      "question_number": 3,
+      "question": "<div><div><div>\n<p>Determine which of the following is the <em>best</em> next step for AR&amp;C.</p>\n</div></div></div>",
+      "choices": {
+        "A": "AR&C issues and sells securities backed by the pool of leases.",
+        "B": "AR&C sets up a separate legal entity to which it sells the CAD500 million in leases.",
+        "C": "AR&C discontinues servicing the leases, shifting this responsibility to a special purpose company."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution The correct answer is B. In order for these assets (leases) to be securitized, they must be held in a separate legal entity structure distinct from AR&C. The separate legal entity structure ensures that if AR&C, the originator of the leases, files for bankruptcy, the leases backing the ABS that are issued by the separate legal entity are secure there, thus AR&C’s creditors cannot have any claim on them. A is incorrect because if AR&C issues the securities, the leases remain on AR&C’s balance sheet and thus could still be accessible to AR&C’s creditors in the event of a bankruptcy. C is incorrect because servicing the leases must continue whether or not by AR&C or another entity, but servicing the leases is separate from securitizing them.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>The correct answer is B.</strong> In order for these assets (leases) to be securitized, they must be held in a separate legal entity structure distinct from AR&amp;C. The separate legal entity structure ensures that if AR&amp;C, the originator of the leases, files for bankruptcy, the leases backing the ABS that are issued by the separate legal entity are secure there, thus AR&amp;C’s creditors cannot have any claim on them. A is incorrect because if AR&amp;C issues the securities, the leases remain on AR&amp;C’s balance sheet and thus could still be accessible to AR&amp;C’s creditors in the event of a bankruptcy. C is incorrect because servicing the leases must continue whether or not by AR&amp;C or another entity, but servicing the leases is separate from securitizing them.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Fixed Income Securitization",
+      "question_number": 4,
+      "question": "<div><div><p>A BBB rated corporation wishes to issue debt to finance its operations at the lowest cost possible. If it decides to sell a pool of receivables into a special purpose entity (SPE), its primary motivation is <em>most likely</em> to:</p>\n<ol>\n<li>allow the corporation to retain a first lien on the assets of the SPE.</li>\n<li>segregate the assets into a bankruptcy-remote entity for bondholders.</li>\n<li>receive a guaranty from the SPE to improve the corporation’s credit rating.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect because the corporation does not retain a lien on those assets. The seller of the collateral sells the collateral to the SPE. Besides the standard bond indenture and its covenants, two additional legal documents play an important role in the securitization process. One is the purchase agreement between the seller of the collateral (the original lender) and the SPE, which outlines the representations and warranties that the seller makes about the assets sold. Correct because in a securitization, the courts in most jurisdictions have no discretion to change seniority because the bankruptcy of the originating company does not affect the SPE. Hence removing assets from the balance sheet into an SPE is an important decoupling of the credit risk of the entity needing funds from the SPE and the bond classes issued by it. This explains why the SPE is structured as a bankruptcy-remote entity. Incorrect because the SPE does not receive a guaranty. The seller of the collateral sells the collateral to the SPE. Besides the standard bond indenture and its covenants, two additional legal documents play an important role in the securitization process. One is the purchase agreement between the seller of the collateral (the original lender) and the SPE, which outlines the representations and warranties that the seller makes about the assets sold. Fixed-Income Securitization describe securitization, including the parties and the roles they play",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because the corporation does not retain a lien on those assets. The seller of the collateral sells the collateral to the SPE. Besides the standard bond indenture and its covenants, two additional legal documents play an important role in the securitization process. One is the purchase agreement between the seller of the collateral (the original lender) and the SPE, which outlines the representations and warranties that the seller makes about the assets sold.</p>\n</li>\n<li>\n<p><strong>Correct</strong> because in a securitization, the courts in most jurisdictions have no discretion to change seniority because the bankruptcy of the originating company does not affect the SPE. Hence removing assets from the balance sheet into an SPE is an important decoupling of the credit risk of the entity needing funds from the SPE and the bond classes issued by it. This explains why the SPE is structured as a bankruptcy-remote entity.</p>\n</li>\n<li>\n<p>Incorrect because the SPE does not receive a guaranty. The seller of the collateral sells the collateral to the SPE. Besides the standard bond indenture and its covenants, two additional legal documents play an important role in the securitization process. One is the purchase agreement between the seller of the collateral (the original lender) and the SPE, which outlines the representations and warranties that the seller makes about the assets sold.</p>\n</li>\n</ol>\n<h4>Fixed-Income Securitization</h4>\n<ul>\n<li>describe securitization, including the parties and the roles they play</li>\n</ul>\n</div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Fixed Income Securitization",
+      "question_number": 5,
+      "question": "<div><div><p>In the securitization process, which of the following is <em>most likely</em> a third party to the transaction? The:</p>\n<ol>\n<li>financial guarantor.</li>\n<li>seller of the collateral.</li>\n<li>special purpose entity.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. In the securitization process, the seller of the collateral, the special purpose entity, and the servicer of the loan are the main parties. All other parties, including independent accountants, lawyers/attorneys, trustees, underwriters, rating agencies, and financial guarantors are third parties to the transaction. Incorrect because in the securitization process the seller of the collateral is one of the main parties to the transaction. Incorrect because in the securitization process the special purpose entity is one of the main parties to the transaction. Fixed-Income Securitization describe securitization, including the parties and the roles they play",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> In the securitization process, the seller of the collateral, the special purpose entity, and the servicer of the loan are the main parties. All other parties, including independent accountants, lawyers/attorneys, trustees, underwriters, rating agencies, and financial guarantors are third parties to the transaction.</p>\n</li>\n<li>\n<p>Incorrect because in the securitization process the seller of the collateral is one of the main parties to the transaction.</p>\n</li>\n<li>\n<p>Incorrect because in the securitization process the special purpose entity is one of the main parties to the transaction.</p>\n</li>\n</ol>\n<h4>Fixed-Income Securitization</h4>\n<ul>\n<li>describe securitization, including the parties and the roles they play</li>\n</ul>\n</div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Fixed Income Securitization",
+      "question_number": 6,
+      "question": "<div><div><div>\n<p>Which shape <em>best</em> represents the cash payments for the Leases?</p>\n<p><img alt=\"The Investors fund the company. Customers buy goods or services. Revenue becomes accounts receivable. Company collects and reduces A R balance through customer payments.\" src=\"//s3.amazonaws.com/wmx-api-production/courses/88102/images/CFA2447-R-s03-img001.png\"/></p>\n</div>\n</div></div>",
+      "choices": {
+        "A": "Shape 2",
+        "B": "Shape 3",
+        "C": "Shape 5"
+      },
+      "correct_answer": "B",
+      "explanation": "Solution The correct answer is B. As shown in the diagram below, the SPE (in rectangle 9 above), pays AR&C for the leases (as noted in shape 3 above). A is incorrect because shape 2 above represents the sale of the leases (as shown in the diagram below), not the payment for them, and C is incorrect because shape 5 above represents payments from the investors for the ABS sold by the SPE (as shown in the diagram below).",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>The correct answer is B.</strong> As shown in the diagram below, the SPE (in rectangle 9 above), pays AR&amp;C for the leases (as noted in shape 3 above). A is incorrect because shape 2 above represents the sale of the leases (as shown in the diagram below), not the payment for them, and C is incorrect because shape 5 above represents payments from the investors for the ABS sold by the SPE (as shown in the diagram below).</p>\n<p><img alt=\"Investors provide funding. Cash payments for A B S go to the Special Purpose Entity. Revenue becomes accounts receivable. Company collects and reduces A R balance through customer payments.\" src=\"//s3.amazonaws.com/wmx-api-production/courses/88102/images/CFA2447-R-s03-img002.png\"/></p>\n</div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Fixed Income Securitization",
+      "question_number": 7,
+      "question": "<div><div><div>\n<p>Which of the following <em>best</em> describes the entity shown in shape 9?</p>\n<p><img alt=\"The Investors fund the company. Customers buy goods or services. Revenue becomes accounts receivable. Company collects and reduces A R balance through customer payments.\" src=\"//s3.amazonaws.com/wmx-api-production/courses/88102/images/CFA2447-R-s03-img001.png\"/></p>\n<p>The entity in shape 9 is the:</p>\n</div>\n</div></div>",
+      "choices": {
+        "A": "seller of the collateral.",
+        "B": "servicer of the leases.",
+        "C": "SPE that purchases the leases and uses them as collateral for the ABS."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution The correct answer is C. The SPE purchases the leases from AR&C and uses them as collateral for the ABS, which it issues and sells to the investors. A is incorrect because AR&C is the seller of the collateral, not the SPE. C is incorrect because the diagram does not show clearly who services the leases, but it does show that the entity in shape 9 is the SPE.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>The correct answer is C.</strong> The SPE purchases the leases from AR&amp;C and uses them as collateral for the ABS, which it issues and sells to the investors. A is incorrect because AR&amp;C is the seller of the collateral, not the SPE. C is incorrect because the diagram does not show clearly who services the leases, but it does show that the entity in shape 9 is the SPE.</p>\n</div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Fixed Income Securitization",
+      "question_number": 8,
+      "question": "<div><div><div>\n<p>Which of the following statements about securitization’s impact on economies and financial markets is correct?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Securitization decreases overall liquidity in the financial system.",
+        "B": "Securitization provides an alternative means of funding business operations beyond traditional financing.",
+        "C": "Securitization allows companies to directly access the financial markets and purchase loans that will be held on their balance sheet."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution The correct answer is B. An important benefit of securitization is that it provides an alternative means of funding business operations beyond traditional financing tools, such as bonds, preferred equity, and common equity. A is incorrect because securitization improves overall liquidity in the financial system and reduces liquidity risk. C is incorrect because securitization allows companies to directly access the financial markets and move loans off their balance sheet.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>The correct answer is B.</strong> An important benefit of securitization is that it provides an alternative means of funding business operations beyond traditional financing tools, such as bonds, preferred equity, and common equity. A is incorrect because securitization improves overall liquidity in the financial system and reduces liquidity risk. C is incorrect because securitization allows companies to directly access the financial markets and move loans off their balance sheet.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Fixed Income Securitization",
+      "question_number": 9,
+      "question": "<div><div><div>\n<p>Which of the following statements about securitization is incorrect?</p>\n</div></div></div>",
+      "choices": {
+        "A": "The ABS that are created by securitization have characteristics similar to those of equity investments.",
+        "B": "Buying securitized debt helps investors increase exposure to the risk–return characteristics of a wider range of underlying assets.",
+        "C": "Securitization transactions allow issuers to create risk–return characteristics to satisfy the risk tolerance of different investors."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution The correct answer is A. The ABS that are created by pooling loans and receivables have characteristics similar to those of a standard bond. B is incorrect because it is a correct statement. Holding securitized debt helps pension fund investors increase exposure to the risk–return characteristics of a wider range of underlying assets. C is incorrect because it is a correct statement. Securitization transactions allow issuers to design risk–return characteristics to satisfy the risk tolerance of different investors.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>The correct answer is A.</strong> The ABS that are created by pooling loans and receivables have characteristics similar to those of a standard bond. B is incorrect because it is a correct statement. Holding securitized debt helps pension fund investors increase exposure to the risk–return characteristics of a wider range of underlying assets. C is incorrect because it is a correct statement. Securitization transactions allow issuers to design risk–return characteristics to satisfy the risk tolerance of different investors.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Fixed Income Securitization",
+      "question_number": 10,
+      "question": "<div><div><div>\n<p>In the event of a bankruptcy of the originator in a loan securitization, the investors would <em>most likely</em> experience:</p>\n</div></div></div>",
+      "choices": {
+        "A": "gains.",
+        "B": "losses.",
+        "C": "no impact."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution The correct answer is C. Since the SPE, which owns the loans, is bankruptcy remote from the seller of the collateral, the bankruptcy of the seller of the collateral will not affect the holders of securities issued by the SPE and backed by the collateral. The only credit risk that the investors face is the risk that the borrowers whose loans are included in the SPE default on their loans.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>The correct answer is C.</strong> Since the SPE, which owns the loans, is bankruptcy remote from the seller of the collateral, the bankruptcy of the seller of the collateral will not affect the holders of securities issued by the SPE and backed by the collateral. The only credit risk that the investors face is the risk that the borrowers whose loans are included in the SPE default on their loans.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Fixed Income Securitization",
+      "question_number": 11,
+      "question": "<div><div><div>\n<p>In a securitization, the party that purchases the loans or receivables and uses them as collateral to issue ABS is the:</p>\n</div></div></div>",
+      "choices": {
+        "A": "SPE.",
+        "B": "seller.",
+        "C": "servicer."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution The correct answer is A. The SPE is often referred to as the issuer in the prospectus because it is the entity that issues the securities to investors. B is incorrect because the seller of the collateral, also called the depositor, is the party that originally aggregated the assets and sold them to the SPE. C is incorrect because the servicer has an administrative function and is the entity that collects payments from borrowers.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>The correct answer is A.</strong> The SPE is often referred to as the issuer in the prospectus because it is the entity that issues the securities to investors. B is incorrect because the seller of the collateral, also called the depositor, is the party that originally aggregated the assets and sold them to the SPE. C is incorrect because the servicer has an administrative function and is the entity that collects payments from borrowers.</p></div>",
+      "category": "Fixed Income"
+    }
+  ]
+}

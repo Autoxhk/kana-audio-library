@@ -1,0 +1,301 @@
+{
+  "category": "Financial Statement Analysis",
+  "topic": "Introduction to Financial Statement Modeling",
+  "total_questions": 21,
+  "questions": [
+    {
+      "title": "Introduction to Financial Statement Modeling",
+      "question_number": 1,
+      "question": "<div><div><div>\n<p>Which profitability metric should French use to assess Archway’s five-year historic performance relative to its competitors?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Current ratio",
+        "B": "Operating margin",
+        "C": "Return on invested capital"
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Operating (EBIT) margin is a pre-tax profitability measure that can be useful in the peer comparison of companies in countries with different tax structures. Archway’s two main competitors are located in different countries with significantly different tax structures; therefore, a pre-tax measure is better than an after-tax measure, such as ROIC. The current ratio is a liquidity measure, not a profitability measure.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Operating (EBIT) margin is a pre-tax profitability measure that can be useful in the peer comparison of companies in countries with different tax structures. Archway’s two main competitors are located in different countries with significantly different tax structures; therefore, a pre-tax measure is better than an after-tax measure, such as ROIC. The current ratio is a liquidity measure, not a profitability measure.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Modeling",
+      "question_number": 2,
+      "question": "<div><div><div>\n<p>Based on the current competitive landscape presented in Exhibit 1, French should conclude that Archway’s ability to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "pass along price increases is high.",
+        "B": "demand lower input prices from suppliers is low.",
+        "C": "generate above-average returns on invested capital is low."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Porter’s five forces framework in Exhibit 1 describes an industry with high barriers to entry, high customer switching costs (suggesting a low threat of substitutes), and a specialized product (suggesting low bargaining power of buyers). Furthermore, the primary production inputs from the large group of suppliers are considered basic commodities (suggesting low bargaining power of suppliers). These favorable industry characteristics will likely enable Archway to pass along price increases and generate above-average returns on invested capital.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Porter’s five forces framework in Exhibit 1 describes an industry with high barriers to entry, high customer switching costs (suggesting a low threat of substitutes), and a specialized product (suggesting low bargaining power of buyers). Furthermore, the primary production inputs from the large group of suppliers are considered basic commodities (suggesting low bargaining power of suppliers). These favorable industry characteristics will likely enable Archway to pass along price increases and generate above-average returns on invested capital.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Modeling",
+      "question_number": 3,
+      "question": "<div><div><div>\n<p>Based on the current competitive landscape presented in Exhibit 1, Archway’s operating profit margins over the forecast horizon are <em>least likely</em> to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "decrease.",
+        "B": "remain constant.",
+        "C": "increase."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The current favorable characteristics of the industry (high barriers to entry, low bargaining power of suppliers and buyers, low threat of substitutes), coupled with Archway’s dominant market share position, will likely lead to Archway’s profit margins being at least equal to or greater than current levels over the forecast horizon.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The current favorable characteristics of the industry (high barriers to entry, low bargaining power of suppliers and buyers, low threat of substitutes), coupled with Archway’s dominant market share position, will likely lead to Archway’s profit margins being at least equal to or greater than current levels over the forecast horizon.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Modeling",
+      "question_number": 4,
+      "question": "<div><div><div>\n<p>Based on Exhibit 2, Archway’s forecasted gross profit margin for 2020 is <em>closest</em> to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "62.7 percent.",
+        "B": "67.0 percent.",
+        "C": "69.1 percent."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. The calculation of Archway’s gross profit margin for 2020, which reflects the industry-wide 8% inflation on COGS, is calculated as follows: Revenue growth 1.85% COGS increase 4.76% Forecasted revenue (Base revenue = 100) 101.85 Forecasted COGS (Base COGS = 30) 31.43 Forecasted gross profit 70.42 Forecasted gross profit margin 69.14% Revenue growth = (1 + Price increase for revenue) × (1 + Volume growth) – 1 = (1.05) × (0.97) – 1 = 1.85%. COGS increase = (1 + Price increase for COGS) × (1 + Volume growth) – 1 = (1.08) × (0.97) – 1 = 4.76%. Forecasted revenue = Base revenue × Revenue growth increase = 100 × 1.0185 = 101.85. Forecasted COGS = Base COGS × COGS increase = 30 × 1.0476 = 31.43. Forecasted gross profit = Forecasted revenue – Forecasted COGS = 101.85 – 31.43 = 70.42. Forecasted gross profit margin = Forecasted gross profit/Forecasted revenue = 70.42/101.85 = 69.14%.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> The calculation of Archway’s gross profit margin for 2020, which reflects the industry-wide 8% inflation on COGS, is calculated as follows:</p>\n<div><table><tbody>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">Revenue growth </td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">1.85%</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">COGS increase</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">4.76%</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"></td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: bottom;\"></td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">Forecasted revenue (Base revenue = 100)</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">101.85</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">Forecasted COGS (Base COGS = 30)</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">31.43</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">Forecasted gross profit</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">70.42</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">Forecasted gross profit margin</td>\n<td class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">69.14%</td>\n</tr>\n</tbody></table></div>\n<span>Revenue growth = (1 + Price increase for revenue) × (1 + Volume growth) – 1</span><span>= (1.05) × (0.97) – 1</span><span>= 1.85%.</span><span>COGS increase = (1 + Price increase for COGS) × (1 + Volume growth) – 1</span><span>= (1.08) × (0.97) – 1</span><span>= 4.76%.</span><span>Forecasted revenue = Base revenue × Revenue growth increase</span><span>= 100 × 1.0185</span><span>= 101.85.</span><span>Forecasted COGS = Base COGS × COGS increase</span><span>= 30 × 1.0476</span><span>= 31.43.</span><span>Forecasted gross profit = Forecasted revenue – Forecasted COGS</span><span>= 101.85 – 31.43</span><span>= 70.42.</span><span>Forecasted gross profit margin = Forecasted gross profit/Forecasted revenue</span><span>= 70.42/101.85</span><span>= 69.14%.</span></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Modeling",
+      "question_number": 5,
+      "question": "<div><div><div>\n<p>French’s approach to forecasting Archway’s working capital accounts would be <em>most likely</em> classified as a:</p>\n</div></div></div>",
+      "choices": {
+        "A": "hybrid approach.",
+        "B": "top-down approach.",
+        "C": "bottom-up approach."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. French is using a bottom-up approach to forecast Archway’s working capital accounts by using the company’s historical efficiency ratios to project future performance.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> French is using a bottom-up approach to forecast Archway’s working capital accounts by using the company’s historical efficiency ratios to project future performance.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Modeling",
+      "question_number": 6,
+      "question": "<div><div><div>\n<p>The <em>most appropriate</em> response to Wright’s question about the technological development is to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "increase the required return.",
+        "B": "decrease the perpetual growth rate.",
+        "C": "decrease the price-to-earnings multiple."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. If the future growth or profitability of a company is likely to be lower than the historical average (in this case, because of a potential technological development), then the target multiple should reflect a discount to the historical multiple to reflect this difference in growth and/or profitability. If a multiple is used to derive the terminal value of a company, the choice of the multiple should be consistent with the long-run expectations for growth and required return. French tells Wright he believes that such a technological development could have an adverse impact on Archway beyond the forecast horizon.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> If the future growth or profitability of a company is likely to be lower than the historical average (in this case, because of a potential technological development), then the target multiple should reflect a discount to the historical multiple to reflect this difference in growth and/or profitability. If a multiple is used to derive the terminal value of a company, the choice of the multiple should be consistent with the long-run expectations for growth and required return. French tells Wright he believes that such a technological development could have an adverse impact on Archway beyond the forecast horizon.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Modeling",
+      "question_number": 7,
+      "question": "<div><div><div>\n<p>If the luxury electronic auto equipment industry is subject to rapid technological changes and market share shifts, how should French <em>best</em> adapt his approach to modeling?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Examine base rates",
+        "B": "Forecast multiple scenarios",
+        "C": "Speak to analysts who hold diverse opinions on the stock"
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Forecasting a single scenario would not be appropriate given the high degree of uncertainty and range of potential outcomes for companies in this industry.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Forecasting a single scenario would not be appropriate given the high degree of uncertainty and range of potential outcomes for companies in this industry.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Modeling",
+      "question_number": 8,
+      "question": "<div><div><div>\n<p>Using Porter’s five forces analysis, which of the following competitive factors is <em>most likely</em> to have the greatest impact on Omikroon’s petrol scooter pricing power?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Rivalry",
+        "B": "Threat of substitutes",
+        "C": "Threat of new entrants"
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Small, inexpensive, imported petrol-fueled motorcycles are substitutes for petrol scooters and could increasingly have an impact on Omikroon’s petrol scoter pricing power.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Small, inexpensive, imported petrol-fueled motorcycles are substitutes for petrol scooters and could increasingly have an impact on Omikroon’s petrol scoter pricing power.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Modeling",
+      "question_number": 9,
+      "question": "<div><div><div>\n<p>The metric used by Fromm to assess Omikroon’s performance incorporates:</p>\n</div></div></div>",
+      "choices": {
+        "A": "the degree of financial leverage.",
+        "B": "operating liabilities relative to operating assets.",
+        "C": "the firm’s competitiveness relative to companies in other tax regimes."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Return on invested capital is net operating profit minus adjusted taxes divided by invested capital, where invested capital is defined as operating assets minus operating liabilities.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Return on invested capital is net operating profit minus adjusted taxes divided by invested capital, where invested capital is defined as operating assets minus operating liabilities.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Modeling",
+      "question_number": 10,
+      "question": "<div><div><div>\n<p>Based on Omikroon’s expectations, the gross profit margin of Omikroon’s electric scooter division in 2021 is <em>most likely</em> to be affected by:</p>\n</div></div></div>",
+      "choices": {
+        "A": "competition.",
+        "B": "research costs.",
+        "C": "cannibalization by petrol scooters."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Competition from other electric scooter manufacturers is expected to begin in one year. After this time, competing electric scooters could lead to lower demand for Omikroon’s electric scooters and affect Omikroon’s gross profit margin.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Competition from other electric scooter manufacturers is expected to begin in one year. After this time, competing electric scooters could lead to lower demand for Omikroon’s electric scooters and affect Omikroon’s gross profit margin.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Modeling",
+      "question_number": 11,
+      "question": "<div><div><div>\n<p>Which factor <em>best</em> justifies the five-year forecast horizon for Omikroon selected by Fromm?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Factor 1",
+        "B": "Factor 2",
+        "C": "Factor 3"
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The electric scooter market is expected to grow rapidly, so the contribution of Omikroon’s new electric scooter division is forecast to expand significantly over the next 10 years. A is incorrect because the investment company’s portfolio turnover is not relevant for forecasting Omrikoon’s future results. C is incorrect because the light truck division is expected to add only 2% to total revenues in the future.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The electric scooter market is expected to grow rapidly, so the contribution of Omikroon’s new electric scooter division is forecast to expand significantly over the next 10 years. A is incorrect because the investment company’s portfolio turnover is not relevant for forecasting Omrikoon’s future results. C is incorrect because the light truck division is expected to add only 2% to total revenues in the future.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Modeling",
+      "question_number": 12,
+      "question": "<div><div><div>\n<p>Fromm’s sensitivity analysis will result in a decrease in the 2020 base case gross profit margin <em>closest to</em>:</p>\n</div></div></div>",
+      "choices": {
+        "A": "0.55 percent.",
+        "B": "0.80 percent.",
+        "C": "3.32 percent."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The sensitivity analysis consists of an increase of 20 percent in the price of an input that constitutes 4 percent of cost of sales. Change in gross profit margin because of that increase is calculated as the change in cost of sales because of price increase divided by sales: = (Cost of sales × 0.04 × 0.2)/Sales = (105.38 × 0.04 × 0.2)/152.38 = 0.0055 or 0.55%",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The sensitivity analysis consists of an increase of 20 percent in the price of an input that constitutes 4 percent of cost of sales. Change in gross profit margin because of that increase is calculated as the change in cost of sales because of price increase divided by sales:</p>\n<span>= (Cost of sales × 0.04 × 0.2)/Sales</span><span>= (105.38 × 0.04 × 0.2)/152.38</span><span>= 0.0055 or 0.55%</span></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Modeling",
+      "question_number": 13,
+      "question": "<div><div><div>\n<p>Fromm’s estimate of growth capital expenditures included in Omikroon’s PP&amp;E under Scenario 1 should be:</p>\n</div></div></div>",
+      "choices": {
+        "A": "lower than under Scenario 2.",
+        "B": "the same as under Scenario 2.",
+        "C": "higher than under Scenario 2."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. In Scenario 1, growth capital expenditures of EUR27 million for the refit of the existing idle factory is higher than the growth capital expenditures in Scenario 2 of EUR25 million. The EUR25 million is the cost of building a new factory for EUR30 million less the proceeds from the sale of the existing idle factory of EUR5 million.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> In Scenario 1, growth capital expenditures of EUR27 million for the refit of the existing idle factory is higher than the growth capital expenditures in Scenario 2 of EUR25 million. The EUR25 million is the cost of building a new factory for EUR30 million less the proceeds from the sale of the existing idle factory of EUR5 million.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Modeling",
+      "question_number": 14,
+      "question": "<div><div><div>\n<p>To validate the forecast for rapid growth in the electronic scooter market over the next 10 years, Fromm speaks to the management of Omikroon and investor relations of ZeroWheel, a competitor. Which behavioral bias is Fromm <em>most likely</em> subject to?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Confirmation",
+        "B": "Conservatism",
+        "C": "Overconfidence"
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The management of Omikroon and investor relations of ZeroWheel are almost certainly biased in favor of expecting strong growth for the markets they participate in. To evaluate the forecast, Fromm should seek more independent sources and balance the biased sources with sources biased in the opposite direction or an analyst who is more skeptical.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The management of Omikroon and investor relations of ZeroWheel are almost certainly biased in favor of expecting strong growth for the markets they participate in. To evaluate the forecast, Fromm should seek more independent sources and balance the biased sources with sources biased in the opposite direction or an analyst who is more skeptical.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Modeling",
+      "question_number": 15,
+      "question": "<div><div><div>\n<p>Based on Exhibit 1, which of the following provides the strongest evidence that Chrome displays economies of scale?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Increasing net sales",
+        "B": "Profit margins that are increasing with net sales",
+        "C": "Gross profit margins that are increasing with net sales"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Economies of scale are a situation in which average costs decrease with increasing sales volume. Chrome’s gross margins have been increasing with net sales. Gross margins that increase with sales levels provide evidence of economies of scale, assuming that higher levels of sales reflect increased unit sales. Gross margin more directly reflects the cost of sales than does profit margin. Metric 2017 2018 2019 Net sales $46.8 $50.5 $53.9 Gross profit 28.6 32.1 35.1 Gross margin (gross profit/net sales) 61.11% 63.56% 65.12%",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Economies of scale are a situation in which average costs decrease with increasing sales volume. Chrome’s gross margins have been increasing with net sales. Gross margins that increase with sales levels provide evidence of economies of scale, assuming that higher levels of sales reflect increased unit sales. Gross margin more directly reflects the cost of sales than does profit margin.</p>\n<div><table>\n<thead><tr>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: bottom;\"><strong>Metric</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong>2017</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong>2018</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong>2019</strong></th>\n</tr></thead>\n<tbody>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: bottom;\">Net sales</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">$46.8</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">$50.5</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">$53.9</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">Gross profit</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">28.6</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">32.1</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">35.1</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">Gross margin (gross profit/net sales)</td>\n<td class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">61.11%</td>\n<td class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">63.56%</td>\n<td class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">65.12%</td>\n</tr>\n</tbody>\n</table></div></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Modeling",
+      "question_number": 16,
+      "question": "<div><div><div>\n<p>Based on Exhibit 2, the job candidate <em>most likely</em> using a bottom-up approach to model net sales is:</p>\n</div></div></div>",
+      "choices": {
+        "A": "Candidate A.",
+        "B": "Candidate B.",
+        "C": "Candidate C."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. A bottom-up approach for developing inputs to equity valuation models begins at the level of the individual company or a unit within the company. By modeling net sales using the average annual growth rate, Candidate A is using a bottom-up approach. B and C are incorrect because both Candidate B and Candidate C are using a top-down approach, which begins at the level of the overall economy.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> A bottom-up approach for developing inputs to equity valuation models begins at the level of the individual company or a unit within the company. By modeling net sales using the average annual growth rate, Candidate A is using a bottom-up approach. B and C are incorrect because both Candidate B and Candidate C are using a top-down approach, which begins at the level of the overall economy.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Modeling",
+      "question_number": 17,
+      "question": "<div><div><div>\n<p>Based on Exhibit 2, the modeling approach used by Candidate B to project future net sales is <em>most accurately</em> classified as a:</p>\n</div></div></div>",
+      "choices": {
+        "A": "hybrid approach.",
+        "B": "top-down approach.",
+        "C": "bottom-up approach."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. A top-down approach usually begins at the level of the overall economy. Candidate B assumes industry sales will grow at the same rate as nominal GDP but that Chrome will have a 2-percentage-point decline in market share. A and C are incorrect because Candidate B is not using any elements of a bottom-up approach; therefore, a hybrid approach is not being employed.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> A top-down approach usually begins at the level of the overall economy. Candidate B assumes industry sales will grow at the same rate as nominal GDP but that Chrome will have a 2-percentage-point decline in market share. A and C are incorrect because Candidate B is not using any elements of a bottom-up approach; therefore, a hybrid approach is not being employed.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Modeling",
+      "question_number": 18,
+      "question": "<div><div><div>\n<p>Based on Exhibits 1 and 2, Candidate C’s forecast for cost of sales in 2020 is <em>closest</em> to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "USD18.3 million.",
+        "B": "USD18.9 million.",
+        "C": "USD19.3 million."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Candidate C assumes that the 2020 gross margin will increase by 20 bps from 2019 and that net sales will grow at 50 bps slower than nominal GDP (nominal GDP = Real GDP + Inflation = 1.6% + 2.0% = 3.6%). Accordingly, the 2020 forecasted cost of sales is USD19.27 million, rounded to USD19.3 million. Metric Calculation Result 2020 gross margin = 2019 gm + 20 bps USD35.1/USD53.9 = 65.12% + 0.20% = 65.32% 2020 CoS/net sales = 100% – gross margin 100% – 65.32% = 34.68% 2020 net sales = 2019 net sales × (1 + Nominal GDP – 0.50%) USD53.9 million × (1 + 0.036 – 0.005) = USD53.9 million × 1.031 = USD55.57 million 2020 cost of sales = 2020 net sales × CoS/net sales USD55.57 × 34.68% = USD19.27 million",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Candidate C assumes that the 2020 gross margin will increase by 20 bps from 2019 and that net sales will grow at 50 bps slower than nominal GDP (nominal GDP = Real GDP + Inflation = 1.6% + 2.0% = 3.6%). Accordingly, the 2020 forecasted cost of sales is USD19.27 million, rounded to USD19.3 million.</p>\n<div><table>\n<thead><tr>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: bottom;\"><strong>Metric</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: bottom;\"><strong>Calculation</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: bottom;\"><strong>Result</strong></th>\n</tr></thead>\n<tbody>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">2020 gross margin = 2019 gm + 20 bps</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">USD35.1/USD53.9 = 65.12% + 0.20% =</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">65.32%</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">2020 CoS/net sales = 100% – gross margin</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">100% – 65.32% =</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">34.68%</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">2020 net sales = 2019 net sales × (1 + Nominal GDP – 0.50%)</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">USD53.9 million × (1 + 0.036 – 0.005) = USD53.9 million × 1.031 =</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">USD55.57 million</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">2020 cost of sales = 2020 net sales × CoS/net sales</td>\n<td class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">USD55.57 × 34.68% =</td>\n<td class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">USD19.27 million</td>\n</tr>\n</tbody>\n</table></div></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Modeling",
+      "question_number": 19,
+      "question": "<div><div><div>\n<p>Based on Exhibits 1 and 2, Candidate A’s forecast for SG&amp;A expenses in 2020 is <em>closest</em> to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "USD23.8 million.",
+        "B": "USD25.5 million.",
+        "C": "USD27.4 million."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Candidate A assumes that the 2020 SG&A/net sales will be the same as the average SG&A/net sales over the 2017–19 time period and that net sales will grow at the annual average growth rate in net sales over the 2017–19 time period. Accordingly, the 2020 forecasted SG&A expenses are USD25.5 million. Metric Calculation Result Average SG&A/net sales, 2017–2019* (41.24% + 44.55% + 46.57%)/3 = 44.12% Average annual growth sales in net sales, 2017–2019** (7.91% + 6.73%)/2 = 7.32% 2020 net sales = 2019 net sales × (1 + Average annual growth rate in net sales) USD53.9 million × 1.0732 = $57.85 million 2020 SG&A = 2020 net sales × Average SG&A/net sales USD57.85 million × 44.12% = $25.52 million 2017 2018 2019 Net Sales USD46.8 USD50.5 USD53.9 SG&A expenses USD19.3 USD22.5 USD25.1 SG&A-to-sales ratio 41.24% 44.55% 46.57% Year Calculation 2018 (USD50.5/USD46.8) – 1 = 7.91% 2019 (USD53.9/USD50.5) – 1 = 6.73%",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Candidate A assumes that the 2020 SG&amp;A/net sales will be the same as the average SG&amp;A/net sales over the 2017–19 time period and that net sales will grow at the annual average growth rate in net sales over the 2017–19 time period. Accordingly, the 2020 forecasted SG&amp;A expenses are USD25.5 million.</p>\n<div><table>\n<thead><tr>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: bottom;\"><strong>Metric</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: bottom;\"><strong>Calculation</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: bottom;\"><strong>Result</strong></th>\n</tr></thead>\n<tbody>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">Average SG&amp;A/net sales, 2017–2019*</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">(41.24% + 44.55% + 46.57%)/3 =</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">44.12%</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">Average annual growth sales in net sales, 2017–2019**</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">(7.91% + 6.73%)/2 =</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">7.32%</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">2020 net sales = 2019 net sales × (1 + Average annual growth rate in net sales)</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">USD53.9 million × 1.0732 =</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">$57.85 million</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">2020 SG&amp;A = 2020 net sales × Average SG&amp;A/net sales</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">USD57.85 million × 44.12% =</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">$25.52 million</td>\n</tr>\n</tbody>\n</table></div>\n<div><table>\n<thead><tr>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\"></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong>2017</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong>2018</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong>2019</strong></th>\n</tr></thead>\n<tbody>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">Net Sales</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">USD46.8</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">USD50.5</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">USD53.9</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">SG&amp;A expenses</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">USD19.3</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">USD22.5</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">USD25.1</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">SG&amp;A-to-sales ratio</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">41.24%</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">44.55%</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">46.57%</td>\n</tr>\n</tbody>\n</table></div>\n<div><table>\n<thead><tr>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: bottom;\"><strong>Year</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: bottom;\"><strong>Calculation </strong></th>\n</tr></thead>\n<tbody>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">2018</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">(USD50.5/USD46.8) – 1 = 7.91%</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">2019</td>\n<td class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">(USD53.9/USD50.5) – 1 = 6.73%</td>\n</tr>\n</tbody>\n</table></div></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Modeling",
+      "question_number": 20,
+      "question": "<div><div><div>\n<p>Based on Exhibit 2, forecasted interest expense will reflect changes in Chrome’s debt level under the forecast assumptions used by:</p>\n</div></div></div>",
+      "choices": {
+        "A": "Candidate A.",
+        "B": "Candidate B.",
+        "C": "Candidate C."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. In forecasting financing costs, such as interest expense, the debt/equity structure of a company is a key determinant. Accordingly, a method that recognizes the relationship between the income statement account (interest expense) and the balance sheet account (debt) would be a preferable method for forecasting interest expense when compared with methods that forecast based solely on the income statement account. By using the effective interest rate (interest expense divided by average gross debt), Candidate A is taking the debt/equity structure into account. B and C are incorrect because Candidate B (who forecasts 2020 interest expense to be the same as 2019 interest expense) and Candidate C (who forecasts 2020 interest expense to be the same as the 2017–19 average interest expense) are not taking the balance sheet into consideration.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> In forecasting financing costs, such as interest expense, the debt/equity structure of a company is a key determinant. Accordingly, a method that recognizes the relationship between the income statement account (interest expense) and the balance sheet account (debt) would be a preferable method for forecasting interest expense when compared with methods that forecast based solely on the income statement account. By using the effective interest rate (interest expense divided by average gross debt), Candidate A is taking the debt/equity structure into account. B and C are incorrect because Candidate B (who forecasts 2020 interest expense to be the same as 2019 interest expense) and Candidate C (who forecasts 2020 interest expense to be the same as the 2017–19 average interest expense) are not taking the balance sheet into consideration.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Modeling",
+      "question_number": 21,
+      "question": "<div><div><div>\n<p>Candidate B asks Green if she had additional information on Horizon’s industry peers and competitors, to put the profitability estimates in a richer context. By asking for this additional information for their analysis, Candidate B is <em>most likely</em> seeking to mitigate which behavioral bias?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Conservatism",
+        "B": "Base rate neglect",
+        "C": "illusion of control"
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Base rates refer to attributes of a reference class and base rate neglect is ignoring such class information in favor of specific information. By incorporating industry data, Candidate B is seeking to mitigate this behavioral bias.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Base rates refer to attributes of a reference class and base rate neglect is ignoring such class information in favor of specific information. By incorporating industry data, Candidate B is seeking to mitigate this behavioral bias.</p></div>",
+      "category": "Financial Statement Analysis"
+    }
+  ]
+}

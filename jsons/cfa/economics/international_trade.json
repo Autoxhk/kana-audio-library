@@ -1,0 +1,139 @@
+{
+  "category": "Economics",
+  "topic": "International Trade",
+  "total_questions": 10,
+  "questions": [
+    {
+      "title": "International Trade",
+      "question_number": 1,
+      "question": "<div><div><p>A small country has a comparative advantage in the production of pencils. The government establishes an export subsidy for pencils to promote economic growth. Which of the following will be the <em>most likely</em> result of this policy?</p>\n<ol>\n<li>As new domestic producers enter the pencils market, supply will increase and domestic prices will decline.</li>\n<li>The increase in the domestic producer surplus will exceed the sum of the subsidy and the decrease in the domestic consumer surplus.</li>\n<li>Although domestic producers will receive a net benefit, the policy will give rise to inefficiencies that cause a deadweight loss to the national welfare.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. Producers shift output from the domestic to the export market to capture the subsidy. Furthermore, as a small country, the domestic market is a price taker and thus consumers pay the international price plus the subsidy causing the domestic price to rise. Incorrect. As prices rise and producers increase production beyond the efficient level, efficiencies diminish. National welfare must decline, as the increase in producer surplus is less than the combined cost to consumer and government. Correct. Export subsidies interfere with the functioning of the free market and result in a deadweight loss to society. The deadweight loss arises on the producer side because the higher subsidized price causes inefficient producers to remain in the market. On the consumer side, the higher price causes those that would have purchased at the lower price to be shut out of the market. International Trade compare types of trade restrictions, such as tariffs, quotas, and export subsidies, and their economic implications",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Producers shift output from the domestic to the export market to capture the subsidy. Furthermore, as a small country, the domestic market is a price taker and thus consumers pay the international price plus the subsidy causing the domestic price to rise.</p>\n</li>\n<li>\n<p>Incorrect. As prices rise and producers increase production beyond the efficient level, efficiencies diminish. National welfare must decline, as the increase in producer surplus is less than the combined cost to consumer and government.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> Export subsidies interfere with the functioning of the free market and result in a deadweight loss to society. The deadweight loss arises on the producer side because the higher subsidized price causes inefficient producers to remain in the market. On the consumer side, the higher price causes those that would have purchased at the lower price to be shut out of the market.</p>\n</li>\n</ol>\n<h4>International Trade</h4>\n<ul>\n<li>compare types of trade restrictions, such as tariffs, quotas, and export subsidies, and their economic implications</li>\n</ul>\n</div>",
+      "category": "Economics"
+    },
+    {
+      "title": "International Trade",
+      "question_number": 2,
+      "question": "<div><div><div>\n<p>Which of the following statements <em>best</em> describes the benefits of international trade?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Countries gain from exchange and specialization.",
+        "B": "Countries receive lower prices for their exports and pay higher prices for imports.",
+        "C": "Countries gain from trade because all individuals and companies benefit in the long term."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Countries gain from exchange when trade enables each country to receive a higher price for exported goods or pay a lower price for imported goods. This leads to more efficient resource allocation and allows consumption of a larger variety of goods.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Countries gain from exchange when trade enables each country to receive a higher price for exported goods or pay a lower price for imported goods. This leads to more efficient resource allocation and allows consumption of a larger variety of goods.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "International Trade",
+      "question_number": 3,
+      "question": "<div><div><p>Four countries operate within a customs union. One country proposes moving to a common market structure. What additional level of economic integration between the countries would <em>most likely</em> arise if this change took place? They would:</p>\n<ol>\n<li>establish common trade barriers against non-members.</li>\n<li>begin to allow free movement of the factors of production.</li>\n<li>establish common economic institutions and coordination of economic policies.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. A customs union already includes common trade barriers. Correct. A common market structure incorporates all aspects of the customs union and extends it by allowing free movement of factors of production among members. Incorrect. It arises in an economic union. International Trade explain motivations for and advantages of trading blocs, common markets, and economic unions",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. A customs union already includes common trade barriers.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> A common market structure incorporates all aspects of the customs union and extends it by allowing free movement of factors of production among members.</p>\n</li>\n<li>\n<p>Incorrect. It arises in an economic union.</p>\n</li>\n</ol>\n<h4>International Trade</h4>\n<ul>\n<li>explain motivations for and advantages of trading blocs, common markets, and economic unions</li>\n</ul>\n</div>",
+      "category": "Economics"
+    },
+    {
+      "title": "International Trade",
+      "question_number": 4,
+      "question": "<div><div><div>\n<p>Which of the following statements <em>best</em> describes the costs of international trade?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Countries without an absolute advantage in producing a good cannot benefit significantly from international trade.",
+        "B": "Resources may need to be allocated into or out of an industry and less-efficient companies may be forced to exit an industry, which in turn may lead to higher unemployment.",
+        "C": "Loss of manufacturing jobs in developed countries as a result of import competition means that developed countries benefit far less than developing countries from trade."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Resources may need to be reallocated into or out of an industry, depending on whether that industry is an exporting sector or an import-competing sector of that economy. As a result of this adjustment process, less-efficient companies may be forced to exit the industry, which in turn may lead to higher unemployment and the need for retraining so that displaced workers may find jobs in expanding industries.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Resources may need to be reallocated into or out of an industry, depending on whether that industry is an exporting sector or an import-competing sector of that economy. As a result of this adjustment process, less-efficient companies may be forced to exit the industry, which in turn may lead to higher unemployment and the need for retraining so that displaced workers may find jobs in expanding industries.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "International Trade",
+      "question_number": 5,
+      "question": "<div><div><div>\n<p>Suppose the cost of producing tea relative to copper is lower in Tealand than in Copperland. With trade, the copper industry in Copperland would <em>most likely</em>:</p>\n</div></div></div>",
+      "choices": {
+        "A": "expand.",
+        "B": "contract.",
+        "C": "remain stable."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The copper industry in Copperland would benefit from trade. Because the cost of producing copper relative to producing tea is lower in Copperland than in Tealand, Copperland will export copper and the industry will expand.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The copper industry in Copperland would benefit from trade. Because the cost of producing copper relative to producing tea is lower in Copperland than in Tealand, Copperland will export copper and the industry will expand.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "International Trade",
+      "question_number": 6,
+      "question": "<div><div><div>\n<p>Which type of trade restriction would most likely increase domestic government revenue?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Tariff",
+        "B": "Import quota",
+        "C": "Export subsidy"
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The imposition of a tariff will most likely increase domestic government revenue. A tariff is a tax on imports collected by the importing country’s government.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The imposition of a tariff will most likely increase domestic government revenue. A tariff is a tax on imports collected by the importing country’s government.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "International Trade",
+      "question_number": 7,
+      "question": "<div><div><div>\n<p>Which of the following trade restrictions is likely to result in the greatest welfare loss for the importing country?</p>\n</div></div></div>",
+      "choices": {
+        "A": "A tariff",
+        "B": "An import quota",
+        "C": "A voluntary export restraint"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. With a voluntary export restraint, the price increase induced by restricting the quantity of imports (= quota rent for equivalent quota = tariff revenue for equivalent tariff) accrues to foreign exporters or the foreign government.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> With a voluntary export restraint, the price increase induced by restricting the quantity of imports (= quota rent for equivalent quota = tariff revenue for equivalent tariff) accrues to foreign exporters or the foreign government.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "International Trade",
+      "question_number": 8,
+      "question": "<div><div><div>\n<p>A large country can:</p>\n</div></div></div>",
+      "choices": {
+        "A": "benefit by imposing a tariff.",
+        "B": "benefit with an export subsidy.",
+        "C": "not benefit from any trade restriction."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. By definition, a large country is big enough to affect the world price of its imports and exports. A large country can benefit by imposing a tariff if its terms of trade improve by enough to outweigh the welfare loss arising from inefficient allocation of resources.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> By definition, a large country is big enough to affect the world price of its imports and exports. A large country can benefit by imposing a tariff if its terms of trade improve by enough to outweigh the welfare loss arising from inefficient allocation of resources.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "International Trade",
+      "question_number": 9,
+      "question": "<div><div><div>\n<p>If Brazil and South Africa have free trade with each other, a common trade policy against all other countries, but no free movement of factors of production between them, then Brazil and South Africa are part of a(n):</p>\n</div></div></div>",
+      "choices": {
+        "A": "customs union.",
+        "B": "common market.",
+        "C": "FTA."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. A customs union extends an FTA by not only allowing free movement of goods and services among members, but also by creating common trade policy against non-members. Unlike a more integrated common market, a customs union does not allow free movement of factors of production among members.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> A customs union extends an FTA by not only allowing free movement of goods and services among members, but also by creating common trade policy against non-members. Unlike a more integrated common market, a customs union does not allow free movement of factors of production among members.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "International Trade",
+      "question_number": 10,
+      "question": "<div><div><div>\n<p>Which of the following factors <em>best</em> explains why regional trading agreements are more popular than larger multilateral trade agreements?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Minimal displacement costs",
+        "B": "Trade diversions benefit members",
+        "C": "Quicker and easier policy coordination"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Regional trading agreements are politically less contentious and quicker to establish than multilateral trade negotiations (e.g., under the World Trade Organization). Policy coordination and harmonization is easier among a smaller group of countries.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Regional trading agreements are politically less contentious and quicker to establish than multilateral trade negotiations (e.g., under the World Trade Organization). Policy coordination and harmonization is easier among a smaller group of countries.</p></div>",
+      "category": "Economics"
+    }
+  ]
+}

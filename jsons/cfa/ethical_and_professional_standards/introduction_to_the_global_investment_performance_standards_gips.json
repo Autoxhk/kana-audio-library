@@ -1,0 +1,371 @@
+{
+  "category": "Ethical and Professional Standards",
+  "topic": "Introduction to the Global Investment Performance Standards (GIPS)",
+  "total_questions": 32,
+  "questions": [
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 1,
+      "question": "<div><div><p>The GIPS standards were <em>most likely</em> developed for the benefit of:</p>\n<ol>\n<li>broker/dealers.</li>\n<li>prospective clients.</li>\n<li>middle-office operations.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. The GIPS standards benefit asset managers and their prospective clients and asset owners and their oversight bodies. Correct. The GIPS standards benefit asset managers and their prospective clients and asset owners and their oversight bodies. GIPS reports allow prospective clients to know that the track record of a GIPS-compliant firm is complete and fairly presented. Incorrect. Although the internal controls implemented improve middle-office operations, the GIPS standards were not developed with middle-office operations in mind. Introduction to the Global Investment Performance Standards (GIPS) explain why the GIPS standards were created, who can claim compliance, and who benefits from compliance",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. The GIPS standards benefit asset managers and their prospective clients and asset owners and their oversight bodies.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> The GIPS standards benefit asset managers and their prospective clients and asset owners and their oversight bodies. GIPS reports allow prospective clients to know that the track record of a GIPS-compliant firm is complete and fairly presented.</p>\n</li>\n<li>\n<p>Incorrect. Although the internal controls implemented improve middle-office operations, the GIPS standards were not developed with middle-office operations in mind.</p>\n</li>\n</ol>\n<h4>Introduction to the Global Investment Performance Standards (GIPS)</h4>\n<ul>\n<li>explain why the GIPS standards were created, who can claim compliance, and who benefits from compliance</li>\n</ul>\n</div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 2,
+      "question": "<div><div><div>\n<p>A firm that does not adopt the GIPS standards could mischaracterize its overall performance by presenting a performance history:</p>\n</div></div></div>",
+      "choices": {
+        "A": "that includes terminated portfolios.",
+        "B": "composed of a single top-performing portfolio.",
+        "C": "for an investment mandate over all periods since the firm’s inception."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Selecting a top-performing portfolio to represent a firm’s overall investment results for a specific mandate, also known as using representative accounts, is a misleading practice that is not allowed under the GIPS standards. A is incorrect because including terminated portfolios is consistent with the GIPS standards. If the firm instead presented a performance history that excludes terminated portfolios, however, such a practice would be misleading and not allowed under the GIPS standards. C is incorrect because presenting performance for its mandate covering all periods since the firm’s inception is consistent with the GIPS standards. If the firm instead presented performance for a selected period during which it produced excellent returns or outperformed its benchmark, however, such a practice would be misleading and not allowed under the GIPS standards.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Selecting a top-performing portfolio to represent a firm’s overall investment results for a specific mandate, also known as using representative accounts, is a misleading practice that is not allowed under the GIPS standards. A is incorrect because including terminated portfolios is consistent with the GIPS standards. If the firm instead presented a performance history that excludes terminated portfolios, however, such a practice would be misleading and not allowed under the GIPS standards. C is incorrect because presenting performance for its mandate covering all periods since the firm’s inception is consistent with the GIPS standards. If the firm instead presented performance for a selected period during which it produced excellent returns or outperformed its benchmark, however, such a practice would be misleading and not allowed under the GIPS standards.</p></div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 3,
+      "question": "<div><div><div>\n<p>Which of the following statements regarding GIPS compliance is correct?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Asset owners that manage assets can claim compliance with the GIPS standards.",
+        "B": "Software that calculates performance in a manner consistent with the GIPS standards can claim compliance with the GIPS standards.",
+        "C": "Firms can comply with the GIPS standards by limiting their compliance claims to the provisions they have chosen to follow."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Asset owners can claim compliance if they manage actual assets for which they are making a claim of compliance. B is incorrect because software (and the vendors that supply software) cannot be GIPS compliant. Software can assist firms in achieving compliance with the GIPS standards, but only a firm that manages actual assets can claim compliance. C is incorrect because a firm has only two options regarding compliance with the GIPS standards: fully comply with all applicable requirements of the GIPS standards and claim compliance through the use of the GIPS Compliance Statement; or not comply with all requirements of the GIPS standards and not claim compliance with, or make any reference to, the GIPS standards.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Asset owners can claim compliance if they manage actual assets for which they are making a claim of compliance. B is incorrect because software (and the vendors that supply software) cannot be GIPS compliant. Software can assist firms in achieving compliance with the GIPS standards, but only a firm that manages actual assets can claim compliance. C is incorrect because a firm has only two options regarding compliance with the GIPS standards: fully comply with all applicable requirements of the GIPS standards and claim compliance through the use of the GIPS Compliance Statement; or not comply with all requirements of the GIPS standards and not claim compliance with, or make any reference to, the GIPS standards.</p></div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 4,
+      "question": "<div><div><p>Which of the following statements related to why the GIPS standards were created is <em>least likely</em> correct? The GIPS standards were created to:</p>\n<ol>\n<li>establish a standardized, industry-wide approach for investment firms to follow.</li>\n<li>provide clients certainty in what is presented and allow them to make reasonable comparisons.</li>\n<li>identify a set of ethical principles for firms to follow in calculating and presenting historical investment results.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. This is a correct statement. The GIPS standards were created to establish a standardized, industry-wide approach for investment firms to follow. Correct. The GIPS standards were created to ensure fair representation and full disclosure of investment performance, not to provide certainty in what is presented. Incorrect. This is a correct statement. The GIPS standards were created to identify a set of ethical principles for firms to follow in calculating and presenting historical investment results. Introduction to the Global Investment Performance Standards (GIPS) explain why the GIPS standards were created, who can claim compliance, and who benefits from compliance",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. This is a correct statement. The GIPS standards were created to establish a standardized, industry-wide approach for investment firms to follow.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> The GIPS standards were created to ensure fair representation and full disclosure of investment performance, not to provide certainty in what is presented.</p>\n</li>\n<li>\n<p>Incorrect. This is a correct statement. The GIPS standards were created to identify a set of ethical principles for firms to follow in calculating and presenting historical investment results.</p>\n</li>\n</ol>\n<h4>Introduction to the Global Investment Performance Standards (GIPS)</h4>\n<ul>\n<li>explain why the GIPS standards were created, who can claim compliance, and who benefits from compliance</li>\n</ul>\n</div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 5,
+      "question": "<div><div><div>\n<p>Each composite of a GIPS-compliant firm must consist of:</p>\n</div></div></div>",
+      "choices": {
+        "A": "multiple portfolios.",
+        "B": "portfolios selected on an ex post basis.",
+        "C": "portfolios managed according to a similar investment mandate, objective, or strategy."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. A composite is an aggregation of one or more portfolios managed according to a similar investment mandate, objective, or strategy. For example, if a GIPS-compliant firm presents performance for a global equity composite (the composite), the composite must include portfolios that are managed, or have historically been managed, according to the firm’s global equity strategy. A is incorrect because a composite is an aggregation of one or more portfolios managed according to a similar investment mandate, objective, or strategy. A composite may consist of a single portfolio when it is the only portfolio managed according to a particular investment mandate. B is incorrect because the determination of which portfolio(s) to include in a composite should be done according to pre-established criteria ( ex ante basis), not after the fact ( ex post basis).",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> A composite is an aggregation of one or more portfolios managed according to a similar investment mandate, objective, or strategy. For example, if a GIPS-compliant firm presents performance for a global equity composite (the composite), the composite must include portfolios that are managed, or have historically been managed, according to the firm’s global equity strategy. A is incorrect because a composite is an aggregation of one or more portfolios managed according to a similar investment mandate, objective, or strategy. A composite may consist of a single portfolio when it is the only portfolio managed according to a particular investment mandate. B is incorrect because the determination of which portfolio(s) to include in a composite should be done according to pre-established criteria (<em>ex ante</em> basis), not after the fact (<em>ex post</em> basis).</p></div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 6,
+      "question": "<div><div><p>The GIPS standards were created to:</p>\n<ol>\n<li>promote fair, global competition among investment firms.</li>\n<li>eliminate the need for costly in-depth due diligence by investors.</li>\n<li>serve as a mandatory performance standard for asset management firms in countries without investment performance regulation.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct because the objectives of the GIPS standards are as follows: Promote fair, global competition among investment firms. Incorrect because the GIPS standards certainly do not eliminate the need for in-depth due diligence on the part of the client or investor, but compliance with the Standards enhances the credibility of investment management firms that have chosen to undertake this responsibility. Incorrect because complying with the GIPS standards is voluntary. Compliance with the GIPS standards is not typically required by legal or regulatory authorities. Also, the preamble to the GIPS standards states that by adhering to a global standard, firms in countries with minimal or no investment performance standards can compete for business on an equal footing with firms from countries with more-developed standards. Therefore, it is clear that GIPS standards were not created to serve as a mandatory performance standard for asset management firms in countries without investment performance regulation. Introduction to the Global Investment Performance Standards (GIPS) explain why the GIPS standards were created, who can claim compliance, and who benefits from compliance",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong> because the objectives of the GIPS standards are as follows: Promote fair, global competition among investment firms.</p>\n</li>\n<li>\n<p>Incorrect because the GIPS standards certainly do not eliminate the need for in-depth due diligence on the part of the client or investor, but compliance with the Standards enhances the credibility of investment management firms that have chosen to undertake this responsibility.</p>\n</li>\n<li>\n<p>Incorrect because complying with the GIPS standards is voluntary. Compliance with the GIPS standards is not typically required by legal or regulatory authorities. Also, the preamble to the GIPS standards states that by adhering to a global standard, firms in countries with minimal or no investment performance standards can compete for business on an equal footing with firms from countries with more-developed standards.</p>\n<p>Therefore, it is clear that GIPS standards were not created to serve as a mandatory performance standard for asset management firms in countries without investment performance regulation.</p>\n</li>\n</ol>\n<h4>Introduction to the Global Investment Performance Standards (GIPS)</h4>\n<ul>\n<li>explain why the GIPS standards were created, who can claim compliance, and who benefits from compliance</li>\n</ul>\n</div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 7,
+      "question": "<div><div><div>\n<p>Verification:</p>\n</div></div></div>",
+      "choices": {
+        "A": "must be performed on a firm-wide basis.",
+        "B": "may be provided by the firm’s compliance department.",
+        "C": "ensures the accuracy of a specific composite presentation."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Verification is performed with respect to an entire firm, not on specific composites. B is incorrect because verification must be performed by an independent third party. C is incorrect because verification provides assurance on whether the firm’s policies and procedures related to composite and pooled fund maintenance, as well as the calculation, presentation, and distribution of performance, have been designed in compliance with the GIPS standards and have been implemented on a firm-wide basis; it does not ensure the accuracy of a specific composite presentation.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Verification is performed with respect to an entire firm, not on specific composites. B is incorrect because verification must be performed by an independent third party. C is incorrect because verification provides assurance on whether the firm’s policies and procedures related to composite and pooled fund maintenance, as well as the calculation, presentation, and distribution of performance, have been designed in compliance with the GIPS standards and have been implemented on a firm-wide basis; it does not ensure the accuracy of a specific composite presentation. </p></div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 8,
+      "question": "<div><div><p>Which of the following can claim compliance with the GIPS standards?</p>\n<ol>\n<li>Consultants who advise investment firms that manage discretionary client assets</li>\n<li>Asset owners that do not compete for business but report their performance to oversight bodies</li>\n<li>Vendors that provide software to assist investment firms in claiming compliance with the GIPS standards</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect because consultants cannot make a claim of compliance unless they actually manage the assets for which they are making a claim of compliance. They can claim to endorse the GIPS standards and/or require that their investment managers comply with the GIPS standards. Correct because asset owners may comply with the GIPS standards in the same way as firms if they compete for business. If they don’t compete for business but report their performance to an oversight body, asset owners may choose to comply with the GIPS Standards for Asset Owners. Incorrect because only a firm managing assets can claim compliance. Similarly, software (and the vendors who supply software) cannot be 'compliant.' Software can assist firms in achieving compliance with the GIPS standards (e.g., by calculating performance in a manner consistent with the calculation requirements of the GIPS standards), but only a firm managing assets can claim compliance once the firm has satisfied all applicable requirements of the GIPS standards. Introduction to the Global Investment Performance Standards (GIPS) explain why the GIPS standards were created, who can claim compliance, and who benefits from compliance",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because consultants cannot make a claim of compliance unless they actually manage the assets for which they are making a claim of compliance. They can claim to endorse the GIPS standards and/or require that their investment managers comply with the GIPS standards.</p>\n</li>\n<li>\n<p><strong>Correct</strong> because asset owners may comply with the GIPS standards in the same way as firms if they compete for business. If they don’t compete for business but report their performance to an oversight body, asset owners may choose to comply with the GIPS Standards for Asset Owners.</p>\n</li>\n<li>\n<p>Incorrect because only a firm managing assets can claim compliance. Similarly, software (and the vendors who supply software) cannot be 'compliant.' Software can assist firms in achieving compliance with the GIPS standards (e.g., by calculating performance in a manner consistent with the calculation requirements of the GIPS standards), but only a firm managing assets can claim compliance once the firm has satisfied all applicable requirements of the GIPS standards.</p>\n</li>\n</ol>\n<h4>Introduction to the Global Investment Performance Standards (GIPS)</h4>\n<ul>\n<li>explain why the GIPS standards were created, who can claim compliance, and who benefits from compliance</li>\n</ul>\n</div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 9,
+      "question": "<div><div><p>Which of the following entities can claim compliance with the GIPS standards?</p>\n<ol>\n<li>A pension fund that manages investments for its beneficiaries</li>\n<li>An investment consulting firm that focuses on enabling clients to self-manage their investments</li>\n<li>A vendor that offers software products designed to help firms achieve compliance with the GIPS standards</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct because according to the GIPS standards, only a firm managing assets can claim compliance once the firm has satisfied all applicable requirements of the GIPS standards. Further, asset owners may comply with the GIPS standards in the same way as firms if they compete for business. If they don’t compete for business but report their performance to an oversight body, asset owners may choose to comply with the GIPS Standards for Asset Owners. Therefore, a pension fund that manages investments for its beneficiaries can claim compliance with the GIPS standards. Incorrect because according to the GIPS standards, consultants cannot make a claim of compliance unless they actually manage the assets for which they are making a claim of compliance. Therefore, an investment consulting firm that focuses on enabling clients to self-manage their investments cannot claim compliance with the GIPS standards. Incorrect because according to the GIPS standards, software (and the vendors who supply software) cannot be “compliant.” Software can assist firms in achieving compliance with the GIPS standards (e.g., by calculating performance in a manner consistent with the calculation requirements of the GIPS standards), but only a firm managing assets can claim compliance once the firm has satisfied all applicable requirements of the GIPS standards. Introduction to the Global Investment Performance Standards (GIPS) explain why the GIPS standards were created, who can claim compliance, and who benefits from compliance",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong> because according to the GIPS standards, only a firm managing assets can claim compliance once the firm has satisfied all applicable requirements of the GIPS standards. Further, asset owners may comply with the GIPS standards in the same way as firms if they compete for business. If they don’t compete for business but report their performance to an oversight body, asset owners may choose to comply with the GIPS Standards for Asset Owners. Therefore, a pension fund that manages investments for its beneficiaries can claim compliance with the GIPS standards.</p>\n</li>\n<li>\n<p>Incorrect because according to the GIPS standards, consultants cannot make a claim of compliance unless they actually manage the assets for which they are making a claim of compliance. Therefore, an investment consulting firm that focuses on enabling clients to self-manage their investments cannot claim compliance with the GIPS standards.</p>\n</li>\n<li>\n<p>Incorrect because according to the GIPS standards, software (and the vendors who supply software) cannot be “compliant.” Software can assist firms in achieving compliance with the GIPS standards (e.g., by calculating performance in a manner consistent with the calculation requirements of the GIPS standards), but only a firm managing assets can claim compliance once the firm has satisfied all applicable requirements of the GIPS standards.</p>\n</li>\n</ol>\n<h4>Introduction to the Global Investment Performance Standards (GIPS)</h4>\n<ul>\n<li>explain why the GIPS standards were created, who can claim compliance, and who benefits from compliance</li>\n</ul>\n</div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 10,
+      "question": "<div><div><div>\n<p>Which of the following <em>cannot</em> claim compliance with the GIPS standards?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Investment management firms",
+        "B": "Software vendors",
+        "C": "Private pension funds"
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Only investment management firms and asset owners (including pension funds, whether public or private) that manage actual assets may claim compliance with the GIPS standards. Software vendors and other intermediaries cannot claim compliance.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Only investment management firms and asset owners (including pension funds, whether public or private) that manage actual assets may claim compliance with the GIPS standards. Software vendors and other intermediaries cannot claim compliance.</p></div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 11,
+      "question": "<div><div><div>\n<p>Which of the following is an abusive practice that the GIPS standards were designed to avoid?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Presenting performance results that include terminated portfolios",
+        "B": "Comparing performance results with an appropriate benchmark",
+        "C": "Presenting performance results for select time periods"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. The GIPS standards require performance to be presented for consistent, standardized time periods.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> The GIPS standards require performance to be presented for consistent, standardized time periods.</p></div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 12,
+      "question": "<div><div><p>The GIPS standards <em>most likely </em>require:</p>\n<ol>\n<li>nondiscretionary segregated accounts to be included in composites.</li>\n<li>composites to be defined according to similar investment objectives or strategies.</li>\n<li>non–fee-paying segregated accounts to be excluded from the returns of appropriate composites.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. Composites must not include nondiscretionary segregated accounts. Correct. Composites must be defined according to similar investment objectives or strategies. Terminated segregated accounts must be included in the historical returns of appropriate composites, whereas only fee-paying segregated accounts are required to be included in composites. Nondiscretionary segregated accounts must not be included in a firm’s composites. Incorrect. Only fee-paying segregated accounts are required to be included in composites. Introduction to the Global Investment Performance Standards (GIPS) describe the key concepts of the GIPS Standards for Firms",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Composites must not include nondiscretionary segregated accounts.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> Composites must be defined according to similar investment objectives or strategies. Terminated segregated accounts must be included in the historical returns of appropriate composites, whereas only fee-paying segregated accounts are required to be included in composites. Nondiscretionary segregated accounts must not be included in a firm’s composites.</p>\n</li>\n<li>\n<p>Incorrect. Only fee-paying segregated accounts are required to be included in composites.</p>\n</li>\n</ol>\n<h4>Introduction to the Global Investment Performance Standards (GIPS)</h4>\n<ul>\n<li>describe the key concepts of the GIPS Standards for Firms</li>\n</ul>\n</div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 13,
+      "question": "<div><div><div>\n<p>The process of testing a firm or asset owner that claims compliance with the GIPS standards is referred to as a:</p>\n</div></div></div>",
+      "choices": {
+        "A": "verification.",
+        "B": "validation.",
+        "C": "certification."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Verification is the process of testing a firm or asset owner that claims compliance with the GIPS standards, in accordance with the required verification procedures of the GIPS standards.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Verification is the process of testing a firm or asset owner that claims compliance with the GIPS standards, in accordance with the required verification procedures of the GIPS standards.</p></div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 14,
+      "question": "<div><div><p>Fundamental asset managers claim compliance with the CFA Institute Global Investment Performance Standards (GIPS) and manage both discretionary and nondiscretionary segregated accounts. When constructing a single composite for the firm, Juma Dzuya includes all discretionary, fee-paying segregated accounts with both value and growth strategies. Does the composite constructed by Dzuya <em>most likely</em> meet GIPS criteria?</p>\n<ol>\n<li>Yes</li>\n<li>No, because of dissimilar investment strategies</li>\n<li>No, because nondiscretionary segregated accounts are not included</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. The composite is made up of portfolios with different mandates or strategies (e.g., growth and value). Correct. A composite must include all actual, fee-paying, discretionary portfolios managed in accordance with the same investment mandate, objective, or strategy. By including both the value and growth portfolios, the composite is made up of portfolios with different investment mandates or strategies. Incorrect. Nondiscretionary segregated accounts should not be included — that is, only discretionary segregated accounts should be included in composites to comply with the GIPS standards. Introduction to the Global Investment Performance Standards (GIPS) describe the key concepts of the GIPS Standards for Firms",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. The composite is made up of portfolios with different mandates or strategies (e.g., growth and value).</p>\n</li>\n<li>\n<p><strong>Correct.</strong> A composite must include all actual, fee-paying, discretionary portfolios managed in accordance with the same investment mandate, objective, or strategy. By including both the value and growth portfolios, the composite is made up of portfolios with different investment mandates or strategies.</p>\n</li>\n<li>\n<p>Incorrect. Nondiscretionary segregated accounts should not be included — that is, only discretionary segregated accounts should be included in composites to comply with the GIPS standards.</p>\n</li>\n</ol>\n<h4>Introduction to the Global Investment Performance Standards (GIPS)</h4>\n<ul>\n<li>describe the key concepts of the GIPS Standards for Firms</li>\n</ul>\n</div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 15,
+      "question": "<div><div><div>\n<p>Firms that claim compliance with the GIPS standards are required to receive a verification:</p>\n</div></div></div>",
+      "choices": {
+        "A": "before the firm can initially claim compliance.",
+        "B": "after the firm has claimed compliance for 12 months.",
+        "C": "never; verification is not required."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Firms are not required to be verified in order to claim compliance with the GIPS standards, although verification is recommended and viewed as best practice.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Firms are not required to be verified in order to claim compliance with the GIPS standards, although verification is recommended and viewed as best practice.</p></div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 16,
+      "question": "<div><div><p>Performance that is not compliant with the GIPS standards is <em>most likely</em> allowed to be linked with performance that is compliant with the GIPS standards in which of the following scenarios?</p>\n<ol>\n<li>Wrap fee composite for a firm whose claim of compliance began on 1 January 2006.</li>\n<li>Real estate pooled fund for a firm whose claim of compliance began on 1 January 2010.</li>\n<li>Large-cap equity composite for a firm whose claim of compliance began on 1 January 2001.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. The minimum effective compliance date for a wrap fee composite is 1 January 2006. A wrap fee composite for a firm whose claim of compliance began on 1 January 2006 could link performance that is not compliant with the GIPS standards to performance that is compliant with the GIPS standards. A firm may link performance that is not compliant with the GIPS standards to performance that is compliant with the GIPS standards provided that only performance that is compliant with the GIPS standards is presented for periods after the minimum effective compliance date, which differs depending on the asset type: 1 January 2006 for real estate and private equity composites and pooled funds, as well as wrap fee composites. 1 January 2000 for all other composites and pooled funds. Incorrect. The minimum effective compliance date for a real estate pooled fund is 1 January 2006. Incorrect. The minimum effective compliance date for all other composites and pooled funds is 1 January 2000. Introduction to the Global Investment Performance Standards (GIPS) describe the key concepts of the GIPS Standards for Firms",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> The minimum effective compliance date for a wrap fee composite is 1 January 2006. A wrap fee composite for a firm whose claim of compliance began on 1 January 2006 could link performance that is not compliant with the GIPS standards to performance that is compliant with the GIPS standards. A firm may link performance that is not compliant with the GIPS standards to performance that is compliant with the GIPS standards provided that only performance that is compliant with the GIPS standards is presented for periods after the minimum effective compliance date, which differs depending on the asset type:</p>\n<ul>\n<li>1 January 2006 for real estate and private equity composites and pooled funds, as well as wrap fee composites.</li>\n<li>1 January 2000 for all other composites and pooled funds.</li>\n</ul>\n</li>\n<li>\n<p>Incorrect. The minimum effective compliance date for a real estate pooled fund is 1 January 2006.</p>\n</li>\n<li>\n<p>Incorrect. The minimum effective compliance date for all other composites and pooled funds is 1 January 2000.</p>\n</li>\n</ol>\n<h4>Introduction to the Global Investment Performance Standards (GIPS)</h4>\n<ul>\n<li>describe the key concepts of the GIPS Standards for Firms</li>\n</ul>\n</div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 17,
+      "question": "<div><div><div>\n<p>Which of the following is not a commonly perceived benefit of the GIPS standards?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Comparability of results across managers that claim compliance",
+        "B": "Adherence to regulatory requirements",
+        "C": "Increased confidence by investors and beneficiaries"
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Compliance with the GIPS standards is not typically required by regulators, nor are the GIPS standards intended to cover all regulatory requirements.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Compliance with the GIPS standards is not typically required by regulators, nor are the GIPS standards intended to cover all regulatory requirements.</p></div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 18,
+      "question": "<div><div><p>In countries where new local laws relating to calculation and presentation of investment performance conflict with GIPS standards, firms that have claimed GIPS compliance should <em>most likely</em>:</p>\n<ol>\n<li>stop claiming GIPS compliance.</li>\n<li>follow local laws, continue to claim GIPS compliance, and disclose conflicts.</li>\n<li>continue to claim GIPS compliance, disclosing non-compliance with new laws.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect because although firms must abide by local requirements, firms are still allowed to claim GIPS compliance but must disclose areas where the local requirements conflict with those of the GIPS standards. Correct because where local laws and regulations regarding calculation and presentation conflict with GIPS standards, firms must abide by the local laws and regulations. They are still allowed to claim GIPS compliance but must disclose areas where the local requirements conflict with those of the GIPS standards. Incorrect because although firms must abide by local requirements, firms are still allowed to claim GIPS compliance but must disclose areas where the local requirements conflict with those of the GIPS standards. Introduction to the Global Investment Performance Standards (GIPS) describe the key concepts of the GIPS Standards for Firms",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because although firms must abide by local requirements, firms are still allowed to claim GIPS compliance but must disclose areas where the local requirements conflict with those of the GIPS standards.</p>\n</li>\n<li>\n<p><strong>Correct</strong> because where local laws and regulations regarding calculation and presentation conflict with GIPS standards, firms must abide by the local laws and regulations. They are still allowed to claim GIPS compliance but must disclose areas where the local requirements conflict with those of the GIPS standards.</p>\n</li>\n<li>\n<p>Incorrect because although firms must abide by local requirements, firms are still allowed to claim GIPS compliance but must disclose areas where the local requirements conflict with those of the GIPS standards.</p>\n</li>\n</ol>\n<h4>Introduction to the Global Investment Performance Standards (GIPS)</h4>\n<ul>\n<li>describe the key concepts of the GIPS Standards for Firms</li>\n</ul>\n</div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 19,
+      "question": "<div><div><p>Which of the following is part of the nine major sections of the GIPS standards?</p>\n<ol>\n<li>Input data</li>\n<li>Disclosure</li>\n<li>Performance fees</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct because the major sections of the GIPS standards do not include performance fees or disclosure. The major sections are: fundamentals of compliance, input data, and calculation methodology, composite and pooled fund maintenance, composite time-weighted return report, composite money-weighted return report, pooled fund time-weighted return report, pooled fund money-weighted return report, and GIPS advertising guidelines. Incorrect because disclosure is not one of the major sections of the GIPS standards. Incorrect because performance fees is not one of the major sections of the GIPS standards. Introduction to the Global Investment Performance Standards (GIPS) describe the key concepts of the GIPS Standards for Firms",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong> because the major sections of the GIPS standards do not include performance fees or disclosure. The major sections are: fundamentals of compliance, input data, and calculation methodology, composite and pooled fund maintenance, composite time-weighted return report, composite money-weighted return report, pooled fund time-weighted return report, pooled fund money-weighted return report, and GIPS advertising guidelines.</p>\n</li>\n<li>\n<p>Incorrect because disclosure is not one of the major sections of the GIPS standards.</p>\n</li>\n<li>\n<p>Incorrect because performance fees is not one of the major sections of the GIPS standards.</p>\n</li>\n</ol>\n<h4>Introduction to the Global Investment Performance Standards (GIPS)</h4>\n<ul>\n<li>describe the key concepts of the GIPS Standards for Firms</li>\n</ul>\n</div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 20,
+      "question": "<div><div><div>\n<p>When defining the firm, the GIPS standards recommend that firms should:</p>\n</div></div></div>",
+      "choices": {
+        "A": "adopt the narrowest, most relevant definition of the firm.",
+        "B": "adopt the broadest, most meaningful definition of the firm.",
+        "C": "exclude offices operating under different brand names."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Firms are encouraged to adopt the broadest, most meaningful definition possible of the firm.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Firms are encouraged to adopt the broadest, most meaningful definition possible of the firm.</p></div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 21,
+      "question": "<div><div><div>\n<p>A composite return reflects the performance of:</p>\n</div></div></div>",
+      "choices": {
+        "A": "all portfolios managed by the firm, regardless of investment strategy.",
+        "B": "all discretionary portfolios that meet the composite definition.",
+        "C": "all discretionary and non-discretionary portfolios that meet the composite definition."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Composites must be defined based on investment mandate, objective, or strategy. Composites can include only discretionary portfolios.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Composites must be defined based on investment mandate, objective, or strategy. Composites can include only discretionary portfolios.</p></div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 22,
+      "question": "<div><div><p>To comply with the GIPS standards, firms <em>most likely</em> must:</p>\n<ol>\n<li>be defined as separate legal entities.</li>\n<li>apply standards on a firm-wide basis.</li>\n<li>be verified before they can claim compliance.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect because a firm must be defined as an investment firm, subsidiary, or division held out to clients or prospective clients as a distinct business entity. There is no requirement for the firm to be a separate legal entity. Correct because according to requirements for GIPS compliance, GIPS standards must be applied on a firm-wide basis. They cannot be separately applied to composites. Incorrect because firms are responsible for their own claims of compliance. Although a third-party independent verification is recommended, it is not required for compliance to be claimed by a firm. Introduction to the Global Investment Performance Standards (GIPS) describe the key concepts of the GIPS Standards for Firms",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because a firm must be defined as an investment firm, subsidiary, or division held out to clients or prospective clients as a distinct business entity. There is no requirement for the firm to be a separate legal entity.</p>\n</li>\n<li>\n<p><strong>Correct</strong> because according to requirements for GIPS compliance, GIPS standards must be applied on a firm-wide basis. They cannot be separately applied to composites.</p>\n</li>\n<li>\n<p>Incorrect because firms are responsible for their own claims of compliance. Although a third-party independent verification is recommended, it is not required for compliance to be claimed by a firm.</p>\n</li>\n</ol>\n<h4>Introduction to the Global Investment Performance Standards (GIPS)</h4>\n<ul>\n<li>describe the key concepts of the GIPS Standards for Firms</li>\n</ul>\n</div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 23,
+      "question": "<div><div><p>When making performance presentations to prospective clients, a GIPS-compliant firm should <em>least likely</em> do which of the following?</p>\n<ol>\n<li>Selectively report its top account performance</li>\n<li>Include the account performance of former clients</li>\n<li>Report performance history for all market cycles under review</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. When a firm complies with GIPS standards, it cannot selectively choose its top account performances while excluding weaker-performing accounts. It must include all fee-paying discretionary accounts managed to a similar investment mandate, objective, or strategy. Incorrect. GIPS standards require the performance of former clients to be included to avoid survivorship bias. Incorrect. GIPS standards require the account performance to reflect results across all market cycles for the periods under review. Fund managers are not allowed to select a time period during which the mandate produced superior results while leaving out other time periods that underperformed (varying time periods). Introduction to the Global Investment Performance Standards (GIPS) explain the purpose of composites in performance reporting",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> When a firm complies with GIPS standards, it cannot selectively choose its top account performances while excluding weaker-performing accounts. It must include all fee-paying discretionary accounts managed to a similar investment mandate, objective, or strategy.</p>\n</li>\n<li>\n<p>Incorrect. GIPS standards require the performance of former clients to be included to avoid survivorship bias.</p>\n</li>\n<li>\n<p>Incorrect. GIPS standards require the account performance to reflect results across all market cycles for the periods under review. Fund managers are not allowed to select a time period during which the mandate produced superior results while leaving out other time periods that underperformed (varying time periods).</p>\n</li>\n</ol>\n<h4>Introduction to the Global Investment Performance Standards (GIPS)</h4>\n<ul>\n<li>explain the purpose of composites in performance reporting</li>\n</ul>\n</div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 24,
+      "question": "<div><div><p>Which of the following statement <em>most likely</em> summarizes the requirement of a firm to maintain a list of descriptions?</p>\n<ol>\n<li>Firms must maintain a list of composite descriptions as well as a list of descriptions for both limited and broad distribution pooled funds</li>\n<li>Firms must include terminated composites and terminated limited distribution pooled funds on their lists of composite and pooled funds for at least five years</li>\n<li>Firms must maintain a list of composite descriptions as well as a list of descriptions for limited distribution pooled funds, but only a list of names for broad distribution pooled funds</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. A complete list of broad distribution pooled funds only, but not the description, is required per Standard 1.A.22.c. Incorrect. Firms are not required to include terminated limited or broad distribution pool funds on the list as stated in Standards 1.A.22.b and 1.A.22.c. Correct. Standard 1.A.22 specifies that firm must maintain a list of composite descriptions and include terminated composites on this list for at least five years after the composite termination date. A complete list of pooled fund descriptions for limited distribution pooled funds is also required. A complete list of broad distribution pooled fund names only, but not the descriptions, is required. Firms are not required to include terminated limited or broad distribution pooled funds on the list. Introduction to the Global Investment Performance Standards (GIPS) describe the fundamentals of compliance, including the recommendations of the GIPS standards with respect to the definition of the firm and the firm’s definition of discretion",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. A complete list of broad distribution pooled funds only, but <em>not</em> the description, is required per Standard 1.A.22.c.</p>\n</li>\n<li>\n<p>Incorrect. Firms are <em>not</em> required to include terminated limited or broad distribution pool funds on the list as stated in Standards 1.A.22.b and 1.A.22.c.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> Standard 1.A.22 specifies that firm must maintain a list of composite descriptions and include terminated composites on this list for at least five years after the composite termination date. A complete list of pooled fund descriptions for limited distribution pooled funds is also required. A complete list of broad distribution pooled fund names only, but<em> not</em> the descriptions, is required. Firms are <em>not</em> required to include terminated limited or broad distribution pooled funds on the list.</p>\n</li>\n</ol>\n<h4>Introduction to the Global Investment Performance Standards (GIPS)</h4>\n<ul>\n<li>describe the fundamentals of compliance, including the recommendations of the GIPS standards with respect to the definition of the firm and the firm’s definition of discretion</li>\n</ul>\n</div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 25,
+      "question": "<div><div><p>Which of the following statements is <em>least likely </em>correct with regards to the nine major sections comprising the GIPS standards?</p>\n<ol>\n<li>Firms are encouraged to adopt and implement the recommendations</li>\n<li>All requirements must be met in to be fully compliant with the GIPS</li>\n<li>To claim compliance, firms need only to calculate their performance according to GIPS requirements</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect because the statement that firms are encouraged to adopt and implement the recommendations is accurate. Incorrect because the statement that all requirements must be met to be fully compliant with the GIPS standards is accurate. Correct because to claim compliance, firms must meet all GIPS requirements, not just calculate their performance according to GIPS requirements. Introduction to the Global Investment Performance Standards (GIPS) describe the fundamentals of compliance, including the recommendations of the GIPS standards with respect to the definition of the firm and the firm’s definition of discretion",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because the statement that firms are encouraged to adopt and implement the recommendations is accurate.</p>\n</li>\n<li>\n<p>Incorrect because the statement that all requirements must be met to be fully compliant with the GIPS standards is accurate.</p>\n</li>\n<li>\n<p><strong>Correct</strong> because to claim compliance, firms must meet all GIPS requirements, not just calculate their performance according to GIPS requirements.</p>\n</li>\n</ol>\n<h4>Introduction to the Global Investment Performance Standards (GIPS)</h4>\n<ul>\n<li>describe the fundamentals of compliance, including the recommendations of the GIPS standards with respect to the definition of the firm and the firm’s definition of discretion</li>\n</ul>\n</div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 26,
+      "question": "<div><div><p>Which of the following statements is <em>most</em> accurate? In countries where regulations conflict with, or contradict, the GIPS standards, firms that claim compliance are required to comply with:</p>\n<ol>\n<li>local regulations with full disclosure of the conflict.</li>\n<li>the stricter of local regulations or the GIPS standards.</li>\n<li>local regulations with optional disclosure of the conflict.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct because according to the GIPS standards, in cases in which laws and/or regulations conflict with the GIPS standards, firms are required to comply with the laws and regulations and make full disclosure of the conflict in the GIPS Report. Incorrect because, as explained in the justification for the correct answer, firms are required to comply with the laws and regulations and make full disclosure of the conflict in the GIPS Report. Incorrect because, as explained in the justification for the correct answer, firms are required to comply with the laws and regulations and make full disclosure of the conflict in the GIPS report. Introduction to the Global Investment Performance Standards (GIPS) describe the fundamentals of compliance, including the recommendations of the GIPS standards with respect to the definition of the firm and the firm’s definition of discretion",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong> because according to the GIPS standards, in cases in which laws and/or regulations conflict with the GIPS standards, firms are required to comply with the laws and regulations and make full disclosure of the conflict in the GIPS Report.</p>\n</li>\n<li>\n<p>Incorrect because, as explained in the justification for the correct answer, firms are required to comply with the laws and regulations and make full disclosure of the conflict in the GIPS Report.</p>\n</li>\n<li>\n<p>Incorrect because, as explained in the justification for the correct answer, firms are required to comply with the laws and regulations and make full disclosure of the conflict in the GIPS report.</p>\n</li>\n</ol>\n<h4>Introduction to the Global Investment Performance Standards (GIPS)</h4>\n<ul>\n<li>describe the fundamentals of compliance, including the recommendations of the GIPS standards with respect to the definition of the firm and the firm’s definition of discretion</li>\n</ul>\n</div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 27,
+      "question": "<div><div><p>According to the GIPS standards, a firm must include a terminated composite on the firm's list of composite descriptions for at least:</p>\n<ol>\n<li>5 years after the composite termination date.</li>\n<li>7 years after the composite termination date.</li>\n<li>10 years after the composite termination date.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct because according to the GIPS standards, the firm must include terminated composites on this list for at least ﬁve years after the composite termination date. Incorrect because firms must include terminated composites on the firm's list of composite descriptions for at least five years after the composite termination date, as described in the response rationale for the correct answer, and not for 7 years. Incorrect because firms must include terminated composites on the firm's list of composite descriptions for at least five years after the composite termination date, as described in the response rationale for the correct answer, and not for 10 years. Introduction to the Global Investment Performance Standards (GIPS) describe the fundamentals of compliance, including the recommendations of the GIPS standards with respect to the definition of the firm and the firm’s definition of discretion",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong> because according to the GIPS standards, the firm must include terminated composites on this list for at least ﬁve years after the composite termination date.</p>\n</li>\n<li>\n<p>Incorrect because firms must include terminated composites on the firm's list of composite descriptions for at least five years after the composite termination date, as described in the response rationale for the correct answer, and not for 7 years.</p>\n</li>\n<li>\n<p>Incorrect because firms must include terminated composites on the firm's list of composite descriptions for at least five years after the composite termination date, as described in the response rationale for the correct answer, and not for 10 years.</p>\n</li>\n</ol>\n<h4>Introduction to the Global Investment Performance Standards (GIPS)</h4>\n<ul>\n<li>describe the fundamentals of compliance, including the recommendations of the GIPS standards with respect to the definition of the firm and the firm’s definition of discretion</li>\n</ul>\n</div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 28,
+      "question": "<div><div><p>Which of the following is <em>most</em> accurate? GIPS compliance:</p>\n<ol>\n<li>eliminates investors' need for in-depth due diligence of the GIPS-compliant firm only.</li>\n<li>enables the GIPS-compliant firm to participate in competitive bids against other GIPS-compliant firms only.</li>\n<li>both eliminates investors' need for in-depth due diligence of the GIPS-compliant firm and enables the GIPS-compliant firm to participate in competitive bids against other GIPS-compliant firms.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect because GIPS standards certainly do not eliminate the need for in-depth due diligence on the part of the investor. Correct because compliance enables the GIPS-compliant firm to participate in competitive bids against other compliant firms throughout the world. Incorrect because as described in the response rationale for the correct answer compliance enables the GIPS-compliant firm to participate in competitive bids against other compliant firms throughout the world but GIPS standards certainly do not eliminate the need for in-depth due diligence on the part of the investor. Introduction to the Global Investment Performance Standards (GIPS) describe the fundamentals of compliance, including the recommendations of the GIPS standards with respect to the definition of the firm and the firm’s definition of discretion",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because GIPS standards certainly do not eliminate the need for in-depth due diligence on the part of the investor.</p>\n</li>\n<li>\n<p><strong>Correct</strong> because compliance enables the GIPS-compliant firm to participate in competitive bids against other compliant firms throughout the world.</p>\n</li>\n<li>\n<p>Incorrect because as described in the response rationale for the correct answer compliance enables the GIPS-compliant firm to participate in competitive bids against other compliant firms throughout the world but GIPS standards certainly do not eliminate the need for in-depth due diligence on the part of the investor.</p>\n</li>\n</ol>\n<h4>Introduction to the Global Investment Performance Standards (GIPS)</h4>\n<ul>\n<li>describe the fundamentals of compliance, including the recommendations of the GIPS standards with respect to the definition of the firm and the firm’s definition of discretion</li>\n</ul>\n</div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 29,
+      "question": "<div><div><p>According to the GIPS standards, a firm:</p>\n<ol>\n<li>must include non-discretionary portfolios in the firm’s composites.</li>\n<li>may refer to its performance calculation methodology as being in accordance with the GIPS standards.</li>\n<li>may determine a portfolio is non-discretionary if client imposed restrictions interfere with the implementation of the intended strategy.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect because according to the fundamentals of compliance of the GIPS standards, non-discretionary portfolios must not be included in a firm’s composites. Incorrect because according to the fundamentals of compliance of the GIPS standards, statements referring to the calculation methodology as being 'in accordance,' 'in compliance,' or 'consistent' with the Global Investment Performance Standards, or similar statements, are prohibited. Correct because according to the fundamentals of compliance of the GIPS standards, If documented client-imposed restrictions interfere with the implementation of the intended strategy to the extent that the portfolio is no longer representative of the strategy, the firm may determine that the portfolio is non-discretionary. Introduction to the Global Investment Performance Standards (GIPS) describe the fundamentals of compliance, including the recommendations of the GIPS standards with respect to the definition of the firm and the firm’s definition of discretion",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because according to the fundamentals of compliance of the GIPS standards, non-discretionary portfolios must not be included in a firm’s composites.</p>\n</li>\n<li>\n<p>Incorrect because according to the fundamentals of compliance of the GIPS standards, statements referring to the calculation methodology as being 'in accordance,' 'in compliance,' or 'consistent' with the Global Investment Performance Standards, or similar statements, are prohibited.</p>\n</li>\n<li>\n<p><strong>Correct</strong> because according to the fundamentals of compliance of the GIPS standards, If documented client-imposed restrictions interfere with the implementation of the intended strategy to the extent that the portfolio is no longer representative of the strategy, the firm may determine that the portfolio is non-discretionary.</p>\n</li>\n</ol>\n<h4>Introduction to the Global Investment Performance Standards (GIPS)</h4>\n<ul>\n<li>describe the fundamentals of compliance, including the recommendations of the GIPS standards with respect to the definition of the firm and the firm’s definition of discretion</li>\n</ul>\n</div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 30,
+      "question": "<div><div><p>The GIPS standards:</p>\n<ol>\n<li>allow the use of a representative account to present the firm's overall investment results.</li>\n<li>require firms to present performance history that only includes accounts remaining at the firm.</li>\n<li>establish a standardized approach to presenting historical investment results to prospective clients.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect because according to the GIPS standards misleading practices include Representative Accounts: Selecting a top-performing portfolio to represent the firm’s overall investment results for a specific mandate. Therefore, the GIPS standards does not allow the use of a representative account to present the firm's overall investment results. Incorrect because presenting an 'average' performance history that excludes portfolios whose poor performance was weak enough to result in termination of the firm is known as survivorship bias and is a misleading practice when presenting investment performance data. Therefore, presenting performance history that only includes accounts remaining at the firm (and excludes accounts that has left the firm) is incorrect. Correct because the GIPS standards are a practitioner-driven set of ethical principles that establish a standardized, industry-wide approach for investment firms to follow in calculating and presenting their historical investment results to prospective clients. Therefore, the GIPS standard establish a standardized approach to presenting historical investment results to prospective clients, and this answer is correct. Introduction to the Global Investment Performance Standards (GIPS) describe the fundamentals of compliance, including the recommendations of the GIPS standards with respect to the definition of the firm and the firm’s definition of discretion",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because according to the GIPS standards misleading practices include Representative Accounts: Selecting a top-performing portfolio to represent the firm’s overall investment results for a specific mandate. Therefore, the GIPS standards does not allow the use of a representative account to present the firm's overall investment results.</p>\n</li>\n<li>\n<p>Incorrect because presenting an 'average' performance history that excludes portfolios whose poor performance was weak enough to result in termination of the firm is known as survivorship bias and is a misleading practice when presenting investment performance data. Therefore, presenting performance history that only includes accounts remaining at the firm (and excludes accounts that has left the firm) is incorrect.</p>\n</li>\n<li>\n<p><strong>Correct</strong> because the GIPS standards are a practitioner-driven set of ethical principles that establish a standardized, industry-wide approach for investment firms to follow in calculating and presenting their historical investment results to prospective clients. Therefore, the GIPS standard establish a standardized approach to presenting historical investment results to prospective clients, and this answer is correct.</p>\n</li>\n</ol>\n<h4>Introduction to the Global Investment Performance Standards (GIPS)</h4>\n<ul>\n<li>describe the fundamentals of compliance, including the recommendations of the GIPS standards with respect to the definition of the firm and the firm’s definition of discretion</li>\n</ul>\n</div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 31,
+      "question": "<div><div><p>According to the Global Investment Performance Standards (GIPS), which of the following is not a part of the verification process? Testing whether the:</p>\n<ol>\n<li>verification is undertaken by the compliance department in the absence of a third party.</li>\n<li>firm’s processes and procedures are designed to calculate results in compliance with GIPS standards.</li>\n<li>firm has implemented policies and procedures compliant with all the composite maintenance requirements.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. Verification tests whether the investment firm has complied with all the composite construction requirements of GIPS on a firm-wide basis, and whether the firm’s processes and procedures are designed to calculate and present performance results in compliance with the GIPS standards. Verification must be performed by an independent third party. A firm cannot perform its own verification. Incorrect. Verification tests whether the investment firm’s processes and procedures are designed to calculate and present performance results in compliance with the GIPS standards. Incorrect. Verification tests whether the investment firm has implemented policies and procedures in compliance with all the composite maintenance requirements of the GIPS standards on a firm-wide basis. Introduction to the Global Investment Performance Standards (GIPS) describe the concept of independent verification",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> Verification tests whether the investment firm has complied with all the composite construction requirements of GIPS on a firm-wide basis, and whether the firm’s processes and procedures are designed to calculate and present performance results in compliance with the GIPS standards. Verification must be performed by an independent third party. A firm cannot perform its own verification.</p>\n</li>\n<li>\n<p>Incorrect. Verification tests whether the investment firm’s processes and procedures are designed to calculate and present performance results in compliance with the GIPS standards.</p>\n</li>\n<li>\n<p>Incorrect. Verification tests whether the investment firm has implemented policies and procedures in compliance with all the composite maintenance requirements of the GIPS standards on a firm-wide basis.</p>\n</li>\n</ol>\n<h4>Introduction to the Global Investment Performance Standards (GIPS)</h4>\n<ul>\n<li>describe the concept of independent verification</li>\n</ul>\n</div>",
+      "category": "Ethical and Professional Standards"
+    },
+    {
+      "title": "Introduction to the Global Investment Performance Standards (GIPS)",
+      "question_number": 32,
+      "question": "<div><div><p>Verification of compliance with the GIPS standards <em>most likely</em> requires:</p>\n<ol>\n<li>verification for each specific composite under review</li>\n<li>an independent third party to carry out the verification</li>\n<li>an assurance that the composite presentations are accurate</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. Verification is performed with respect to an entire firm, not on specific composites. Correct. While a firm is responsible for their own compliance claim, they cannot perform their own verification. An independent third party must undertake the verification. Incorrect. Verification does not ensure the accuracy of any specific composite presentation. Introduction to the Global Investment Performance Standards (GIPS) describe the concept of independent verification",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Verification is performed with respect to an entire firm, not on specific composites.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> While a firm is responsible for their own compliance claim, they cannot perform their own verification. An independent third party must undertake the verification.</p>\n</li>\n<li>\n<p>Incorrect. Verification does not ensure the accuracy of any specific composite presentation.</p>\n</li>\n</ol>\n<h4>Introduction to the Global Investment Performance Standards (GIPS)</h4>\n<ul>\n<li>describe the concept of independent verification</li>\n</ul>\n</div>",
+      "category": "Ethical and Professional Standards"
+    }
+  ]
+}

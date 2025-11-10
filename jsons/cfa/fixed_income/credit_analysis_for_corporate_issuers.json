@@ -1,0 +1,163 @@
+{
+  "category": "Fixed Income",
+  "topic": "Credit Analysis for Corporate Issuers",
+  "total_questions": 12,
+  "questions": [
+    {
+      "title": "Credit Analysis for Corporate Issuers",
+      "question_number": 1,
+      "question": "<div><div><p>Which bonds <em>most likely</em> rank the highest with respect to priority of claims?</p>\n<ol>\n<li>Second lien debt</li>\n<li>Subordinated debt</li>\n<li>Senior unsecured bond</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. Second lien debt has a secured interest in the pledged assets and ranks higher than the unsecured debt, such as senior unsecured bonds and subordinated debt. Incorrect because subordinated debts are the lowest rank among those three. Incorrect because senior unsecured bonds are a type of unsecured claim. They rank lower than second lien debts, which are secured claims to the pledged assets. Credit Analysis for Corporate Issuers describe the seniority rankings of debt, secured versus unsecured debt and the priority of claims in bankruptcy, and their impact on credit ratings",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> Second lien debt has a secured interest in the pledged assets and ranks higher than the unsecured debt, such as senior unsecured bonds and subordinated debt.</p>\n</li>\n<li>\n<p>Incorrect because subordinated debts are the lowest rank among those three.</p>\n</li>\n<li>\n<p>Incorrect because senior unsecured bonds are a type of unsecured claim. They rank lower than second lien debts, which are secured claims to the pledged assets.</p>\n</li>\n</ol>\n<h4>Credit Analysis for Corporate Issuers</h4>\n<ul>\n<li>describe the seniority rankings of debt, secured versus unsecured debt and the priority of claims in bankruptcy, and their impact on credit ratings</li>\n</ul>\n</div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Credit Analysis for Corporate Issuers",
+      "question_number": 2,
+      "question": "<div><div><div>\n<p>Based on her smartphone industry assessment, the credit analyst concludes that Mojofon’s debt service capacity is low because:</p>\n</div></div></div>",
+      "choices": {
+        "A": "the threat of substitutes is low.",
+        "B": "the threat of new entrants and bargaining power of customers are low.",
+        "C": "the industry rivalry and the bargaining power of suppliers are high."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution The correct answer is C. Based on the industry assessment: Competitive Forces Intensity Capacity to Support Debt Threat of new entrants Low High Bargaining power of suppliers High Low Bargaining power of customers Low High Threat of substitutes Low High Industry rivalry High Low Industry rivalry and bargaining power of suppliers are all high intensity, implying low capacity to support debt.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>The correct answer is C.</strong> Based on the industry assessment:</p>\n<div><table>\n<thead><tr>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: bottom;\"><strong>Competitive Forces</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong>Intensity</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong>Capacity to Support Debt</strong></th>\n</tr></thead>\n<tbody>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: middle;\">Threat of new entrants</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">Low</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">High</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: middle;\">Bargaining power of suppliers</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">High</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">Low</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: middle;\">Bargaining power of customers</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">Low</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">High</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: middle;\">Threat of substitutes</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">Low</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">High</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: middle;\">Industry rivalry</td>\n<td class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">High</td>\n<td class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">Low</td>\n</tr>\n</tbody>\n</table></div>\n<p>Industry rivalry and bargaining power of suppliers are all high intensity, implying low capacity to support debt.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Credit Analysis for Corporate Issuers",
+      "question_number": 3,
+      "question": "<div><div><div>\n<p>Based on the overall industry assessment, the credit analyst concludes that the credit conditions for Mojofon will <em>most likely</em>:</p>\n</div></div></div>",
+      "choices": {
+        "A": "tighten because the sector is maturing, and industry concentration is increasing.",
+        "B": "remain unchanged because Mojofon’s market share is constant despite low industry growth.",
+        "C": "expand since niche market entrants are consistently seizing market share from dominant firms."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution The correct answer is A. If the industry is maturing with low growth and the market becomes further concentrated among a few dominant firms, credit conditions for smaller smartphone producers will most likely tighten.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>The correct answer is A.</strong> If the industry is maturing with low growth and the market becomes further concentrated among a few dominant firms, credit conditions for smaller smartphone producers will most likely tighten.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Credit Analysis for Corporate Issuers",
+      "question_number": 4,
+      "question": "<div><div><p>With respect to the credit rating agencies' practice of notching, the size of a notching adjustment:</p>\n<ol>\n<li>is larger for higher-rated credits.</li>\n<li>is standardized between rating agencies.</li>\n<li>depends on the rating of the issuer's senior unsecured debt.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect because as a general rule, the higher the senior unsecured rating, the smaller the notching adjustment. Incorrect because notching is applied according to each credit rating agency's notching guidelines. Correct because recognizing different payment priorities, and thus the potential for higher (or lower) loss severity in the event of default, the rating agencies have adopted a notching process whereby their credit ratings on issues can be moved up or down from the issuer rating, which is usually the rating applied to its senior unsecured debt. As a general rule, the higher the senior unsecured rating, the smaller the notching adjustment. The reason behind this is that the higher the rating, the lower the perceived risk of default; so, the need to 'notch' the rating to capture the potential difference in loss severity is greatly reduced. For lower-rated credits, however, the risk of default is greater and thus the potential difference in loss from a lower (or higher) priority ranking is a bigger consideration in assessing an issue’s credit riskiness. Credit Analysis for Corporate Issuers describe the seniority rankings of debt, secured versus unsecured debt and the priority of claims in bankruptcy, and their impact on credit ratings",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because as a general rule, the higher the senior unsecured rating, the smaller the notching adjustment.</p>\n</li>\n<li>\n<p>Incorrect because notching is applied according to each credit rating agency's notching guidelines.</p>\n</li>\n<li>\n<p><strong>Correct</strong> because recognizing different payment priorities, and thus the potential for higher (or lower) loss severity in the event of default, the rating agencies have adopted a notching process whereby their credit ratings on issues can be moved up or down from the issuer rating, which is usually the rating applied to its senior unsecured debt. As a general rule, the higher the senior unsecured rating, the smaller the notching adjustment. The reason behind this is that the higher the rating, the lower the perceived risk of default; so, the need to 'notch' the rating to capture the potential difference in loss severity is greatly reduced. For lower-rated credits, however, the risk of default is greater and thus the potential difference in loss from a lower (or higher) priority ranking is a bigger consideration in assessing an issue’s credit riskiness.</p>\n</li>\n</ol>\n<h4>Credit Analysis for Corporate Issuers</h4>\n<ul>\n<li>describe the seniority rankings of debt, secured versus unsecured debt and the priority of claims in bankruptcy, and their impact on credit ratings</li>\n</ul>\n</div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Credit Analysis for Corporate Issuers",
+      "question_number": 5,
+      "question": "<div><div><p>A corporation with a holding company structure has debt at both its parent holding company and operating subsidiaries. Debt at the operating level must be serviced before funds can be upstreamed to pay debt at the holding company. This arrangement <em>best </em>describes:</p>\n<ol>\n<li>structural subordination.</li>\n<li>a cross-default provision.</li>\n<li>the corporate family rating.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct because another factor considered by rating agencies is structural subordination, which can arise when a corporation with a holding company structure has debt at both its parent holding company and operating subsidiaries. Debt at the operating subsidiaries will get serviced by the cash flow and assets of the subsidiaries before funds can be passed (“upstreamed”) to the holding company to service debt at that level. Incorrect because cross-default provisions, occur when default such as non-payment of interest on one bond trigger default on all outstanding debt. This is not structural subordination. Incorrect because rating agencies will typically provide both issuer and issue ratings, particularly as they relate to corporate debt. Terminology used to distinguish between issuer and issue ratings includes corporate family rating. This is not structural subordination. Credit Analysis for Corporate Issuers describe the seniority rankings of debt, secured versus unsecured debt and the priority of claims in bankruptcy, and their impact on credit ratings",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong> because another factor considered by rating agencies is structural subordination, which can arise when a corporation with a holding company structure has debt at both its parent holding company and operating subsidiaries. Debt at the operating subsidiaries will get serviced by the cash flow and assets of the subsidiaries before funds can be passed (“upstreamed”) to the holding company to service debt at that level.</p>\n</li>\n<li>\n<p>Incorrect because cross-default provisions, occur when default such as non-payment of interest on one bond trigger default on all outstanding debt. This is not structural subordination.</p>\n</li>\n<li>\n<p>Incorrect because rating agencies will typically provide both issuer and issue ratings, particularly as they relate to corporate debt. Terminology used to distinguish between issuer and issue ratings includes corporate family rating. This is not structural subordination.</p>\n</li>\n</ol>\n<h4>Credit Analysis for Corporate Issuers</h4>\n<ul>\n<li>describe the seniority rankings of debt, secured versus unsecured debt and the priority of claims in bankruptcy, and their impact on credit ratings</li>\n</ul>\n</div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Credit Analysis for Corporate Issuers",
+      "question_number": 6,
+      "question": "<div><div><div>\n<p>Which of the following will <em>most likely</em> reduce Mojofon’s near-term default risk?</p>\n</div></div></div>",
+      "choices": {
+        "A": "A new policy to increase dividends on a steady basis",
+        "B": "A three-year strategy to pursue acquisitions funded by debt",
+        "C": "Proactive management of debt maturity by issuing longer-term bonds"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution The correct answer is C. Extending debt maturity proactively will help extend Mojofon’s debt maturity profile and reduce near-term default risk. B is incorrect, as debt-funded acquisitions reduce future cash flow certainty and increase credit risk. A is incorrect since increasing the dividend is a shareholder-friendly action that increases leverage and credit risk.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>The correct answer is C.</strong> Extending debt maturity proactively will help extend Mojofon’s debt maturity profile and reduce near-term default risk. B is incorrect, as debt-funded acquisitions reduce future cash flow certainty and increase credit risk. A is incorrect since increasing the dividend is a shareholder-friendly action that increases leverage and credit risk.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Credit Analysis for Corporate Issuers",
+      "question_number": 7,
+      "question": "<div><div><div>\n<p>The credit analyst studies the key financial information of Mojofon and that of its peers below:</p>\n<div>\n<table>\n<thead>\n<tr>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" rowspan=\"2\" style=\"text-align: left;vertical-align: bottom;\"><strong>Key Credit Metrics</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" colspan=\"2\" style=\"text-align: center;vertical-align: middle;\"><strong>Mojofon</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" rowspan=\"2\" style=\"text-align: center;vertical-align: top;\">\n<strong>Peer Average</strong><br/>\n<strong>Current Year</strong>\n</th>\n</tr>\n<tr>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\"><strong>Prior Year</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\"><strong>Current Year</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: middle;\">EBITDA</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">27</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">20</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">55</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: middle;\">Revenue</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">121</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">100</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">305</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: middle;\">FCF</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">9</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">−5</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">40</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: middle;\">FCF after dividends</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">5</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">−7</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">32</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: middle;\">Interest expense</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">5</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">8</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">10</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: middle;\">Total debt</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">100</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">100</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">150</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: middle;\">Total equity</td>\n<td class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">120</td>\n<td class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">100</td>\n<td class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">250</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>Debt/capital for Mojofon for the current year is <em>closest</em> to:</p>\n</div>\n</div></div>",
+      "choices": {
+        "A": "37.5%.",
+        "B": "50.0%.",
+        "C": "100.0%."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution The correct answer is B. Debt/capital = Debt / (Debt + Equity) = 100/(100 + 100) = 0.5 or 50% for Mojofon for the current year.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>The correct answer is B.</strong> Debt/capital = Debt / (Debt + Equity)</p>\n<p>= 100/(100 + 100) = 0.5 or 50% for Mojofon for the current year.</p>\n</div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Credit Analysis for Corporate Issuers",
+      "question_number": 8,
+      "question": "<div><div><div>\n<p>The outstanding bonds of Mojofon contain a covenant that requires its EBITDA/Interest coverage ratio to be above 3.0. Based on coverage ratio analysis, Mojofon <em>most likely</em>:</p>\n</div></div></div>",
+      "choices": {
+        "A": "has improved its coverage ratio.",
+        "B": "is in breach of this bond covenant.",
+        "C": "has lower credit risk than its peers."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution The correct answer is B. EBITDA/Interest coverage for Mojofon for the current year = 20/8 = 2.5. The corresponding ratio for the prior year = 27/5 = 5.4. Therefore, Mojofon’s coverage ratio has deteriorated, and the company has breached its coverage ratio covenant (>= 3.0). On the other hand, EBITDA/Interest among its peers = 55/10 = 5.5, which is much better than that of Mojofon. Based on coverage ratio analysis, Mojofon has higher, not lower, credit risk than its peers.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>The correct answer is B.</strong> EBITDA/Interest coverage for Mojofon for the current year = 20/8 = 2.5. The corresponding ratio for the prior year = 27/5 = 5.4. Therefore, Mojofon’s coverage ratio has deteriorated, and the company has breached its coverage ratio covenant (&gt;= 3.0). On the other hand, EBITDA/Interest among its peers = 55/10 = 5.5, which is much better than that of Mojofon. Based on coverage ratio analysis, Mojofon has higher, not lower, credit risk than its peers.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Credit Analysis for Corporate Issuers",
+      "question_number": 9,
+      "question": "<div><div><div>\n<p>Based on the financial information, Mojofon’s credit risk is:</p>\n</div></div></div>",
+      "choices": {
+        "A": "below that of its peers.",
+        "B": "similar to that of its peers.",
+        "C": "above that of its peers."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution The correct answer is C. Despite the better profit measure, EBITDA margin, versus its peers, Mojofon’s cash flow measures, leverage, and coverage ratios are all considerably worse than its peers. Therefore, it has higher credit risk.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>The correct answer is C.</strong> Despite the better profit measure, EBITDA margin, versus its peers, Mojofon’s cash flow measures, leverage, and coverage ratios are all considerably worse than its peers. Therefore, it has higher credit risk.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Credit Analysis for Corporate Issuers",
+      "question_number": 10,
+      "question": "<div><div><div>\n<p>Mojofon’s capital structure consists of the following:</p>\n<div>\n<table>\n<thead>\n<tr>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: bottom;\"><strong>Type</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\"><strong>Amount</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">Senior secured bonds<br/>\n\t\t\t\t\t\t(pledged by collateral valued at 60)</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">50</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">Senior unsecured bonds</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">35</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">Subordinated bonds</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">15</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">Common equity</td>\n<td class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">100</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>Mojofon’s bonds all contain a cross-default provision. If the company is to default on one of its senior unsecured bonds:</p>\n</div>\n</div></div>",
+      "choices": {
+        "A": "the secured bonds are likely to have full recovery.",
+        "B": "the credit loss on senior unsecured bonds will be the same as that on subordinated bonds.",
+        "C": "the subordinated bonds will rank below shareholders, who may dictate how recovery is to be distributed."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution The correct answer is A. Senior secured bonds rank the highest in the priority of claims, and their recovery depends on the value of the asset collateral. Since the value of asset collateral (60) exceeds the amount of secured bonds outstanding (50), the secured bonds are likely to have full recovery in an event of default. Senior unsecured bonds have higher priority over subordinated bonds, which in turn have higher priority over common equity in insolvency.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>The correct answer is A.</strong> Senior secured bonds rank the highest in the priority of claims, and their recovery depends on the value of the asset collateral. Since the value of asset collateral (60) exceeds the amount of secured bonds outstanding (50), the secured bonds are likely to have full recovery in an event of default. Senior unsecured bonds have higher priority over subordinated bonds, which in turn have higher priority over common equity in insolvency.</p>\n</div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Credit Analysis for Corporate Issuers",
+      "question_number": 11,
+      "question": "<div><div><div>\n<p>Half of Mojofon’s senior unsecured bonds are issued by its major operating subsidiary, which contributes over 90% of the group’s cash flow and assets, and the remainder of the group’s senior unsecured bonds are issued by the holding company that relies on dividend upstreamed by its subsidiaries. There is no cross-guarantee between the holding company and the subsidiary. In an event of default, it is <em>most likely</em> that:</p>\n</div></div></div>",
+      "choices": {
+        "A": "the unsecured bonds issued by the holding company will have a higher recovery rate.",
+        "B": "the unsecured bonds issued by the operating subsidiary will have a higher recovery rate.",
+        "C": "the recovery rate will be the same for all senior unsecured bonds since they rank pari passu with each other."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution The correct answer is B. Senior unsecured bonds issued by the holding company are said to be structurally subordinated to those issued by the major operating subsidiary. Debt at the operating subsidiary will be serviced by the cash flow and assets of the subsidiary first before any funds can be upstreamed to the holding company to service debt at that level. Since the operating subsidiary accounts for over 90% of the group’s cash flow and assets but only half of the group’s senior unsecured debt, the holding company debt can only be serviced after the operating subsidiary debt is paid in full. The unsecured bonds issued by the subsidiary will most likely have higher recovery.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>The correct answer is B.</strong> Senior unsecured bonds issued by the holding company are said to be structurally subordinated to those issued by the major operating subsidiary. Debt at the operating subsidiary will be serviced by the cash flow and assets of the subsidiary first before any funds can be upstreamed to the holding company to service debt at that level.</p>\n<p>Since the operating subsidiary accounts for over 90% of the group’s cash flow and assets but only half of the group’s senior unsecured debt, the holding company debt can only be serviced after the operating subsidiary debt is paid in full. The unsecured bonds issued by the subsidiary will most likely have higher recovery.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Credit Analysis for Corporate Issuers",
+      "question_number": 12,
+      "question": "<div><div><div>\n<p>Mojofon’s S&amp;P issuer credit rating is B+. Its S&amp;P subordinated bond issue rating is <em>most likely</em>:</p>\n</div></div></div>",
+      "choices": {
+        "A": "BB –.",
+        "B": "B+.",
+        "C": "B –."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution The correct answer is C. An issuer credit rating is the rating applied to a company’s senior unsecured debt. The rating agency will usually apply a notching adjustment to the lower-ranked subordinated debt, whose rating should therefore be lower than that of the senior unsecured debt.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>The correct answer is C.</strong> An issuer credit rating is the rating applied to a company’s senior unsecured debt. The rating agency will usually apply a notching adjustment to the lower-ranked subordinated debt, whose rating should therefore be lower than that of the senior unsecured debt.</p></div>",
+      "category": "Fixed Income"
+    }
+  ]
+}

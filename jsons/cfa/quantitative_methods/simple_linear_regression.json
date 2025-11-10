@@ -1,0 +1,549 @@
+{
+  "category": "Quantitative Methods",
+  "topic": "Simple Linear Regression",
+  "total_questions": 39,
+  "questions": [
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 1,
+      "question": "<div><div><p>With respect to simple linear regression, a residual is <em>best</em> described as the difference between the observed value of a dependent variable and:</p>\n<ol>\n<li>its mean.</li>\n<li>its estimated value using a fitted regression line based on the sample.</li>\n<li>its expected value based on the true underlying population relationship.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect because we look at the sum of squared deviations of the observations from the mean to capture [the variation of the dependent variable]. Our goal is to understand what explains the variation of Y. The variation of Y is often referred to as the sum of squares total (SST), or the total sum of squares. Therefore, the difference between an observation and the mean of the dependent variable is not the observation's residual. Correct because the residual for the i th observation, e i , is how much the observed value of Y i differs from the estimated [value] using the regression line. Further, the residual refers to the fitted linear relation based on the sample. Incorrect because the error term refers to the true underlying population relationship, whereas the residual refers to the fitted linear relation based on the sample. Further, the error term, or simply the error, represents the difference between the observed value of Y and that expected from the true underlying population relation between Y and X . Simple Linear Regression describe a simple linear regression model, how the least squares criterion is used to estimate regression coefficients, and the interpretation of these coefficients",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because we look at the sum of squared deviations of the observations from the mean to capture [the variation of the dependent variable]. Our goal is to understand what explains the variation of <em>Y.</em> The variation of <em>Y</em> is often referred to as the<strong> </strong>sum of squares total (SST), or the total sum of squares. Therefore, the difference between an observation and the mean of the dependent variable is not the observation's residual.</p>\n</li>\n<li>\n<p><strong>Correct</strong> because the residual for the <em>i</em><sup>th</sup> observation, <em>e</em><sub>i</sub>, is how much the observed value of <em>Y</em><sub>i</sub> differs from the estimated [value] using the regression line. Further, the residual refers to the fitted linear relation based on the sample.</p>\n</li>\n<li>\n<p>Incorrect because the error term refers to the true underlying population relationship, whereas the residual refers to the fitted linear relation based on the sample. Further, the error term, or simply the error, represents the difference between the observed value of <em>Y</em> and that expected from the true underlying population relation between <em>Y</em> and<em> X</em>.</p>\n</li>\n</ol>\n<h4>Simple Linear Regression</h4>\n<ul>\n<li>describe a simple linear regression model, how the least squares criterion is used to estimate regression coefficients, and the interpretation of these coefficients</li>\n</ul>\n</div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 2,
+      "question": "<div><div><div>\n<p>The predicted value of the company’s ROE if its GO is 10 percent is closest to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "1.8 percent.",
+        "B": "15.8 percent.",
+        "C": "22.0 percent."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. The predicted value of ROE = 4 + (1.8 × 10) = 22.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> The predicted value of ROE = 4 + (1.8 × 10) = 22.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 3,
+      "question": "<div><div><div>\n<p>The change in ROE for a change in GO from 5 percent to 6 percent is closest to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "1.8 percent.",
+        "B": "4.0 percent.",
+        "C": "5.8 percent."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The slope coefficient of 1.8 is the expected change in the dependent variable ( ROE ) for a one-unit change in the independent variable ( GO ).",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The slope coefficient of 1.8 is the expected change in the dependent variable (<em>ROE</em>) for a one-unit change in the independent variable (<em>GO</em>).</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 4,
+      "question": "<div><div><div>\n<p>The residual in the case of a <em>GO</em> of 8 percent and an observed <em>ROE</em> of 21 percent is closest to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "−1.8 percent.",
+        "B": "2.6 percent.",
+        "C": "12.0 percent."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The predicted value is ROE = 4 + (1.8 × 8) = 18.4. The observed value of ROE is 21, so the residual is 2.6 = 21.0 − 18.4.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The predicted value is <em>ROE</em> = 4 + (1.8 × 8) = 18.4. The observed value of <em>ROE</em> is 21, so the residual is 2.6 = 21.0 − 18.4.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 5,
+      "question": "<div><div><div>\n<p>Homoskedasticity is best described as the situation in which the variance of the residuals of a regression is:</p>\n</div></div></div>",
+      "choices": {
+        "A": "zero.",
+        "B": "normally distributed.",
+        "C": "constant across observations."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Homoskedasticity is the situation in which the variance of the residuals is constant across the observations.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Homoskedasticity is the situation in which the variance of the residuals is constant across the observations.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 6,
+      "question": "<div><div><div>\n<p>The variable SHIFT is best described as:</p>\n</div></div></div>",
+      "choices": {
+        "A": "an indicator variable.",
+        "B": "a dependent variable.",
+        "C": "a continuous variable."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. SHIFT is an indicator or dummy variable because it takes on only the values 0 and 1.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> SHIFT is an indicator or dummy variable because it takes on only the values 0 and 1.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 7,
+      "question": "<div><div><div>\n<p>The interpretation of the intercept is the mean of the annual growth rate of the money supply:</p>\n</div></div></div>",
+      "choices": {
+        "A": "before the shift in policy.",
+        "B": "over the entire period.",
+        "C": "after the shift in policy."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. In a simple regression with a single indicator variable, the intercept is the mean of the dependent variable when the indicator variable takes on a value of zero, which is before the shift in policy in this case.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> In a simple regression with a single indicator variable, the intercept is the mean of the dependent variable when the indicator variable takes on a value of zero, which is before the shift in policy in this case.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 8,
+      "question": "<div><div><div>\n<p>The interpretation of the slope is the:</p>\n</div></div></div>",
+      "choices": {
+        "A": "change in the annual growth rate of the money supply per year.",
+        "B": "average annual growth rate of the money supply after the shift in policy.",
+        "C": "difference in the average annual growth rate of the money supply from before to after the shift in policy."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Whereas the intercept is the average of the dependent variable when the indicator variable is zero (i.e., before the shift in policy), the slope is the difference in the mean of the dependent variable from before to after the change in policy.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Whereas the intercept is the average of the dependent variable when the indicator variable is zero (i.e., before the shift in policy), the slope is the difference in the mean of the dependent variable from before to after the change in policy.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 9,
+      "question": "<div><div><div>\n<p>Testing whether there is a change in the money supply growth after the shift in policy, using a 0.05 level of significance, we conclude that there is:</p>\n</div></div></div>",
+      "choices": {
+        "A": "sufficient evidence that the money supply growth changed.",
+        "B": "not enough evidence that the money supply growth is different from zero.",
+        "C": "not enough evidence to indicate that the money supply growth changed."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The null hypothesis of no difference in the annual growth rate is rejected at the 0.05 level: The calculated test statistic of −8.16188 is outside the bounds of ±2.048.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The null hypothesis of no difference in the annual growth rate is rejected at the 0.05 level: The calculated test statistic of −8.16188 is outside the bounds of ±2.048.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 10,
+      "question": "<div><div><div>\n<p>The coefficient of determination is <em>closest</em> to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "0.7436.",
+        "B": "0.8261.",
+        "C": "0.8623."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The coefficient of determination is the same as R 2 , which is 0.7436 in the table.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The coefficient of determination is the same as <em>R</em><sup>2</sup>, which is 0.7436 in the table.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 11,
+      "question": "<div><div><div>\n<p>The correlation between <em>X</em> and <em>Y</em> is <em>closest</em> to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "−0.7436.",
+        "B": "0.7436.",
+        "C": "0.8623."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Because the slope is positive, the correlation between X and Y is simply the square root of the coefficient of determination: 0.7436 ‾ ‾ ‾ ‾ ‾ ‾ √ = 0.8623. 0.7436 = 0.8623.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Because the slope is positive, the correlation between <em>X</em> and <em>Y</em> is simply the square root of the coefficient of determination: <span><span></span><span><nobr><span><span><span><span><span><span><span><span><span><span><span>0.7436</span></span></span><span></span></span><span><span><span>‾<span></span></span><span>‾<span></span></span><span>‾<span></span></span><span>‾<span></span></span><span>‾<span></span></span><span>‾<span></span></span></span><span></span></span><span><span>√</span><span></span></span></span></span><span>=</span><span> </span><span>0.8623.</span></span></span><span></span></span></span><span></span></span></nobr><span><math><mrow><msqrt><mrow><mn>0.7436</mn></mrow></msqrt><mo>=</mo><mo> </mo><mn>0.8623.</mn></mrow></math></span></span><script><math id=\"m50\"><mrow><msqrt><mrow><mn>0.7436</mn></mrow></msqrt><mo>=</mo><mo>&nbsp;</mo><mn>0.8623.</mn></mrow></math></script></span></p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 12,
+      "question": "<div><div><div>\n<p>If the ratio of net income to sales for a restaurant is 5 percent, the predicted ratio of cash flow from operations (CFO) to sales is <em>closest</em> to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "−4.054.",
+        "B": "0.524.",
+        "C": "4.207."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. To make a prediction using the regression model, multiply the slope coefficient by the forecast of the independent variable and add the result to the intercept. Expected value of CFO to sales = 0.077 + (0.826 × 5) = 4.207.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> To make a prediction using the regression model, multiply the slope coefficient by the forecast of the independent variable and add the result to the intercept. Expected value of CFO to sales = 0.077 + (0.826 × 5) = 4.207.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 13,
+      "question": "<div><div><div>\n<p>Is the relationship between the ratio of cash flow to operations and the ratio of net income to sales significant at the 0.05 level?</p>\n</div></div></div>",
+      "choices": {
+        "A": "No, because the R 2 is greater than 0.05",
+        "B": "No, because the p -values of the intercept and slope are less than 0.05",
+        "C": "Yes, because the p -values for F and t for the slope coefficient are less than 0.05"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. The p -value is the smallest level of significance at which the null hypotheses concerning the slope coefficient can be rejected. In this case, the p -value is less than 0.05, and thus the regression of the ratio of cash flow from operations to sales on the ratio of net income to sales is significant at the 5 percent level.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> The <em>p</em>-value is the smallest level of significance at which the null hypotheses concerning the slope coefficient can be rejected. In this case, the <em>p</em>-value is less than 0.05, and thus the regression of the ratio of cash flow from operations to sales on the ratio of net income to sales is significant at the 5 percent level.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 14,
+      "question": "<div><div><div>\n<p>Which of the following best describes Batten’s regression?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Time-series regression",
+        "B": "Cross-sectional regression",
+        "C": "Time-series and cross-sectional regression"
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The data are observations over time.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The data are observations over time.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 15,
+      "question": "<div><div><div>\n<p>Based on the regression, if the CPIENG <em>decreases</em> by 1.0 percent, the expected return on Stellar common stock during the next period is <em>closest</em> to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "0.0073 (0.73 percent).",
+        "B": "0.0138 (1.38 percent).",
+        "C": "0.0203 (2.03 percent)."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. From the regression equation, Expected return = 0.0138 + (−0.6486 × −0.01) = 0.0138 + 0.006486 = 0.0203, or 2.03 percent.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> From the regression equation, Expected return = 0.0138 + (−0.6486 × −0.01) = 0.0138 + 0.006486 = 0.0203, or 2.03 percent.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 16,
+      "question": "<div><div><div>\n<p>Based on Batten’s regression model, the coefficient of determination indicates that:</p>\n</div></div></div>",
+      "choices": {
+        "A": "Stellar’s returns explain 2.11 percent of the variability in CPIENG.",
+        "B": "Stellar’s returns explain 14.52 percent of the variability in CPIENG.",
+        "C": "changes in CPIENG explain 2.11 percent of the variability in Stellar’s returns."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. R 2 is the coefficient of determination. In this case, it shows that 2.11% of the variability in Stellar’s returns is explained by changes in CPIENG.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> <em>R</em><sup>2</sup> is the coefficient of determination. In this case, it shows that 2.11% of the variability in Stellar’s returns is explained by changes in CPIENG.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 17,
+      "question": "<div><div><div>\n<p>For Batten’s regression model, 0.0710 is the standard deviation of:</p>\n</div></div></div>",
+      "choices": {
+        "A": "the dependent variable.",
+        "B": "the residuals from the regression.",
+        "C": "the predicted dependent variable from the regression."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The standard error of the estimate is the standard deviation of the regression residuals.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The standard error of the estimate is the standard deviation of the regression residuals.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 18,
+      "question": "<div><div><div>\n<p>For the analysis run by Batten, which of the following is an <em>incorrect</em> conclusion from the regression output?</p>\n</div></div></div>",
+      "choices": {
+        "A": "The estimated intercept from Batten’s regression is statistically different from zero at the 0.05 level of significance.",
+        "B": "In the month after the CPIENG declines, Stellar’s common stock is expected to exhibit a positive return.",
+        "C": "Viewed in combination, the slope and intercept coefficients from Batten’s regression are not statistically different from zero at the 0.05 level of significance."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is the correct response because it is a false statement. The slope and intercept are both statistically different from zero at the 0.05 level of significance.",
+      "solution_html": "<div><h4>Solution</h4>\n<p>C is the correct response because it is a false statement. The slope and intercept are both statistically different from zero at the 0.05 level of significance.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 19,
+      "question": "<div><div><div>\n<p>Based on <a href=\"#\">Exhibit 1</a> and <a href=\"#\">Exhibit 2</a>, if Liu were to graph the 50 observations, the scatter plot summarizing this relation would be <em>best</em> described as:</p>\n</div></div></div>",
+      "choices": {
+        "A": "horizontal.",
+        "B": "upward sloping.",
+        "C": "downward sloping."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. The slope coefficient (shown in Exhibit 2 ) is negative.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> The slope coefficient (shown in <a href=\"#\">Exhibit 2</a>) is negative.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 20,
+      "question": "<div><div><div>\n<p>Based on <a href=\"#\">Exhibit 1</a>, the sample covariance is <em>closest to</em>:</p>\n</div></div></div>",
+      "choices": {
+        "A": "−9.2430.",
+        "B": "−0.1886.",
+        "C": "8.4123."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The sample covariance is calculated as follows: ∑ 𝑛 𝑖 = 1 ( 𝑋 𝑖 − 𝑋 ⎯ ⎯ ⎯ ) ( 𝑌 𝑖 − 𝑌 ⎯ ⎯ ⎯ ) 𝑛 − 1 = − 9.2430 ÷ 49 = − 0.1886 ∑ i = 1 n X i − X ¯ Y i − Y ¯ n − 1 = − 9.2430 ÷ 49 = − 0.1886 .",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The sample covariance is calculated as follows:</p>\n<p><span><span></span><span><nobr><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>∑</span></span></span><span></span></span><span><span>𝑛</span><span></span></span><span><span><span>𝑖</span><span>=</span><span>1</span></span><span></span></span></span></span><span><span><span>(</span></span><span><span><span><span><span>𝑋<span></span></span><span></span></span><span><span>𝑖</span><span></span></span></span></span><span>−</span><span><span><span><span>𝑋<span></span></span><span></span></span><span><span><span><span>⎯<span></span></span><span>⎯<span></span></span><span>⎯<span></span></span></span></span><span></span></span></span></span></span><span><span>)</span></span></span><span><span><span>(</span></span><span><span><span><span><span>𝑌<span></span></span><span></span></span><span><span>𝑖</span><span></span></span></span></span><span>−</span><span><span><span><span>𝑌<span></span></span><span></span></span><span><span><span><span>⎯<span></span></span><span>⎯<span></span></span><span>⎯<span></span></span></span></span><span></span></span></span></span></span><span><span>)</span></span></span></span><span></span></span><span><span><span>𝑛</span><span>−</span><span>1</span></span><span></span></span><span><span></span><span></span></span></span></span></span></span><span>=</span><span>−</span><span>9.2430</span><span>÷</span><span>49</span><span>=</span><span>−</span><span>0.1886</span></span></span><span></span></span></span><span></span></span></nobr><span><math><mrow><mstyle><mfrac><mrow><msubsup><mstyle><mo>∑</mo></mstyle><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></msubsup><mfenced><mrow><msub><mi>X</mi><mi>i</mi></msub><mo>−</mo><mover><mi>X</mi><mo>¯</mo></mover></mrow></mfenced><mfenced><mrow><msub><mi>Y</mi><mi>i</mi></msub><mo>−</mo><mover><mi>Y</mi><mo>¯</mo></mover></mrow></mfenced></mrow><mrow><mi>n</mi><mo>−</mo><mn>1</mn></mrow></mfrac></mstyle><mo>=</mo><mo>−</mo><mn>9.2430</mn><mo>÷</mo><mn>49</mn><mo>=</mo><mo>−</mo><mn>0.1886</mn></mrow></math></span></span><script><math id=\"m54\"><mrow><mstyle displaystyle=\"true\"><mfrac><mrow><msubsup><mstyle displaystyle=\"true\" mathsize=\"140%\"><mo>∑</mo></mstyle><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></msubsup><mfenced><mrow><msub><mi>X</mi><mi>i</mi></msub><mo>−</mo><mover><mi>X</mi><mo>¯</mo></mover></mrow></mfenced><mfenced><mrow><msub><mi>Y</mi><mi>i</mi></msub><mo>−</mo><mover><mi>Y</mi><mo>¯</mo></mover></mrow></mfenced></mrow><mrow><mi>n</mi><mo>−</mo><mn>1</mn></mrow></mfrac></mstyle><mo>=</mo><mo>−</mo><mn>9.2430</mn><mo>÷</mo><mn>49</mn><mo>=</mo><mo>−</mo><mn>0.1886</mn></mrow></math></script></span>.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 21,
+      "question": "<div><div><div>\n<p>Based on <a href=\"#\">Exhibit 1</a> and <a href=\"#\">Exhibit 2</a>, the correlation between the debt ratio and the short interest ratio is <em>closest to</em>:</p>\n</div></div></div>",
+      "choices": {
+        "A": "−0.3054.",
+        "B": "0.0933.",
+        "C": "0.3054."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. In simple regression, the R 2 is the square of the pairwise correlation. Because the slope coefficient is negative, the correlation is the negative of the square root of 0.0933, or −0.3055.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> In simple regression, the <em>R</em><sup>2</sup> is the square of the pairwise correlation. Because the slope coefficient is negative, the correlation is the negative of the square root of 0.0933, or −0.3055.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 22,
+      "question": "<div><div><div>\n<p>Which of the interpretations <em>best</em> describes Liu’s findings?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Interpretation 1",
+        "B": "Interpretation 2",
+        "C": "Interpretation 3"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Conclusions cannot be drawn regarding causation; they can be drawn only about association; therefore, Interpretations 1 and 2 are incorrect.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Conclusions cannot be drawn regarding causation; they can be drawn only about association; therefore, Interpretations 1 and 2 are incorrect.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 23,
+      "question": "<div><div><div>\n<p>The dependent variable in Liu’s regression analysis is the:</p>\n</div></div></div>",
+      "choices": {
+        "A": "intercept.",
+        "B": "debt ratio.",
+        "C": "short interest ratio."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Liu explains the variation of the short interest ratio using the variation of the debt ratio.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Liu explains the variation of the short interest ratio using the variation of the debt ratio.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 24,
+      "question": "<div><div><div>\n<p>Based on <a href=\"#\">Exhibit 2</a>, the number of degrees of freedom for the <em>t</em>-test of the slope coefficient in this regression is:</p>\n</div></div></div>",
+      "choices": {
+        "A": "48.",
+        "B": "49.",
+        "C": "50."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The degrees of freedom are the number of observations minus the number of parameters estimated, which equals 2 in this case (the intercept and the slope coefficient). The number of degrees of freedom is 50 − 2 = 48.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The degrees of freedom are the number of observations minus the number of parameters estimated, which equals 2 in this case (the intercept and the slope coefficient). The number of degrees of freedom is 50 − 2 = 48.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 25,
+      "question": "<div><div><div>\n<p>Which of the following should Liu conclude from the results shown in <a href=\"#\">Exhibit 2</a>?</p>\n</div></div></div>",
+      "choices": {
+        "A": "The average short interest ratio is 5.4975.",
+        "B": "The estimated slope coefficient is different from zero at the 0.05 level of significance.",
+        "C": "The debt ratio explains 30.54 percent of the variation in the short interest ratio."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The t -statistic is −2.2219, which is outside the bounds created by the critical t -values of ±2.011 for a two-tailed test with a 5 percent significance level. The value of 2.011 is the critical t -value for the 5 percent level of significance (2.5 percent in one tail) for 48 degrees of freedom. A is incorrect because the mean of the short interest ratio is 192.3 ÷ 50 = 3.846. C is incorrect because the debt ratio explains 9.33 percent of the variation of the short interest ratio.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The <em>t</em>-statistic is −2.2219, which is outside the bounds created by the critical <em>t</em>-values of ±2.011 for a two-tailed test with a 5 percent significance level. The value of 2.011 is the critical <em>t</em>-value for the 5 percent level of significance (2.5 percent in one tail) for 48 degrees of freedom. A is incorrect because the mean of the short interest ratio is 192.3 ÷ 50 = 3.846. C is incorrect because the debt ratio explains 9.33 percent of the variation of the short interest ratio.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 26,
+      "question": "<div><div><div>\n<p>Based on <a href=\"#\">Exhibit 2</a>, the short interest ratio expected for MQD Corporation is <em>closest</em> to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "3.8339.",
+        "B": "5.4975.",
+        "C": "6.2462."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The predicted value of the short interest ratio = 5.4975 + (−4.1589 × 0.40) = 5.4975 − 1.6636 = 3.8339.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The predicted value of the short interest ratio = 5.4975 + (−4.1589 × 0.40) = 5.4975 − 1.6636 = 3.8339.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 27,
+      "question": "<div><div><div>\n<p>Based on Liu’s regression results in <a href=\"#\">Exhibit 2</a>, the <em>F</em>-statistic for testing whether the slope coefficient is equal to zero is <em>closest</em> to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "−2.2219.",
+        "B": "3.5036.",
+        "C": "4.9367."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. The calculation is 𝐹 = Mean square regression Mean square error = 38.4404 7.7867 = 4.9367 F = Mean square regression Mean square error = 38.4404 7.7867 = 4.9367 .",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> The calculation is <span><span></span><span><nobr><span><span><span><span><span><span>𝐹<span></span></span><span>=</span><span><span><span><span><span><span><span>Mean square regression</span></span><span></span></span><span><span><span>Mean square error</span></span><span></span></span><span><span></span><span></span></span></span></span></span></span><span>=</span><span><span><span><span><span><span><span>38.4404</span></span><span></span></span><span><span><span>7.7867</span></span><span></span></span><span><span></span><span></span></span></span></span></span></span><span>=</span><span>4.9367</span></span></span><span></span></span></span><span></span></span></nobr><span><math><mrow><mi>F</mi><mo>=</mo><mstyle><mfrac><mrow><mtext>Mean square regression</mtext></mrow><mrow><mtext>Mean square error</mtext></mrow></mfrac></mstyle><mo>=</mo><mstyle><mfrac><mrow><mn>38.4404</mn></mrow><mrow><mn>7.7867</mn></mrow></mfrac></mstyle><mo>=</mo><mn>4.9367</mn></mrow></math></span></span><script><math id=\"m55\"><mrow><mi>F</mi><mo>=</mo><mstyle displaystyle=\"true\"><mfrac><mrow><mtext>Mean&nbsp;square&nbsp;regression</mtext></mrow><mrow><mtext>Mean&nbsp;square&nbsp;error</mtext></mrow></mfrac></mstyle><mo>=</mo><mstyle displaystyle=\"true\"><mfrac><mrow><mn>38.4404</mn></mrow><mrow><mn>7.7867</mn></mrow></mfrac></mstyle><mo>=</mo><mn>4.9367</mn></mrow></math></script></span>.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 28,
+      "question": "<div><div><div>\n<p>Based on <a href=\"#\">Exhibit 1</a>, Olabudo should: </p>\n</div></div></div>",
+      "choices": {
+        "A": "conclude that the inflation predictions are unbiased.",
+        "B": "reject the null hypothesis that the slope coefficient equals one.",
+        "C": "reject the null hypothesis that the intercept coefficient equals zero."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. We fail to reject the null hypothesis of a slope equal to one, and we fail to reject the null hypothesis of an intercept equal to zero. The test of the slope equal to 1.0 is 𝑡 = 0.9830 − 1.000 0.0155 = − 1.09677 t = 0.9830 − 1.000 0.0155 = − 1.09677 . The test of the intercept equal to 0.0 is 𝑡 = 0.0001 − 0.0000 .00002 = 0.5000 t = 0.0001 − 0.0000 .00002 = 0.5000 . Therefore, we conclude that the forecasts are unbiased.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> We fail to reject the null hypothesis of a slope equal to one, and we fail to reject the null hypothesis of an intercept equal to zero. The test of the slope equal to 1.0 is </p>\n<span><span></span><span><nobr><span><span><span><span><span><span><span>𝑡</span><span>=</span><span><span><span><span><span><span><span>0.9830</span><span>−</span><span>1.000</span></span><span></span></span><span><span><span>0.0155</span></span><span></span></span><span><span></span><span></span></span></span></span></span></span><span>=</span><span>−</span><span>1.09677</span></span></span></span><span></span></span></span><span></span></span></nobr><span><math><semantics><mrow><mi>t</mi><mo>=</mo><mstyle><mfrac><mrow><mn>0.9830</mn><mo>−</mo><mn>1.000</mn></mrow><mrow><mn>0.0155</mn></mrow></mfrac></mstyle><mo>=</mo><mo>−</mo><mn>1.09677</mn></mrow></semantics></math></span></span><script><math><semantics><mrow><mi>t</mi><mo>=</mo><mstyle displaystyle=\"true\"><mfrac><mrow><mn>0.9830</mn><mo>−</mo><mn>1.000</mn></mrow><mrow><mn>0.0155</mn></mrow></mfrac></mstyle><mo>=</mo><mo>−</mo><mn>1.09677</mn></mrow></semantics></math></script>. </span><p>The test of the intercept equal to 0.0 is </p>\n<span><span></span><span><nobr><span><span><span><span><span><span><span>𝑡</span><span>=</span><span><span><span><span><span><span><span>0.0001</span><span>−</span><span>0.0000</span></span><span></span></span><span><span><span>.00002</span></span><span></span></span><span><span></span><span></span></span></span></span></span></span><span>=</span><span>0.5000</span></span></span></span><span></span></span></span><span></span></span></nobr><span><math><semantics><mrow><mi>t</mi><mo>=</mo><mstyle><mfrac><mrow><mn>0.0001</mn><mo>−</mo><mn>0.0000</mn></mrow><mrow><mn>.00002</mn></mrow></mfrac></mstyle><mo>=</mo><mn>0.5000</mn></mrow></semantics></math></span></span><script><math><semantics><mrow><mi>t</mi><mo>=</mo><mstyle displaystyle=\"true\"><mfrac><mrow><mn>0.0001</mn><mo>−</mo><mn>0.0000</mn></mrow><mrow><mn>.00002</mn></mrow></mfrac></mstyle><mo>=</mo><mn>0.5000</mn></mrow></semantics></math></script>. </span><p>Therefore, we conclude that the forecasts are unbiased.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 29,
+      "question": "<div><div><div>\n<p>Based on <a href=\"#\">Exhibit 1</a>, Olabudo should calculate a prediction interval for the actual US CPI <em>closest</em> to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "2.7506 to 2.7544.",
+        "B": "2.7521 to 2.7529.",
+        "C": "2.7981 to 2.8019."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The forecast interval for inflation is calculated in three steps: Step 1. Make the prediction given the US CPI forecast of 2.8: 𝑌 ⌢ = 𝑏 0 ˆ + 𝑏 1 ˆ 𝑋 = 0.0001 + ( 0.9830 × 2.8 ) = 2.7525. Y ⌢ = b 0 ^ + b 1 ^ X = 0.0001 + 0.9830 × 2.8 = 2.7525. . Step 2. Compute the variance of the prediction error: 𝑠 2 𝑓 = 𝑠 2 𝑒 { 1 + ( 1 / 𝑛 ) + [ ( 𝑋 𝑓 − 𝑋 ⎯ ⎯ ⎯ ) 2 ] / [ ( 𝑛 − 1 ) × 𝑠 2 𝑥 ] } . 𝑠 2 𝑓 = 0.0009 2 { 1 + ( 1 / 60 ) + [ ( 2.8 − 1.3350 ) 2 ] / [ ( 60 − 1 ) × 0.7539 2 ] } . 𝑠 2 𝑓 = 0.00000088. 𝑠 𝑓 = 0.0009. s f 2 = s e 2 1 + 1 / n + X f − X ¯ 2 / n − 1 × s x 2 . s f 2 = 0.0009 2 1 + 1 / 60 + 2.8 − 1.3350 2 / 60 − 1 × 0.7539 2 . s f 2 = 0.00000088. s f = 0.0009. Step 3. Compute the prediction interval: 𝑌 ˆ ± 𝑡 𝑐 × 𝑠 𝑓 Y ^ ± t c × s f . 2.7525 ± (2.0 × 0.0009) Lower bound: 2.7525 − (2.0 × 0.0009) = 2.7506. Upper bound: 2.7525 + (2.0 × 0.0009) = 2.7544. Given the US CPI forecast of 2.8, the 95 percent prediction interval is 2.7506 to 2.7544.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The forecast interval for inflation is calculated in three steps:</p>\n<p>Step 1. Make the prediction given the US CPI forecast of 2.8:</p>\n<span><span></span><span><nobr><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>𝑌<span></span></span><span></span></span><span><span>⌢</span><span></span></span></span></span><span>=</span><span><span><span><span><span><span><span><span>𝑏</span><span></span></span><span><span>0</span><span></span></span></span></span></span><span></span></span><span><span><span>ˆ</span></span><span></span></span></span></span><span>+</span><span><span><span><span><span><span><span><span>𝑏</span><span></span></span><span><span>1</span><span></span></span></span></span></span><span></span></span><span><span><span>ˆ</span></span><span></span></span></span></span><span>𝑋<span></span></span></span></span></span><span></span></span><span><span><span><span><span>=</span><span>0.0001</span><span>+</span><span><span><span>(</span></span><span><span>0.9830</span><span>×</span><span>2.8</span></span><span><span>)</span></span></span></span></span></span><span></span></span><span><span><span><span><span>=</span><span>2.7525.</span></span></span></span><span></span></span></span><span></span></span></span></span></span></span></span><span></span></span></span><span></span></span></nobr><span><math><semantics><mrow><mtable><mtr><mtd><mrow><mover><mi>Y</mi><mo>⌢</mo></mover><mo>=</mo><mover><mrow><msub><mi>b</mi><mn>0</mn></msub></mrow><mo>^</mo></mover><mo>+</mo><mover><mrow><msub><mi>b</mi><mn>1</mn></msub></mrow><mo>^</mo></mover><mi>X</mi></mrow></mtd></mtr><mtr><mtd><mrow><mo>=</mo><mn>0.0001</mn><mo>+</mo><mfenced><mrow><mn>0.9830</mn><mo>×</mo><mn>2.8</mn></mrow></mfenced></mrow></mtd></mtr><mtr><mtd><mrow><mo>=</mo><mn>2.7525.</mn></mrow></mtd></mtr></mtable></mrow></semantics></math></span></span><script><math><semantics><mrow><mtable equalcolumns=\"true\" equalrows=\"true\"><mtr><mtd><mrow><mover><mi>Y</mi><mo>⌢</mo></mover><mo>=</mo><mover><mrow><msub><mi>b</mi><mn>0</mn></msub></mrow><mo stretchy=\"true\">^</mo></mover><mo>+</mo><mover><mrow><msub><mi>b</mi><mn>1</mn></msub></mrow><mo stretchy=\"true\">^</mo></mover><mi>X</mi></mrow></mtd></mtr><mtr><mtd><mrow><mo>=</mo><mn>0.0001</mn><mo>+</mo><mfenced><mrow><mn>0.9830</mn><mo>×</mo><mn>2.8</mn></mrow></mfenced></mrow></mtd></mtr><mtr><mtd><mrow><mo>=</mo><mn>2.7525.</mn></mrow></mtd></mtr></mtable></mrow></semantics></math></script>.</span><p>Step 2. Compute the variance of the prediction error:</p>\n<span><span></span><span><nobr><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>𝑠</span><span></span></span><span><span>2</span><span></span></span><span><span>𝑓<span></span></span><span></span></span></span></span><span>=</span><span><span><span><span>𝑠</span><span></span></span><span><span>2</span><span></span></span><span><span>𝑒</span><span></span></span></span></span><span><span><span>{</span></span><span><span>1</span><span>+</span><span><span><span>(</span></span><span><span>1</span><span>/</span><span>𝑛</span></span><span><span>)</span></span></span><span>+</span><span><span><span>[</span></span><span><span><span><span><span><span><span><span>(</span></span><span><span><span><span><span>𝑋<span></span></span><span></span></span><span><span>𝑓<span></span></span><span></span></span></span></span><span>−</span><span><span><span><span>𝑋<span></span></span><span></span></span><span><span><span><span>⎯<span></span></span><span>⎯<span></span></span><span>⎯<span></span></span></span></span><span></span></span></span></span></span><span><span>)</span></span></span></span><span></span></span><span><span>2</span><span></span></span></span></span></span><span><span>]</span></span></span><span>/</span><span><span><span>[</span></span><span><span><span><span>(</span></span><span><span>𝑛</span><span>−</span><span>1</span></span><span><span>)</span></span></span><span>×</span><span><span><span><span>𝑠</span><span></span></span><span><span>2</span><span></span></span><span><span>𝑥</span><span></span></span></span></span></span><span><span>]</span></span></span></span><span><span>}</span></span></span><span>.</span></span></span></span><span></span></span><span><span><span><span><span><span><span><span>𝑠</span><span></span></span><span><span>2</span><span></span></span><span><span>𝑓<span></span></span><span></span></span></span></span><span>=</span><span><span><span><span><span>0.0009</span></span><span></span></span><span><span>2</span><span></span></span></span></span><span><span><span>{</span></span><span><span>1</span><span>+</span><span><span><span>(</span></span><span><span>1</span><span>/</span><span>60</span></span><span><span>)</span></span></span><span>+</span><span><span><span>[</span></span><span><span><span><span><span><span><span><span>(</span></span><span><span>2.8</span><span>−</span><span>1.3350</span></span><span><span>)</span></span></span></span><span></span></span><span><span>2</span><span></span></span></span></span></span><span><span>]</span></span></span><span>/</span><span><span><span>[</span></span><span><span><span><span>(</span></span><span><span>60</span><span>−</span><span>1</span></span><span><span>)</span></span></span><span>×</span><span><span><span><span><span>0.7539</span></span><span></span></span><span><span>2</span><span></span></span></span></span></span><span><span>]</span></span></span></span><span><span>}</span></span></span><span>.</span></span></span></span><span></span></span><span><span><span><span><span><span><span><span>𝑠</span><span></span></span><span><span>2</span><span></span></span><span><span>𝑓<span></span></span><span></span></span></span></span><span>=</span><span>0.00000088.</span></span></span></span><span></span></span><span><span><span><span><span><span><span><span>𝑠</span><span></span></span><span><span>𝑓<span></span></span><span></span></span></span></span><span>=</span><span>0.0009.</span></span></span></span><span></span></span></span><span></span></span></span></span></span></span></span><span></span></span></span><span></span></span></nobr><span><math><semantics><mrow><mtable><mtr><mtd><mrow><msubsup><mi>s</mi><mi>f</mi><mn>2</mn></msubsup><mo>=</mo><msubsup><mi>s</mi><mi>e</mi><mn>2</mn></msubsup><mfenced><mrow><mn>1</mn><mo>+</mo><mfenced><mrow><mn>1</mn><mo>/</mo><mi>n</mi></mrow></mfenced><mo>+</mo><mfenced><mrow><msup><mrow><mfenced><mrow><msub><mi>X</mi><mi>f</mi></msub><mo>−</mo><mover><mi>X</mi><mo>¯</mo></mover></mrow></mfenced></mrow><mn>2</mn></msup></mrow></mfenced><mo>/</mo><mfenced><mrow><mfenced><mrow><mi>n</mi><mo>−</mo><mn>1</mn></mrow></mfenced><mo>×</mo><msubsup><mi>s</mi><mi>x</mi><mn>2</mn></msubsup></mrow></mfenced></mrow></mfenced><mo>.</mo></mrow></mtd></mtr><mtr><mtd><mrow><msubsup><mi>s</mi><mi>f</mi><mn>2</mn></msubsup><mo>=</mo><msup><mrow><mn>0.0009</mn></mrow><mn>2</mn></msup><mfenced><mrow><mn>1</mn><mo>+</mo><mfenced><mrow><mn>1</mn><mo>/</mo><mn>60</mn></mrow></mfenced><mo>+</mo><mfenced><mrow><msup><mrow><mfenced><mrow><mn>2.8</mn><mo>−</mo><mn>1.3350</mn></mrow></mfenced></mrow><mn>2</mn></msup></mrow></mfenced><mo>/</mo><mfenced><mrow><mfenced><mrow><mn>60</mn><mo>−</mo><mn>1</mn></mrow></mfenced><mo>×</mo><msup><mrow><mn>0.7539</mn></mrow><mn>2</mn></msup></mrow></mfenced></mrow></mfenced><mo>.</mo></mrow></mtd></mtr><mtr><mtd><mrow><msubsup><mi>s</mi><mi>f</mi><mn>2</mn></msubsup><mo>=</mo><mn>0.00000088.</mn></mrow></mtd></mtr><mtr><mtd><mrow><msub><mi>s</mi><mi>f</mi></msub><mo>=</mo><mn>0.0009.</mn></mrow></mtd></mtr></mtable></mrow></semantics></math></span></span><script><math><semantics><mrow><mtable equalcolumns=\"true\" equalrows=\"true\"><mtr><mtd><mrow><msubsup><mi>s</mi><mi>f</mi><mn>2</mn></msubsup><mo>=</mo><msubsup><mi>s</mi><mi>e</mi><mn>2</mn></msubsup><mfenced close=\"}\" open=\"{\"><mrow><mn>1</mn><mo>+</mo><mfenced><mrow><mn>1</mn><mo>/</mo><mi>n</mi></mrow></mfenced><mo>+</mo><mfenced close=\"]\" open=\"[\"><mrow><msup><mrow><mfenced><mrow><msub><mi>X</mi><mi>f</mi></msub><mo>−</mo><mover><mi>X</mi><mo>¯</mo></mover></mrow></mfenced></mrow><mn>2</mn></msup></mrow></mfenced><mo>/</mo><mfenced close=\"]\" open=\"[\"><mrow><mfenced><mrow><mi>n</mi><mo>−</mo><mn>1</mn></mrow></mfenced><mo>×</mo><msubsup><mi>s</mi><mi>x</mi><mn>2</mn></msubsup></mrow></mfenced></mrow></mfenced><mo>.</mo></mrow></mtd></mtr><mtr><mtd><mrow><msubsup><mi>s</mi><mi>f</mi><mn>2</mn></msubsup><mo>=</mo><msup><mrow><mn>0.0009</mn></mrow><mn>2</mn></msup><mfenced close=\"}\" open=\"{\"><mrow><mn>1</mn><mo>+</mo><mfenced><mrow><mn>1</mn><mo>/</mo><mn>60</mn></mrow></mfenced><mo>+</mo><mfenced close=\"]\" open=\"[\"><mrow><msup><mrow><mfenced><mrow><mn>2.8</mn><mo>−</mo><mn>1.3350</mn></mrow></mfenced></mrow><mn>2</mn></msup></mrow></mfenced><mo>/</mo><mfenced close=\"]\" open=\"[\"><mrow><mfenced><mrow><mn>60</mn><mo>−</mo><mn>1</mn></mrow></mfenced><mo>×</mo><msup><mrow><mn>0.7539</mn></mrow><mn>2</mn></msup></mrow></mfenced></mrow></mfenced><mo>.</mo></mrow></mtd></mtr><mtr><mtd><mrow><msubsup><mi>s</mi><mi>f</mi><mn>2</mn></msubsup><mo>=</mo><mn>0.00000088.</mn></mrow></mtd></mtr><mtr><mtd><mrow><msub><mi>s</mi><mi>f</mi></msub><mo>=</mo><mn>0.0009.</mn></mrow></mtd></mtr></mtable></mrow></semantics></math></script></span><p>Step 3. Compute the prediction interval:</p>\n<span><span></span><span><nobr><span><span><span><span><span><span><span><span><span><span>𝑌<span></span></span><span></span></span><span><span><span>ˆ</span></span><span></span></span></span></span><span>±</span><span><span><span><span>𝑡</span><span></span></span><span><span>𝑐</span><span></span></span></span></span><span>×</span><span><span><span><span>𝑠</span><span></span></span><span><span>𝑓<span></span></span><span></span></span></span></span></span></span></span><span></span></span></span><span></span></span></nobr><span><math><semantics><mrow><mover><mi>Y</mi><mo>^</mo></mover><mo>±</mo><msub><mi>t</mi><mi>c</mi></msub><mo>×</mo><msub><mi>s</mi><mi>f</mi></msub></mrow></semantics></math></span></span><script><math><semantics><mrow><mover><mi>Y</mi><mo>^</mo></mover><mo>±</mo><msub><mi>t</mi><mi>c</mi></msub><mo>×</mo><msub><mi>s</mi><mi>f</mi></msub></mrow></semantics></math></script>.</span><span>2.7525 ± (2.0 × 0.0009)</span><span>Lower bound: 2.7525 − (2.0 × 0.0009) = 2.7506.</span><span>Upper bound: 2.7525 + (2.0 × 0.0009) = 2.7544.</span><p>Given the US CPI forecast of 2.8, the 95 percent prediction interval is 2.7506 to 2.7544.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 30,
+      "question": "<div><div><div>\n<p>Which of Olabudo’s observations of forecasting is correct?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Only Observation 1",
+        "B": "Only Observation 2",
+        "C": "Both Observation 1 and Observations 2"
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The confidence level influences the width of the forecast interval through the critical t -value that is used to calculate the distance from the forecasted value: The larger the confidence level, the wider the interval. Therefore, Observation 1 is not correct. Observation 2 is correct. The greater the standard error of the estimate, the greater the standard error of the forecast.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The confidence level influences the width of the forecast interval through the critical <em>t</em>-value that is used to calculate the distance from the forecasted value: The larger the confidence level, the wider the interval. Therefore, Observation 1 is not correct.</p>\n<p>Observation 2 is correct. The greater the standard error of the estimate, the greater the standard error of the forecast.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 31,
+      "question": "<div><div><div>\n<p>Which of Vasileva’s assumptions regarding regression analysis is <em>incorrect</em>?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Assumption 1",
+        "B": "Assumption 2",
+        "C": "Assumption 3"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. The assumptions of the linear regression model are that (1) the relationship between the dependent variable and the independent variable is linear in the parameters b 0 and b 1 , (2) the residuals are independent of one another, (3) the variance of the error term is the same for all observations, and (4) the error term is normally distributed. Assumption 3 is incorrect because the dependent variable need not be normally distributed.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> The assumptions of the linear regression model are that (1) the relationship between the dependent variable and the independent variable is linear in the parameters <em>b</em><sub>0</sub> and <em>b</em><sub>1</sub>, (2) the residuals are independent of one another, (3) the variance of the error term is the same for all observations, and (4) the error term is normally distributed. Assumption 3 is incorrect because the dependent variable need not be normally distributed.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 32,
+      "question": "<div><div><div>\n<p>Based on <a href=\"#\">Exhibit 1</a>, the standard error of the estimate is <em>closest</em> to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "0.04456.",
+        "B": "0.04585.",
+        "C": "0.05018."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The standard error of the estimate for a linear regression model with one independent variable is calculated as the square root of the mean square error: 𝑠 𝑒 = 0.071475 34 ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ √ = 0.04585. s e = 0.071475 34 = 0.04585.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The standard error of the estimate for a linear regression model with one independent variable is calculated as the square root of the mean square error:</p>\n<span><span></span><span><nobr><span><span><span><span><span><span><span><span><span><span>𝑠</span><span></span></span><span><span>𝑒</span><span></span></span></span></span><span>=</span><span><span><span><span><span><span><span><span><span><span><span><span>0.071475</span></span><span></span></span><span><span><span>34</span></span><span></span></span><span><span></span><span></span></span></span></span></span></span></span></span><span></span></span><span><span><span>‾<span></span></span><span>‾<span></span></span><span>‾<span></span></span><span>‾<span></span></span><span>‾<span></span></span><span>‾<span></span></span><span>‾<span></span></span><span>‾<span></span></span><span>‾<span></span></span><span>‾<span></span></span></span><span></span></span><span><span>√</span><span></span></span></span></span><span>=</span><span>0.04585.</span></span></span></span><span></span></span></span><span></span></span></nobr><span><math><semantics><mrow><msub><mi>s</mi><mi>e</mi></msub><mo>=</mo><msqrt><mrow><mstyle><mfrac><mrow><mn>0.071475</mn></mrow><mrow><mn>34</mn></mrow></mfrac></mstyle></mrow></msqrt><mo>=</mo><mn>0.04585.</mn></mrow></semantics></math></span></span><script><math><semantics><mrow><msub><mi>s</mi><mi>e</mi></msub><mo>=</mo><msqrt><mrow><mstyle displaystyle=\"true\"><mfrac><mrow><mn>0.071475</mn></mrow><mrow><mn>34</mn></mrow></mfrac></mstyle></mrow></msqrt><mo>=</mo><mn>0.04585.</mn></mrow></semantics></math></script></span></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 33,
+      "question": "<div><div><div>\n<p>Based on <a href=\"#\">Exhibit 2</a>, Vasileva should reject the null hypothesis that:</p>\n</div></div></div>",
+      "choices": {
+        "A": "the slope is less than or equal to 0.15.",
+        "B": "the intercept is less than or equal to zero.",
+        "C": "crude oil returns do not explain Amtex share returns."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Crude oil returns explain the Amtex share returns if the slope coefficient is statistically different from zero. The slope coefficient is 0.2354, and the calculated t -statistic is 𝑡 = 0.2354 − 0.0000 0.0760 = 3.0974 , t = 0.2354 − 0.0000 0.0760 = 3.0974 , which is outside the bounds of the critical values of ±2.728. Therefore, Vasileva should reject the null hypothesis that crude oil returns do not explain Amtex share returns, because the slope coefficient is statistically different from zero. A is incorrect because the calculated t -statistic for testing the slope against 0.15 is 𝑡 = 0.2354 − 0.1500 0.0760 = 1.1237 t = 0.2354 − 0.1500 0.0760 = 1.1237 , which is less than the critical value of +2.441. B is incorrect because the calculated t -statistic is 𝑡 = 0.0095 − 0.0000 0.0078 = 1.2179 t = 0.0095 − 0.0000 0.0078 = 1.2179 , which is less than the critical value of +2.441.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Crude oil returns explain the Amtex share returns if the slope coefficient is statistically different from zero. The slope coefficient is 0.2354, and the calculated <em>t</em>-statistic is</p>\n<span><span></span><span><nobr><span><span><span><span><span><span><span>𝑡</span><span>=</span><span><span><span><span><span><span><span>0.2354</span><span>−</span><span>0.0000</span></span><span></span></span><span><span><span>0.0760</span></span><span></span></span><span><span></span><span></span></span></span></span></span></span><span>=</span><span>3.0974</span><span>,</span></span></span></span><span></span></span></span><span></span></span></nobr><span><math><semantics><mrow><mi>t</mi><mo>=</mo><mstyle><mfrac><mrow><mn>0.2354</mn><mo>−</mo><mn>0.0000</mn></mrow><mrow><mn>0.0760</mn></mrow></mfrac></mstyle><mo>=</mo><mn>3.0974</mn><mo>,</mo></mrow></semantics></math></span></span><script><math><semantics><mrow><mi>t</mi><mo>=</mo><mstyle displaystyle=\"true\"><mfrac><mrow><mn>0.2354</mn><mo>−</mo><mn>0.0000</mn></mrow><mrow><mn>0.0760</mn></mrow></mfrac></mstyle><mo>=</mo><mn>3.0974</mn><mo>,</mo></mrow></semantics></math></script></span><p>which is outside the bounds of the critical values of ±2.728.</p>\n<p>Therefore, Vasileva should reject the null hypothesis that crude oil returns do not explain Amtex share returns, because the slope coefficient is statistically different from zero.</p>\n<p>A is incorrect because the calculated <em>t</em>-statistic for testing the slope against 0.15 is <span><span></span><span><nobr><span><span><span><span><span><span>𝑡</span><span>=</span><span><span><span><span><span><span><span>0.2354</span><span>−</span><span>0.1500</span></span><span></span></span><span><span><span>0.0760</span></span><span></span></span><span><span></span><span></span></span></span></span></span></span><span>=</span><span>1.1237</span></span></span><span></span></span></span><span></span></span></nobr><span><math><mrow><mi>t</mi><mo>=</mo><mstyle><mfrac><mrow><mn>0.2354</mn><mo>−</mo><mn>0.1500</mn></mrow><mrow><mn>0.0760</mn></mrow></mfrac></mstyle><mo>=</mo><mn>1.1237</mn></mrow></math></span></span><script><math id=\"m51\"><mrow><mi>t</mi><mo>=</mo><mstyle displaystyle=\"true\"><mfrac><mrow><mn>0.2354</mn><mo>−</mo><mn>0.1500</mn></mrow><mrow><mn>0.0760</mn></mrow></mfrac></mstyle><mo>=</mo><mn>1.1237</mn></mrow></math></script></span>, which is less than the critical value of +2.441.</p>\n<p>B is incorrect because the calculated <em>t</em>-statistic is <span><span></span><span><nobr><span><span><span><span><span><span>𝑡</span><span>=</span><span><span><span><span><span><span><span>0.0095</span><span>−</span><span>0.0000</span></span><span></span></span><span><span><span>0.0078</span></span><span></span></span><span><span></span><span></span></span></span></span></span></span><span>=</span><span>1.2179</span></span></span><span></span></span></span><span></span></span></nobr><span><math><mrow><mi>t</mi><mo>=</mo><mstyle><mfrac><mrow><mn>0.0095</mn><mo>−</mo><mn>0.0000</mn></mrow><mrow><mn>0.0078</mn></mrow></mfrac></mstyle><mo>=</mo><mn>1.2179</mn></mrow></math></span></span><script><math id=\"m52\"><mrow><mi>t</mi><mo>=</mo><mstyle displaystyle=\"true\"><mfrac><mrow><mn>0.0095</mn><mo>−</mo><mn>0.0000</mn></mrow><mrow><mn>0.0078</mn></mrow></mfrac></mstyle><mo>=</mo><mn>1.2179</mn></mrow></math></script></span>, which is less than the critical value of +2.441.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 34,
+      "question": "<div><div><div>\n<p>Based on <a href=\"#\">Exhibit 2</a> and Vasileva’s prediction of the crude oil return for Month 37, the estimate of Amtex share return for Month 37 is <em>closest</em> to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "−0.0024.",
+        "B": "0.0071.",
+        "C": "0.0119."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The predicted value of the dependent variable, Amtex share return, given the value of the independent variable, crude oil return, −0.01, is calculated as 𝑌 ˆ = 𝑏 ˆ 0 + 𝑏 ˆ 1 𝑋 𝑖 = 0.0095 + [ 0.2354 × ( − 0.01 ) ] = 0.0071. Y ^ = b ^ 0 + b ^ 1 X i = 0.0095 + 0.2354 × − 0.01 = 0.0071.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The predicted value of the dependent variable, Amtex share return, given the value of the independent variable, crude oil return, −0.01, is calculated as <span><span></span><span><nobr><span><span><span><span><span><span><span><span><span>𝑌<span></span></span><span></span></span><span><span><span>ˆ</span></span><span></span></span></span></span><span>=</span><span><span><span><span><span><span><span>𝑏</span><span></span></span><span><span><span>ˆ</span></span><span></span></span></span></span><span></span></span><span><span>0</span><span></span></span></span></span><span>+</span><span><span><span><span><span><span><span>𝑏</span><span></span></span><span><span><span>ˆ</span></span><span></span></span></span></span><span></span></span><span><span>1</span><span></span></span></span></span><span><span><span><span>𝑋<span></span></span><span></span></span><span><span>𝑖</span><span></span></span></span></span><span>=</span><span>0.0095</span><span>+</span><span><span><span>[</span></span><span><span>0.2354</span><span>×</span><span><span><span>(</span></span><span><span>−</span><span>0.01</span></span><span><span>)</span></span></span></span><span><span>]</span></span></span><span>=</span><span>0.0071.</span></span></span><span></span></span></span><span></span></span></nobr><span><math><mrow><mover><mi>Y</mi><mo>^</mo></mover><mo>=</mo><msub><mover><mi>b</mi><mo>^</mo></mover><mn>0</mn></msub><mo>+</mo><msub><mover><mi>b</mi><mo>^</mo></mover><mn>1</mn></msub><msub><mi>X</mi><mi>i</mi></msub><mo>=</mo><mn>0.0095</mn><mo>+</mo><mfenced><mrow><mn>0.2354</mn><mo>×</mo><mfenced><mrow><mo>−</mo><mn>0.01</mn></mrow></mfenced></mrow></mfenced><mo>=</mo><mn>0.0071.</mn></mrow></math></span></span><script><math id=\"m53\"><mrow><mover><mi>Y</mi><mo>^</mo></mover><mo>=</mo><msub><mover><mi>b</mi><mo>^</mo></mover><mn>0</mn></msub><mo>+</mo><msub><mover><mi>b</mi><mo>^</mo></mover><mn>1</mn></msub><msub><mi>X</mi><mi>i</mi></msub><mo>=</mo><mn>0.0095</mn><mo>+</mo><mfenced close=\"]\" open=\"[\"><mrow><mn>0.2354</mn><mo>×</mo><mfenced><mrow><mo>−</mo><mn>0.01</mn></mrow></mfenced></mrow></mfenced><mo>=</mo><mn>0.0071.</mn></mrow></math></script></span></p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 35,
+      "question": "<div><div><div>\n<p>Using information from <a href=\"#\">Exhibit 2</a>, the 99 percent prediction interval for Amtex share return for Month 37 is <em>best</em> described as:</p>\n</div></div></div>",
+      "choices": {
+        "A": "𝑌 ˆ 𝑓 ± 0.0053 Y ^ f ± 0.0053 .",
+        "B": "𝑌 ˆ 𝑓 ± 0.0469 Y ^ f ± 0.0469 .",
+        "C": "𝑌 ˆ 𝑓 ± 0.1279 Y ^ f ± 0.1279 ."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. The predicted share return is 0.0095 + [0.2354 × (−0.01)] = 0.0071. The lower limit for the prediction interval is 0.0071 − (2.728 × 0.0469) = −0.1208, and the upper limit for the prediction interval is 0.0071 + (2.728 × 0.0469) = 0.1350. A is incorrect because the bounds of the interval should be based on the standard error of the forecast and the critical t -value, not on the mean of the dependent variable. B is incorrect because bounds of the interval are based on the product of the standard error of the forecast and the critical t -value, not simply the standard error of the forecast.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> The predicted share return is 0.0095 + [0.2354 × (−0.01)] = 0.0071. The lower limit for the prediction interval is 0.0071 − (2.728 × 0.0469) = −0.1208, and the upper limit for the prediction interval is 0.0071 + (2.728 × 0.0469) = 0.1350.</p>\n<p>A is incorrect because the bounds of the interval should be based on the standard error of the forecast and the critical <em>t</em>-value, not on the mean of the dependent variable.</p>\n<p>B is incorrect because bounds of the interval are based on the product of the standard error of the forecast <em>and</em> the critical <em>t</em>-value, not simply the standard error of the forecast.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 36,
+      "question": "<div><div><div>\n<p>The coefficient of determination is <em>closest</em> to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "0.0211.",
+        "B": "0.9789.",
+        "C": "0.9894."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The coefficient of determination is 102.9152 ÷ 105.1303 = 0.9789.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The coefficient of determination is 102.9152 ÷ 105.1303 = 0.9789.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 37,
+      "question": "<div><div><div>\n<p>The standard error of the estimate is <em>closest</em> to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "0.2631.",
+        "B": "1.7849.",
+        "C": "38.5579."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The standard error is the square root of the mean square error, or 0.0692 ‾ ‾ ‾ ‾ ‾ ‾ √ = 0.2631 0.0692 = 0.2631 .",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The standard error is the square root of the mean square error, or <span><span></span><span><nobr><span><span><span><span><span><span><span><span><span><span><span>0.0692</span></span></span><span></span></span><span><span><span>‾<span></span></span><span>‾<span></span></span><span>‾<span></span></span><span>‾<span></span></span><span>‾<span></span></span><span>‾<span></span></span></span><span></span></span><span><span>√</span><span></span></span></span></span><span>=</span><span>0.2631</span></span></span><span></span></span></span><span></span></span></nobr><span><math><mrow><msqrt><mrow><mn>0.0692</mn></mrow></msqrt><mo>=</mo><mn>0.2631</mn></mrow></math></span></span><script><math id=\"m3\"><mrow><msqrt><mrow><mn>0.0692</mn></mrow></msqrt><mo>=</mo><mn>0.2631</mn></mrow></math></script></span>.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 38,
+      "question": "<div><div><div>\n<p>At a 0.01 level of significance, Jones should conclude that:</p>\n</div></div></div>",
+      "choices": {
+        "A": "the mean net profit margin is 0.5987 percent.",
+        "B": "the variation of the fixed asset turnover explains the variation of the natural log of the net profit margin.",
+        "C": "a change in the fixed asset turnover from three to four times is likely to result in a change in the net profit margin of 0.5987 percent."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The p -value corresponding to the slope is less than 0.01, so we reject the null hypothesis of a zero slope, concluding that the fixed asset turnover explains the natural log of the net profit margin.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The <em>p</em>-value corresponding to the slope is less than 0.01, so we reject the null hypothesis of a zero slope, concluding that the fixed asset turnover explains the natural log of the net profit margin.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simple Linear Regression",
+      "question_number": 39,
+      "question": "<div><div><div>\n<p>The predicted net profit margin for a company with a fixed asset turnover of 2 times is <em>closest</em> to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "1.1889 percent.",
+        "B": "1.8043 percent.",
+        "C": "3.2835 percent"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. The predicted natural log of the net profit margin is 0.5987 + (2 × 0.2951) = 1.1889. The predicted net profit margin is 𝑒 1.1889 = 3.2835 e 1.1889 = 3.2835 %.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> The predicted natural log of the net profit margin is 0.5987 + (2 × 0.2951) = 1.1889. The predicted net profit margin is <span><span></span><span><nobr><span><span><span><span><span><span><span><span><span>𝑒</span><span></span></span><span><span><span>1.1889</span></span><span></span></span></span></span><span>=</span><span>3.2835</span></span></span><span></span></span></span><span></span></span></nobr><span><math><mrow><msup><mi>e</mi><mrow><mn>1.1889</mn></mrow></msup><mo>=</mo><mn>3.2835</mn></mrow></math></span></span><script><math id=\"m4\"><mrow><msup><mi>e</mi><mrow><mn>1.1889</mn></mrow></msup><mo>=</mo><mn>3.2835</mn></mrow></math></script></span>%.</p></div>",
+      "category": "Quantitative Methods"
+    }
+  ]
+}

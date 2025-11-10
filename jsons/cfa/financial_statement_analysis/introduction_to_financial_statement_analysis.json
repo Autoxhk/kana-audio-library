@@ -1,0 +1,321 @@
+{
+  "category": "Financial Statement Analysis",
+  "topic": "Introduction to Financial Statement Analysis",
+  "total_questions": 25,
+  "questions": [
+    {
+      "title": "Introduction to Financial Statement Analysis",
+      "question_number": 1,
+      "question": "<div><div><p>Common-size financial statements are <em>most likely </em>a component of which step in the financial analysis framework?</p>\n<ol>\n<li>Collect data</li>\n<li>Analyze/interpret data</li>\n<li>Process data</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. The financial statements are obtained in the collect data step, but not converted into common-size statements until the process step. Incorrect. Preparing common-size financial statements is part of the process data stage, after which the analyst will analyze/interpret the processed data. Correct. Preparing common-size financial statements is part of the process data step. Introduction to Financial Statement Analysis describe the steps in the financial statement analysis framework",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. The financial statements are obtained in the collect data step, but not converted into common-size statements until the process step.</p>\n</li>\n<li>\n<p>Incorrect. Preparing common-size financial statements is part of the process data stage, after which the analyst will analyze/interpret the processed data.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> Preparing common-size financial statements is part of the process data step.</p>\n</li>\n</ol>\n<h4>Introduction to Financial Statement Analysis</h4>\n<ul>\n<li>describe the steps in the financial statement analysis framework</li>\n</ul>\n</div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Analysis",
+      "question_number": 2,
+      "question": "<div><div><div>\n<p>Ratios are an input into which step in the financial statement analysis framework?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Process data",
+        "B": "Collect input data",
+        "C": "Analyze/interpret the processed data"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Ratios are an output of the process information step but are an input into the analyze/interpret data step.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Ratios are an output of the process information step but are an input into the analyze/interpret data step.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Analysis",
+      "question_number": 3,
+      "question": "<div><div><p>Providing information about the performance of a company, its financial position, and changes in financial position that is useful to a wide range of users is <em>most</em> accurately described as the role of:</p>\n<ol>\n<li>financial reporting.</li>\n<li>the audit report.</li>\n<li>financial statement analysis.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. The role of financial reporting is to provide information about the performance of a company, its financial position, and changes in financial position that is useful to a wide range of users in making economic decisions. Incorrect. Audit reports express an opinion about the fair presentation of the financial statements. Incorrect. The role of financial statement analysis is to take the financial reports and evaluate the past, current, and prospective performance and financial position of a company for the purpose of making investment, credit, and other economic decisions. Introduction to Financial Statement Analysis describe the roles of financial statement analysis",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> The role of financial reporting is to provide information about the performance of a company, its financial position, and changes in financial position that is useful to a wide range of users in making economic decisions.</p>\n</li>\n<li>\n<p>Incorrect. Audit reports express an opinion about the fair presentation of the financial statements.</p>\n</li>\n<li>\n<p>Incorrect. The role of financial statement analysis is to take the financial reports and evaluate the past, current, and prospective performance and financial position of a company for the purpose of making investment, credit, and other economic decisions.</p>\n</li>\n</ol>\n<h4>Introduction to Financial Statement Analysis</h4>\n<ul>\n<li>describe the roles of financial statement analysis</li>\n</ul>\n</div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Analysis",
+      "question_number": 4,
+      "question": "<div><div><div>\n<p>Which phase in the financial statement analysis framework is <em>most likely</em> to involve producing updated reports and recommendations?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Follow-up",
+        "B": "Analyze/interpret the processed data",
+        "C": "Develop and communicate conclusions and recommendations"
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The follow-up phase involves gathering information and repeating the analysis to determine whether it is necessary to update reports and recommendations.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The follow-up phase involves gathering information and repeating the analysis to determine whether it is necessary to update reports and recommendations.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Analysis",
+      "question_number": 5,
+      "question": "<div><div><p>Which of the following statements is <em>most</em> accurate about the responsibilities of an auditor for a publicly traded firm in the United States? The auditor must:</p>\n<ol>\n<li>state that the financial statements are prepared according to generally accepted accounting principles.</li>\n<li>ensure that the financial statements are free from error, fraud, or illegal acts.</li>\n<li>express an opinion about the effectiveness of the company’s internal control systems.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. The statements are those prepared by management, not the auditor. The auditor is expressing an opinion as to whether the statements are fairly presented and free from material error. Incorrect. The auditor only provides reasonable assurance that the statements are free from material error. Correct. For a publicly traded firm in the United States, the auditor must express an opinion as to whether the company’s internal control system is in accordance with the Public Accounting Oversight Board, under the Sarbanes–Oxley Act. The opinion is given either in a final paragraph in the auditor’s report or as a separate opinion. Introduction to Financial Statement Analysis describe the importance of regulatory filings, financial statement notes and supplementary information, management’s commentary, and audit reports",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. The statements are those prepared by management, not the auditor. The auditor is expressing an opinion as to whether the statements are fairly presented and free from material error.</p>\n</li>\n<li>\n<p>Incorrect. The auditor only provides reasonable assurance that the statements are free from material error.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> For a publicly traded firm in the United States, the auditor must express an opinion as to whether the company’s internal control system is in accordance with the Public Accounting Oversight Board, under the Sarbanes–Oxley Act. The opinion is given either in a final paragraph in the auditor’s report or as a separate opinion.</p>\n</li>\n</ol>\n<h4>Introduction to Financial Statement Analysis</h4>\n<ul>\n<li>describe the importance of regulatory filings, financial statement notes and supplementary information, management’s commentary, and audit reports</li>\n</ul>\n</div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Analysis",
+      "question_number": 6,
+      "question": "<div><div><div>\n<p>Which of the following <em>best</em> describes the role of financial statement analysis?</p>\n</div></div></div>",
+      "choices": {
+        "A": "To provide information about a company’s performance",
+        "B": "To provide information about a company’s changes in financial position",
+        "C": "To form expectations about a company’s future performance and financial position"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. In general, analysts seek to examine the past and current performance and financial position of a company to form expectations about its future performance and financial position.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> In general, analysts seek to examine the past and current performance and financial position of a company to form expectations about its future performance and financial position.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Analysis",
+      "question_number": 7,
+      "question": "<div><div><p>Which of the following reports is <em>least likely</em> to be filed with the US SEC?</p>\n<ol>\n<li>Annual report</li>\n<li>Form 10-K</li>\n<li>Proxy statement</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct because the annual report is not a requirement of the US SEC. Incorrect because the 10-K is required by the US SEC. Incorrect because a proxy statement is required by the US SEC. Introduction to Financial Statement Analysis describe the importance of regulatory filings, financial statement notes and supplementary information, management’s commentary, and audit reports",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong> because the annual report is not a requirement of the US SEC.</p>\n</li>\n<li>\n<p>Incorrect because the 10-K is required by the US SEC.</p>\n</li>\n<li>\n<p>Incorrect because a proxy statement is required by the US SEC.</p>\n</li>\n</ol>\n<h4>Introduction to Financial Statement Analysis</h4>\n<ul>\n<li>describe the importance of regulatory filings, financial statement notes and supplementary information, management’s commentary, and audit reports</li>\n</ul>\n</div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Analysis",
+      "question_number": 8,
+      "question": "<div><div><div>\n<p>The primary role of financial statement analysis is <em>best</em> described as:</p>\n</div></div></div>",
+      "choices": {
+        "A": "providing information useful for making investment decisions.",
+        "B": "evaluating a company for the purpose of making economic decisions.",
+        "C": "using financial reports prepared by analysts to make economic decisions."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The primary role of financial statement analysis is to use financial reports prepared by companies to evaluate their past, current, and potential performance and financial position for the purpose of making investment, credit, and other economic decisions.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The primary role of financial statement analysis is to use financial reports prepared by companies to evaluate their past, current, and potential performance and financial position for the purpose of making investment, credit, and other economic decisions.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Analysis",
+      "question_number": 9,
+      "question": "<div><div><div>\n<p>International Financial Reporting Standards are currently developed by which entity?</p>\n</div></div></div>",
+      "choices": {
+        "A": "IFRS Foundation",
+        "B": "International Accounting Standards Board",
+        "C": "International Organization of Securities Commissions"
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The International Accounting Standards Board (IASB) is currently charged with developing International Financial Reporting Standards.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The International Accounting Standards Board (IASB) is currently charged with developing International Financial Reporting Standards.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Analysis",
+      "question_number": 10,
+      "question": "<div><div><p>Notes to financial statements <em>most likely</em> include:</p>\n<ol>\n<li>an auditor’s opinion as to the fair presentation of the financial statements.</li>\n<li>supplementary information about accounting policies, methods, and estimates.</li>\n<li>a discussion of significant trends, events, and uncertainties that affect the operating results.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect because the audit process provides a basis for the independent auditor to express an opinion on whether the information in the audited financial statements presents fairly the financial position, performance, and cash flows of the company in accordance with a specified set of accounting standards. Correct because the notes also disclose information about the accounting policies, methods, and estimates used to prepare the financial statements. Incorrect because to help improve the quality of the discussion by management, the International Accounting Standards Board (IASB) issued an IFRS Practice Statement “Management Commentary” includes a framework for the preparation and presentation of management commentary. The framework provides guidance rather than sets forth requirements in a standard. The framework identifies five content elements of a “decision-useful management commentary”: (1) the nature of the business; (2) management’s objectives and strategies; (3) the company’s significant resources, risks, and relationships; (4) results of operations; and (5) critical performance measures. Introduction to Financial Statement Analysis describe the importance of regulatory filings, financial statement notes and supplementary information, management’s commentary, and audit reports",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because the audit process provides a basis for the independent auditor to express an opinion on whether the information in the audited financial statements presents fairly the financial position, performance, and cash flows of the company in accordance with a specified set of accounting standards.</p>\n</li>\n<li>\n<p><strong>Correct</strong> because the notes also disclose information about the accounting policies, methods, and estimates used to prepare the financial statements.</p>\n</li>\n<li>\n<p>Incorrect because to help improve the quality of the discussion by management, the International Accounting Standards Board (IASB) issued an IFRS Practice Statement “Management Commentary” includes a framework for the preparation and presentation of management commentary. The framework provides guidance rather than sets forth requirements in a standard. The framework identifies five content elements of a “decision-useful management commentary”: (1) the nature of the business; (2) management’s objectives and strategies; (3) the company’s significant resources, risks, and relationships; (4) results of operations; and (5) critical performance measures.</p>\n</li>\n</ol>\n<h4>Introduction to Financial Statement Analysis</h4>\n<ul>\n<li>describe the importance of regulatory filings, financial statement notes and supplementary information, management’s commentary, and audit reports</li>\n</ul>\n</div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Analysis",
+      "question_number": 11,
+      "question": "<div><div><div>\n<p>US GAAP are currently developed by which entity?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Securities and Exchange Commission",
+        "B": "Financial Accounting Standards Board",
+        "C": "Public Company Accounting Oversight Board"
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. US Generally Accepted Accounting Principles are developed by the US Financial Accounting Standards Board (FASB).",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> US Generally Accepted Accounting Principles are developed by the US Financial Accounting Standards Board (FASB).</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Analysis",
+      "question_number": 12,
+      "question": "<div><div><p>The role of the International Organization of Securities Commissions (IOSCO) is <em>best</em> described as:</p>\n<ol>\n<li>promoting cross-border cooperation and uniformity in securities regulation.</li>\n<li>enforcing financial reporting requirements for entities participating in capital markets.</li>\n<li>promoting the use of International Financial Reporting Standards (IFRS) and the convergence of national accounting standards.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct because IOSCO assists in attaining the goal of uniform regulation as well as cross-border cooperation in combating violations of securities and derivatives laws. Incorrect because the US SEC (not IOSCO) has primary responsibility for securities and capital markets regulation in the United States and is an ordinary member of IOSCO. Incorrect because maintaining convergence on new standards remains a priority of both standard-setting bodies [IFRS and FASB]. Introduction to Financial Statement Analysis describe the importance of regulatory filings, financial statement notes and supplementary information, management’s commentary, and audit reports",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong> because IOSCO assists in attaining the goal of uniform regulation as well as cross-border cooperation in combating violations of securities and derivatives laws.</p>\n</li>\n<li>\n<p>Incorrect because the US SEC (not IOSCO) has primary responsibility for securities and capital markets regulation in the United States and is an ordinary member of IOSCO.</p>\n</li>\n<li>\n<p>Incorrect because maintaining convergence on new standards remains a priority of both standard-setting bodies [IFRS and FASB].</p>\n</li>\n</ol>\n<h4>Introduction to Financial Statement Analysis</h4>\n<ul>\n<li>describe the importance of regulatory filings, financial statement notes and supplementary information, management’s commentary, and audit reports</li>\n</ul>\n</div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Analysis",
+      "question_number": 13,
+      "question": "<div><div><p>For a company issuing securities in the United States to meet its obligations under the Sarbanes–Oxley Act, which of the following is management required to attest to?</p>\n<ol>\n<li>The adequacy of internal control over financial reporting</li>\n<li>The suitability of management and director compensation agreements</li>\n<li>The accuracy of estimates and assumptions used in preparing the financial statements</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct because the [Sarbanes–Oxley] act addresses auditor independence (it prohibits auditors from providing certain non-audit services to the companies they audit); strengthens corporate responsibility for financial reports (it requires executive management to certify that the company’s financial reports fairly present the company’s condition); and requires management to report on the effectiveness of the company’s internal control over financial reporting (including obtaining external auditor confirmation of the effectiveness of internal control). Incorrect because the SEC requires that shareholders of a company receive a proxy statement before a shareholder meeting. A proxy is an authorization from the shareholder giving another party the right to cast its vote. Shareholder meetings are held at least once a year, but any special meetings also require a proxy statement. Proxies, especially annual meeting proxies, contain information that is often useful to financial analysts. Such information typically includes proposals that require a shareholder vote, details of security ownership by management and principal owners, biographical information on directors, and disclosure of executive compensation. Proxy statement information is filed with the SEC as Form DEF-14A. Incorrect because the notes to the financial statements disclose information about the accounting policies, methods, and estimates used to prepare the financial statements. Introduction to Financial Statement Analysis describe the importance of regulatory filings, financial statement notes and supplementary information, management’s commentary, and audit reports",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong> because the [Sarbanes–Oxley] act addresses auditor independence (it prohibits auditors from providing certain non-audit services to the companies they audit); strengthens corporate responsibility for financial reports (it requires executive management to certify that the company’s financial reports fairly present the company’s condition); and requires management to report on the effectiveness of the company’s internal control over financial reporting (including obtaining external auditor confirmation of the effectiveness of internal control).</p>\n</li>\n<li>\n<p>Incorrect because the SEC requires that shareholders of a company receive a proxy statement before a shareholder meeting. A proxy is an authorization from the shareholder giving another party the right to cast its vote. Shareholder meetings are held at least once a year, but any special meetings also require a proxy statement. Proxies, especially annual meeting proxies, contain information that is often useful to financial analysts. Such information typically includes proposals that require a shareholder vote, details of security ownership by management and principal owners, biographical information on directors, and disclosure of executive compensation. Proxy statement information is filed with the SEC as Form DEF-14A.</p>\n</li>\n<li>\n<p>Incorrect because the notes to the financial statements disclose information about the accounting policies, methods, and estimates used to prepare the financial statements.</p>\n</li>\n</ol>\n<h4>Introduction to Financial Statement Analysis</h4>\n<ul>\n<li>describe the importance of regulatory filings, financial statement notes and supplementary information, management’s commentary, and audit reports</li>\n</ul>\n</div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Analysis",
+      "question_number": 14,
+      "question": "<div><div><div>\n<p>A core objective of the International Organization of Securities Commissions is to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "eliminate systemic risk.",
+        "B": "protect users of financial statements.",
+        "C": "ensure that markets are fair, efficient, and transparent."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. A core objective of IOSCO is to ensure that markets are fair, efficient, and transparent. The other core objectives are to reduce, not eliminate, systemic risk and to protect investors, not all users of financial statements.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> A core objective of IOSCO is to ensure that markets are fair, efficient, and transparent. The other core objectives are to reduce, not eliminate, systemic risk and to protect investors, not all users of financial statements.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Analysis",
+      "question_number": 15,
+      "question": "<div><div><div>\n<p>Which of the following <em>best</em> describes why the notes that accompany the financial statements are required? The notes:</p>\n</div></div></div>",
+      "choices": {
+        "A": "permit flexibility in statement preparation.",
+        "B": "standardize financial reporting across companies.",
+        "C": "provide information necessary to understand the financial statements."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. The notes provide information that is essential to understanding the information provided in the primary statements.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> The notes provide information that is essential to understanding the information provided in the primary statements.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Analysis",
+      "question_number": 16,
+      "question": "<div><div><p>Where might an analyst look for details covering the full extent of a company’s capital resources?</p>\n<ol>\n<li>Balance sheet</li>\n<li>Notes to the financial statements</li>\n<li>Management discussion and analysis (MD&amp;A)</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect because the balance sheet discloses what an entity owns (assets), what an entity owes (liabilities), and the owners’ interest in the net assets of a company (equity) at a specific point in time. While the balance sheet can include a section summarizing non-current (long-term) liabilities, this usually includes just a single line item listing the total amount of a company’s long-term debt due after one year with no information about a company’s capital resources, including debt financing and off-balance-sheet financing. Incorrect because, while the notes to the financial statements provide details about a company’s debt financing, it is the MD&A section that commonly provides information about its off-balance-sheet financing. The notes disclose the basis of preparation for the financial statements. The notes also disclose information about the accounting policies, methods, and estimates used to prepare the financial statements. Correct because in the MD&A, management must highlight any favorable or unfavorable trends and identify significant events and uncertainties that affect the company’s liquidity, capital resources, and results of operations. The MD&A must also provide information about off-balance-sheet obligations and about contractual commitments, such as purchase obligations. Introduction to Financial Statement Analysis describe the importance of regulatory filings, financial statement notes and supplementary information, management’s commentary, and audit reports",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because the balance sheet discloses what an entity owns (assets), what an entity owes (liabilities), and the owners’ interest in the net assets of a company (equity) at a specific point in time. While the balance sheet can include a section summarizing non-current (long-term) liabilities, this usually includes just a single line item listing the total amount of a company’s long-term debt due after one year with no information about a company’s capital resources, including debt financing and off-balance-sheet financing.</p>\n</li>\n<li>\n<p>Incorrect because, while the notes to the financial statements provide details about a company’s debt financing, it is the MD&amp;A section that commonly provides information about its off-balance-sheet financing. The notes disclose the basis of preparation for the financial statements. The notes also disclose information about the accounting policies, methods, and estimates used to prepare the financial statements.</p>\n</li>\n<li>\n<p><strong>Correct</strong> because in the MD&amp;A, management must highlight any favorable or unfavorable trends and identify significant events and uncertainties that affect the company’s liquidity, capital resources, and results of operations. The MD&amp;A must also provide information about off-balance-sheet obligations and about contractual commitments, such as purchase obligations.</p>\n</li>\n</ol>\n<h4>Introduction to Financial Statement Analysis</h4>\n<ul>\n<li>describe the importance of regulatory filings, financial statement notes and supplementary information, management’s commentary, and audit reports</li>\n</ul>\n</div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Analysis",
+      "question_number": 17,
+      "question": "<div><div><p>Interim reports <em>most likely</em>:</p>\n<ol>\n<li>are audited.</li>\n<li>are issued semi-annually or quarterly.</li>\n<li>include a full set of financial statements and notes.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. Interim reports are not audited. Correct. Interim reports are provided semi-annually or quarterly, depending on applicable regulatory requirements. Incorrect. Interim reports generally present the four basic financial statements and condensed notes. Introduction to Financial Statement Analysis describe information sources that analysts use in financial statement analysis besides annual and interim financial reports",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Interim reports are not audited.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> Interim reports are provided semi-annually or quarterly, depending on applicable regulatory requirements.</p>\n</li>\n<li>\n<p>Incorrect. Interim reports generally present the four basic financial statements and condensed notes.</p>\n</li>\n</ol>\n<h4>Introduction to Financial Statement Analysis</h4>\n<ul>\n<li>describe information sources that analysts use in financial statement analysis besides annual and interim financial reports</li>\n</ul>\n</div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Analysis",
+      "question_number": 18,
+      "question": "<div><div><div>\n<p>Accounting policies, methods, and estimates used in preparing financial statements are <em>most likely</em> to be found in the:</p>\n</div></div></div>",
+      "choices": {
+        "A": "auditor’s report.",
+        "B": "management commentary.",
+        "C": "notes to the financial statements."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. The notes disclose choices in accounting policies, methods, and estimates.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> The notes disclose choices in accounting policies, methods, and estimates.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Analysis",
+      "question_number": 19,
+      "question": "<div><div><div>\n<p>Information about management and director compensation is <em>most likely</em> to be found in the:</p>\n</div></div></div>",
+      "choices": {
+        "A": "auditor’s report.",
+        "B": "proxy statement.",
+        "C": "earnings release."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Disclosure of management compensation is typically included in the proxy statement. An earnings release is about corporate earnings, not what managers earn as compensation.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Disclosure of management compensation is typically included in the proxy statement. An earnings release is about corporate earnings, not what managers earn as compensation.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Analysis",
+      "question_number": 20,
+      "question": "<div><div><div>\n<p>Information about a company’s objectives, strategies, and significant risks are <em>most likely</em> to be found in the:</p>\n</div></div></div>",
+      "choices": {
+        "A": "auditor’s report.",
+        "B": "management commentary.",
+        "C": "notes to the financial statements."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. These are components of management commentary.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> These are components of management commentary.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Analysis",
+      "question_number": 21,
+      "question": "<div><div><div>\n<p>What type of audit opinion is preferred when analyzing financial statements?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Adverse",
+        "B": "Qualified",
+        "C": "Unqualified"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. An unqualified opinion is a “clean” opinion and indicates that the financial statements present the company’s performance and financial position fairly in accordance with applicable accounting standards.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> An unqualified opinion is a “clean” opinion and indicates that the financial statements present the company’s performance and financial position fairly in accordance with applicable accounting standards.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Analysis",
+      "question_number": 22,
+      "question": "<div><div><div>\n<p>An auditor determines that a company’s financial statements are prepared in accordance with applicable accounting standards except with respect to inventory reporting. This exception is <em>most likely</em> to result in an audit opinion that is:</p>\n</div></div></div>",
+      "choices": {
+        "A": "adverse.",
+        "B": "qualified.",
+        "C": "unqualified."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. A qualified audit opinion is one in which there is some scope limitation or exception to accounting standards. Exceptions are described in the audit report with additional explanatory paragraphs so that the analyst can determine the importance of the exception.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> A qualified audit opinion is one in which there is some scope limitation or exception to accounting standards. Exceptions are described in the audit report with additional explanatory paragraphs so that the analyst can determine the importance of the exception.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Analysis",
+      "question_number": 23,
+      "question": "<div><div><div>\n<p>An independent audit report is <em>most likely</em> to provide:</p>\n</div></div></div>",
+      "choices": {
+        "A": "absolute assurance about the accuracy of the financial statements.",
+        "B": "reasonable assurance that the financial statements are fairly presented.",
+        "C": "a qualified opinion with respect to the transparency of the financial statements."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The independent audit report provides reasonable assurance that the financial statements are fairly presented, meaning that there is a high probability that the audited financial statements are free from material error, fraud, or illegal acts that have a direct effect on the financial statements.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The independent audit report provides reasonable assurance that the financial statements are fairly presented, meaning that there is a high probability that the audited financial statements are free from material error, fraud, or illegal acts that have a direct effect on the financial statements.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Analysis",
+      "question_number": 24,
+      "question": "<div><div><div>\n<p>Interim financial reports released by a company are <em>most likely</em> to be:</p>\n</div></div></div>",
+      "choices": {
+        "A": "monthly.",
+        "B": "unaudited.",
+        "C": "unqualified."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Interim reports are typically provided semiannually or quarterly and require certain financial information, including unaudited financial statements and an MD&A for the interim period covered by the report. Unqualified refers to a type of audit opinion.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Interim reports are typically provided semiannually or quarterly and require certain financial information, including unaudited financial statements and an MD&amp;A for the interim period covered by the report. Unqualified refers to a type of audit opinion.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Introduction to Financial Statement Analysis",
+      "question_number": 25,
+      "question": "<div><div><div>\n<p>Which of the following sources of information used by analysts is found outside a company’s annual report?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Auditor’s report",
+        "B": "Peer company analysis",
+        "C": "Management discussion and analysis"
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. When performing financial statement analysis, analysts should review all company sources of information as well as information from external sources regarding the economy, the industry, the company, and peer (comparable) companies.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> When performing financial statement analysis, analysts should review all company sources of information as well as information from external sources regarding the economy, the industry, the company, and peer (comparable) companies.</p></div>",
+      "category": "Financial Statement Analysis"
+    }
+  ]
+}

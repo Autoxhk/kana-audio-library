@@ -1,0 +1,47 @@
+{
+  "category": "Corporate Issuers",
+  "topic": "Investors and Other Stakeholders",
+  "total_questions": 4,
+  "questions": [
+    {
+      "title": "Investors and Other Stakeholders",
+      "question_number": 1,
+      "question": "<div><div><p>Which of the following statements about a mature company's stakeholders is <em>most</em> accurate?</p>\n<ol>\n<li>Equity represents a cheaper financing source for companies</li>\n<li>Shareholders are residual claimants to the company after all other stakeholders have been paid</li>\n<li>Dividend payments to company shareholders are generally treated as a tax-deductible expense for the company</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect because this holds for debt, not equity. Equityholders represent a more permanent source of capital and have voting rights to elect the board of directors, which oversees the management of the company. In contrast, debt represents a cheaper financing source for companies and a lower risk for investors. Correct because debtholders have a prior legal claim on the company’s cash flows and assets over the claims of equity owners. Equityholders [shareholders] are therefore residual claimants to the company after all other stakeholders have been paid, including creditors (interest/principal), suppliers (accounts payable), government (taxes), and employees (wages). Incorrect because another difference is that interest payments to debtholders are generally treated as a tax-deductible expense for the company, while dividend payments to shareholders are not. Investors and Other Stakeholders compare the financial claims and motivations of lenders and shareholders",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because this holds for debt, not equity. Equityholders represent a more permanent source of capital and have voting rights to elect the board of directors, which oversees the management of the company. In contrast, debt represents a cheaper financing source for companies and a lower risk for investors.</p>\n</li>\n<li>\n<p><strong>Correct</strong> because debtholders have a prior legal claim on the company’s cash flows and assets over the claims of equity owners. Equityholders [shareholders] are therefore residual claimants to the company after all other stakeholders have been paid, including creditors (interest/principal), suppliers (accounts payable), government (taxes), and employees (wages).</p>\n</li>\n<li>\n<p>Incorrect because another difference is that interest payments to debtholders are generally treated as a tax-deductible expense for the company, while dividend payments to shareholders are not.</p>\n</li>\n</ol>\n<h4>Investors and Other Stakeholders</h4>\n<ul>\n<li>compare the financial claims and motivations of lenders and shareholders</li>\n</ul>\n</div>",
+      "category": "Corporate Issuers"
+    },
+    {
+      "title": "Investors and Other Stakeholders",
+      "question_number": 4,
+      "question": "<div><div><p>From an investor's perspective, equity <em>most likely</em> has:</p>\n<ol>\n<li>unlimited loss.</li>\n<li>unlimited upside potential.</li>\n<li>lower investment risk than that of debt.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect because the maximum loss equity owners face is limited to the amount of their equity investment. Correct because however, an equity owner has the potential for significant upside gain, dependent on future share price increases. If the corporation is successful, there is theoretically no limit to how much equity owners could make from their investment. Incorrect because stocks are considered riskier for investors, however, because the company has no contractual obligation to distribute funds to shareholders or repay their capital investment. Also, with a fixed priority claim, bondholders are contractually promised priority in receiving their specified interest payment with return of principal. Investors and Other Stakeholders compare the financial claims and motivations of lenders and shareholders",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because the maximum loss equity owners face is limited to the amount of their equity investment.</p>\n</li>\n<li>\n<p><strong>Correct</strong> because however, an equity owner has the potential for significant upside gain, dependent on future share price increases. If the corporation is successful, there is theoretically no limit to how much equity owners could make from their investment.</p>\n</li>\n<li>\n<p>Incorrect because stocks are considered riskier for investors, however, because the company has no contractual obligation to distribute funds to shareholders or repay their capital investment. Also, with a fixed priority claim, bondholders are contractually promised priority in receiving their specified interest payment with return of principal.</p>\n</li>\n</ol>\n<h4>Investors and Other Stakeholders</h4>\n<ul>\n<li>compare the financial claims and motivations of lenders and shareholders</li>\n</ul>\n</div>",
+      "category": "Corporate Issuers"
+    },
+    {
+      "title": "Investors and Other Stakeholders",
+      "question_number": 6,
+      "question": "<div><div><p>The<em> </em>primary motivation of activist shareholders is to promote:</p>\n<ol>\n<li>improved shareholder value.</li>\n<li>environmentally sustainable business practices.</li>\n<li>consideration of human rights in employee relations.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. The primary motivation of activist shareholders is to increase shareholder value. If they feel management or the board has failed to act in the best interests of shareholders, they may attempt to force changes by gaining control of the board. Incorrect. This is more likely to be a goal of ESG investors with an investment mandate focused on environmental factors. Incorrect. This is more likely to be a goal of ESG investors with an investing mandate focused on social factors. Investors and Other Stakeholders describe a company’s stakeholder groups and compare their interests",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> The primary motivation of activist shareholders is to increase shareholder value. If they feel management or the board has failed to act in the best interests of shareholders, they may attempt to force changes by gaining control of the board.</p>\n</li>\n<li>\n<p>Incorrect. This is more likely to be a goal of ESG investors with an investment mandate focused on environmental factors.</p>\n</li>\n<li>\n<p>Incorrect. This is more likely to be a goal of ESG investors with an investing mandate focused on social factors.</p>\n</li>\n</ol>\n<h4>Investors and Other Stakeholders</h4>\n<ul>\n<li>describe a company’s stakeholder groups and compare their interests</li>\n</ul>\n</div>",
+      "category": "Corporate Issuers"
+    },
+    {
+      "title": "Investors and Other Stakeholders",
+      "question_number": 8,
+      "question": "<div><div><p>Which of the following is <em>most </em>consistent with good corporate governance practices?</p>\n<ol>\n<li>All stakeholders should have the right to participate in the governance of the firm.</li>\n<li>An audit committee that benefits from the direct guidance of management.</li>\n<li>Appropriate controls and procedures to effectively manage the firm should be in place.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. Only shareholders have the right (not all stakeholders) to participate in the governance of the firm. Incorrect. The audit and compensation committees are best structured with exclusively independent directors, and no management involvement. Correct. Effective corporate governance requires a system of appropriate controls and procedures to protect financial markets and investors. Investors and Other Stakeholders describe a company’s stakeholder groups and compare their interests",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Only shareholders have the right (not all stakeholders) to participate in the governance of the firm.</p>\n</li>\n<li>\n<p>Incorrect. The audit and compensation committees are best structured with exclusively independent directors, and no management involvement.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> Effective corporate governance requires a system of appropriate controls and procedures to protect financial markets and investors.</p>\n</li>\n</ol>\n<h4>Investors and Other Stakeholders</h4>\n<ul>\n<li>describe a company’s stakeholder groups and compare their interests</li>\n</ul>\n</div>",
+      "category": "Corporate Issuers"
+    }
+  ]
+}

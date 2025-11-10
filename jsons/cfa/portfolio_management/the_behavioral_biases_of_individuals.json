@@ -1,0 +1,217 @@
+{
+  "category": "Portfolio Management",
+  "topic": "The Behavioral Biases of Individuals",
+  "total_questions": 15,
+  "questions": [
+    {
+      "title": "The Behavioral Biases of Individuals",
+      "question_number": 1,
+      "question": "<div><div><div>\n<p>Under-diversified portfolios are <span>not</span> a potential implication of which of the following behavioral biases?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Representativeness",
+        "B": "Illusion of control",
+        "C": "Confirmation"
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Under-diversified portfolios are a consequence of both illusion of control and confirmation biases. Researchers have found that some investors prefer to invest in companies that they feel they have control over, such as the companies they work for, leading them to hold concentrated positions. Confirmation bias may lead to FMPs ignoring negative news, paying attention only to information confirming that a company is a good investment, which may result in large positions. Representativeness bias is not typically associated with under-diversified portfolios.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Under-diversified portfolios are a consequence of both illusion of control and confirmation biases. Researchers have found that some investors prefer to invest in companies that they feel they have control over, such as the companies they work for, leading them to hold concentrated positions. Confirmation bias may lead to FMPs ignoring negative news, paying attention only to information confirming that a company is a good investment, which may result in large positions. Representativeness bias is not typically associated with under-diversified portfolios.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "The Behavioral Biases of Individuals",
+      "question_number": 2,
+      "question": "<div><div><div>\n<p>The advice “Don’t confuse brains with a bull market” is aimed at mitigating which of the following behavioral biases?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Self-control",
+        "B": "Conservatism",
+        "C": "Overconfidence"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. This advice is specifically aimed at reducing self-attribution bias, a form of overconfidence bias. This bias may result in FMPs taking credit for investment success, as well as assigning responsibility to others for investment failures, when in reality the investment results reflect exogenous market forces.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> This advice is specifically aimed at reducing self-attribution bias, a form of overconfidence bias. This bias may result in FMPs taking credit for investment success, as well as assigning responsibility to others for investment failures, when in reality the investment results reflect exogenous market forces.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "The Behavioral Biases of Individuals",
+      "question_number": 3,
+      "question": "<div><div><div>\n<p>Status quo bias is <span>least</span> similar to which of the following behavioral biases?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Endowment",
+        "B": "Regret aversion",
+        "C": "Confirmation"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Both endowment bias and regret-aversion bias often result in indecision or inertia—a typical outcome of status quo bias, in which people prefer to not make changes even when changes are warranted.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Both endowment bias and regret-aversion bias often result in indecision or inertia—a typical outcome of status quo bias, in which people prefer to not make changes even when changes are warranted.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "The Behavioral Biases of Individuals",
+      "question_number": 4,
+      "question": "<div><div><div>\n<p>Which strategy would best mitigate or prevent endowment bias?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Actively seeking out information that challenges existing beliefs",
+        "B": "When new information is presented, asking “How does this information change my forecast?”",
+        "C": "Asking “Would you buy this security today at the current price?”"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Endowment bias refers to people attributing additional, unwarranted value to things they possess versus things they do not. This bias is evident in FMPs that systematically and materially overvalue securities in their portfolio versus securities not in their portfolio. The question “Would you buy this security today at the current price?” turns the investor’s attention to assessing the reasonableness of the current price as a buy price rather than solely as a selling price.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Endowment bias refers to people attributing additional, unwarranted value to things they possess versus things they do not. This bias is evident in FMPs that systematically and materially overvalue securities in their portfolio versus securities not in their portfolio. The question “Would you buy this security today at the current price?” turns the investor’s attention to assessing the reasonableness of the current price as a buy price rather than solely as a selling price.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "The Behavioral Biases of Individuals",
+      "question_number": 5,
+      "question": "<div><div><div>\n<p>Jun Park, CFA, works at a hedge fund. Most of Park’s colleagues are also CFA charterholders. At an event with recent university graduates, Park comments, “Most CFA charterholders work at hedge funds.” Park’s remark exhibits which behavioral bias?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Availability",
+        "B": "Conservatism",
+        "C": "Framing"
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Park is extrapolating his observation based on a narrow range of experience (working at a hedge fund that employs many CFA charterholders) to the entire population of CFA charterholders. Using a narrow range of experience is a form of availability bias.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Park is extrapolating his observation based on a narrow range of experience (working at a hedge fund that employs many CFA charterholders) to the entire population of CFA charterholders. Using a narrow range of experience is a form of availability bias.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "The Behavioral Biases of Individuals",
+      "question_number": 6,
+      "question": "<div><div><div>\n<p>In the 1980s, Japan was viewed by many FMPs as the model economy. Although its growth began to decelerate sharply by 1990, it was not until the mid to late 1990s that FMPs’ GDP forecasts were consistently achieved. By taking several years to adapt their forecasts to the lower growth environment, FMPs exhibited which behavioral bias?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Mental accounting",
+        "B": "Overconfidence",
+        "C": "Conservatism"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Conservatism bias results in maintain or only slowly updating views and forecasts despite the presence of new information. FMPs in the 1990s were reluctant to update forecasts, despite materially different new information for several years.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Conservatism bias results in maintain or only slowly updating views and forecasts despite the presence of new information. FMPs in the 1990s were reluctant to update forecasts, despite materially different new information for several years.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "The Behavioral Biases of Individuals",
+      "question_number": 7,
+      "question": "<div><div><div>\n<p>Based on the description of how Kai manages his finances as outlined in Exhibit 1, Kai most likely exhibits the behavioral bias of:</p>\n</div></div></div>",
+      "choices": {
+        "A": "endowment.",
+        "B": "mental accounting.",
+        "C": "framing."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Kai has segregated money into four different accounts based on the sources and uses of his funds. Although intuitively appealing, this approach is irrational because money is fungible across the four accounts. Nothing is stopping Kai from collapsing them into a single “account” with a holistic portfolio strategy.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Kai has segregated money into four different accounts based on the sources and uses of his funds. Although intuitively appealing, this approach is irrational because money is fungible across the four accounts. Nothing is stopping Kai from collapsing them into a single “account” with a holistic portfolio strategy.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "The Behavioral Biases of Individuals",
+      "question_number": 8,
+      "question": "<div><div><div>\n<p>Which of the following is a likely consequence of Kai’s approach to managing his finances?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Concentrated portfolio positions",
+        "B": "Forgone opportunities to reduce risk by combining assets with low correlations",
+        "C": "Excessive trading"
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The most common consequence of mental accounting is neglecting opportunities to reduce risk by combining assets with low correlations, because each account’s asset allocation is examined discretely. Offsetting positions across accounts, or an overall inefficient allocation with respect to risk, can lead to suboptimal aggregate performance.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The most common consequence of mental accounting is neglecting opportunities to reduce risk by combining assets with low correlations, because each account’s asset allocation is examined discretely. Offsetting positions across accounts, or an overall inefficient allocation with respect to risk, can lead to suboptimal aggregate performance.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "The Behavioral Biases of Individuals",
+      "question_number": 9,
+      "question": "<div><div><div>\n<p>Which strategy should Daosri use or recommend to Kai?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Keep written records of investment decisions.",
+        "B": "Ask questions such as, “Is the decision the result of focusing on a net gain or net loss position?”",
+        "C": "Aggregate all accounts and portfolios into a single spreadsheet."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Aggregating mental accounts is a logical strategy to combat mental accounting. It is the opposite of disaggregating money into separate accounts.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Aggregating mental accounts is a logical strategy to combat mental accounting. It is the opposite of disaggregating money into separate accounts.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "The Behavioral Biases of Individuals",
+      "question_number": 10,
+      "question": "<div><div><div>\n<p>Which of the following individual behavioral biases is most strongly associated with market bubbles?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Overconfidence",
+        "B": "Representativeness",
+        "C": "Framing"
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The overconfidence and excessive trading that contribute to a bubble are linked to self-attribution bias, a form of overconfidence. In a rising market, sales of stocks from a portfolio will typically be profitable, even if winners are being sold too soon, and FMPs will attribute profits and strong performance to their investment acumen and subsequently underestimate risks.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The overconfidence and excessive trading that contribute to a bubble are linked to self-attribution bias, a form of overconfidence. In a rising market, sales of stocks from a portfolio will typically be profitable, even if winners are being sold too soon, and FMPs will attribute profits and strong performance to their investment acumen and subsequently underestimate risks.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "The Behavioral Biases of Individuals",
+      "question_number": 11,
+      "question": "<div><div><div>\n<p>The halo effect, which may be evident in FMP’s assessments of a company with a history of high revenue growth, is a form of which behavioral bias?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Endowment",
+        "B": "Representativeness",
+        "C": "Regret aversion"
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Representativeness refers to the tendency to adopt a view or forecast based on individual information or a small sample, as well to use simple classifications. The halo effect is an example of representativeness, because FMPs extend an overall favorable evaluation to an investment (e.g., a “good company”) based on one or few characteristics (e.g., a “visionary CEO”).",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Representativeness refers to the tendency to adopt a view or forecast based on individual information or a small sample, as well to use simple classifications. The halo effect is an example of representativeness, because FMPs extend an overall favorable evaluation to an investment (e.g., a “good company”) based on one or few characteristics (e.g., a “visionary CEO”).</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "The Behavioral Biases of Individuals",
+      "question_number": 12,
+      "question": "<div><div><div>\n<p>All of the following are reasons that an apparent deviation from the efficient market hypothesis might <span>not</span> be anomalous <span>except</span>:</p>\n</div></div></div>",
+      "choices": {
+        "A": "The abnormal returns represent compensation for exposure to risk.",
+        "B": "Changing the asset pricing model makes the deviation to disappear.",
+        "C": "The deviation is well known or documented."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Bubbles and crashes are well-known and well-documented phenomena yet represent market anomalies.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Bubbles and crashes are well-known and well-documented phenomena yet represent market anomalies.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "The Behavioral Biases of Individuals",
+      "question_number": 13,
+      "question": "<div><div><div>\n<p>Investment managers incentivized or accountable for short-term performance by current and prospective clients is a potentially rational explanation for which of the following?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Home bias",
+        "B": "Bubbles",
+        "C": "Value stocks outperforming growth stocks"
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Investment managers’ incentives—or perhaps more accurately, their perception of their incentives—for short-term performance were named as considerations in the technology and real estate bubbles. Not participating in the bubble presented certain FMPs with commercial or career risk.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Investment managers’ incentives—or perhaps more accurately, their perception of their incentives—for short-term performance were named as considerations in the technology and real estate bubbles. Not participating in the bubble presented certain FMPs with commercial or career risk.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "The Behavioral Biases of Individuals",
+      "question_number": 14,
+      "question": "<div><div><div>\n<p>Momentum, can be partly explained by the following behavioral biases <span>except</span>:</p>\n</div></div></div>",
+      "choices": {
+        "A": "availability.",
+        "B": "home bias.",
+        "C": "regret."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Home bias refers to FMPs preferentially investing in domestic securities, likely reflecting perceived relative informational advantages, a greater feeling of comfort with the access to company executives that proximity brings (either personal or through a local brokerage), or a psychological desire to invest in a local community. Momentum, on the other hand, has been documented in a range of markets around the world, in a time-dependent manner, and reflects some FMPs’ availability bias, manifested as a belief that stocks will continue to rise because recently they have only risen, as well as regret aversion by those who invest in past winners because they regret not investing in them in the past.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Home bias refers to FMPs preferentially investing in domestic securities, likely reflecting perceived relative informational advantages, a greater feeling of comfort with the access to company executives that proximity brings (either personal or through a local brokerage), or a psychological desire to invest in a local community. Momentum, on the other hand, has been documented in a range of markets around the world, in a time-dependent manner, and reflects some FMPs’ availability bias, manifested as a belief that stocks will continue to rise because recently they have only risen, as well as regret aversion by those who invest in past winners because they regret not investing in them in the past.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "The Behavioral Biases of Individuals",
+      "question_number": 15,
+      "question": "<div><div><div>\n<p>All of the following are reasons that the historical outperformance of value stocks versus growth stocks may <span>not</span> be anomalous <span>except:</span></p>\n</div></div></div>",
+      "choices": {
+        "A": "Abnormal returns represent compensation for risk exposures, such as the heightened risk of value stocks to suffer distress during downturns.",
+        "B": "Companies with strong historical growth rates are viewed as good investments, with higher expected returns than risk characteristics merit.",
+        "C": "The deviation disappears by incorporating a three-factor asset pricing model."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. This choice describes the halo effect, which does offer a behavioral explanation for the poor performance of growth stocks versus value stocks. Growth stocks are mispriced relative to their risk characteristics, because FMPs focusing on just a few properties, such as a high historical revenue growth rate, while neglecting other characteristics.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> This choice describes the halo effect, which does offer a behavioral explanation for the poor performance of growth stocks versus value stocks. Growth stocks are mispriced relative to their risk characteristics, because FMPs focusing on just a few properties, such as a high historical revenue growth rate, while neglecting other characteristics.</p></div>",
+      "category": "Portfolio Management"
+    }
+  ]
+}

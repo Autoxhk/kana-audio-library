@@ -1,0 +1,179 @@
+{
+  "category": "Fixed Income",
+  "topic": "Curve Based and Empirical Fixed Income Risk Measures",
+  "total_questions": 14,
+  "questions": [
+    {
+      "title": "Curve Based and Empirical Fixed Income Risk Measures",
+      "question_number": 1,
+      "question": "<div><div><p>A fixed-income security’s current price is $101.45. The manager estimates that the price will rise to $103.28 if interest rates decrease 0.25% or fall to $100.81 if interest rates increase 0.25%. The security’s effective duration is <em>closest</em> to:</p>\n<ol>\n<li>1.22.</li>\n<li>4.87.</li>\n<li>9.74.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect because it uses a 1% change in rates, not a 0.25% change. Correct. The effective duration is defined as: Effective duration = ( 𝑃 𝑉 − ) − ( 𝑃 𝑉 + ) 2 × ( 𝛥 Curve ) × ( 𝑃 𝑉 0 ) ( P V − ) − ( P V + ) 2 × ( Δ Curve ) × ( P V 0 ) = ( 103.28 − 100.81 ) ( 2 × 0.0025 × 101.45 ) ( 103.28 − 100.81 ) ( 2 × 0.0025 × 101.45 ) = 4.87 Incorrect because it does not include the 2 in the denominator of the equation. Curve-Based and Empirical Fixed-Income Risk Measures explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because it uses a 1% change in rates, not a 0.25% change.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> The effective duration is defined as:</p>\n<p>Effective duration = <span></span><span><nobr><span><span><span><span><span><span><span><span><span><span><span><span><span>(</span></span></span><span><span>𝑃<span></span></span><span><span><span><span>𝑉<span></span></span><span></span></span><span><span>−</span><span></span></span></span></span></span><span><span><span>)</span></span></span></span><span>−</span><span><span><span><span>(</span></span></span><span><span>𝑃<span></span></span><span><span><span><span>𝑉<span></span></span><span></span></span><span><span>+</span><span></span></span></span></span></span><span><span><span>)</span></span></span></span></span><span></span></span><span><span><span>2</span><span>×</span><span><span>(</span><span><span>𝛥</span><span>Curve</span></span><span>)</span></span><span>×</span><span><span>(</span><span><span>𝑃<span></span></span><span><span><span><span>𝑉<span></span></span><span></span></span><span><span>0</span><span></span></span></span></span></span><span>)</span></span></span><span></span></span><span><span></span><span></span></span></span></span></span></span><span></span></span></span><span></span></span></nobr><span><math><mrow><mfrac><mrow><mrow><mo>(</mo><mrow><mi>P</mi><msub><mi>V</mi><mo>−</mo></msub></mrow><mo>)</mo></mrow><mo>−</mo><mrow><mo>(</mo><mrow><mi>P</mi><msub><mi>V</mi><mo>+</mo></msub></mrow><mo>)</mo></mrow></mrow><mrow><mn>2</mn><mo>×</mo><mrow><mo>(</mo><mrow><mi>Δ</mi><mtext>Curve</mtext></mrow><mo>)</mo></mrow><mo>×</mo><mrow><mo>(</mo><mrow><mi>P</mi><msub><mi>V</mi><mn>0</mn></msub></mrow><mo>)</mo></mrow></mrow></mfrac></mrow></math></span></span><script><math style=\"font-family:Arial\"> <mrow> <mfrac> <mrow> <mrow><mo>(</mo> <mrow> <mi>P</mi><msub> <mi>V</mi> <mo>−</mo> </msub> </mrow> <mo>)</mo></mrow><mo>−</mo><mrow><mo>(</mo> <mrow> <mi>P</mi><msub> <mi>V</mi> <mo>+</mo> </msub> </mrow> <mo>)</mo></mrow></mrow> <mrow> <mn>2</mn><mo>×</mo><mrow><mo>(</mo> <mrow> <mi>Δ</mi><mtext>Curve</mtext></mrow> <mo>)</mo></mrow><mo>×</mo><mrow><mo>(</mo> <mrow> <mi>P</mi><msub> <mi>V</mi> <mn>0</mn> </msub> </mrow> <mo>)</mo></mrow></mrow> </mfrac> </mrow></math></script></p>\n<p>= <span></span><span><nobr><span><span><span><span><span><span><span><span><span><span><span>(</span><span><span>103.28</span><span>−</span><span>100.81</span></span><span>)</span></span></span><span></span></span><span><span><span><span><span><span>(</span></span></span><span><span>2</span><span>×</span><span>0.0025</span><span>×</span><span>101.45</span></span><span><span><span>)</span></span></span></span></span><span></span></span><span><span></span><span></span></span></span></span></span></span><span></span></span></span><span></span></span></nobr><span><math><mrow><mfrac><mrow><mrow><mo>(</mo><mrow><mn>103.28</mn><mo>−</mo><mn>100.81</mn></mrow><mo>)</mo></mrow></mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>×</mo><mn>0.0025</mn><mo>×</mo><mn>101.45</mn></mrow><mo>)</mo></mrow></mrow></mfrac></mrow></math></span></span><script><math style=\"font-family:Arial\"> <mrow> <mfrac> <mrow> <mrow><mo>(</mo> <mrow> <mn>103.28</mn><mo>−</mo><mn>100.81</mn></mrow> <mo>)</mo></mrow></mrow> <mrow> <mrow><mo>(</mo> <mrow> <mn>2</mn><mo>×</mo><mn>0.0025</mn><mo>×</mo><mn>101.45</mn></mrow> <mo>)</mo></mrow></mrow> </mfrac> </mrow></math></script></p>\n<p>= 4.87</p>\n</li>\n<li>\n<p>Incorrect because it does not include the 2 in the denominator of the equation.</p>\n</li>\n</ol>\n<h4>Curve-Based and Empirical Fixed-Income Risk Measures</h4>\n<ul>\n<li>explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options</li>\n</ul>\n</div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Curve Based and Empirical Fixed Income Risk Measures",
+      "question_number": 2,
+      "question": "<div><div><div>\n<p>For the two bonds offered by Large-Cap Company, which duration calculation would be the <em>most</em> appropriate to use to measure interest rate risk?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Modified duration",
+        "B": "Macaulay duration",
+        "C": "Effective duration"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Since Bond B is callable, it has an embedded option, and effective duration is the most appropriate duration measure. Effective duration also works on bonds without embedded options and would allow the analyst to compare the interest rate risk of the two bonds.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Since Bond B is callable, it has an embedded option, and effective duration is the most appropriate duration measure. Effective duration also works on bonds without embedded options and would allow the analyst to compare the interest rate risk of the two bonds.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Curve Based and Empirical Fixed Income Risk Measures",
+      "question_number": 3,
+      "question": "<div><div><p>For bonds that are otherwise identical, the one exhibiting the highest level of positive convexity is <em>most likely</em> the one that is:</p>\n<ol>\n<li>putable.</li>\n<li>callable.</li>\n<li>option-free.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. When interest rates rise, a putable bond is more likely to be put back to the issuer by the investor, limiting the loss of value and giving the bond more positive convexity than an option-free bond. In contrast, a callable bond is likely to be called from the investor when interest rates fall, limiting the gain in value and giving the bond negative convexity. Incorrect because a callable bond exhibits negative convexity. Incorrect because an option-free bond exhibits less positive convexity than a putable bond. Curve-Based and Empirical Fixed-Income Risk Measures explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> When interest rates rise, a putable bond is more likely to be put back to the issuer by the investor, limiting the loss of value and giving the bond more positive convexity than an option-free bond. In contrast, a callable bond is likely to be called from the investor when interest rates fall, limiting the gain in value and giving the bond negative convexity.</p>\n</li>\n<li>\n<p>Incorrect because a callable bond exhibits negative convexity.</p>\n</li>\n<li>\n<p>Incorrect because an option-free bond exhibits less positive convexity than a putable bond.</p>\n</li>\n</ol>\n<h4>Curve-Based and Empirical Fixed-Income Risk Measures</h4>\n<ul>\n<li>explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options</li>\n</ul>\n</div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Curve Based and Empirical Fixed Income Risk Measures",
+      "question_number": 4,
+      "question": "<div><div><div>\n<p>For Bond B, as the benchmark yield curve declines, the slope of the line tangent to the bond flattens as the benchmark yield declines and reaches an inflection point, after which the effective convexity becomes:</p>\n</div></div></div>",
+      "choices": {
+        "A": "positive.",
+        "B": "negative.",
+        "C": "neither positive nor negative."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Since the bond is callable, after a certain point on the yield curve, the issuer will exercise the call and the owner will not be able to realize additional gains from declines in the benchmark yield curve.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Since the bond is callable, after a certain point on the yield curve, the issuer will exercise the call and the owner will not be able to realize additional gains from declines in the benchmark yield curve.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Curve Based and Empirical Fixed Income Risk Measures",
+      "question_number": 5,
+      "question": "<div><div><p>In a low interest rate environment, the effective duration of a callable bond relative to a comparable non-callable bond, will <em>most likely</em> be:</p>\n<ol>\n<li>lower.</li>\n<li>the same.</li>\n<li>higher.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. When interest rates are low, the callable bond’s price will not increase as much because the presence of the call option will limit the price increase. Because the bond is likely to be called when interest rates are falling, the embedded call option will reduce the effective duration of the bond. Incorrect because in a falling interest rate environment the effective duration of a callable bond will be lower than the effective duration of a comparable non-callable bond. Incorrect because in a falling interest rate environment the effective duration of a callable bond will be lower, not higher, than the effective duration of a comparable non-callable bond. Curve-Based and Empirical Fixed-Income Risk Measures explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> When interest rates are low, the callable bond’s price will not increase as much because the presence of the call option will limit the price increase. Because the bond is likely to be called when interest rates are falling, the embedded call option will reduce the effective duration of the bond.</p>\n</li>\n<li>\n<p>Incorrect because in a falling interest rate environment the effective duration of a callable bond will be lower than the effective duration of a comparable non-callable bond.</p>\n</li>\n<li>\n<p>Incorrect because in a falling interest rate environment the effective duration of a callable bond will be lower, not higher, than the effective duration of a comparable non-callable bond.</p>\n</li>\n</ol>\n<h4>Curve-Based and Empirical Fixed-Income Risk Measures</h4>\n<ul>\n<li>explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options</li>\n</ul>\n</div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Curve Based and Empirical Fixed Income Risk Measures",
+      "question_number": 6,
+      "question": "<div><div><div>\n<p>The following information on Bonds A and B was obtained:</p>\n<div>\n<table>\n<thead>\n<tr>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: bottom;\"><strong>Bond</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong>Effective Duration</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong>Effective Convexity</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">A</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">7.48621</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">29.35972</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">B</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">7.23852</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">–321.75618</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>Compare the interest rate risk of Bond A and Bond B.</p>\n</div>\n</div></div>",
+      "choices": {
+        "A": "Bond A is riskier than Bond B.",
+        "B": "Bond B is riskier than Bond A.",
+        "C": "Bond A and Bond B have approximately the same interest rate risk."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Bond B is riskier since the 100 bps upward shift in the yield curve results in a greater percentage price decrease, owing to its negative effective convexity: %∆ PV Full Bond A ≈ (–7.48621 × 0.0100) + [½ × 29.35972 × (0.0100) 2 ] = –7.33941%. %∆ PV Full Bond B ≈ (–7.23853 × 0.0100) + [½ × –321.75618 × (0.0100) 2 ] = –8.84730%.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Bond B is riskier since the 100 bps upward shift in the yield curve results in a greater percentage price decrease, owing to its negative effective convexity:</p>\n<p><span>%∆<em>PV<sup>Full</sup></em> Bond A ≈ (–7.48621 × 0.0100) + [½ × 29.35972 × (0.0100)<sup>2</sup>] = –7.33941%.</span><span>%∆<em>PV<sup>Full</sup></em> Bond B ≈ (–7.23853 × 0.0100) + [½ × –321.75618 × (0.0100)<sup>2</sup>] = –8.84730%.</span></p>\n</div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Curve Based and Empirical Fixed Income Risk Measures",
+      "question_number": 7,
+      "question": "<div><div><p>Which of the following duration measures is the <em>most</em> appropriate measure of interest rate risk for a complex bond?</p>\n<ol>\n<li>Effective duration</li>\n<li>Modified duration</li>\n<li>Macaulay duration</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. A complex bond (such as a bond with an imbedded call option) does not have a well-defined yield to maturity because of the uncertainty of the bond’s future cash flows, which depend on future interest rate changes. Because a complex bond’s yield to maturity is not well defined, yield duration measures such as Macaulay duration and modified duration are inappropriate measures of interest rate risk. Therefore, effective duration is the appropriate duration measure for a complex bond. Incorrect because modified duration is a yield duration measure of the sensitivity of the bond price to the bond’s own, well-defined yield to maturity. Since a complex bond lacks a well-defined yield to maturity because of the uncertainty of future cash flows, modified duration is not an appropriate measure of a complex bond’s interest rate risk. Incorrect because Macaulay duration is a yield duration measure of the sensitivity of the bond price to the bond’s own, well-defined yield to maturity. Since a complex bond lacks a well-defined yield to maturity because of the uncertainty of future cash flows, Macaulay duration is not an appropriate measure of a complex bond’s interest rate risk. Curve-Based and Empirical Fixed-Income Risk Measures explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> A complex bond (such as a bond with an imbedded call option) does not have a well-defined yield to maturity because of the uncertainty of the bond’s future cash flows, which depend on future interest rate changes. Because a complex bond’s yield to maturity is not well defined, yield duration measures such as Macaulay duration and modified duration are inappropriate measures of interest rate risk. Therefore, effective duration is the appropriate duration measure for a complex bond.</p>\n</li>\n<li>\n<p>Incorrect because modified duration is a yield duration measure of the sensitivity of the bond price to the bond’s own, well-defined yield to maturity. Since a complex bond lacks a well-defined yield to maturity because of the uncertainty of future cash flows, modified duration is not an appropriate measure of a complex bond’s interest rate risk.</p>\n</li>\n<li>\n<p>Incorrect because Macaulay duration is a yield duration measure of the sensitivity of the bond price to the bond’s own, well-defined yield to maturity. Since a complex bond lacks a well-defined yield to maturity because of the uncertainty of future cash flows, Macaulay duration is not an appropriate measure of a complex bond’s interest rate risk.</p>\n</li>\n</ol>\n<h4>Curve-Based and Empirical Fixed-Income Risk Measures</h4>\n<ul>\n<li>explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options</li>\n</ul>\n</div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Curve Based and Empirical Fixed Income Risk Measures",
+      "question_number": 8,
+      "question": "<div><div><div>\n<p>For the percentage price change for Bond A, given a 200 bp increase in benchmark yield, what part of the price change is of the most concern?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Duration",
+        "B": "Convexity",
+        "C": "Not able to determine with given information"
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Typically, the effect of duration is much larger than the effect of convexity. %∆ PV Full Bond A, Duration ≈ –7.48621 × 0.0200 = –14.97242%. %∆ PV Full Bond A, Convexity Adjustment ≈ ½ × 29.35972 × (–0.0200) 2 = –0.58719%.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Typically, the effect of duration is much larger than the effect of convexity.</p>\n<span>%∆<em>PV<sup>Full</sup></em> Bond A, Duration ≈ –7.48621 × 0.0200 = –14.97242%.</span><span>%∆<em>PV<sup>Full</sup></em> Bond A, Convexity Adjustment ≈ ½ × 29.35972 × (–0.0200)<sup>2</sup> = –0.58719%.</span></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Curve Based and Empirical Fixed Income Risk Measures",
+      "question_number": 9,
+      "question": "<div><div><p>For bonds with embedded options, the <em>most</em> appropriate measure of price sensitivity to interest rate changes is:</p>\n<ol>\n<li>effective duration.</li>\n<li>modified duration.</li>\n<li>Macaulay duration.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct because effective duration is essential to the measurement of the interest rate risk of a complex bond, such as a bond that contains an embedded call option. In brief, a callable bond does not have a well-defined internal rate of return (yield-to-maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply; effective duration is the appropriate duration measure. Incorrect because in brief, an option embedded bond does not have a well-defined internal rate of return (yield-to-maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply; effective duration is the appropriate duration measure. Incorrect because in brief, an option embedded bond does not have a well-defined internal rate of return (yield-to-maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply; effective duration is the appropriate duration measure. Curve-Based and Empirical Fixed-Income Risk Measures explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong> because effective duration is essential to the measurement of the interest rate risk of a complex bond, such as a bond that contains an embedded call option. In brief, a callable bond does not have a well-defined internal rate of return (yield-to-maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply; effective duration is the appropriate duration measure.</p>\n</li>\n<li>\n<p>Incorrect because in brief, an option embedded bond does not have a well-defined internal rate of return (yield-to-maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply; effective duration is the appropriate duration measure.</p>\n</li>\n<li>\n<p>Incorrect because in brief, an option embedded bond does not have a well-defined internal rate of return (yield-to-maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply; effective duration is the appropriate duration measure.</p>\n</li>\n</ol>\n<h4>Curve-Based and Empirical Fixed-Income Risk Measures</h4>\n<ul>\n<li>explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options</li>\n</ul>\n</div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Curve Based and Empirical Fixed Income Risk Measures",
+      "question_number": 10,
+      "question": "<div><div><div>\n<p>A colleague asks whether you also considered looking at the key rate durations when comparing the interest rate risks of Bond A and Bond B. Would research into key rate durations for Bond A and Bond B help you make a better decision about the interest rate risk of the two bonds?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Yes",
+        "B": "No",
+        "C": "Inconclusive"
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Since both bonds mature in one year, key rate duration analysis would not give you any additional insight, since both bonds would undergo the same shift in the curve.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Since both bonds mature in one year, key rate duration analysis would not give you any additional insight, since both bonds would undergo the same shift in the curve.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Curve Based and Empirical Fixed Income Risk Measures",
+      "question_number": 11,
+      "question": "<div><div><div>\n<p>The investor’s portfolio is diversified, and the fixed-income component of the portfolio has bonds of various maturities, with a duration of 7.48621. What would happen to the effective duration of the fixed-income component of the investor’s portfolio if Bond A is added to the portfolio?</p>\n</div></div></div>",
+      "choices": {
+        "A": "It would increase.",
+        "B": "If would decrease.",
+        "C": "It would stay the same."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Bond A has the same effective duration as the portfolio effective duration.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Bond A has the same effective duration as the portfolio effective duration.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Curve Based and Empirical Fixed Income Risk Measures",
+      "question_number": 12,
+      "question": "<div><div><p>An analyst gathers the following information about a pension plan's liabilities:</p>\n<table class=\"table-style1\" style=\"width:314px\">\n<thead>\n<tr>\n<th style=\"width:114px; text-align:center; vertical-align:middle; max-width:114px\">Interest Rate Assumption</th>\n<th style=\"width:192px; text-align:center; vertical-align:middle; max-width:192px\">Present Value of Liabilities (in $ Millions)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"width:114px; text-align:center; max-width:114px\">0.5%</td>\n<td style=\"width:192px; text-align:center; max-width:192px\">198</td>\n</tr>\n<tr>\n<td style=\"width:114px; text-align:center; max-width:114px\">1.0%</td>\n<td style=\"width:192px; text-align:center; max-width:192px\">186</td>\n</tr>\n<tr>\n<td style=\"width:114px; text-align:center; max-width:114px\">1.5%</td>\n<td style=\"width:192px; text-align:center; max-width:192px\">174</td>\n</tr>\n</tbody>\n</table>\n<p>If interest rates are currently 1.0%, the effective duration of the liabilities is <em>closest </em>to:</p>\n<ol>\n<li>6.5.</li>\n<li>12.9.</li>\n<li>25.8.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect because this response uses 1% for the change in the benchmark yield curve (ΔCurve), instead of 0.5%. Effective duration = (PV – – PV + )/(2 × ΔCurve × PV 0 ) = ($198 million – $174 million)/(2 × 0.01 × $186 million) = 6.4516 ≈ 6.5. Correct because effective duration = (PV – – PV + )/(2 × ΔCurve × PV 0 ) = ($198 million – $174 million)/(2 × 0.005 × $186 million) = 12.9032 ≈ 12.9. Incorrect because this response uses an incorrect formula for effective duration; (PV – – PV + )/(ΔCurve × PV 0 ) = ($198 million – $174 million)/(0.005 × $186 million) = 25.8065 ≈ 25.8. Curve-Based and Empirical Fixed-Income Risk Measures explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because this response uses 1% for the change in the benchmark yield curve (ΔCurve), instead of 0.5%. Effective duration = (PV<sub>–</sub> – PV<sub>+</sub>)/(2 × ΔCurve × PV<sub>0</sub>) = ($198 million – $174 million)/(2 × 0.01 × $186 million) = 6.4516 ≈ 6.5.</p>\n</li>\n<li>\n<p><strong>Correct</strong> because effective duration = (PV<sub>–</sub> – PV<sub>+</sub>)/(2 × ΔCurve × PV<sub>0</sub>) = ($198 million – $174 million)/(2 × 0.005 × $186 million) = 12.9032 ≈ 12.9.</p>\n</li>\n<li>\n<p>Incorrect because this response uses an incorrect formula for effective duration; (PV<sub>–</sub> – PV<sub>+</sub>)/(ΔCurve × PV<sub>0</sub>) = ($198 million – $174 million)/(0.005 × $186 million) = 25.8065 ≈ 25.8.</p>\n</li>\n</ol>\n<h4>Curve-Based and Empirical Fixed-Income Risk Measures</h4>\n<ul>\n<li>explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options</li>\n</ul>\n</div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Curve Based and Empirical Fixed Income Risk Measures",
+      "question_number": 13,
+      "question": "<div><div><div>\n<p>For the two bonds under consideration, would analytical duration estimates or empirical duration estimates be <em>most</em> appropriate in conducting your analysis?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Analytical duration estimates",
+        "B": "Empirical duration estimates",
+        "C": "Either type of estimate would be appropriate."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Since both Bond A and Bond B are corporate bonds, they have credit risk, and as such, empirical duration would be the most appropriate because benchmark yields and credit spreads may not be positively correlated.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Since both Bond A and Bond B are corporate bonds, they have credit risk, and as such, empirical duration would be the most appropriate because benchmark yields and credit spreads may not be positively correlated.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Curve Based and Empirical Fixed Income Risk Measures",
+      "question_number": 14,
+      "question": "<div><div><div>\n<p>What impact would a “flight to safety” (i.e., government bond yields falling and credit spreads widening) have on the analytical duration estimate of Bond A?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Decreased duration",
+        "B": "Increased duration",
+        "C": "No impact"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. There would be no impact on the analytical duration estimate. However, an empirical duration estimate would be impacted. A flight to safety would result in an increase in the bond price due to the falling benchmark yield being offset by widening credit spread. This would lead to a lower empirical duration than analytical duration.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> There would be no impact on the analytical duration estimate. However, an empirical duration estimate would be impacted. A flight to safety would result in an increase in the bond price due to the falling benchmark yield being offset by widening credit spread. This would lead to a lower empirical duration than analytical duration.</p></div>",
+      "category": "Fixed Income"
+    }
+  ]
+}

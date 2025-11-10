@@ -1,0 +1,109 @@
+{
+  "category": "Quantitative Methods",
+  "topic": "Introduction to Big Data Techniques",
+  "total_questions": 9,
+  "questions": [
+    {
+      "title": "Introduction to Big Data Techniques",
+      "question_number": 1,
+      "question": "<div><div><div>\n<p>A characteristic of Big Data is that:</p>\n</div></div></div>",
+      "choices": {
+        "A": "it involves formats with diverse structures.",
+        "B": "one of its traditional sources is business processes.",
+        "C": "real-time communication of it is uncommon due to vast content."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Big Data is collected from many different sources and is in a variety of formats, including structured data (e.g., SQL tables), semistructured data (e.g., HTML code), and unstructured data (e.g., video messages).",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Big Data is collected from many different sources and is in a variety of formats, including structured data (e.g., SQL tables), semistructured data (e.g., HTML code), and unstructured data (e.g., video messages).</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Introduction to Big Data Techniques",
+      "question_number": 2,
+      "question": "<div><div><p>Which of the following errors would <em>most likely</em> be a result of overfitting a machine learning model?</p>\n<ol>\n<li>Inability to recognize relationships within the training data</li>\n<li>A predictive model that treats true parameters as if they are noise</li>\n<li>The discovery of unsubstantiated patterns that lead to prediction errors</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. The inability to recognize relationships within the training data most likely results from underfitting the model. Incorrect. The development of a predictive model that treats true parameters as if they are noise is most likely a result of underfitting the model. Correct . Overfitting a model can lead to the discovery of unsubstantiated patterns that lead to prediction errors and incorrect output forecasts. Introduction to Big Data Techniques describe Big Data, artificial intelligence, and machine learning",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. The inability to recognize relationships within the training data most likely results from underfitting the model.</p>\n</li>\n<li>\n<p>Incorrect. The development of a predictive model that treats true parameters as if they are noise is most likely a result of underfitting the model.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. Overfitting a model can lead to the discovery of unsubstantiated patterns that lead to prediction errors and incorrect output forecasts.</p>\n</li>\n</ol>\n<h4>Introduction to Big Data Techniques</h4>\n<ul>\n<li>describe Big Data, artificial intelligence, and machine learning</li>\n</ul>\n</div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Introduction to Big Data Techniques",
+      "question_number": 3,
+      "question": "<div><div><p>“Fintech” is <em>best</em> described as:</p>\n<ol>\n<li>technology-driven innovation in the financial service industry.</li>\n<li>the collection of large quantities of financial data from a variety of sources in multiple formats.</li>\n<li>the use of technical models to describe patterns in financial markets and make trading decisions.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct . In its broadest sense, the term “fintech” generally refers to technology-driven innovation occurring in the financial service industry. Incorrect. The collection of large quantities of data from a variety of sources in multiple formats is the description of big data. Incorrect. The use of technical models to describe patterns in financial markets and make trading decisions is the description of technical analysis. Introduction to Big Data Techniques describe aspects of “fintech” that are directly relevant for the gathering and analyzing of financial data.",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong>. In its broadest sense, the term “fintech” generally refers to technology-driven innovation occurring in the financial service industry.</p>\n</li>\n<li>\n<p>Incorrect. The collection of large quantities of data from a variety of sources in multiple formats is the description of big data.</p>\n</li>\n<li>\n<p>Incorrect. The use of technical models to describe patterns in financial markets and make trading decisions is the description of technical analysis.</p>\n</li>\n</ol>\n<h4>Introduction to Big Data Techniques</h4>\n<ul>\n<li>describe aspects of “fintech” that are directly relevant for the gathering and analyzing of financial data.</li>\n</ul>\n</div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Introduction to Big Data Techniques",
+      "question_number": 4,
+      "question": "<div><div><div>\n<p>Which of the following statements is true in the use of ML:</p>\n</div></div></div>",
+      "choices": {
+        "A": "some techniques are termed “black box” due to data biases.",
+        "B": "human judgment is not needed because algorithms continuously learn from data.",
+        "C": "training data can be learned too precisely, resulting in inaccurate predictions when used with different datasets."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Overfitting occurs when the ML model learns the input and target dataset too precisely. In this case, the model has been “overtrained” on the data and is treating noise in the data as true parameters. An ML model that has been overfitted is not able to accurately predict outcomes using a different dataset and might be too complex.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Overfitting occurs when the ML model learns the input and target dataset too precisely. In this case, the model has been “overtrained” on the data and is treating noise in the data as true parameters. An ML model that has been overfitted is not able to accurately predict outcomes using a different dataset and might be too complex.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Introduction to Big Data Techniques",
+      "question_number": 5,
+      "question": "<div><div><div>\n<p>Text analytics is appropriate for application to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "large, structured datasets.",
+        "B": "public but not private information.",
+        "C": "identifying possible short-term indicators of coming trends."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Through the text analytics application of NLP, models using NLP analysis might incorporate non-traditional information to evaluate what people are saying—through their preferences, opinions, likes, or dislikes— in an attempt to identify trends and short-term indicators—for example, about a company, a stock, or an economic event—to forecast coming trends that may affect investment performance in the future.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Through the text analytics application of NLP, models using NLP analysis might incorporate non-traditional information to evaluate what people are saying—through their preferences, opinions, likes, or dislikes— in an attempt to identify trends and short-term indicators—for example, about a company, a stock, or an economic event—to forecast coming trends that may affect investment performance in the future.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Introduction to Big Data Techniques",
+      "question_number": 6,
+      "question": "<div><div><p>An analyst creating a dataset composed largely of product reviews would <em>most likely</em> classify the data sources as generated by:</p>\n<ol>\n<li>sensors.</li>\n<li>individuals.</li>\n<li>business processes.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. Data from sensors would most likely be generated by satellites, geolocation, and connected devices and would not include product reviews. Correct . Product reviews would most likely come from individual sources. Incorrect. Data from business processes would most likely be transactional or corporate in nature. Introduction to Big Data Techniques describe Big Data, artificial intelligence, and machine learning",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Data from sensors would most likely be generated by satellites, geolocation, and connected devices and would not include product reviews.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. Product reviews would most likely come from individual sources.</p>\n</li>\n<li>\n<p>Incorrect. Data from business processes would most likely be transactional or corporate in nature.</p>\n</li>\n</ol>\n<h4>Introduction to Big Data Techniques</h4>\n<ul>\n<li>describe Big Data, artificial intelligence, and machine learning</li>\n</ul>\n</div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Introduction to Big Data Techniques",
+      "question_number": 7,
+      "question": "<div><div><p>“Big data” is <em>best</em> described as:</p>\n<ol>\n<li>technology-driven innovation in the financial service industry.</li>\n<li>the collection of large quantities of financial data from a variety of sources in multiple formats.</li>\n<li>the use of technical models to describe patterns in financial markets and make trading decisions.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. In its broadest sense, the term “fintech” generally refers to technology-driven innovation occurring in the financial service industry. Correct . The collection of large quantities of data from a variety of sources in multiple formats is the description of big data. Incorrect. The use of technical models to describe patterns in financial markets and make trading decisions is the description of technical analysis. Introduction to Big Data Techniques describe Big Data, artificial intelligence, and machine learning",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. In its broadest sense, the term “fintech” generally refers to technology-driven innovation occurring in the financial service industry.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. The collection of large quantities of data from a variety of sources in multiple formats is the description of big data.</p>\n</li>\n<li>\n<p>Incorrect. The use of technical models to describe patterns in financial markets and make trading decisions is the description of technical analysis.</p>\n</li>\n</ol>\n<h4>Introduction to Big Data Techniques</h4>\n<ul>\n<li>describe Big Data, artificial intelligence, and machine learning</li>\n</ul>\n</div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Introduction to Big Data Techniques",
+      "question_number": 8,
+      "question": "<div><div><p>Which of the following statements <em>best</em> describes a potential concern for clients using robo-advisers? Robo-advisers:</p>\n<ol>\n<li>must be established as registered investment advisers.</li>\n<li>do not seem to incorporate the full range of investment information into their recommendations.</li>\n<li>are likely to be held to a similar code of conduct as other investment professionals in the given region.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. It is an advantage to clients that robo-advisers must be registered as investment advisers, because they are subject to guidance from the securities regulator of their country. Correct . Initial research has shown that robo-advisers do not seem to incorporate the full range of investment information into their recommendations, meaning that important points may be missing in investment decisions. Incorrect. It is an advantage to clients that robo-advisers must be held to a similar code of conduct as other investment professionals in the given region. Introduction to Big Data Techniques describe applications of Big Data and Data Science to investment management",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. It is an advantage to clients that robo-advisers must be registered as investment advisers, because they are subject to guidance from the securities regulator of their country.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. Initial research has shown that robo-advisers do not seem to incorporate the full range of investment information into their recommendations, meaning that important points may be missing in investment decisions.</p>\n</li>\n<li>\n<p>Incorrect. It is an advantage to clients that robo-advisers must be held to a similar code of conduct as other investment professionals in the given region.</p>\n</li>\n</ol>\n<h4>Introduction to Big Data Techniques</h4>\n<ul>\n<li>describe applications of Big Data and Data Science to investment management</li>\n</ul>\n</div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Introduction to Big Data Techniques",
+      "question_number": 9,
+      "question": "<div><div><p>The computerized buying and selling of financial instruments, in accordance with pre-specified rules and guidelines, is <em>best</em> described as:</p>\n<ol>\n<li>a dark pool.</li>\n<li>robo-advising.</li>\n<li>algorithmic trading.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. Dark pools are alternative trading destinations. Incorrect. Robo-advising suggests assets for clients but does not necessarily place the trades. Correct . Algorithmic trading is defined as the computerized buying and selling of financial instruments, in accordance with pre-specified rules and guidelines. Introduction to Big Data Techniques describe applications of Big Data and Data Science to investment management",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Dark pools are alternative trading destinations.</p>\n</li>\n<li>\n<p>Incorrect. Robo-advising suggests assets for clients but does not necessarily place the trades.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. Algorithmic trading is defined as the computerized buying and selling of financial instruments, in accordance with pre-specified rules and guidelines.</p>\n</li>\n</ol>\n<h4>Introduction to Big Data Techniques</h4>\n<ul>\n<li>describe applications of Big Data and Data Science to investment management</li>\n</ul>\n</div>",
+      "category": "Quantitative Methods"
+    }
+  ]
+}

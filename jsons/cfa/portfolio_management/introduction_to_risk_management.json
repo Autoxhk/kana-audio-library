@@ -1,0 +1,393 @@
+{
+  "category": "Portfolio Management",
+  "topic": "Introduction to Risk Management",
+  "total_questions": 31,
+  "questions": [
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 1,
+      "question": "<div><div><div>\n<p>Risk management in the case of individuals is <em>best </em>described as concerned with:</p>\n</div></div></div>",
+      "choices": {
+        "A": "hedging risk exposures.",
+        "B": "maximizing utility while bearing a tolerable level of risk.",
+        "C": "maximizing utility while avoiding exposure to undesirable risks."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. For individuals, risk management concerns maximizing utility while taking risk consistent with individual’s level of risk tolerance.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> For individuals, risk management concerns maximizing utility while taking risk consistent with individual’s level of risk tolerance.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 2,
+      "question": "<div><div><p>Which of the following pairs of risks are <em>most closely</em> related?</p>\n<ol>\n<li>Model risk and tail risk</li>\n<li>Liquidity risk and operational risk</li>\n<li>Credit risk and solvency risk</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct . Model risk is the risk of using the wrong model to analyze an investment or the risk of using the right model for the analysis but using it incorrectly. Tail risk, although it involves unlikely but substantial losses, typically results from using inappropriate modeling assumptions such as assuming that returns are normally distributed. Credit risk involves the risk of a borrower not repaying you, whereas solvency risk is the risk of you running out of the money needed to pay your obligations. Liquidity risk is the risk that the future transaction price for an investment will be different than expected, whereas operational risk includes a wide range of potential problems occurring within an organization’s personnel and systems. Incorrect. Liquidity risk is the risk that the future transaction price for an investment will be different than expected, whereas operational risk includes a wide range of potential problems occurring within an organization’s personnel and systems. Incorrect. Credit risk involves the risk of a borrower not repaying you, whereas solvency risk is the risk of you running out of the money needed to pay your obligations. Introduction to Risk Management identify financial and non-financial sources of risk and describe how they may interact",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong>. Model risk is the risk of using the wrong model to analyze an investment or the risk of using the right model for the analysis but using it incorrectly. Tail risk, although it involves unlikely but substantial losses, typically results from using inappropriate modeling assumptions such as assuming that returns are normally distributed. Credit risk involves the risk of a borrower not repaying you, whereas solvency risk is the risk of you running out of the money needed to pay your obligations. Liquidity risk is the risk that the future transaction price for an investment will be different than expected, whereas operational risk includes a wide range of potential problems occurring within an organization’s personnel and systems.</p>\n</li>\n<li>\n<p>Incorrect. Liquidity risk is the risk that the future transaction price for an investment will be different than expected, whereas operational risk includes a wide range of potential problems occurring within an organization’s personnel and systems.</p>\n</li>\n<li>\n<p>Incorrect. Credit risk involves the risk of a borrower not repaying you, whereas solvency risk is the risk of you running out of the money needed to pay your obligations.</p>\n</li>\n</ol>\n<h4>Introduction to Risk Management</h4>\n<ul>\n<li>identify financial and non-financial sources of risk and describe how they may interact</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 3,
+      "question": "<div><div><p>The German firm IHK AG has entered into a three-month forward currency contract to purchase USD35 million versus euros from US firm GED Corp. to hedge a future payment obligation. The US dollar appreciates 5% in the coming three months. IHK should <em>most likely</em> focus on:</p>\n<ol>\n<li>market risk.</li>\n<li>liquidity risk.</li>\n<li>counterparty risk.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. IHK would not face market risk since the forward contract would have become more valuable during the three months. Incorrect. Liquidity risk is the risk of a significant downward valuation adjustment when selling a financial asset and is not applicable for a contract for which the price was fixed when the contract was initiated. Correct . IHK’s potential risk is settlement risk, which is a type of counterparty risk. Settlement risk deals with the settling of payments that occur just before a default. If IHK wires the euros to GED and GED then declares bankruptcy, IHK will not be able to get the money back. Introduction to Risk Management identify financial and non-financial sources of risk and describe how they may interact",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. IHK would not face market risk since the forward contract would have become more valuable during the three months.</p>\n</li>\n<li>\n<p>Incorrect. Liquidity risk is the risk of a significant downward valuation adjustment when selling a financial asset and is not applicable for a contract for which the price was fixed when the contract was initiated.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. IHK’s potential risk is settlement risk, which is a type of counterparty risk. Settlement risk deals with the settling of payments that occur just before a default. If IHK wires the euros to GED and GED then declares bankruptcy, IHK will not be able to get the money back.</p>\n</li>\n</ol>\n<h4>Introduction to Risk Management</h4>\n<ul>\n<li>identify financial and non-financial sources of risk and describe how they may interact</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 4,
+      "question": "<div><div><div>\n<p>Which of the following may be controlled by an investor?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Risk",
+        "B": "Raw returns",
+        "C": "Risk-adjusted returns"
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Many decision makers focus on return, which is not something that is easily controlled, as opposed to risk, or exposure to risk, which may actually be managed or controlled",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Many decision makers focus on return, which is not something that is easily controlled, as opposed to risk, or exposure to risk, which may actually be managed or controlled</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 5,
+      "question": "<div><div><div>\n<p>The process of risk management includes:</p>\n</div></div></div>",
+      "choices": {
+        "A": "minimizing risk.",
+        "B": "maximizing returns.",
+        "C": "defining and measuring risks being taken."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Risks need to be defined and measured so as to be consistent with the organization’s chosen level of risk tolerance and target for returns or other outcomes.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Risks need to be defined and measured so as to be consistent with the organization’s chosen level of risk tolerance and target for returns or other outcomes.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 6,
+      "question": "<div><div><p>A risk metric that measures how different an actual investment outcome could be from what the investor expects is <em>most likely </em>a:</p>\n<ol>\n<li>vega.</li>\n<li>duration.</li>\n<li>standard deviation.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. Vega measures the sensitivity of a security (either a derivative or a security with derivative-like characteristics) to a change in the price volatility of the underlying asset. Incorrect. Duration measures the sensitivity of a security or portfolio to a change in market interest rates. Correct . Standard deviation is a measure of dispersion in a probability distribution and is used to describe the range of outcomes (minimum and maximum, centered on the expected outcome) that can occur with a particular probability. In contrast, duration measures the sensitivity of a security or portfolio to a change in market interest rates, and vega measures the sensitivity of a security (either a derivative or a security with derivative-like characteristics) to a change in the price volatility of the underlying asset. Introduction to Risk Management describe methods for measuring and modifying risk exposures and factors to consider in choosing among the methods",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Vega measures the sensitivity of a security (either a derivative or a security with derivative-like characteristics) to a change in the price volatility of the underlying asset.</p>\n</li>\n<li>\n<p>Incorrect. Duration measures the sensitivity of a security or portfolio to a change in market interest rates.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. Standard deviation is a measure of dispersion in a probability distribution and is used to describe the range of outcomes (minimum and maximum, centered on the expected outcome) that can occur with a particular probability. In contrast, duration measures the sensitivity of a security or portfolio to a change in market interest rates, and vega measures the sensitivity of a security (either a derivative or a security with derivative-like characteristics) to a change in the price volatility of the underlying asset.</p>\n</li>\n</ol>\n<h4>Introduction to Risk Management</h4>\n<ul>\n<li>describe methods for measuring and modifying risk exposures and factors to consider in choosing among the methods</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 7,
+      "question": "<div><div><p>Risk budgeting <em>most likely</em>:</p>\n<ol>\n<li>limits the cost of hedging a portfolio.</li>\n<li>can be defined by a measure such as beta or scenario loss.</li>\n<li>focuses on the appetite for risk and what exposures are acceptable.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. Limiting the amount invested for hedging purposes is not a result of a market-benchmarked choice of risk intensity. Correct . Risk budgeting quantifies and allocates the tolerable risk according to specific metrics. A risk budget can be multidimensional or a simple, one-dimensional risk measure, such as standard deviation, beta, value at risk, or scenario loss, among others. Incorrect. Risk tolerance focuses on the appetite for risk. Introduction to Risk Management describe risk budgeting and its role in risk governance",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Limiting the amount invested for hedging purposes is not a result of a market-benchmarked choice of risk intensity.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. Risk budgeting quantifies and allocates the tolerable risk according to specific metrics. A risk budget can be multidimensional or a simple, one-dimensional risk measure, such as standard deviation, beta, value at risk, or scenario loss, among others.</p>\n</li>\n<li>\n<p>Incorrect. Risk tolerance focuses on the appetite for risk.</p>\n</li>\n</ol>\n<h4>Introduction to Risk Management</h4>\n<ul>\n<li>describe risk budgeting and its role in risk governance</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 8,
+      "question": "<div><div><div>\n<p>The factors a risk management framework should address include all of the following <em>except</em>:</p>\n</div></div></div>",
+      "choices": {
+        "A": "communications.",
+        "B": "policies and processes.",
+        "C": "names of responsible individuals."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. While risk infrastructure, which a risk management framework must address, refers to the people and systems required to track risk exposures, there is no requirement to actually name the responsible individuals.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> While risk infrastructure, which a risk management framework must address, refers to the people and systems required to track risk exposures, there is no requirement to actually name the responsible individuals.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 9,
+      "question": "<div><div><div>\n<p>Which of the following <em>best</em> describes activities that are supported by a risk management infrastructure?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Risk tolerance, budgeting, and reporting",
+        "B": "Risk tolerance, measurement, and monitoring",
+        "C": "Risk identification, measurement, and monitoring"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Risk infrastructure refers to the people and systems required to track risk exposures and perform most of the quantitative risk analysis to allow an assessment of the organization’s risk profile. The risk management infrastructure identifies, measures, and monitors risks (among other things).",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong><em> Risk infrastructure</em> refers to the people and systems required to track risk exposures and perform most of the quantitative risk analysis to allow an assessment of the organization’s risk profile. The risk management infrastructure identifies, measures, and monitors risks (among other things).</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 10,
+      "question": "<div><div><p>A major benefit of employing a risk budgeting process is that it <em>most likely</em>:</p>\n<ol>\n<li>allows the organization to determine its enterprise risk tolerance.</li>\n<li>forces risk tradeoffs across the organization.</li>\n<li>eliminates the need for hedging within the organization.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. The risk tolerance of the organization defines its risk budget, not the other way around. Correct . Adding a risk budgeting process causes the organization to consider how its total risk tolerance will be allocated across its subsidiaries. Either the total current risks the subsidiaries are engaging in will exceed the risk tolerance and subsidiaries will have to compete for risk by demonstrating highest returns per unit of risk or the total current risks will be less than the risk tolerance and a search will be underway for the subsidiaries that can best utilize the remaining risk budget. The risk tolerance is determined and then sets the risk budget, rather than being determined by it. Hedging can be a part of risk budgeting if hedging produces the superior risk adjusted returns. Incorrect. Hedging can be a part of risk budgeting if it produces the best returns per unit of the risk budget. Introduction to Risk Management describe risk budgeting and its role in risk governance",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. The risk tolerance of the organization defines its risk budget, not the other way around.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. Adding a risk budgeting process causes the organization to consider how its total risk tolerance will be allocated across its subsidiaries. Either the total current risks the subsidiaries are engaging in will exceed the risk tolerance and subsidiaries will have to compete for risk by demonstrating highest returns per unit of risk or the total current risks will be less than the risk tolerance and a search will be underway for the subsidiaries that can best utilize the remaining risk budget. The risk tolerance is determined and then sets the risk budget, rather than being determined by it. Hedging can be a part of risk budgeting if hedging produces the superior risk adjusted returns.</p>\n</li>\n<li>\n<p>Incorrect. Hedging can be a part of risk budgeting if it produces the best returns per unit of the risk budget.</p>\n</li>\n</ol>\n<h4>Introduction to Risk Management</h4>\n<ul>\n<li>describe risk budgeting and its role in risk governance</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 11,
+      "question": "<div><div><div>\n<p>Risk governance:</p>\n</div></div></div>",
+      "choices": {
+        "A": "aligns risk management activities with the goals of the overall enterprise.",
+        "B": "defines the qualitative assessment and evaluation of potential sources of risk in an organization.",
+        "C": "delegates responsibility for risk management to all levels of the organization’s hierarchy."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Risk governance is the top-down process that defines risk tolerance, provides risk oversight and guidance to align risk with enterprise goals.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Risk governance is the top-down process that defines risk tolerance, provides risk oversight and guidance to align risk with enterprise goals.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 12,
+      "question": "<div><div><p>A top-down process that offers guidance and directs activities that seek to maximize the value of an enterprise is <em>most likely</em> an element of:</p>\n<ol>\n<li>risk governance.</li>\n<li>risk infrastructure.</li>\n<li>risk monitoring and mitigation.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct . Risk governance is the top-down process and guidance that directs risk management activities to align with and support the overall enterprise. Incorrect. Risk infrastructure refers to the people and systems required to track risk exposures and to perform quantitative risk analysis to allow assessment of a risk profile. Incorrect. Active risk monitoring and mitigation requires pulling together risk governance, identification, measurement, infrastructure, policies, and procedures and continually reevaluating in the face of changing risk exposures and risk drivers. Introduction to Risk Management define risk governance and describe elements of effective risk governance",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong>. Risk governance is the top-down process and guidance that directs risk management activities to align with and support the overall enterprise.</p>\n</li>\n<li>\n<p>Incorrect. Risk infrastructure refers to the people and systems required to track risk exposures and to perform quantitative risk analysis to allow assessment of a risk profile.</p>\n</li>\n<li>\n<p>Incorrect. Active risk monitoring and mitigation requires pulling together risk governance, identification, measurement, infrastructure, policies, and procedures and continually reevaluating in the face of changing risk exposures and risk drivers.</p>\n</li>\n</ol>\n<h4>Introduction to Risk Management</h4>\n<ul>\n<li>define risk governance and describe elements of effective risk governance</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 13,
+      "question": "<div><div><p>A good risk governance process would <em>most likely</em>:</p>\n<ol>\n<li>provide guidance on the size of the largest acceptable loss for the organization.</li>\n<li>provide different risk targets for each unit within the organization.</li>\n<li>be a bottom-up process that reflects the current risk exposures of all parts of the organization.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct . A quality risk governance process takes a top-down approach and is charged with risk oversight for the entire organization. It should operate on an enterprise-wise basis rather than viewing each unit in isolation. It will determine the organization’s risk tolerance and provide a sense of the maximum loss the organization can absorb. Incorrect. A good risk governance process looks at the enterprise as a whole rather than viewing individual units in isolation. Incorrect. A risk governance process is a top-down process. Introduction to Risk Management define risk governance and describe elements of effective risk governance",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong>. A quality risk governance process takes a top-down approach and is charged with risk oversight for the entire organization. It should operate on an enterprise-wise basis rather than viewing each unit in isolation. It will determine the organization’s risk tolerance and provide a sense of the maximum loss the organization can absorb.</p>\n</li>\n<li>\n<p>Incorrect. A good risk governance process looks at the enterprise as a whole rather than viewing individual units in isolation.</p>\n</li>\n<li>\n<p>Incorrect. A risk governance process is a top-down process.</p>\n</li>\n</ol>\n<h4>Introduction to Risk Management</h4>\n<ul>\n<li>define risk governance and describe elements of effective risk governance</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 14,
+      "question": "<div><div><div>\n<p>Effective risk governance in an enterprise provides guidance on all of the following <em>except</em>:</p>\n</div></div></div>",
+      "choices": {
+        "A": "unacceptable risks.",
+        "B": "worst losses that may be tolerated.",
+        "C": "specific methods to mitigate risk for each subsidiary in the enterprise ."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Risk governance is not about specifying methods to mitigate risk at the business line level. Rather, it is about establishing an appropriate level of risk for the entire enterprise. Specifics of dealing with risk fall under risk management and the risk infrastructure framework.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Risk governance is not about specifying methods to mitigate risk at the business line level. Rather, it is about establishing an appropriate level of risk for the entire enterprise. Specifics of dealing with risk fall under risk management and the risk infrastructure framework.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 15,
+      "question": "<div><div><div>\n<p>A firm’s risk management committee would be expected to do all of the following <em>except</em>:</p>\n</div></div></div>",
+      "choices": {
+        "A": "approving the governing body’s proposed risk policies.",
+        "B": "deliberating the governing body’s risk policies at the operational level.",
+        "C": "providing top decision-makers with a forum for considering risk management issues."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The risk management committee is a part of the risk governance structure at the operational level—as such, it does not approve the governing body’s policies.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The risk management committee is a part of the risk governance structure at the operational level—as such, it does not approve the governing body’s policies.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 16,
+      "question": "<div><div><p>The top level of a risk management system <em>most likely </em>is:</p>\n<ol>\n<li>risk governance.</li>\n<li>strategic analysis or integration.</li>\n<li>defined policies or procedures.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct . Normally a role of the board of directors of a company, risk governance is where goals and responsibilities are defined and top-level decisions (such as determining the company’s risk tolerance) are made. Incorrect. Strategic analysis or integration occurs at the end of the process and leads to changes in investment decision-making and firm strategy going forward. Incorrect. Policies and procedures extend risk governance into the day to day operations of the company. Introduction to Risk Management describe features of a risk management framework",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong>. Normally a role of the board of directors of a company, risk governance is where goals and responsibilities are defined and top-level decisions (such as determining the company’s risk tolerance) are made.</p>\n</li>\n<li>\n<p>Incorrect. Strategic analysis or integration occurs at the end of the process and leads to changes in investment decision-making and firm strategy going forward.</p>\n</li>\n<li>\n<p>Incorrect. Policies and procedures extend risk governance into the day to day operations of the company.</p>\n</li>\n</ol>\n<h4>Introduction to Risk Management</h4>\n<ul>\n<li>describe features of a risk management framework</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 17,
+      "question": "<div><div><div>\n<p>Once an enterprise’s risk tolerance is determined, the role of risk management is to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "analyze risk drivers.",
+        "B": "align risk exposures with risk appetite.",
+        "C": "identify the extent to which the enterprise is willing to fail in meeting its objectives."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. When risk tolerance has been determined, the risk framework should be geared toward measuring, managing, and complying with the risk tolerance, or aligning risk exposure with risk tolerance. The risk tolerance decision begins by looking at what shortfalls within an organization would cause it to fail to achieve some critical goals and what are the organization’s risk drivers.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> When risk tolerance has been determined, the risk framework should be geared toward measuring, managing, and complying with the risk tolerance, or aligning risk exposure with risk tolerance. The risk tolerance decision begins by looking at what shortfalls within an organization would cause it to fail to achieve some critical goals and what are the organization’s risk drivers.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 18,
+      "question": "<div><div><p>Risk management is <em>most likely </em>the process by which an organization:</p>\n<ol>\n<li>minimizes its exposure to potential losses.</li>\n<li>adjusts its risk to a predetermined level.</li>\n<li>maximizes its risk-adjusted return.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. A minimum risk position may not be optimal for the organization. Correct . An organization with a strong competitive position can recover from losses more easily than one with a weaker competitive position. Therefore, an organization’s risk tolerance should reflect its competitive position. An organization’s size does not define the risk sources it faces or the relative losses it can absorb, so it should not be reflected in its risk tolerance. Neither the risk sources affecting an organization nor the size of the losses an organization can absorb are a function of its perception of market stability. Incorrect. A high risk-adjusted return may require a level of risk taking that is beyond the organization’s capacity to absorb. Introduction to Risk Management define risk management",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. A minimum risk position may not be optimal for the organization.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. An organization with a strong competitive position can recover from losses more easily than one with a weaker competitive position. Therefore, an organization’s risk tolerance should reflect its competitive position. An organization’s size does not define the risk sources it faces or the relative losses it can absorb, so it should not be reflected in its risk tolerance. Neither the risk sources affecting an organization nor the size of the losses an organization can absorb are a function of its perception of market stability.</p>\n</li>\n<li>\n<p>Incorrect. A high risk-adjusted return may require a level of risk taking that is beyond the organization’s capacity to absorb.</p>\n</li>\n</ol>\n<h4>Introduction to Risk Management</h4>\n<ul>\n<li>define risk management</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 19,
+      "question": "<div><div><p>An example of risk transfer combined with self-insurance is <em>most likely</em>:</p>\n<ol>\n<li>a bond portfolio hedged with an interest rate option.</li>\n<li>an insurance policy with a deductible.</li>\n<li>a bank that establishes a loan loss reserve fund.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. Hedging with derivatives accomplishes risk shifting, not risk transfer. Correct . Risk transfer is accomplished through an insurance policy. A deductible in an insurance policy means the insured is bearing some of the risk of loss and thereby (partially) self-insuring. Hedging with derivatives accomplishes risk shifting, not risk transfer. A bank loan loss reserve is a form of self-insurance combined with diversification, but it does not include risk transfer. Incorrect. A bank loan loss reserve is a form of self-insurance combined with diversification, but it does not include risk transfer. Introduction to Risk Management describe methods for measuring and modifying risk exposures and factors to consider in choosing among the methods",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Hedging with derivatives accomplishes risk shifting, not risk transfer.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. Risk transfer is accomplished through an insurance policy. A deductible in an insurance policy means the insured is bearing some of the risk of loss and thereby (partially) self-insuring. Hedging with derivatives accomplishes risk shifting, not risk transfer. A bank loan loss reserve is a form of self-insurance combined with diversification, but it does not include risk transfer.</p>\n</li>\n<li>\n<p>Incorrect. A bank loan loss reserve is a form of self-insurance combined with diversification, but it does not include risk transfer.</p>\n</li>\n</ol>\n<h4>Introduction to Risk Management</h4>\n<ul>\n<li>describe methods for measuring and modifying risk exposures and factors to consider in choosing among the methods</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 20,
+      "question": "<div><div><div>\n<p>Which factor should <em>most</em> affect a company’s ability to tolerate risk?</p>\n</div></div></div>",
+      "choices": {
+        "A": "A stable market environment",
+        "B": "The beliefs of the individual board members",
+        "C": "The ability to dynamically respond to adverse events"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. If a company has the ability to adapt quickly to adverse events may allow for a higher risk tolerance. There are other factors, such as beliefs of board members and a stable market environment, which may but should not affect risk tolerance.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> If a company has the ability to adapt quickly to adverse events may allow for a higher risk tolerance. There are other factors, such as beliefs of board members and a stable market environment, which may but should not affect risk tolerance.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 21,
+      "question": "<div><div><div>\n<p>Which of the following is the correct sequence of events for risk governance and management that focuses on the entire enterprise? Establishing:</p>\n</div></div></div>",
+      "choices": {
+        "A": "risk tolerance, then risk budgeting, and then risk exposures.",
+        "B": "risk exposures, then risk tolerance, and then risk budgeting.",
+        "C": "risk budgeting, then risk exposures, and then risk tolerance."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. In establishing a risk management system, determining risk tolerance must happen before specific risks can be accepted or reduced. Risk tolerance defines the appetite for risk. Risk budgeting determine how or where the risk is taken and quantifies the tolerable risk by specific metrics. Risk exposures can then be measured and compared against the acceptable risk.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> In establishing a risk management system, determining risk tolerance must happen before specific risks can be accepted or reduced. Risk tolerance defines the appetite for risk. Risk budgeting determine how or where the risk is taken and quantifies the tolerable risk by specific metrics. Risk exposures can then be measured and compared against the acceptable risk.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 22,
+      "question": "<div><div><p>Within a risk management framework, risk tolerance:</p>\n<ol>\n<li>and risk exposure should be kept in alignment.</li>\n<li>includes the qualitative assessment and evaluation of risk.</li>\n<li>is determined as a result of establishing how and where risk is taken.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct . The process of risk monitoring, mitigation, and management is the most obvious facet of the risk management framework and requires recognizing when risk exposure is not aligned with risk tolerance. Incorrect. Risk identification and measurement include the qualitative assessment and evaluation of risk. Incorrect. Risk tolerance can provide guidance on risk budgeting, which is how and where risk is taken. Risk budgeting is a result of determining risk tolerance. Introduction to Risk Management explain how risk tolerance affects risk management",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong>. The process of risk monitoring, mitigation, and management is the most obvious facet of the risk management framework and requires recognizing when risk exposure is not aligned with risk tolerance.</p>\n</li>\n<li>\n<p>Incorrect. Risk identification and measurement include the qualitative assessment and evaluation of risk.</p>\n</li>\n<li>\n<p>Incorrect. Risk tolerance can provide guidance on risk budgeting, which is how and where risk is taken. Risk budgeting is a result of determining risk tolerance.</p>\n</li>\n</ol>\n<h4>Introduction to Risk Management</h4>\n<ul>\n<li>explain how risk tolerance affects risk management</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 23,
+      "question": "<div><div><div>\n<p>Risk budgeting includes all of the following <em>except</em>:</p>\n</div></div></div>",
+      "choices": {
+        "A": "determining the target return.",
+        "B": "quantifying tolerable risk by specific metrics.",
+        "C": "allocating a portfolio by some risk characteristics of the investments."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Risk budgeting does not include determining the target return. Risk budgeting quantifies and allocates the tolerable risk by specific metrics.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Risk budgeting does not include determining the target return. Risk budgeting quantifies and allocates the tolerable risk by specific metrics.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 24,
+      "question": "<div><div><p>Among other things, an organization’s risk tolerance should <em>most likely</em> reflect its:</p>\n<ol>\n<li>perception of market stability.</li>\n<li>size.</li>\n<li>competitive position.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. Neither the risk sources affecting an organization nor the size of the losses an organization can absorb are a function of perceived market stability. Incorrect. An organization’s size does not define the risk sources it faces or the relative losses it can absorb, so it should not be reflected in its risk tolerance. Correct . An organization with a strong competitive position can recover from losses more easily than one with a weaker competitive position. Therefore an organization’s risk tolerance should reflect its competitive position. An organization’s size does not define the risk sources it faces or the relative losses it can absorb, so it should not be reflected in its risk tolerance. Neither the risk sources affecting an organization nor the size of the losses an organization can absorb are a function of its perception of market stability. Introduction to Risk Management explain how risk tolerance affects risk management",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Neither the risk sources affecting an organization nor the size of the losses an organization can absorb are a function of perceived market stability.</p>\n</li>\n<li>\n<p>Incorrect. An organization’s size does not define the risk sources it faces or the relative losses it can absorb, so it should not be reflected in its risk tolerance.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. An organization with a strong competitive position can recover from losses more easily than one with a weaker competitive position. Therefore an organization’s risk tolerance should reflect its competitive position. An organization’s size does not define the risk sources it faces or the relative losses it can absorb, so it should not be reflected in its risk tolerance. Neither the risk sources affecting an organization nor the size of the losses an organization can absorb are a function of its perception of market stability.</p>\n</li>\n</ol>\n<h4>Introduction to Risk Management</h4>\n<ul>\n<li>explain how risk tolerance affects risk management</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 25,
+      "question": "<div><div><div>\n<p>A benefit of risk budgeting is that it:</p>\n</div></div></div>",
+      "choices": {
+        "A": "considers risk tradeoffs.",
+        "B": "establishes a firm’s risk tolerance.",
+        "C": "reduces uncertainty facing the firm."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The process of risk budgeting forces the firm to consider risk tradeoffs. As a result, the firm should choose to invest where the return per unit of risk is the highest.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The process of risk budgeting forces the firm to consider risk tradeoffs. As a result, the firm should choose to invest where the return per unit of risk is the highest.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 26,
+      "question": "<div><div><div>\n<p>Which of the following risks is <em>best</em> described as a financial risk?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Credit",
+        "B": "Solvency",
+        "C": "Operational"
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. A financial risk originates from the financial markets. Credit risk is one of three financial risks identified in the reading: Credit risk is the chance of loss due to an outside party defaulting on an obligation. Solvency risk depends at least in part on factors internal to the organization and operational risk is an internal risk arising from the people and processes within the organization.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> A financial risk originates from the financial markets. Credit risk is one of three financial risks identified in the reading: Credit risk is the chance of loss due to an outside party defaulting on an obligation. Solvency risk depends at least in part on factors internal to the organization and operational risk is an <em>internal</em> risk arising from the people and processes within the organization.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 27,
+      "question": "<div><div><div>\n<p>Liquidity risk is <em>most</em> associated with:</p>\n</div></div></div>",
+      "choices": {
+        "A": "the probability of default.",
+        "B": "a widening bid–ask spread.",
+        "C": "a poorly functioning market."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Liquidity risk is also called transaction cost risk. When the bid–ask spread widens, purchase and sale transactions become increasingly costly. The risk arises from the uncertainty of the spread.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Liquidity risk is also called transaction cost risk. When the bid–ask spread widens, purchase and sale transactions become increasingly costly. The risk arises from the uncertainty of the spread.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 28,
+      "question": "<div><div><div>\n<p>An example of a non-financial risk is:</p>\n</div></div></div>",
+      "choices": {
+        "A": "market risk.",
+        "B": "liquidity risk.",
+        "C": "settlement risk."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Settlement risk is related to default risk but deals with the timing of payments rather than the risk of default.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Settlement risk is related to default risk but deals with the timing of payments rather than the risk of default.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 29,
+      "question": "<div><div><div>\n<p>If a company has a one-day 5% Value at Risk of $1 million, this means:</p>\n</div></div></div>",
+      "choices": {
+        "A": "5% of the time the firm is expected to lose at least $1 million in one day.",
+        "B": "95% of the time the firm is expected to lose at least $1 million in one day.",
+        "C": "5% of the time the firm is expected to lose no more than $1 million in one day."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The VaR measure indicates the probability of a loss of at least a certain level in a time period.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The VaR measure indicates the probability of a loss of at least a certain level in a time period.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 30,
+      "question": "<div><div><div>\n<p>An organization choosing to accept a risk exposure may:</p>\n</div></div></div>",
+      "choices": {
+        "A": "buy insurance.",
+        "B": "enter into a derivative contract.",
+        "C": "establish a reserve fund to cover losses."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Risk acceptance is similar to self-insurance. An organization choosing to self-insure may set up a reserve fund to cover losses. Buying insurance is a form of risk transfer and using derivatives is a form of risk-shifting, not risk acceptance.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Risk acceptance is similar to self-insurance. An organization choosing to self-insure may set up a reserve fund to cover losses. Buying insurance is a form of risk transfer and using derivatives is a form of risk-shifting, not risk acceptance.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Introduction to Risk Management",
+      "question_number": 31,
+      "question": "<div><div><div>\n<p>The choice of risk-modification method is based on:</p>\n</div></div></div>",
+      "choices": {
+        "A": "minimizing risk at the lowest cost.",
+        "B": "maximizing returns at the lowest cost.",
+        "C": "weighing costs versus benefits in light of the organization’s risk tolerance."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Among the risk-modification methods of risk avoidance, risk acceptance, risk transfer, and risk shifting none has a clear advantage. One must weigh benefits and costs in light of the firm’s risk tolerance when choosing the method to use.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Among the risk-modification methods of risk avoidance, risk acceptance, risk transfer, and risk shifting none has a clear advantage. One must weigh benefits and costs in light of the firm’s risk tolerance when choosing the method to use.</p></div>",
+      "category": "Portfolio Management"
+    }
+  ]
+}

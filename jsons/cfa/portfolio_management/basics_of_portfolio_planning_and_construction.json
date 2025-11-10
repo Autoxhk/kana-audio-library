@@ -1,0 +1,393 @@
+{
+  "category": "Portfolio Management",
+  "topic": "Basics of Portfolio Planning and Construction",
+  "total_questions": 31,
+  "questions": [
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 1,
+      "question": "<div><div><div>\n<p>Which of the following is <em>least</em> important as a reason for a written investment policy statement (IPS)?</p>\n</div></div></div>",
+      "choices": {
+        "A": "The IPS may be required by regulation.",
+        "B": "Having a written IPS is part of best practice for a portfolio manager.",
+        "C": "Having a written IPS ensures the client’s risk and return objectives can be achieved."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Depending on circumstances, a written IPS or its equivalent may be required by law or regulation and a written IPS is certainly consistent with best practices. The mere fact that a written IPS is prepared for a client, however, does not ensure that risk and return objectives will in fact be achieved.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Depending on circumstances, a written IPS or its equivalent may be required by law or regulation and a written IPS is certainly consistent with best practices. The mere fact that a written IPS is prepared for a client, however, does not <em>ensure</em> that risk and return objectives will in fact be achieved.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 2,
+      "question": "<div><div><p>An investment policy statement’s risk objective states that over a 12-month period, with a probability of 95%, the client’s portfolio must not lose more than 5% of its value. This statement is <em>most likely </em>a(n):</p>\n<ol>\n<li>total risk objective.</li>\n<li>relative risk objective.</li>\n<li>absolute risk objective.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. This is an absolute (not total) risk objective because it expresses a maximum loss in value with an associated probability of loss. Incorrect. This is an absolute (not relative) risk objective because it expresses a maximum loss in value with an associated probability of loss. Correct . The statement is an absolute risk objective because it expresses a maximum loss in value with an associated probability of loss. Basics of Portfolio Planning and Construction describe risk and return objectives and how they may be developed for a client",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. This is an absolute (not total) risk objective because it expresses a maximum loss in value with an associated probability of loss.</p>\n</li>\n<li>\n<p>Incorrect. This is an absolute (not relative) risk objective because it expresses a maximum loss in value with an associated probability of loss.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. The statement is an absolute risk objective because it expresses a maximum loss in value with an associated probability of loss.</p>\n</li>\n</ol>\n<h4>Basics of Portfolio Planning and Construction</h4>\n<ul>\n<li>describe risk and return objectives and how they may be developed for a client</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 3,
+      "question": "<div><div><div>\n<p>Which of the following <em>best</em> describes the underlying rationale for a written investment policy statement (IPS)?</p>\n</div></div></div>",
+      "choices": {
+        "A": "A written IPS communicates a plan for trying to achieve investment success.",
+        "B": "A written IPS provides investment managers with a ready defense against client lawsuits.",
+        "C": "A written IPS allows investment managers to instruct clients about the proper use and purpose of investments."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. A written IPS is best seen as a communication instrument allowing clients and portfolio managers to mutually establish investment objectives and constraints.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> A written IPS is best seen as a communication instrument allowing clients and portfolio managers to mutually establish investment objectives and constraints.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 4,
+      "question": "<div><div><p>A 35-year-old financial analyst expects to retire at the age of 65 and is interested in investing to fund her retirement. She describes herself as being financially astute with average risk tolerance. Which asset class is <em>least likely</em> to be suitable for a majority allocation in her portfolio to meet her retirement needs?</p>\n<ol>\n<li>Long-term bonds</li>\n<li>US Treasury bills</li>\n<li>Exchange-listed equities</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. The investor has a 30-year time horizon and average risk tolerance, so she is able to accept the additional risk associated with long-term bonds compared with US Treasury bills. Correct . The investor has a 30-year time horizon and average risk tolerance, so she is able to accept the additional risk associated with exchange-listed equities and long-term bonds compared with US Treasury bills. Incorrect. The investor has a 30-year time horizon and average risk tolerance, so she is able to accept the additional risk associated with exchange-listed equities compared with US Treasury bills. Basics of Portfolio Planning and Construction describe the investment constraints of liquidity, time horizon, tax concerns, legal and regulatory factors, and unique circumstances and their implications for the choice of portfolio assets",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. The investor has a 30-year time horizon and average risk tolerance, so she is able to accept the additional risk associated with long-term bonds compared with US Treasury bills.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. The investor has a 30-year time horizon and average risk tolerance, so she is able to accept the additional risk associated with exchange-listed equities and long-term bonds compared with US Treasury bills.</p>\n</li>\n<li>\n<p>Incorrect. The investor has a 30-year time horizon and average risk tolerance, so she is able to accept the additional risk associated with exchange-listed equities compared with US Treasury bills.</p>\n</li>\n</ol>\n<h4>Basics of Portfolio Planning and Construction</h4>\n<ul>\n<li>describe the investment constraints of liquidity, time horizon, tax concerns, legal and regulatory factors, and unique circumstances and their implications for the choice of portfolio assets</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 5,
+      "question": "<div><div><div>\n<p>A written investment policy statement (IPS) is <em>most</em> likely to succeed if:</p>\n</div></div></div>",
+      "choices": {
+        "A": "it is created by a software program to assure consistent quality.",
+        "B": "it is a collaborative effort of the client and the portfolio manager.",
+        "C": "it reflects the investment philosophy of the portfolio manager."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. A written IPS, to be successful, must incorporate a full understanding of the client’s situation and requirements. As stated in the reading, “The IPS will be developed following a fact finding discussion with the client.”",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> A written IPS, to be successful, must incorporate a full understanding of the client’s situation and requirements. As stated in the reading, “The IPS will be developed following a fact finding discussion with the client.”</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 6,
+      "question": "<div><div><p>A financial adviser gathers the following information about a new client:</p>\n<ul>\n<li>\n<p>The client is a successful economics professor at a major university.</p>\n</li>\n<li>\n<p>The client plans to work full time for seven years and then will work part time for three years before retiring.</p>\n</li>\n<li>\n<p>The client owns two homes and does not have any outstanding debt.</p>\n</li>\n<li>\n<p>The client has accumulated retirement savings of approximately $2 million through his employer’s retirement plan and will have anticipated retirement spending needs of $60,000 per year.</p>\n</li>\n<li>\n<p>The client reads numerous financial publications and follows markets closely.</p>\n</li>\n<li>\n<p>Although concerned about the current health of the global economy, the client maintains that he is a long-term investor.</p>\n</li>\n</ul>\n<p>Based on the above information, which of the following <em>best </em>describes this client?</p>\n<ol>\n<li>High ability to take risk but a low willingness to take risk</li>\n<li>High ability to take risk and a high willingness to take risk</li>\n<li>Low ability to take risk but a high willingness to take risk</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. The client’s investing knowledge, experience, and focus on long-term investing indicate a willingness to withstand investment risk. Correct . The client is in a strong financial situation (stable job, no debt), has a reasonably long time horizon before needing any liquidity (10 years), and reasonable retirement spending needs relative to total assets. These factors indicate a high ability to take risk. In addition, the client’s knowledge of financial markets, experience, and focus on the long term also indicate a high willingness to take risk. Incorrect. The client has a high ability to withstand investment risk for the reasons identified above. Basics of Portfolio Planning and Construction explain the difference between the willingness and the ability (capacity) to take risk in analyzing an investor’s financial risk tolerance",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. The client’s investing knowledge, experience, and focus on long-term investing indicate a willingness to withstand investment risk.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. The client is in a strong financial situation (stable job, no debt), has a reasonably long time horizon before needing any liquidity (10 years), and reasonable retirement spending needs relative to total assets. These factors indicate a high ability to take risk. In addition, the client’s knowledge of financial markets, experience, and focus on the long term also indicate a high willingness to take risk.</p>\n</li>\n<li>\n<p>Incorrect. The client has a high ability to withstand investment risk for the reasons identified above.</p>\n</li>\n</ol>\n<h4>Basics of Portfolio Planning and Construction</h4>\n<ul>\n<li>explain the difference between the willingness and the ability (capacity) to take risk in analyzing an investor’s financial risk tolerance</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 7,
+      "question": "<div><div><p>Which of the following is <em>most likely</em> associated with an investor’s ability to take risk rather than the investor’s willingness to take risk?</p>\n<ol>\n<li>The investor has a long investment time horizon.</li>\n<li>The investor believes earning excess returns on stocks is a matter of luck.</li>\n<li>Safety of principal is very important to the investor.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct . Investment time horizon is an objective factor that measures the investor’s ability to take risk. Incorrect. Luck is a subjective factor that measures willingness to take risk. Incorrect. Safety of principal is a subjective factor that measures willingness to take risk. Basics of Portfolio Planning and Construction explain the difference between the willingness and the ability (capacity) to take risk in analyzing an investor’s financial risk tolerance",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong>. Investment time horizon is an objective factor that measures the investor’s ability to take risk.</p>\n</li>\n<li>\n<p>Incorrect. Luck is a subjective factor that measures willingness to take risk.</p>\n</li>\n<li>\n<p>Incorrect. Safety of principal is a subjective factor that measures willingness to take risk.</p>\n</li>\n</ol>\n<h4>Basics of Portfolio Planning and Construction</h4>\n<ul>\n<li>explain the difference between the willingness and the ability (capacity) to take risk in analyzing an investor’s financial risk tolerance</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 8,
+      "question": "<div><div><div>\n<p>The section of the investment policy statement (IPS) that provides information about how policy may be executed, including restrictions and exclusions, is <em>best</em> described as the:</p>\n</div></div></div>",
+      "choices": {
+        "A": "Investment Objectives .",
+        "B": "Investment Guidelines .",
+        "C": "Statement of Duties and Responsibilities ."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The major components of an IPS are listed in Section 2 of the reading. Investment Guidelines are described as the section that provides information about how policy may be executed, including restrictions on the permissible use of leverage and derivatives and on specific types of assets excluded from investment, if any. Statement of Duties and Responsibilities “detail[s] the duties and responsibilities of the client, the custodian of the client’s assets, the investment managers, and so forth.” Investment Objectives is “a section explaining the client’s objectives in investing.”",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The major components of an IPS are listed in Section 2 of the reading. <em>Investment Guidelines</em> are described as the section that provides information about how policy may be executed, including restrictions on the permissible use of leverage and derivatives and on specific types of assets excluded from investment, if any. <em>Statement of Duties and Responsibilities</em> “detail[s] the duties and responsibilities of the client, the custodian of the client’s assets, the investment managers, and so forth.” <em>Investment Objectives</em> is “a section explaining the client’s objectives in investing.”</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 9,
+      "question": "<div><div><p>An investor's ability to take risk:</p>\n<ol>\n<li>is a function of risk tolerance.</li>\n<li>is typically assessed by a psychometric questionnaire.</li>\n<li>increases with the length of the investment horizon, all else being equal.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect because a client’s overall risk tolerance is a function of the client’s ability to bear (accept) risk and his or her 'risk attitude', which might be considered as the client’s willingness to take risk, not the other way around. Incorrect because a willingness (not ability) to take risk may be gauged by discussing risk with the client or by asking the client to complete a psychometric questionnaire. Correct because the ability to bear risk is measured mainly in terms of objective factors, such as time horizon, expected income, and the level of wealth relative to liabilities. For example, an investor with a 20-year time horizon can be considered to have a greater ability to bear risk, other things being equal, than an investor with a 2-year horizon. This difference is because over 20 years there is more scope for losses to be recovered or other adjustments to circumstances to be made than there is over two years. Basics of Portfolio Planning and Construction explain the difference between the willingness and the ability (capacity) to take risk in analyzing an investor’s financial risk tolerance",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because a client’s overall risk tolerance is a function of the client’s ability to bear (accept) risk and his or her 'risk attitude', which might be considered as the client’s willingness to take risk, not the other way around.</p>\n</li>\n<li>\n<p>Incorrect because a willingness (not ability) to take risk may be gauged by discussing risk with the client or by asking the client to complete a psychometric questionnaire.</p>\n</li>\n<li>\n<p><strong>Correct</strong> because the <em>ability</em> to bear risk is measured mainly in terms of objective factors, such as time horizon, expected income, and the level of wealth relative to liabilities. For example, an investor with a 20-year time horizon can be considered to have a greater ability to bear risk, other things being equal, than an investor with a 2-year horizon. This difference is because over 20 years there is more scope for losses to be recovered or other adjustments to circumstances to be made than there is over two years.</p>\n</li>\n</ol>\n<h4>Basics of Portfolio Planning and Construction</h4>\n<ul>\n<li>explain the difference between the willingness and the ability (capacity) to take risk in analyzing an investor’s financial risk tolerance</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 10,
+      "question": "<div><div><div>\n<p>Which of the following is <em>least</em> likely to be placed in the appendices to an investment policy statement (IPS)?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Rebalancing Policy .",
+        "B": "Strategic Asset Allocation .",
+        "C": "Statement of Duties and Responsibilities ."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. The major components of an IPS are listed in Section 2 of the reading. Strategic Asset Allocation (also known as the policy portfolio) and Rebalancing Policy are often included as appendices to the IPS. The Statement of Duties and Responsibilities , however, is an integral part of the IPS and is unlikely to be placed in an appendix.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> The major components of an IPS are listed in Section 2 of the reading. Strategic Asset Allocation (also known as the policy portfolio) and Rebalancing Policy are often included as appendices to the IPS. The <em>Statement of Duties and Responsibilities</em>, however, is an integral part of the IPS and is unlikely to be placed in an appendix.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 11,
+      "question": "<div><div><p>A portfolio manager decides to temporarily invest more of a portfolio in equities than the investment policy statement prescribes because he expects equities will generate a higher return than other asset classes. This decision is <em>most likely</em> an example of:</p>\n<ol>\n<li>rebalancing.</li>\n<li>tactical asset allocation.</li>\n<li>strategic asset allocation.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. Rebalancing is the process of returning to the strategic asset allocation. Correct . Tactical asset allocation is the decision to deliberately deviate from the policy exposures to systematic risk factors with the intent to add value based on forecasts of the near-term returns of those asset classes. Incorrect. Strategic asset allocation is the set of exposures to IPS-permissible asset classes that is expected to achieve the client’s long-term objectives given the client’s investment constraints. Basics of Portfolio Planning and Construction describe the principles of portfolio construction and the role of asset allocation in relation to the IPS",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Rebalancing is the process of returning to the strategic asset allocation.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. Tactical asset allocation is the decision to deliberately deviate from the policy exposures to systematic risk factors with the intent to add value based on forecasts of the near-term returns of those asset classes.</p>\n</li>\n<li>\n<p>Incorrect. Strategic asset allocation is the set of exposures to IPS-permissible asset classes that is expected to achieve the client’s long-term objectives given the client’s investment constraints.</p>\n</li>\n</ol>\n<h4>Basics of Portfolio Planning and Construction</h4>\n<ul>\n<li>describe the principles of portfolio construction and the role of asset allocation in relation to the IPS</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 12,
+      "question": "<div><div><div>\n<p>Which of the following typical topics in an investment policy statement (IPS) is <em>most</em> closely linked to the client’s “distinctive needs”?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Procedures .",
+        "B": "Investment Guidelines .",
+        "C": "Statement of Duties and Responsibilities ."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. According to the reading, “The sections of an IPS that are most closely linked to the client’s distinctive needs are those dealing with investment objectives and constraints.” Investment Guidelines “[provide] information about how policy may be executed, including investment constraints.” Procedures “[detail] the steps to be taken to keep the IPS current and the procedures to follow to respond to various contingencies.” Statement of Duties and Responsibilities “detail[s] the duties and responsibilities of the client, the custodian of the client’s assets, the investment managers, and so forth.”",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> According to the reading, “The sections of an IPS that are most closely linked to the client’s distinctive needs are those dealing with investment objectives and constraints.” <em>Investment Guidelines</em> “[provide] information about how policy may be executed, including investment constraints.” <em>Procedures</em> “[detail] the steps to be taken to keep the IPS current and the procedures to follow to respond to various contingencies.” <em>Statement of Duties and Responsibilities</em> “detail[s] the duties and responsibilities of the client, the custodian of the client’s assets, the investment managers, and so forth.”</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 13,
+      "question": "<div><div><div>\n<p>An investment policy statement that includes a return objective of outperforming the FTSE 100 by 120 basis points is <em>best</em> characterized as having a(n):</p>\n</div></div></div>",
+      "choices": {
+        "A": "relative return objective.",
+        "B": "absolute return objective.",
+        "C": "arbitrage-based return objective."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Because the return objective specifies a target return relative to the FTSE 100 Index, the objective is best described as a relative return objective.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Because the return objective specifies a target return <em>relative to</em> the FTSE 100 Index, the objective is best described as a relative return objective.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 14,
+      "question": "<div><div><p>Which of the following is <em>most likely</em> developed by combining a client's investment objectives and constraints with long-term capital market expectations?</p>\n<ol>\n<li>Risk budget</li>\n<li>Strategic asset allocation</li>\n<li>Investment policy statement</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect because risk budgeting is the process of deciding on the amount of risk to assume in a portfolio (the overall risk budget), and subdividing that risk over the sources of investment return (e.g., strategic asset allocation, tactical asset allocation, and security selection). Because the decision about the amount of risk to be taken is made in constructing the IPS, at this stage we are concerned about the subdivision of that risk. Correct because a strategic asset allocation results from combining the constraints and objectives articulated in the IPS [investment policy statement] and long-term capital market expectations regarding the asset classes. Incorrect because long-term capital market expectations are not commonly stated in the IPS, which in addition to Investment Objectives and Investment Constraints typically includes the following sections: Introduction, Statement of Purpose, Statement of Duties and Responsibilities, Procedures, Investment Guidelines, Evaluation and Review, Appendices. Therefore, combining investment objectives and constraints with long-term capital market expectations does not result in a client's IPS. Basics of Portfolio Planning and Construction describe the principles of portfolio construction and the role of asset allocation in relation to the IPS",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because <strong>risk budgeting</strong> is the process of deciding on the amount of risk to assume in a portfolio (the overall risk budget), and subdividing that risk over the sources of investment return (e.g., strategic asset allocation, tactical asset allocation, and security selection). Because the decision about the amount of risk to be taken is made in constructing the IPS, at this stage we are concerned about the subdivision of that risk.</p>\n</li>\n<li>\n<p><strong>Correct</strong> because a strategic asset allocation results from combining the constraints and objectives articulated in the IPS [investment policy statement] and long-term capital market expectations regarding the asset classes.</p>\n</li>\n<li>\n<p>Incorrect because long-term capital market expectations are not commonly stated in the IPS, which in addition to Investment Objectives and Investment Constraints typically includes the following sections: Introduction, Statement of Purpose, Statement of Duties and Responsibilities, Procedures, Investment Guidelines, Evaluation and Review, Appendices. Therefore, combining investment objectives and constraints with long-term capital market expectations does not result in a client's IPS.</p>\n</li>\n</ol>\n<h4>Basics of Portfolio Planning and Construction</h4>\n<ul>\n<li>describe the principles of portfolio construction and the role of asset allocation in relation to the IPS</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 15,
+      "question": "<div><div><p>Which of the following investment principles <em>best</em> explains the use of strategic asset allocation in portfolio construction?</p>\n<ol>\n<li>Returns on similar assets reflect exposures to certain sets of systematic factors.</li>\n<li>Nonsystematic risk accounts for most of the change in portfolio value over the long term.</li>\n<li>Deviating from policy exposures to systematic risk factors may add value to the portfolio.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct because the focus on the SAA [strategic asset allocation] is the result of a number of important investment principles. One such principle is that the returns to groups of similar assets (e.g., long-term debt claims) predictably reflect exposures to certain sets of systematic factors (e.g., for the debt claims, unexpected changes in the inflation rate). Incorrect because the focus on the SAA [strategic asset allocation] is the result of a number of important investment principles. One principle is that a portfolio's systematic risk accounts for most of its change in value over the long term. Incorrect because the decision to deliberately deviate from the policy exposures to systematic risk factors (i.e., the policy weights of asset classes) with the intent to add value based on forecasts of the near-term returns of those asset classes is called tactical asset allocation. It is not one of the investment principles which strategic asset allocation is based upon. Basics of Portfolio Planning and Construction describe the principles of portfolio construction and the role of asset allocation in relation to the IPS",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong> because the focus on the SAA [strategic asset allocation] is the result of a number of important investment principles. One such principle is that the returns to groups of similar assets (e.g., long-term debt claims) predictably reflect exposures to certain sets of systematic factors (e.g., for the debt claims, unexpected changes in the inflation rate).</p>\n</li>\n<li>\n<p>Incorrect because the focus on the SAA [strategic asset allocation] is the result of a number of important investment principles. One principle is that a portfolio's systematic risk accounts for most of its change in value over the long term.</p>\n</li>\n<li>\n<p>Incorrect because the decision to deliberately deviate from the policy exposures to systematic risk factors (i.e., the policy weights of asset classes) with the intent to add value based on forecasts of the near-term returns of those asset classes is called tactical asset allocation. It is not one of the investment principles which strategic asset allocation is based upon.</p>\n</li>\n</ol>\n<h4>Basics of Portfolio Planning and Construction</h4>\n<ul>\n<li>describe the principles of portfolio construction and the role of asset allocation in relation to the IPS</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 16,
+      "question": "<div><div><div>\n<p>Risk assessment questionnaires for investment management clients are <em>most</em> useful in measuring:</p>\n</div></div></div>",
+      "choices": {
+        "A": "value at risk.",
+        "B": "ability to take risk.",
+        "C": "willingness to take risk."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Risk attitude is a subjective factor and measuring risk attitude is difficult. Oftentimes, investment managers use psychometric questionnaires, such as those developed by Grable and Joo (2004), to assess a client’s willingness to take risk.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Risk attitude is a subjective factor and measuring risk attitude is difficult. Oftentimes, investment managers use psychometric questionnaires, such as those developed by Grable and Joo (2004), to assess a client’s willingness to take risk.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 17,
+      "question": "<div><div><div>\n<p>Which of the following is <em>best</em> characterized as a relative risk objective?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Value at risk for the fund will not exceed US$3 million.",
+        "B": "The fund will not underperform the DAX by more than 250 basis points.",
+        "C": "The fund will not lose more than €2.5 million in the coming 12-month period."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The reference to the DAX marks this response as a relative risk objective. Value at risk establishes a minimum value of loss expected during a specified time period at a given level of probability. A statement of maximum allowed absolute loss (€2.5 million) is an absolute risk objective.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The reference to the DAX marks this response as a relative risk objective. Value at risk establishes a minimum value of loss expected during a specified time period at a given level of probability. A statement of maximum allowed absolute loss (€2.5 million) is an absolute risk objective.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 18,
+      "question": "<div><div><p>Portfolio rebalancing is <em>best </em>described as a process aimed at:</p>\n<ol>\n<li>generating alpha.</li>\n<li>aligning portfolio weights with the tactical asset allocation decision.</li>\n<li>restoring the portfolio's original exposures to systematic risk factors.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect because periodically, or when a certain threshold deviation from the policy weight (the bandwidth) has been breached, the portfolio should be rebalanced back to the policy weights. The risk–return profile of the strategic asset allocation depends on the expected returns and risks of the individual asset classes, as well as the correlation between those asset classes. On the other hand, security selection is an attempt to generate higher returns than the asset class benchmark by selecting securities with a higher expected return. An alpha process is a process for adding value through active investing. Incorrect because periodically, or when a certain threshold deviation from the policy weight (the bandwidth) has been breached, the portfolio should be rebalanced back to the policy weights. On the other hand, tactical asset allocation is the decision to deliberately deviate from the policy exposures to systematic risk factors (i.e., the policy weights of asset classes) with the intent to add value based on forecasts of the near-term returns of those asset classes. Correct because as the portfolio is constructed and its value changes with the returns of the asset classes and securities in which it is invested, the weights of the asset classes will gradually deviate from the policy weights in the strategic asset allocation. This process is referred to as drift. Periodically, or when a certain threshold deviation from the policy weight (the bandwidth) has been breached, the portfolio should be rebalanced back to the policy weights. The set of rules that guide the process of restoring the portfolio’s original exposures to systematic risk factors is known as the rebalancing policy . Basics of Portfolio Planning and Construction describe the principles of portfolio construction and the role of asset allocation in relation to the IPS",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because periodically, or when a certain threshold deviation from the policy weight (the bandwidth) has been breached, the portfolio should be rebalanced back to the policy weights. The risk–return profile of the strategic asset allocation depends on the expected returns and risks of the individual asset classes, as well as the correlation between those asset classes. On the other hand, <strong>security selection</strong> is an attempt to generate higher returns than the asset class benchmark by selecting securities with a higher expected return. An alpha process is a process for adding value through active investing.</p>\n</li>\n<li>\n<p>Incorrect because periodically, or when a certain threshold deviation from the policy weight (the bandwidth) has been breached, the portfolio should be rebalanced back to the policy weights. On the other hand, <strong>tactical asset allocation</strong> is the decision to deliberately deviate from the policy exposures to systematic risk factors (i.e., the policy weights of asset classes) with the intent to add value based on forecasts of the near-term returns of those asset classes.</p>\n</li>\n<li>\n<p><strong>Correct</strong> because as the portfolio is constructed and its value changes with the returns of the asset classes and securities in which it is invested, the weights of the asset classes will gradually deviate from the policy weights in the strategic asset allocation. This process is referred to as drift. Periodically, or when a certain threshold deviation from the policy weight (the bandwidth) has been breached, the portfolio should be rebalanced back to the policy weights. The set of rules that guide the process of restoring the portfolio’s original exposures to systematic risk factors is known as the <strong>rebalancing policy</strong>.</p>\n</li>\n</ol>\n<h4>Basics of Portfolio Planning and Construction</h4>\n<ul>\n<li>describe the principles of portfolio construction and the role of asset allocation in relation to the IPS</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 19,
+      "question": "<div><div><div>\n<p>In preparing an investment policy statement, which of the following is <em>most</em> difficult to quantify?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Time horizon.",
+        "B": "Ability to accept risk.",
+        "C": "Willingness to accept risk."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Measuring willingness to take risk (risk tolerance, risk aversion) is an exercise in applied psychology. Instruments attempting to measure risk attitudes exist, but they are clearly less objective than measurements of ability to take risk. Ability to take risk is based on relatively objective traits such as expected income, time horizon, and existing wealth relative to liabilities.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Measuring willingness to take risk (risk tolerance, risk aversion) is an exercise in applied psychology. Instruments attempting to measure risk attitudes exist, but they are clearly less objective than measurements of ability to take risk. Ability to take risk is based on relatively objective traits such as expected income, time horizon, and existing wealth relative to liabilities.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 20,
+      "question": "<div><div><p>In a strategic asset allocation, assets within a specific asset class are <em>least likely</em> to have:</p>\n<ol>\n<li>low paired correlations.</li>\n<li>low correlations with other asset classes.</li>\n<li>similar risk and return expectations.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct . In a strategic asset allocation, assets within a specific asset class have high paired correlations and low correlations with other asset classes. Incorrect. Assets within a specific asset class will have low correlations with assets in other asset classes. Incorrect. Assets within a specific asset class share similar risk and return expectations. Basics of Portfolio Planning and Construction explain the specification of asset classes in relation to asset allocation",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong>. In a strategic asset allocation, assets within a specific asset class have high paired correlations and low correlations with other asset classes.</p>\n</li>\n<li>\n<p>Incorrect. Assets within a specific asset class will have low correlations with assets in other asset classes.</p>\n</li>\n<li>\n<p>Incorrect. Assets within a specific asset class share similar risk and return expectations.</p>\n</li>\n</ol>\n<h4>Basics of Portfolio Planning and Construction</h4>\n<ul>\n<li>explain the specification of asset classes in relation to asset allocation</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 21,
+      "question": "<div><div><div>\n<p>A client who is a 34-year old widow with two healthy young children (aged 5 and 7) has asked you to help her form an investment policy statement. She has been employed as an administrative assistant in a bureau of her national government for the previous 12 years. She has two primary financial goals—her retirement and providing for the college education of her children. This client’s time horizon is <em>best</em> described as being:</p>\n</div></div></div>",
+      "choices": {
+        "A": "long term.",
+        "B": "short term.",
+        "C": "medium term."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The client’s financial objectives are long term. Her stable employment indicates that her immediate liquidity needs are modest. The children will not go to college until 10 or more years later. Her time horizon is best described as being long term.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The client’s financial objectives are long term. Her stable employment indicates that her immediate liquidity needs are modest. The children will not go to college until 10 or more years later. Her time horizon is best described as being long term.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 22,
+      "question": "<div><div><p>Which of the following principles <em>best</em> explains the focus on a strategic asset allocation when constructing a client's IPS?</p>\n<ol>\n<li>Adding assets with high correlation improves the risk–return trade-off.</li>\n<li>Nonsystematic risk accounts for most of a portfolio’s change in value over the long term.</li>\n<li>The returns to groups of similar assets predictably reflect exposures to certain systematic factors.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect because this is not one of the two principles which resulted in the focus on a strategic asset allocation in portfolio construction. Furthermore, in general, adding assets classes with low (not high) correlation improves the risk–return trade-off (more return for similar risk). Incorrect because a portfolio’s systematic (not nonsystematic) risk accounts for most of its change in value over the long term. Correct because the focus on the SAA (strategic asset allocation) is the result of a number of important investment principles. A second principle is that the returns to groups of similar assets (e.g., long-term debt claims) predictably reflect exposures to certain sets of systematic factors (e.g., for the debt claims, unexpected changes in the interest rate). Basics of Portfolio Planning and Construction describe the principles of portfolio construction and the role of asset allocation in relation to the IPS",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because this is not one of the two principles which resulted in the focus on a strategic asset allocation in portfolio construction. Furthermore, in general, adding assets classes with low (not high) correlation improves the risk–return trade-off (more return for similar risk).</p>\n</li>\n<li>\n<p>Incorrect because a portfolio’s systematic (not nonsystematic) risk accounts for most of its change in value over the long term.</p>\n</li>\n<li>\n<p><strong>Correct</strong> because the focus on the SAA (strategic asset allocation) is the result of a number of important investment principles. A second principle is that the returns to groups of similar assets (e.g., long-term debt claims) predictably reflect exposures to certain sets of systematic factors (e.g., for the debt claims, unexpected changes in the interest rate).</p>\n</li>\n</ol>\n<h4>Basics of Portfolio Planning and Construction</h4>\n<ul>\n<li>describe the principles of portfolio construction and the role of asset allocation in relation to the IPS</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 23,
+      "question": "<div><div><p>The strategic asset allocation and portfolio rebalancing policy are <em>most likely</em> addressed in which section of an investment policy statement?</p>\n<ol>\n<li>Appendices</li>\n<li>Investment objectives</li>\n<li>Procedures</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct . Information related to strategic asset allocation and portfolio rebalancing policy would be placed in the appendices of an investment policy statement. Incorrect. This section contains information on the client’s objectives when investing. Incorrect. This section contains information on the steps to take to keep the investment policy statement current and the procedures to follow to respond to various contingencies. Basics of Portfolio Planning and Construction describe the major components of an IPS",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong>. Information related to strategic asset allocation and portfolio rebalancing policy would be placed in the appendices of an investment policy statement.</p>\n</li>\n<li>\n<p>Incorrect. This section contains information on the client’s objectives when investing.</p>\n</li>\n<li>\n<p>Incorrect. This section contains information on the steps to take to keep the investment policy statement current and the procedures to follow to respond to various contingencies.</p>\n</li>\n</ol>\n<h4>Basics of Portfolio Planning and Construction</h4>\n<ul>\n<li>describe the major components of an IPS</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 24,
+      "question": "<div><div><div>\n<p>The timing of payouts for property and casualty insurers is unpredictable (“lumpy”) in comparison with the timing of payouts for life insurance companies. Therefore, in general, property and casualty insurers have:</p>\n</div></div></div>",
+      "choices": {
+        "A": "lower liquidity needs than life insurance companies.",
+        "B": "greater liquidity needs than life insurance companies.",
+        "C": "a higher return objective than life insurance companies."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The unpredictable nature of property and casualty (P&C) claims forces P&C insurers to allocate a substantial proportion of their investments into liquid, short maturity assets. This need for liquidity also forces P&C companies to accept investments with relatively low expected returns. Liquidity is of less concern to life insurance companies given the greater predictability of life insurance payouts.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The unpredictable nature of property and casualty (P&amp;C) claims forces P&amp;C insurers to allocate a substantial proportion of their investments into liquid, short maturity assets. This need for liquidity also forces P&amp;C companies to accept investments with relatively low expected returns. Liquidity is of less concern to life insurance companies given the greater predictability of life insurance payouts.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 25,
+      "question": "<div><div><div>\n<p>A client who is a director of a publicly listed corporation is required by law to refrain from trading that company’s stock at certain points of the year when disclosure of financial results are pending. In preparing a written investment policy statement (IPS) for this client, this restriction on trading:</p>\n</div></div></div>",
+      "choices": {
+        "A": "is irrelevant to the IPS.",
+        "B": "should be included in the IPS.",
+        "C": "makes it illegal for the portfolio manager to work with this client."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. When a client has a restriction in trading, such as this obligation to refrain from trading, the IPS “should note this constraint so that the portfolio manager does not inadvertently trade the stock on the client’s behalf.”",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> When a client has a restriction in trading, such as this obligation to refrain from trading, the IPS “should note this constraint so that the portfolio manager does not inadvertently trade the stock on the client’s behalf.”</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 26,
+      "question": "<div><div><div>\n<p>After interviewing a client in order to prepare a written investment policy statement (IPS), you have established the following:</p>\n<ul>\n<li>\n<p>The client has earnings that vary dramatically between £30,000 and £70,000 (pre-tax) depending on weather patterns in Britain.</p>\n</li>\n<li>\n<p>In three of the previous five years, the after-tax income of the client has been less than £20,000.</p>\n</li>\n<li>\n<p>The client’s mother is dependent on her son (the client) for approximately £9,000 per year support.</p>\n</li>\n<li>\n<p>The client’s own subsistence needs are approximately £12,000 per year.</p>\n</li>\n<li>\n<p>The client has more than 10 years’ experience trading investments including commodity futures, stock options, and selling stock short.</p>\n</li>\n<li>\n<p>The client’s responses to a standard risk assessment questionnaire suggest he has above average risk tolerance.</p>\n</li>\n</ul>\n<p>The client is <em>best</em> described as having a:</p>\n</div>\n</div></div>",
+      "choices": {
+        "A": "low ability to take risk, but a high willingness to take risk.",
+        "B": "high ability to take risk, but a low willingness to take risk.",
+        "C": "high ability to take risk and a high willingness to take risk."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The volatility of the client’s income and the significant support needs for his mother and himself suggest that the client has a low ability to take risk. The client’s trading experience and his responses to the risk assessment questionnaire indicate that the client has an above average willingness to take risk.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The volatility of the client’s income and the significant support needs for his mother and himself suggest that the client has a low ability to take risk. The client’s trading experience and his responses to the risk assessment questionnaire indicate that the client has an above average willingness to take risk.</p>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 27,
+      "question": "<div><div><div>\n<p>After interviewing a client in order to prepare a written investment policy statement (IPS), you have established the following:</p>\n<ul>\n<li>\n<p>The client has earnings that have exceeded €120,000 (pre-tax) each year for the past five years.</p>\n</li>\n<li>\n<p>She has no dependents.</p>\n</li>\n<li>\n<p>The client’s subsistence needs are approximately €45,000 per year.</p>\n</li>\n<li>\n<p>The client states that she feels uncomfortable with her lack of understanding of securities markets.</p>\n</li>\n<li>\n<p>All of the client’s current savings are invested in short-term securities guaranteed by an agency of her national government.</p>\n</li>\n<li>\n<p>The client’s responses to a standard risk assessment questionnaire suggest she has low risk tolerance.</p>\n</li>\n</ul>\n<p>The client is <em>best</em> described as having a:</p>\n</div>\n</div></div>",
+      "choices": {
+        "A": "low ability to take risk, but a high willingness to take risk.",
+        "B": "high ability to take risk, but a low willingness to take risk.",
+        "C": "high ability to take risk and a high willingness to take risk."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. On the one hand, the client has a stable, high income and no dependents. On the other hand, she exhibits above average risk aversion. Her ability to take risk is high, but her willingness to take risk is low.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> On the one hand, the client has a stable, high income and no dependents. On the other hand, she exhibits above average risk aversion. Her ability to take risk is high, but her willingness to take risk is low.</p>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 28,
+      "question": "<div><div><div>\n<p>Returns on asset classes are <em>best</em> described as being a function of:</p>\n</div></div></div>",
+      "choices": {
+        "A": "the failure of arbitrage.",
+        "B": "exposure to the idiosyncratic risks of those asset classes.",
+        "C": "exposure to sets of systematic factors relevant to those asset classes."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Strategic asset allocation depends on several principles. As stated in the reading, “One principle is that a portfolio’s systematic risk accounts for most of its change in value over the long run.” A second principle is that, “the returns to groups of like assets… predictably reflect exposures to certain sets of systematic factors.” This latter principle establishes that returns on asset classes primarily reflect the systematic risks of the classes.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Strategic asset allocation depends on several principles. As stated in the reading, “One principle is that a portfolio’s systematic risk accounts for most of its change in value over the long run.” A second principle is that, “the returns to groups of like assets… predictably reflect exposures to certain sets of systematic factors.” This latter principle establishes that returns on asset classes primarily reflect the systematic risks of the classes.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 29,
+      "question": "<div><div><div>\n<p>Consider the pairwise correlations of monthly returns of the following asset classes:</p>\n<div>\n<table>\n<thead>\n<tr>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: bottom;\"></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">\n<strong>Brazilian</strong><br/>\n<strong>Equities</strong>\n</th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">\n<strong>East Asian</strong><br/>\n<strong>Equities</strong>\n</th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">\n<strong>European</strong><br/>\n<strong>Equities</strong>\n</th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">\n<strong>US</strong><br/>\n<strong>Equities</strong>\n</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: middle;\">Brazilian equities</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">1.00</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">0.70</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">0.85</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">0.76</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: middle;\">East Asian equities</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">0.70</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">1.00</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">0.91</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">0.88</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: middle;\">European equities</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">0.85</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">0.91</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">1.00</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">0.90</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: middle;\">US equities</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\">0.76</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">0.88</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">0.90</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: middle;\">1.00</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>Based solely on the information in the above table, which equity asset class is <em>most</em> sharply distinguished from US equities?</p>\n</div>\n</div></div>",
+      "choices": {
+        "A": "Brazilian equities.",
+        "B": "European equities.",
+        "C": "East Asian equities."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The correlation between US equities and Brazilian equities is 0.76. The correlations between US equities and East Asian equities and the correlation between US equities and European equities both exceed 0.76. Lower correlations indicate a greater degree of separation between asset classes. Therefore, using solely the data given in the table, returns on Brazilian equities are most sharply distinguished from returns on US equities.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The correlation between US equities and Brazilian equities is 0.76. The correlations between US equities and East Asian equities and the correlation between US equities and European equities both exceed 0.76. Lower correlations indicate a greater degree of separation between asset classes. Therefore, using solely the data given in the table, returns on Brazilian equities are most sharply distinguished from returns on US equities.</p>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 30,
+      "question": "<div><div><div>\n<p>In defining asset classes as part of the strategic asset allocation decision, pairwise correlations within asset classes should generally be:</p>\n</div></div></div>",
+      "choices": {
+        "A": "equal to correlations among asset classes.",
+        "B": "lower than correlations among asset classes.",
+        "C": "higher than correlations among asset classes."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. As the reading states, “an asset class should contain homogeneous assets… paired correlations of securities would be high within an asset class, but should be lower versus securities in other asset classes.”",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> As the reading states, “an asset class should contain homogeneous assets… paired correlations of securities would be high within an asset class, but should be lower versus securities in other asset classes.”</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Basics of Portfolio Planning and Construction",
+      "question_number": 31,
+      "question": "<div><div><div>\n<p>Tactical asset allocation is <em>best</em> described as:</p>\n</div></div></div>",
+      "choices": {
+        "A": "attempts to exploit arbitrage possibilities among asset classes.",
+        "B": "the decision to deliberately deviate from the policy portfolio.",
+        "C": "selecting asset classes with the desired exposures to sources of systematic risk in an investment portfolio."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Tactical asset allocation allows actual asset allocation to deviate from that of the strategic asset allocation (policy portfolio) of the IPS. Tactical asset allocation attempts to take advantage of temporary dislocations from the market conditions and assumptions that drove the policy portfolio decision.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Tactical asset allocation allows actual asset allocation to deviate from that of the strategic asset allocation (policy portfolio) of the IPS. Tactical asset allocation attempts to take advantage of temporary dislocations from the market conditions and assumptions that drove the policy portfolio decision.</p></div>",
+      "category": "Portfolio Management"
+    }
+  ]
+}

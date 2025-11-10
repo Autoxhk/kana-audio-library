@@ -1,0 +1,751 @@
+{
+  "category": "Portfolio Management",
+  "topic": "Portfolio Risk and Return Part II",
+  "total_questions": 58,
+  "questions": [
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 1,
+      "question": "<div><div><p>An asset has an annual return of 19.9%, standard deviation of returns of 18.5%, and correlation with the market of 0.9. If the standard deviation of returns on the market is 15.9% and the risk-free rate is 1%, the beta of this asset is <em>closest</em> to:</p>\n<ol>\n<li>1.02.</li>\n<li>1.05.</li>\n<li>1.16</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. It calculates the Sharpe ratio instead of beta: (19.9% – 1.0%)/18.5% = 1.02. Correct . β = (ρ i , m σ i )/σ m = (0.90 × 0.185)/0.159 = 1.047 Incorrect. It is the ratio of the standard deviation of the asset to the standard deviation of the market: (18.5%/15.9%) = 1.16. Portfolio Risk and Return: Part II calculate and interpret beta",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. It calculates the Sharpe ratio instead of beta: (19.9% – 1.0%)/18.5% = 1.02.</p>\n</li>\n<li>\n<p><strong>Correct</strong>.</p>\n<p>β = (ρ<em><sub>i</sub></em><sub>,</sub><em><sub>m</sub></em>σ<sub>i</sub>)/σ<em><sub>m</sub></em></p>\n<p>= (0.90 × 0.185)/0.159</p>\n<p>= 1.047</p>\n</li>\n<li>\n<p>Incorrect. It is the ratio of the standard deviation of the asset to the standard deviation of the market: (18.5%/15.9%) = 1.16.</p>\n</li>\n</ol>\n<h4>Portfolio Risk and Return: Part II</h4>\n<ul>\n<li>calculate and interpret beta</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 2,
+      "question": "<div><div><div>\n<p>The line depicting the total risk and expected return of portfolio combinations of a risk-free asset and any risky asset is the:</p>\n</div></div></div>",
+      "choices": {
+        "A": "security market line.",
+        "B": "capital allocation line.",
+        "C": "security characteristic line."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. A capital allocation line (CAL) plots the expected return and total risk of combinations of the risk-free asset and a risky asset (or a portfolio of risky assets).",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> A capital allocation line (CAL) plots the expected return and total risk of combinations of the risk-free asset and a risky asset (or a portfolio of risky assets).</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 3,
+      "question": "<div><div><div>\n<p>The portfolio of a risk-free asset and a risky asset has a better risk-return tradeoff than investing in only one asset type because the correlation between the risk-free asset and the risky asset is equal to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "−1.0.",
+        "B": "0.0.",
+        "C": "1.0."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. A portfolio of the risk-free asset and a risky asset or a portfolio of risky assets can result in a better risk-return tradeoff than an investment in only one type of an asset, because the risk-free asset has zero correlation with the risky asset.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> A portfolio of the risk-free asset and a risky asset or a portfolio of risky assets can result in a better risk-return tradeoff than an investment in only one type of an asset, because the risk-free asset has zero correlation with the risky asset.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 4,
+      "question": "<div><div><p>An investor with $10,000 decides to borrow an additional $5,000 at the risk-free rate and invest all the available funds in the market portfolio. This investor’s portfolio beta is <em>closest</em> to:</p>\n<ol>\n<li>0.5.</li>\n<li>1.0.</li>\n<li>1.5.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. It is computed using weights of 0.5 for the risk-free asset and the market portfolio, that is: 0(0.5) + 1(0.5) = 0.5. Incorrect. It is the market portfolio’s beta. Correct . The weight in the market portfolio is 15,000/10,000 = 1.5 and the weight in the risk-free asset is –5,000/10,000 = –0.5. Because the beta of the risk-free asset is 0 and the market portfolio’s beta is 1, the portfolio’s beta is β p = 0(–0.5) + 1(1.5) = 1.5. Portfolio Risk and Return: Part II calculate and interpret beta",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. It is computed using weights of 0.5 for the risk-free asset and the market portfolio, that is: 0(0.5) + 1(0.5) = 0.5.</p>\n</li>\n<li>\n<p>Incorrect. It is the market portfolio’s beta.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. The weight in the market portfolio is 15,000/10,000 = 1.5 and the weight in the risk-free asset is –5,000/10,000 = –0.5. Because the beta of the risk-free asset is 0 and the market portfolio’s beta is 1, the portfolio’s beta is β<em><sub>p</sub></em> = 0(–0.5) + 1(1.5) = 1.5.</p>\n</li>\n</ol>\n<h4>Portfolio Risk and Return: Part II</h4>\n<ul>\n<li>calculate and interpret beta</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 5,
+      "question": "<div><div><div>\n<p>The following information is provided about a stock market index <em>m</em> and security <em>i:</em></p>\n<table class=\"table-style1\" style=\"width:710px\">\n<tbody>\n<tr>\n<td style=\"width:604px; max-width:604px\"><strong>Statistic</strong></td>\n<td style=\"width:96px; max-width:96px; text-align:center\"><strong>Value</strong></td>\n</tr>\n<tr>\n<td style=\"width:604px; max-width:604px\">Covariance between market return and security return [Cov(<em>R<sub>i</sub></em>,<em>R<sub>m</sub></em>)]</td>\n<td style=\"width:96px; max-width:96px; text-align:center\">0.01104</td>\n</tr>\n<tr>\n<td style=\"width:604px; max-width:604px\">Correlation coefficient between market return and security return (ρ<em><sub>i</sub></em><sub>,</sub><em><sub>m</sub></em>)</td>\n<td style=\"width:96px; max-width:96px; text-align:center\">0.3</td>\n</tr>\n<tr>\n<td style=\"width:604px; max-width:604px\">Standard deviation of market return (σ<em><sub>m</sub></em>)</td>\n<td style=\"width:96px; max-width:96px; text-align:center\">0.16</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>The beta of security<em> i</em>, β<em><sub>i</sub></em>, is <em>closest</em> to:</p>\n<ol>\n<li>0.43.</li>\n<li>0.23.</li>\n<li>1.88.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct . β i = Cov( R i , R m )/σ m 2 = 0.01104/(0.16) 2 = 0.43 Incorrect. This is the value for σ i . σ i = Cov( R i , R m )/(σ m × ρ i , m ) = 0.01104/(0.16 × 0.3) = 0.23 Incorrect. Instead of Cov( R i , R m ), ρ i , m is used in the formula: 0.3/(0.16) 2 = 1.88. Portfolio Risk and Return: Part II calculate and interpret beta",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong>.</p>\n<p>β<em><sub>i</sub></em> = Cov(<em>R<sub>i</sub></em>,<em>R<sub>m</sub></em>)/σ<em><sub>m</sub></em><sup>2</sup> = 0.01104/(0.16)<sup>2</sup> = 0.43</p>\n</li>\n<li>\n<p>Incorrect. This is the value for σ<em><sub>i</sub></em>.</p>\n<p>σ<em><sub>i</sub></em> = Cov(<em>R<sub>i</sub></em>,<em>R<sub>m</sub></em>)/(σ<em><sub>m</sub></em> × ρ<em><sub>i</sub></em><sub>,</sub><em><sub>m</sub></em>) = 0.01104/(0.16 × 0.3) = 0.23</p>\n</li>\n<li>\n<p>Incorrect. Instead of Cov(<em>R<sub>i</sub></em>,<em>R<sub>m</sub></em>), ρ<em><sub>i</sub></em><sub>,</sub><em><sub>m</sub></em> is used in the formula: 0.3/(0.16)<sup>2</sup> = 1.88.</p>\n</li>\n</ol>\n<h4>Portfolio Risk and Return: Part II</h4>\n<ul>\n<li>calculate and interpret beta</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 6,
+      "question": "<div><div><div>\n<p>With respect to capital market theory, an investor’s optimal portfolio is the combination of a risk-free asset and a risky asset with the highest:</p>\n</div></div></div>",
+      "choices": {
+        "A": "expected return.",
+        "B": "indifference curve.",
+        "C": "capital allocation line slope."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Investors will have different optimal portfolios depending on their indifference curves. The optimal portfolio for each investor is the one with highest utility; that is, where the CAL is tangent to the individual investor’s highest possible indifference curve.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Investors will have different optimal portfolios depending on their indifference curves. The optimal portfolio for each investor is the one with highest utility; that is, where the CAL is tangent to the individual investor’s highest possible indifference curve.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 7,
+      "question": "<div><div><p>The stock of GBK Corporation has a beta of 0.65. If the risk-free rate of return is 3% and the expected market return is 9%, the expected return for GBK is <em>closest</em> to:</p>\n<ol>\n<li>10.8%.</li>\n<li>3.9%.</li>\n<li>6.9%.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. It is incorrectly calculated as 0.03 + 0.65 × (0.09 + 0.03) = 0.108. Incorrect. It is incorrectly calculated as E ( R GBK ) = 0.65 × (0.09 – 0.03) = 0.039. Correct . E ( R GBK ) = R f + β GBK × [ E ( R Mkt ) – R f ] = 0.03 + 0.65 × (0.09 – 0.03) = 0.069 Portfolio Risk and Return: Part II calculate and interpret the expected return of an asset using the CAPM",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. It is incorrectly calculated as 0.03 + 0.65 × (0.09 + 0.03) = 0.108.</p>\n</li>\n<li>\n<p>Incorrect. It is incorrectly calculated as <em>E</em>(<em>R</em><sub>GBK</sub>) = 0.65 × (0.09 – 0.03) = 0.039.</p>\n</li>\n<li>\n<p><strong>Correct</strong>.</p>\n<p><em>E</em>(<em>R</em><sub>GBK</sub>) = <em>R<sub>f</sub></em> + β<sub>GBK</sub> × [<em>E</em>(<em>R</em><sub>Mkt</sub>) – <em>R<sub>f</sub></em>]</p>\n<p>= 0.03 + 0.65 × (0.09 – 0.03)</p>\n<p>= 0.069</p>\n</li>\n</ol>\n<h4>Portfolio Risk and Return: Part II</h4>\n<ul>\n<li>calculate and interpret the expected return of an asset using the CAPM</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 8,
+      "question": "<div><div><div>\n<p>Highly risk-averse investors will <em>most likely</em> invest the majority of their wealth in:</p>\n</div></div></div>",
+      "choices": {
+        "A": "risky assets.",
+        "B": "risk-free assets.",
+        "C": "the optimal risky portfolio."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Although the optimal risky portfolio is the market portfolio, highly risk-averse investors choose to invest most of their wealth in the risk-free asset.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Although the optimal risky portfolio is the market portfolio, highly risk-averse investors choose to invest most of their wealth in the risk-free asset.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 9,
+      "question": "<div><div><p>Following its decision to divest its non-core assets, analysts expect HCL Corp’s standard deviation of returns to rise to 30% and its correlation with the market portfolio to remain unchanged at 0.8. The risk-free rate and the market risk premium are expected to remain unchanged at 6% and 8%, respectively. The market portfolio’s standard deviation of returns, however, is expected to decrease to 15%. The firm’s expected return after the restructure is <em>closest</em> to:</p>\n<ol>\n<li>9.2%.</li>\n<li>17.6%.</li>\n<li>18.8%.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. The beta is incorrectly calculated as [(0.8 × 0.15)/0.30] = 0.4, resulting in an expected return of 0.06 + (0.08)0.4 = 9.2%. Incorrect. The expected return is incorrectly calculated as 0.08 + (0.06)1.6 = 17.6%. Correct . We first compute the firm’s beta using 𝛽 𝑖 = 𝜌 𝑖 , 𝑚 𝜎 𝑖 𝜎 𝑚 β i = ρ i , m σ i σ m The beta is 𝛽 𝑖 = 0.8 ( 0.30 ) 0.15 = 1.6 β i = 0.8 ( 0.30 ) 0.15 = 1.6 The expected return is computed using E ( R i ) = R f + [ E ( R m ) – R f ]β i So, E ( R i ) = 0.06 + (0.08)1.6 = 18.8%. Portfolio Risk and Return: Part II calculate and interpret the expected return of an asset using the CAPM",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. The beta is incorrectly calculated as [(0.8 × 0.15)/0.30] = 0.4, resulting in an expected return of 0.06 + (0.08)0.4 = 9.2%.</p>\n</li>\n<li>\n<p>Incorrect. The expected return is incorrectly calculated as 0.08 + (0.06)1.6 = 17.6%.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. We first compute the firm’s beta using</p>\n<p><span></span><span><nobr><span><span><span><span><span><span><span><span><span><span>𝛽<span></span></span><span></span></span><span><span>𝑖</span><span></span></span></span></span><span>=</span><span><span><span><span><span><span><span><span>𝜌</span><span></span></span><span><span><span>𝑖</span><span>,</span><span>𝑚</span></span><span></span></span></span></span><span><span><span><span>𝜎<span></span></span><span></span></span><span><span>𝑖</span><span></span></span></span></span></span><span></span></span><span><span><span><span><span><span>𝜎<span></span></span><span></span></span><span><span>𝑚</span><span></span></span></span></span></span><span></span></span><span><span></span><span></span></span></span></span></span></span></span><span></span></span></span><span></span></span></nobr><span><math><semantics><mrow><msub><mi>β</mi><mi>i</mi></msub><mo>=</mo><mfrac><mrow><msub><mi>ρ</mi><mrow><mi>i</mi><mo>,</mo><mi>m</mi></mrow></msub><msub><mi>σ</mi><mi>i</mi></msub></mrow><mrow><msub><mi>σ</mi><mi>m</mi></msub></mrow></mfrac></mrow></semantics></math></span></span><script><math style=\"font-family:Arial\"><semantics> <mrow> <msub> <mi>β</mi> <mi>i</mi> </msub> <mo>=</mo><mfrac> <mrow> <msub> <mi>ρ</mi> <mrow> <mi>i</mi><mo>,</mo><mi>m</mi></mrow> </msub> <msub> <mi>σ</mi> <mi>i</mi> </msub> </mrow> <mrow> <msub> <mi>σ</mi> <mi>m</mi> </msub> </mrow> </mfrac> </mrow></semantics></math></script></p>\n<p>The beta is</p>\n<p><span></span><span><nobr><span><span><span><span><span><span><span><span><span><span>𝛽<span></span></span><span></span></span><span><span>𝑖</span><span></span></span></span></span><span>=</span><span><span><span><span><span>0.8</span><span><span>(</span><span><span>0.30</span></span><span>)</span></span></span><span></span></span><span><span><span>0.15</span></span><span></span></span><span><span></span><span></span></span></span></span><span>=</span><span>1.6</span></span></span></span><span></span></span></span><span></span></span></nobr><span><math><semantics><mrow><msub><mi>β</mi><mi>i</mi></msub><mo>=</mo><mfrac><mrow><mn>0.8</mn><mrow><mo>(</mo><mrow><mn>0.30</mn></mrow><mo>)</mo></mrow></mrow><mrow><mn>0.15</mn></mrow></mfrac><mo>=</mo><mn>1.6</mn></mrow></semantics></math></span></span><script><math style=\"font-family:Arial\"><semantics> <mrow> <msub> <mi>β</mi> <mi>i</mi> </msub> <mo>=</mo><mfrac> <mrow> <mn>0.8</mn><mrow><mo>(</mo> <mrow> <mn>0.30</mn></mrow> <mo>)</mo></mrow></mrow> <mrow> <mn>0.15</mn></mrow> </mfrac> <mo>=</mo><mn>1.6</mn></mrow></semantics></math></script></p>\n<p>The expected return is computed using</p>\n<p><em>E</em>(<em>R<sub>i</sub></em>) = <em>R<sub>f</sub></em> + [<em>E</em>(<em>R<sub>m</sub></em>) – <em>R<sub>f</sub></em>]β<em><sub>i</sub></em></p>\n<p>So, <em>E</em>(<em>R<sub>i</sub></em>) = 0.06 + (0.08)1.6 = 18.8%.</p>\n</li>\n</ol>\n<h4>Portfolio Risk and Return: Part II</h4>\n<ul>\n<li>calculate and interpret the expected return of an asset using the CAPM</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 10,
+      "question": "<div><div><div>\n<p>The capital market line (CML) is the graph of the risk and return of portfolio combinations consisting of the risk-free asset and:</p>\n</div></div></div>",
+      "choices": {
+        "A": "any risky portfolio.",
+        "B": "the market portfolio.",
+        "C": "the leveraged portfolio."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Although the capital allocation line includes all possible combinations of the risk-free asset and any risky portfolio, the capital market line is a special case of the capital allocation line, which uses the market portfolio as the optimal risky portfolio.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Although the capital allocation line includes all possible combinations of the risk-free asset and any risky portfolio, the capital market line is a special case of the capital allocation line, which uses the market portfolio as the optimal risky portfolio.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 11,
+      "question": "<div><div><div>\n<p>Which of the following statements <em>most accurately</em> defines the market portfolio in capital market theory? The market portfolio consists of all:</p>\n</div></div></div>",
+      "choices": {
+        "A": "risky assets.",
+        "B": "tradable assets.",
+        "C": "investable assets."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The market includes all risky assets, or anything that has value; however, not all assets are tradable, and not all tradable assets are investable.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The market includes all risky assets, or anything that has value; however, not all assets are tradable, and not all tradable assets are investable.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 12,
+      "question": "<div><div><p>Based on the capital asset pricing model (CAPM), the expected return on FGL Corp’s shares is 12%. Using a model independent of the CAPM, an analyst has estimated the returns on the stock at 10%. Based on this information, the analyst is <em>most likely</em> to consider the stock to be:</p>\n<ol>\n<li>overvalued.</li>\n<li>correctly valued.</li>\n<li>undervalued.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct . Because the estimated return on the stock is lower than the expected return using the CAPM, the stock does not compensate the investor for the level of risk and so it is most likely overvalued. Incorrect. Because the estimated return on the stock is lower than the expected return using the CAPM, the stock does not compensate the investor for the level of risk and so it is most likely overvalued (not correctly valued). Incorrect. Because the estimated return on the stock is lower than the expected return using the CAPM, the stock does not compensate the investor for the level of risk and so it is most likely overvalued (not undervalued). Portfolio Risk and Return: Part II describe and demonstrate applications of the CAPM and the SML",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong>. Because the estimated return on the stock is lower than the expected return using the CAPM, the stock does not compensate the investor for the level of risk and so it is most likely overvalued.</p>\n</li>\n<li>\n<p>Incorrect. Because the estimated return on the stock is lower than the expected return using the CAPM, the stock does not compensate the investor for the level of risk and so it is most likely overvalued (not correctly valued).</p>\n</li>\n<li>\n<p>Incorrect. Because the estimated return on the stock is lower than the expected return using the CAPM, the stock does not compensate the investor for the level of risk and so it is most likely overvalued (not undervalued).</p>\n</li>\n</ol>\n<h4>Portfolio Risk and Return: Part II</h4>\n<ul>\n<li>describe and demonstrate applications of the CAPM and the SML</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 13,
+      "question": "<div><div><p>A security has a beta of 1.30. If the risk-free rate of interest is 3% and the expected return of the market is 8%, based on the capital asset pricing model (CAPM), the expected return of the security is <em>closest to</em>:</p>\n<ol>\n<li>6.5%.</li>\n<li>13.4%.</li>\n<li>9.5%.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. It ignores the risk-free rate: 1.3 × (8% – 3%) = 6.5%. Incorrect. The market return is incorrectly interpreted as the market risk premium: 3% + 1.3 × 8% = 13.4%. Correct . The formula for the CAPM is expressed as E ( R i ) = R f + β i [ E ( R m ) – R f ] or 3% + [1.3 × (8% – 3%)] = 9.5%. Portfolio Risk and Return: Part II calculate and interpret the expected return of an asset using the CAPM",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. It ignores the risk-free rate: 1.3 × (8% – 3%) = 6.5%.</p>\n</li>\n<li>\n<p>Incorrect. The market return is incorrectly interpreted as the market risk premium: 3% + 1.3 × 8% = 13.4%.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. The formula for the CAPM is expressed as <em>E</em>(<em>R<sub>i</sub></em>) =<em> R<sub>f</sub></em> <em>+</em> β<em><sub>i</sub></em>[<em>E</em>(<em>R<sub>m</sub></em>) – <em>R<sub>f</sub></em>] or 3% + [1.3 × (8% – 3%)] = 9.5%.</p>\n</li>\n</ol>\n<h4>Portfolio Risk and Return: Part II</h4>\n<ul>\n<li>calculate and interpret the expected return of an asset using the CAPM</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 14,
+      "question": "<div><div><div>\n<p>With respect to capital market theory, the optimal risky portfolio:</p>\n</div></div></div>",
+      "choices": {
+        "A": "is the market portfolio.",
+        "B": "has the highest expected return.",
+        "C": "has the lowest expected variance."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The optimal risky portfolio is the market portfolio. Capital market theory assumes that investors have homogeneous expectations, which means that all investors analyze securities in the same way and are rational. That is, investors use the same probability distributions, use the same inputs for future cash flows, and arrive at the same valuations. Because their valuations of all assets are identical, all investors will invest in the same optimal risky portfolio (i.e., the market portfolio).",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The optimal risky portfolio is the market portfolio. Capital market theory assumes that investors have homogeneous expectations, which means that all investors analyze securities in the same way and are rational. That is, investors use the same probability distributions, use the same inputs for future cash flows, and arrive at the same valuations. Because their valuations of all assets are identical, all investors will invest in the same optimal risky portfolio (i.e., the market portfolio).</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 15,
+      "question": "<div><div><p>Which of the following is <em>least likely</em> an assumption underlying the capital asset pricing model (CAPM)?</p>\n<ol>\n<li>Investors analyze securities according to their own future cash flow estimates and probability distributions.</li>\n<li>There are no restrictions on short selling assets.</li>\n<li>The amount invested in an asset can be as much or as little as the investor wants.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct . The CAPM requires that there are no restrictions on short selling (which is an assumption underlying frictionless markets) and that the amount invested in an asset can be as much or as little as the investor wants (that is, investments are infinitely divisible). The CAPM also assumes that all investors analyze securities in the same way using the same inputs for future cash flows and the same probability distributions; that is, it assumes that investors have homogenous expectations. Incorrect. No restrictions on short selling assets (which is an assumption underlying frictionless markets) is an assumption of the CAPM. Incorrect. An investor being able to invest as much or as little in an asset (that is, investments are infinitely divisible) is an assumption of the CAPM. Portfolio Risk and Return: Part II explain the capital asset pricing model (CAPM), including its assumptions, and the security market line (SML)",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong>. The CAPM requires that there are no restrictions on short selling (which is an assumption underlying frictionless markets) and that the amount invested in an asset can be as much or as little as the investor wants (that is, investments are infinitely divisible). The CAPM also assumes that all investors analyze securities in the same way using the same inputs for future cash flows and the same probability distributions; that is, it assumes that investors have homogenous expectations.</p>\n</li>\n<li>\n<p>Incorrect. No restrictions on short selling assets (which is an assumption underlying frictionless markets) is an assumption of the CAPM.</p>\n</li>\n<li>\n<p>Incorrect. An investor being able to invest as much or as little in an asset (that is, investments are infinitely divisible) is an assumption of the CAPM.</p>\n</li>\n</ol>\n<h4>Portfolio Risk and Return: Part II</h4>\n<ul>\n<li>explain the capital asset pricing model (CAPM), including its assumptions, and the security market line (SML)</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 16,
+      "question": "<div><div><div>\n<p>Relative to portfolios on the CML, any portfolio that plots above the CML is considered:</p>\n</div></div></div>",
+      "choices": {
+        "A": "inferior.",
+        "B": "inefficient.",
+        "C": "unachievable."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Theoretically, any point above the CML is not achievable and any point below the CML is dominated by and inferior to any point on the CML.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Theoretically, any point above the CML is not achievable and any point below the CML is dominated by and inferior to any point on the CML.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 17,
+      "question": "<div><div><div>\n<p>The following table shows data for the stock of JKU and a market index.</p>\n<table class=\"table-style1\" style=\"width:500px\">\n<tbody>\n<tr>\n<td style=\"width:419px; max-width:419px\">Expected return of JKU</td>\n<td style=\"text-align:center; width:73px; max-width:73px\">15%</td>\n</tr>\n<tr>\n<td style=\"width:419px; max-width:419px\">Expected return of market index</td>\n<td style=\"text-align:center; width:73px; max-width:73px\">12%</td>\n</tr>\n<tr>\n<td style=\"width:419px; max-width:419px\">Risk-free rate</td>\n<td style=\"text-align:center; width:73px; max-width:73px\">5%</td>\n</tr>\n<tr>\n<td style=\"width:419px; max-width:419px\">Standard deviation of JKU returns</td>\n<td style=\"text-align:center; width:73px; max-width:73px\">20%</td>\n</tr>\n<tr>\n<td style=\"width:419px; max-width:419px\">Standard deviation of market index returns</td>\n<td style=\"text-align:center; width:73px; max-width:73px\">15%</td>\n</tr>\n<tr>\n<td style=\"width:419px; max-width:419px\">Correlation of JKU and market index returns</td>\n<td style=\"text-align:center; width:73px; max-width:73px\">0.75</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>Based on the capital asset pricing model (CAPM), JKU is <em>most likely</em>:</p>\n<ol>\n<li>undervalued.</li>\n<li>fairly valued.</li>\n<li>overvalued.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct . β JKU = (ρ JKU, M × σ JKU )/σ M = (0.75 × 0.2)/0.15 = 1.0 and E ( R JKU ) = R f + β JKU × ( R M – R f ) = 0.05 + 1 × (0.12 – 0.05) = 0.12 The required rate of return of JKU is 12%, and the expected return of JKU is 15%. Therefore, JKU is undervalued relative to the security market line (SML); the risk–return relationship lies above the SML. Incorrect. For JKU to be properly valued it would need to have an expected return equal to 12%. Incorrect. For JKU to be overvalued it would need to have an expected return less than 12%. Portfolio Risk and Return: Part II explain the capital asset pricing model (CAPM), including its assumptions, and the security market line (SML)",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong>.</p>\n<p>β<sub>JKU</sub> = (ρ<sub>JKU,</sub><em><sub>M</sub></em> × σ<sub>JKU</sub>)/σ<em><sub>M</sub></em> = (0.75 × 0.2)/0.15 = 1.0</p>\n<p>and</p>\n<p><em>E</em>(<em>R</em><sub>JKU</sub>) = <em>R<sub>f</sub></em> + β<sub>JKU</sub> × (<em>R<sub>M</sub></em> – <em>R<sub>f</sub></em>) = 0.05 + 1 × (0.12 – 0.05) = 0.12</p>\n<p>The required rate of return of JKU is 12%, and the expected return of JKU is 15%. Therefore, JKU is undervalued relative to the security market line (SML); the risk–return relationship lies above the SML.</p>\n</li>\n<li>\n<p>Incorrect. For JKU to be properly valued it would need to have an expected return equal to 12%.</p>\n</li>\n<li>\n<p>Incorrect. For JKU to be overvalued it would need to have an expected return less than 12%.</p>\n</li>\n</ol>\n<h4>Portfolio Risk and Return: Part II</h4>\n<ul>\n<li>explain the capital asset pricing model (CAPM), including its assumptions, and the security market line (SML)</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 18,
+      "question": "<div><div><div>\n<p>A portfolio on the capital market line with returns greater than the returns on the market portfolio represents a(n):</p>\n</div></div></div>",
+      "choices": {
+        "A": "lending portfolio.",
+        "B": "borrowing portfolio.",
+        "C": "unachievable portfolio."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. As one moves further to the right of point M on the capital market line, an increasing amount of borrowed money is being invested in the market portfolio. This means that there is negative investment in the risk-free asset, which is referred to as a leveraged position in the risky portfolio.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> As one moves further to the right of point M on the capital market line, an increasing amount of borrowed money is being invested in the market portfolio. This means that there is negative investment in the risk-free asset, which is referred to as a leveraged position in the risky portfolio.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 19,
+      "question": "<div><div><p>The slope of the security market line (SML) represents the portion of an asset’s expected return attributable to:</p>\n<ol>\n<li>diversifiable risk.</li>\n<li>market risk.</li>\n<li>total risk.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. Diversifiable risk is the unique risk related to any security and, as such, is a component of total risk. Correct . The slope of the SML is the market risk premium, E ( Rm ) – Rf . It represents the return of the market minus the return of a risk-free asset. Thus, the slope represents the portion of expected return that reflects compensation for market or systematic risk. Incorrect. Total risk is equal to market (systematic) risk and unsystematic (diversifiable) risk. Portfolio Risk and Return: Part II explain the capital asset pricing model (CAPM), including its assumptions, and the security market line (SML)",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Diversifiable risk is the unique risk related to any security and, as such, is a component of total risk.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. The slope of the SML is the market risk premium, <em>E</em>(<em>Rm</em>) – <em>Rf</em>. It represents the return of the market minus the return of a risk-free asset. Thus, the slope represents the portion of expected return that reflects compensation for market or systematic risk.</p>\n</li>\n<li>\n<p>Incorrect. Total risk is equal to market (systematic) risk and unsystematic (diversifiable) risk.</p>\n</li>\n</ol>\n<h4>Portfolio Risk and Return: Part II</h4>\n<ul>\n<li>explain the capital asset pricing model (CAPM), including its assumptions, and the security market line (SML)</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 20,
+      "question": "<div><div><div>\n<p>With respect to the capital market line, a portfolio on the CML with returns less than the returns on the market portfolio represents a(n):</p>\n</div></div></div>",
+      "choices": {
+        "A": "lending portfolio.",
+        "B": "borrowing portfolio.",
+        "C": "unachievable portfolio."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The combinations of the risk-free asset and the market portfolio on the CML where returns are less than the returns on the market portfolio are termed ‘lending’ portfolios.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The combinations of the risk-free asset and the market portfolio on the CML where returns are less than the returns on the market portfolio are termed ‘lending’ portfolios.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 21,
+      "question": "<div><div><div>\n<p>Information about three stocks is provided in the following table:</p>\n<table class=\"table-style1\" style=\"width:413px\">\n<tbody>\n<tr>\n<td style=\"width:145px; max-width:145px\"><strong>Stock</strong></td>\n<td style=\"text-align:center; width:166px; max-width:166px\"><strong>Expected Return</strong></td>\n<td style=\"text-align:center; width:88px; max-width:88px\"><strong>Beta</strong></td>\n</tr>\n<tr>\n<td style=\"width:145px; max-width:145px\">Booraem Inc.</td>\n<td style=\"text-align:center; width:166px; max-width:166px\">12.85%</td>\n<td style=\"text-align:center; width:88px; max-width:88px\">1.5</td>\n</tr>\n<tr>\n<td style=\"width:145px; max-width:145px\">Heisen Inc.</td>\n<td style=\"text-align:center; width:166px; max-width:166px\">11.27%</td>\n<td style=\"text-align:center; width:88px; max-width:88px\">1.1</td>\n</tr>\n<tr>\n<td style=\"width:145px; max-width:145px\">Gutmann Inc.</td>\n<td style=\"text-align:center; width:166px; max-width:166px\">9.51%</td>\n<td style=\"text-align:center; width:88px; max-width:88px\">0.8</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>If the expected market return is 9.5% and the average risk-free rate is 1.2%, according to the capital asset pricing model (CAPM) and the security market line (SML), which of the three stocks is <em>most likely</em> overvalued?</p>\n<ol>\n<li>Booraem Inc.</li>\n<li>Heisen Inc.</li>\n<li>Gutmann Inc.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct . Booraem Inc. is overvalued because it lies below the SML. The expected return, 12.85%, is less than the required return. According to the CAPM, the required return for Booraem Inc. is 0.1365 or 13.65%: 0.1365 = 0.012 + 1.5(0.095 – 0.012). Incorrect. Heisen Inc. is undervalued because it lies above the SML. The expected return, 11.27%, exceeds the required return. According to the CAPM the required return for Heisen Inc. is 0.1033 or 10.33%: 0.1033 = 0.012 + 1.1(0.095 – 0.012). Incorrect. Gutmann Inc. is undervalued because it lies above the SML. The expected return, 9.51%, exceeds the required return. According to the CAPM the required return for Gutmann Inc. is 0.0784 or 7.84%: 0.0784 = 0.012 + 0.8(0.095 – 0.012). Portfolio Risk and Return: Part II describe and demonstrate applications of the CAPM and the SML",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong>. Booraem Inc. is overvalued because it lies below the SML. The expected return, 12.85%, is less than the required return. According to the CAPM, the required return for Booraem Inc. is 0.1365 or 13.65%: 0.1365 = 0.012 + 1.5(0.095 – 0.012).</p>\n</li>\n<li>\n<p>Incorrect. Heisen Inc. is undervalued because it lies above the SML. The expected return, 11.27%, exceeds the required return. According to the CAPM the required return for Heisen Inc. is 0.1033 or 10.33%: 0.1033 = 0.012 + 1.1(0.095 – 0.012).</p>\n</li>\n<li>\n<p>Incorrect. Gutmann Inc. is undervalued because it lies above the SML. The expected return, 9.51%, exceeds the required return. According to the CAPM the required return for Gutmann Inc. is 0.0784 or 7.84%: 0.0784 = 0.012 + 0.8(0.095 – 0.012).</p>\n</li>\n</ol>\n<h4>Portfolio Risk and Return: Part II</h4>\n<ul>\n<li>describe and demonstrate applications of the CAPM and the SML</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 22,
+      "question": "<div><div><div>\n<p>Which of the following types of risk is <em>most likely</em> avoided by forming a diversified portfolio?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Total risk.",
+        "B": "Systematic risk.",
+        "C": "Nonsystematic risk."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Investors are capable of avoiding nonsystematic risk by forming a portfolio of assets that are not highly correlated with one another, thereby reducing total risk and being exposed only to systematic risk.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Investors are capable of avoiding nonsystematic risk by forming a portfolio of assets that are not highly correlated with one another, thereby reducing total risk and being exposed only to systematic risk.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 23,
+      "question": "<div><div><p>A portfolio with equal parts invested in a risk-free asset and a risky portfolio will <em>most likely</em> lie on:</p>\n<ol>\n<li>the efficient frontier.</li>\n<li>a capital allocation line.</li>\n<li>the security market line.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. A portfolio that is 100% invested in an efficient risky portfolio will lie on the efficient frontier. When combined with a risk-free asset, the resulting portfolio will lie on a capital allocation line. Correct . A capital allocation line shows possible combinations of a risky portfolio and the risk-free asset. Incorrect. Only a portfolio with 50% in a risk-free asset and 50% in the market portfolio will lie on the capital market line. Portfolio Risk and Return: Part II explain the capital allocation line (CAL) and the capital market line (CML)",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. A portfolio that is 100% invested in an efficient risky portfolio will lie on the efficient frontier. When combined with a risk-free asset, the resulting portfolio will lie on a capital allocation line.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. A capital allocation line shows possible combinations of a risky portfolio and the risk-free asset.</p>\n</li>\n<li>\n<p>Incorrect. Only a portfolio with 50% in a risk-free asset and 50% in the market portfolio<strong> </strong>will lie on the capital market line.</p>\n</li>\n</ol>\n<h4>Portfolio Risk and Return: Part II</h4>\n<ul>\n<li>explain the capital allocation line (CAL) and the capital market line (CML)</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 24,
+      "question": "<div><div><div>\n<p>Which of the following events is <em>most likely</em> an example of nonsystematic risk?</p>\n</div></div></div>",
+      "choices": {
+        "A": "A decline in interest rates.",
+        "B": "The resignation of chief executive officer.",
+        "C": "An increase in the value of the US dollar."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Nonsystematic risk is specific to a firm, whereas systematic risk affects the entire economy.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Nonsystematic risk is specific to a firm, whereas systematic risk affects the entire economy.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 25,
+      "question": "<div><div><p>The following information is available on three portfolios:</p>\n<table class=\"table-style1\" style=\"width:823px\">\n<tbody>\n<tr>\n<td style=\"width:90px; max-width:90px\"><strong>Portfolio</strong></td>\n<td style=\"width:291px; max-width:291px; text-align:center\"><strong>Mean Return on the Portfolio (%)</strong></td>\n<td style=\"width:429px; max-width:429px; text-align:center\"><strong>Standard Deviation of the Return on the Portfolio</strong></td>\n</tr>\n<tr>\n<td style=\"width:90px; max-width:90px\">D</td>\n<td style=\"width:291px; max-width:291px; text-align:center\">10</td>\n<td style=\"width:429px; max-width:429px; text-align:center\">20</td>\n</tr>\n<tr>\n<td style=\"width:90px; max-width:90px\">E</td>\n<td style=\"width:291px; max-width:291px; text-align:center\">18</td>\n<td style=\"width:429px; max-width:429px; text-align:center\">15</td>\n</tr>\n<tr>\n<td style=\"width:90px; max-width:90px\">F</td>\n<td style=\"width:291px; max-width:291px; text-align:center\">6</td>\n<td style=\"width:429px; max-width:429px; text-align:center\">3</td>\n</tr>\n</tbody>\n</table>\n<p>The risk-free rate is 4%. The portfolio that has the <em>best</em> risk-adjusted performance as measured by the Sharpe ratio is:</p>\n<ol>\n<li>Portfolio D.</li>\n<li>Portfolio E.</li>\n<li>Portfolio F.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. There are numerous possible mistakes that would lead a candidate to choose Portfolio D. Foremost among them would be putting the standard deviations in the numerators rather than the denominators of the Sharpe ratios. The coefficient of variation is an example: Portfolio D: 20/10 = 2; Portfolio E: 15/18 = 0.83; and Portfolio F: 3/6 = 0.5. Correct . S D = (10 − 4)/20 = 0.30 S E = (18 − 4)/15 = 0.9333 S F = (6 − 4)/3 = 0.6667 The portfolio with the best risk-adjusted performance as measured by the Sharpe ratio is the one with the highest Sharpe ratio: Portfolio E. Incorrect. There are numerous possible mistakes that would lead a candidate to choose Portfolio F. Foremost among them would be failing to subtract the risk-free rate from the mean return of the portfolios. Portfolio D: 10/20 = 0.5; Portfolio E: 18/15 = 1.2; Portfolio F: 6/3 = 2. Portfolio Risk and Return: Part II calculate and interpret the Sharpe ratio, Treynor ratio, M2, and Jensen’s alpha",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. There are numerous possible mistakes that would lead a candidate to choose Portfolio D. Foremost among them would be putting the standard deviations in the numerators rather than the denominators of the Sharpe ratios. The coefficient of variation is an example: Portfolio D: 20/10 = 2; Portfolio E: 15/18 = 0.83; and Portfolio F: 3/6 = 0.5.</p>\n</li>\n<li>\n<p><strong>Correct</strong>.</p>\n<p><em>S<sub>D</sub></em> = (10 − 4)/20 = 0.30</p>\n<p><em>S<sub>E</sub></em> = (18 − 4)/15 = 0.9333</p>\n<p><em>S<sub>F</sub></em> = (6 − 4)/3 = 0.6667</p>\n<p>The portfolio with the best risk-adjusted performance as measured by the Sharpe ratio is the one with the highest Sharpe ratio: Portfolio E.</p>\n</li>\n<li>\n<p>Incorrect. There are numerous possible mistakes that would lead a candidate to choose Portfolio F. Foremost among them would be failing to subtract the risk-free rate from the mean return of the portfolios. Portfolio D: 10/20 = 0.5; Portfolio E: 18/15 = 1.2; Portfolio F: 6/3 = 2.</p>\n</li>\n</ol>\n<h4>Portfolio Risk and Return: Part II</h4>\n<ul>\n<li>calculate and interpret the Sharpe ratio, Treynor ratio, M2, and Jensen’s alpha</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 26,
+      "question": "<div><div><div>\n<p>With respect to the pricing of risk in capital market theory, which of the following statements is <em>most accurate</em>?</p>\n</div></div></div>",
+      "choices": {
+        "A": "All risk is priced.",
+        "B": "Systematic risk is priced.",
+        "C": "Nonsystematic risk is priced."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Only systematic risk is priced. Investors do not receive any return for accepting nonsystematic or diversifiable risk.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Only systematic risk is priced. Investors do not receive any return for accepting nonsystematic or diversifiable risk.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 27,
+      "question": "<div><div><div>\n<p>The sum of an asset’s systematic variance and its nonsystematic variance of returns is equal to the asset’s:</p>\n</div></div></div>",
+      "choices": {
+        "A": "beta.",
+        "B": "total risk.",
+        "C": "total variance."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. The sum of systematic variance and nonsystematic variance equals the total variance of the asset. References to total risk as the sum of systematic risk and nonsystematic risk refer to variance, not to risk.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> The sum of systematic variance and nonsystematic variance equals the total variance of the asset. References to total risk as the sum of systematic risk and nonsystematic risk refer to variance, not to risk.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 28,
+      "question": "<div><div><p>Which of the following performance measures <em>most likely</em> relies on systematic risk as opposed to total risk when calculating a risk-adjusted return?</p>\n<ol>\n<li>Sharpe ratio</li>\n<li>\n<i>M</i>-squared</li>\n<li>Treynor ratio</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. The Sharpe ratio is similar to the Treynor ratio, but it uses portfolio standard deviation, which is a measure of total risk, instead of standard deviation. Incorrect. M -squared incorporates the standard deviation of the market and portfolio, which are measures of total risk. Correct . The Treynor ratio measures the return premium of a portfolio versus the risk-free asset relative to the portfolio’s beta, which is a measure of systematic risk. Portfolio Risk and Return: Part II calculate and interpret the Sharpe ratio, Treynor ratio, M2, and Jensen’s alpha",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. The Sharpe ratio is similar to the Treynor ratio, but it uses portfolio standard deviation, which is a measure of total risk, instead of standard deviation.</p>\n</li>\n<li>\n<p>Incorrect. <em>M</em>-squared incorporates the standard deviation of the market and portfolio, which are measures of total risk.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. The Treynor ratio measures the return premium of a portfolio versus the risk-free asset relative to the portfolio’s beta, which is a measure of systematic risk.</p>\n</li>\n</ol>\n<h4>Portfolio Risk and Return: Part II</h4>\n<ul>\n<li>calculate and interpret the Sharpe ratio, Treynor ratio, M2, and Jensen’s alpha</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 29,
+      "question": "<div><div><div>\n<p>Which security has the <em>highest</em> total risk?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Security 1.",
+        "B": "Security 2.",
+        "C": "Security 3."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Security 1 has the highest total risk = 0.25 compared to Security 2 and Security 3 with a total risk of 0.20.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Security 1 has the highest total risk = 0.25 compared to Security 2 and Security 3 with a total risk of 0.20.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 30,
+      "question": "<div><div><p>Which of the following portfolio performance measures are the <em>most </em>appropriate for an investor who holds a fully diversified portfolio?</p>\n<ol>\n<li>Sharpe ratio and Treynor ratio.</li>\n<li>Treynor ratio and Jensen’s alpha.</li>\n<li>\n<i>M</i>-Squared and Sharpe ratio.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. The Treynor ratio is appropriate for an investor who holds a fully diversified portfolio, but the Sharpe ratio is appropriate for an investor who does not hold a fully diversified portfolio. Correct . For an investor who holds a fully diversified portfolio, the Treynor ratio and Jensen’s alpha are the appropriate portfolio performance measures. They are appropriate because in a fully diversified portfolio, only systematic risk matters; both these metrics measure performance relative to beta or systematic risk. Incorrect. These measures are appropriate for an investor who does not hold a fully diversified portfolio. Portfolio Risk and Return: Part II calculate and interpret the Sharpe ratio, Treynor ratio, M2, and Jensen’s alpha",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. The Treynor ratio is appropriate for an investor who holds a fully diversified portfolio, but the Sharpe ratio is appropriate for an investor who does not hold a fully diversified portfolio.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. For an investor who holds a fully diversified portfolio, the Treynor ratio and Jensen’s alpha are the appropriate portfolio performance measures. They are appropriate because in a fully diversified portfolio, only systematic risk matters; both these metrics measure performance relative to beta or systematic risk.</p>\n</li>\n<li>\n<p>Incorrect. These measures are appropriate for an investor who does not hold a fully diversified portfolio.</p>\n</li>\n</ol>\n<h4>Portfolio Risk and Return: Part II</h4>\n<ul>\n<li>calculate and interpret the Sharpe ratio, Treynor ratio, M2, and Jensen’s alpha</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 31,
+      "question": "<div><div><div>\n<p>Which security has the <em>highest</em> beta measure?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Security 1.",
+        "B": "Security 2.",
+        "C": "Security 3."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Security 3 has the highest beta value; 1.07 = 𝜌 3 , 𝑚 𝜎 3 𝜎 𝑚 = ( 0.80 ) ( 20 % ) 15 % ρ 3 , m σ 3 σ m = ( 0.80 ) ( 20 % ) 15 % compared to Security 1 and Security 2 with beta values of 1.00 and 0.93, respectively.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Security 3 has the highest beta value; </p>\n<span>1.07 = <span></span><span><nobr><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>𝜌</span><span></span></span><span><span><span>3</span><span>,</span><span>𝑚</span></span><span></span></span></span></span><span><span><span><span>𝜎<span></span></span><span></span></span><span><span>3</span><span></span></span></span></span></span><span></span></span><span><span><span><span><span><span>𝜎<span></span></span><span></span></span><span><span>𝑚</span><span></span></span></span></span></span><span></span></span><span><span></span><span></span></span></span></span></span></span><span>=</span><span><span><span><span><span><span><span><span>(</span><span><span>0.80</span></span><span>)</span></span><span><span><span>(</span></span><span><span>20</span><span>%</span></span><span><span>)</span></span></span></span><span></span></span><span><span><span>15</span><span>%</span></span><span></span></span><span><span></span><span></span></span></span></span></span></span></span></span></span><span></span></span></span><span></span></span></nobr><span><math><semantics><mrow><mstyle><mfrac><mrow><msub><mi>ρ</mi><mrow><mn>3</mn><mo>,</mo><mi>m</mi></mrow></msub><msub><mi>σ</mi><mn>3</mn></msub></mrow><mrow><msub><mi>σ</mi><mi>m</mi></msub></mrow></mfrac></mstyle><mo>=</mo><mstyle><mfrac><mrow><mrow><mo>(</mo><mrow><mn>0.80</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>20</mn><mi>%</mi></mrow><mo>)</mo></mrow></mrow><mrow><mn>15</mn><mi>%</mi></mrow></mfrac></mstyle></mrow></semantics></math></span></span><script><math><semantics><mrow><mstyle displaystyle=\"true\"><mfrac><mrow><msub><mi>ρ</mi><mrow><mn>3</mn><mo>,</mo><mi>m</mi></mrow></msub><msub><mi>σ</mi><mn>3</mn></msub></mrow><mrow><msub><mi>σ</mi><mi>m</mi></msub></mrow></mfrac></mstyle><mo>=</mo><mstyle displaystyle=\"true\"><mfrac><mrow><mrow><mo>(</mo><mrow><mn>0.80</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>20</mn><mi>%</mi></mrow><mo>)</mo></mrow></mrow><mrow><mn>15</mn><mi>%</mi></mrow></mfrac></mstyle></mrow></semantics></math></script></span><p>compared to Security 1 and Security 2 with beta values of 1.00 and 0.93, respectively.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 32,
+      "question": "<div><div><p>A return-generating model that provides an estimate of the expected return of a security based on such factors as earnings growth and cash flow generation is <em>best</em> described as a:</p>\n<ol>\n<li>market factor model.</li>\n<li>fundamental factor model.</li>\n<li>macroeconomic factor model.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. In a market model, the factor is the market return. Correct . A return-generating model based on such factors as earnings growth and cash flow generation is a fundamental factor model. Incorrect. In a macroeconomic factor model, appropriate factors would be economic factors such as the interest rate and the inflation rate. Portfolio Risk and Return: Part II explain return generating models (including the market model) and their uses",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. In a market model, the factor is the market return.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. A return-generating model based on such factors as earnings growth and cash flow generation is a fundamental factor model.</p>\n</li>\n<li>\n<p>Incorrect. In a macroeconomic factor model, appropriate factors would be economic factors such as the interest rate and the inflation rate.</p>\n</li>\n</ol>\n<h4>Portfolio Risk and Return: Part II</h4>\n<ul>\n<li>explain return generating models (including the market model) and their uses</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 33,
+      "question": "<div><div><p>Stock X and Stock Y have the same level of total risk. Stock X has twice the systematic risk of Stock Y and half its non-systematic risk. Stock X’s expected return will <em>most likely</em> be:</p>\n<ol>\n<li>the same as the expected return of Stock Y.</li>\n<li>lower than the expected return of Stock Y.</li>\n<li>higher than the expected return of Stock Y.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. Stock X has a higher systematic risk level compared to Stock Y, implying a higher (not the same) expected return compared to Stock Y. Incorrect. Stock X has a higher systematic risk level compared to Stock Y, implying a higher (not lower) expected return compared to Stock Y. Correct . Stock X has a higher systematic risk level compared with Stock Y, its expected return will be higher than that of Stock Y. Portfolio Risk and Return: Part II explain systematic and nonsystematic risk, including why an investor should not expect to receive additional return for bearing nonsystematic risk",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Stock X has a higher systematic risk level compared to Stock Y, implying a higher (not the same) expected return compared to Stock Y.</p>\n</li>\n<li>\n<p>Incorrect. Stock X has a higher systematic risk level compared to Stock Y, implying a higher (not lower) expected return compared to Stock Y.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. Stock X has a higher systematic risk level compared with Stock Y, its expected return will be higher than that of Stock Y.</p>\n</li>\n</ol>\n<h4>Portfolio Risk and Return: Part II</h4>\n<ul>\n<li>explain systematic and nonsystematic risk, including why an investor should not expect to receive additional return for bearing nonsystematic risk</li>\n</ul>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 34,
+      "question": "<div><div><div>\n<p>Which security has the <em>least</em> amount of market risk?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Security 1.",
+        "B": "Security 2.",
+        "C": "Security 3."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Security 2 has the lowest beta value; 0.93 = 𝜌 2 , 𝑚 𝜎 2 𝜎 𝑚 = ( 0.70 ) ( 20 % ) 15 % ρ 2 , m σ 2 σ m = ( 0.70 ) ( 20 % ) 15 % compared to Security 1 and 3 with beta values of 1.00 and 1.07, respectively.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Security 2 has the lowest beta value; </p>\n<span>0.93 = <span></span><span><nobr><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>𝜌</span><span></span></span><span><span><span>2</span><span>,</span><span>𝑚</span></span><span></span></span></span></span><span><span><span><span>𝜎<span></span></span><span></span></span><span><span>2</span><span></span></span></span></span></span><span></span></span><span><span><span><span><span><span>𝜎<span></span></span><span></span></span><span><span>𝑚</span><span></span></span></span></span></span><span></span></span><span><span></span><span></span></span></span></span></span></span><span>=</span><span><span><span><span><span><span><span><span>(</span><span><span>0.70</span></span><span>)</span></span><span><span><span>(</span></span><span><span>20</span><span>%</span></span><span><span>)</span></span></span></span><span></span></span><span><span><span>15</span><span>%</span></span><span></span></span><span><span></span><span></span></span></span></span></span></span></span></span></span><span></span></span></span><span></span></span></nobr><span><math><semantics><mrow><mstyle><mfrac><mrow><msub><mi>ρ</mi><mrow><mn>2</mn><mo>,</mo><mi>m</mi></mrow></msub><msub><mi>σ</mi><mn>2</mn></msub></mrow><mrow><msub><mi>σ</mi><mi>m</mi></msub></mrow></mfrac></mstyle><mo>=</mo><mstyle><mfrac><mrow><mrow><mo>(</mo><mrow><mn>0.70</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>20</mn><mi>%</mi></mrow><mo>)</mo></mrow></mrow><mrow><mn>15</mn><mi>%</mi></mrow></mfrac></mstyle></mrow></semantics></math></span></span><script><math><semantics><mrow><mstyle displaystyle=\"true\"><mfrac><mrow><msub><mi>ρ</mi><mrow><mn>2</mn><mo>,</mo><mi>m</mi></mrow></msub><msub><mi>σ</mi><mn>2</mn></msub></mrow><mrow><msub><mi>σ</mi><mi>m</mi></msub></mrow></mfrac></mstyle><mo>=</mo><mstyle displaystyle=\"true\"><mfrac><mrow><mrow><mo>(</mo><mrow><mn>0.70</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>20</mn><mi>%</mi></mrow><mo>)</mo></mrow></mrow><mrow><mn>15</mn><mi>%</mi></mrow></mfrac></mstyle></mrow></semantics></math></script></span><p>compared to Security 1 and 3 with beta values of 1.00 and 1.07, respectively.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 35,
+      "question": "<div><div><div>\n<p>With respect to return-generating models, the intercept term of the market model is the asset’s estimated:</p>\n</div></div></div>",
+      "choices": {
+        "A": "beta.",
+        "B": "alpha.",
+        "C": "variance."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. In the market model, R i = α i + β i R m + e i , the intercept, α i , and slope coefficient, β i , are estimated using historical security and market returns.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> In the market model, <em>R<sub>i</sub></em> = α<em><sub>i</sub></em> + β<em><sub>i</sub>R<sub>m</sub></em> + <em>e<sub>i</sub></em>, the intercept, α<em><sub>i</sub>,</em> and slope coefficient, β<em><sub>i</sub></em>, are estimated using historical security and market returns.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 36,
+      "question": "<div><div><div>\n<p>With respect to return-generating models, the slope term of the market model is an estimate of the asset’s:</p>\n</div></div></div>",
+      "choices": {
+        "A": "total risk.",
+        "B": "systematic risk.",
+        "C": "nonsystematic risk."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. In the market model, R i = α i + β i R m + e i , the slope coefficient, β i , is an estimate of the asset’s systematic or market risk.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> In the market model, <em>R<sub>i</sub></em> = α<em><sub>i</sub></em> + β<em><sub>i</sub>R<sub>m</sub></em> + <em>e<sub>i</sub></em>, the slope coefficient, β<em><sub>i</sub></em>, is an estimate of the asset’s systematic or market risk.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 37,
+      "question": "<div><div><div>\n<p>With respect to return-generating models, which of the following statements is <em>most accurate</em>? Return-generating models are used to directly estimate the:</p>\n</div></div></div>",
+      "choices": {
+        "A": "expected return of a security.",
+        "B": "weights of securities in a portfolio.",
+        "C": "parameters of the capital market line."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. In the market model, R i = α i + β i R m + e i , the intercept, α i , and slope coefficient, β i , are estimated using historical security and market returns. These parameter estimates then are used to predict firm-specific returns that a security may earn in a future period.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> In the market model, <em>R<sub>i</sub></em> = α<em><sub>i</sub></em> + β<em><sub>i</sub>R<sub>m</sub></em> + <em>e<sub>i</sub></em>, the intercept, α<em><sub>i</sub>,</em> and slope coefficient, β<em><sub>i</sub></em>, are estimated using historical security and market returns. These parameter estimates then are used to predict firm-specific returns that a security may earn in a future period.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 38,
+      "question": "<div><div><div>\n<p>With respect to capital market theory, the average beta of all assets in the market is:</p>\n</div></div></div>",
+      "choices": {
+        "A": "less than 1.0.",
+        "B": "equal to 1.0.",
+        "C": "greater than 1.0."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The average beta of all assets in the market, by definition, is equal to 1.0.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The average beta of all assets in the market, by definition, is equal to 1.0.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 39,
+      "question": "<div><div><div>\n<p>With respect to the capital asset pricing model, the primary determinant of expected return of an individual asset is the:</p>\n</div></div></div>",
+      "choices": {
+        "A": "asset’s beta.",
+        "B": "market risk premium.",
+        "C": "asset’s standard deviation."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The CAPM shows that the primary determinant of expected return for an individual asset is its beta, or how well the asset correlates with the market.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The CAPM shows that the primary determinant of expected return for an individual asset is its beta, or how well the asset correlates with the market.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 40,
+      "question": "<div><div><div>\n<p>With respect to the capital asset pricing model, which of the following values of beta for an asset is <em>most likely</em> to have an expected return for the asset that is less than the risk-free rate?</p>\n</div></div></div>",
+      "choices": {
+        "A": "−0.5",
+        "B": "0.0",
+        "C": "0.5"
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. If an asset’s beta is negative, the required return will be less than the risk-free rate in the CAPM. When combined with a positive market return, the asset reduces the risk of the overall portfolio, which makes the asset very valuable. Insurance is an example of a negative beta asset.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> If an asset’s beta is negative, the required return will be less than the risk-free rate in the CAPM. When combined with a positive market return, the asset reduces the risk of the overall portfolio, which makes the asset very valuable. Insurance is an example of a negative beta asset.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 41,
+      "question": "<div><div><div>\n<p>With respect to the capital asset pricing model, the market risk premium is:</p>\n</div></div></div>",
+      "choices": {
+        "A": "less than the excess market return.",
+        "B": "equal to the excess market return.",
+        "C": "greater than the excess market return."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. In the CAPM, the market risk premium is the difference between the return on the market and the risk-free rate, which is the same as the return in excess of the market return.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> In the CAPM, the market risk premium is the difference between the return on the market and the risk-free rate, which is the same as the return in excess of the market return.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 42,
+      "question": "<div><div><div>\n<p>The graph of the capital asset pricing model is the:</p>\n</div></div></div>",
+      "choices": {
+        "A": "capital market line.",
+        "B": "security market line.",
+        "C": "security characteristic line."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The security market line (SML) is a graphical representation of the capital asset pricing model, with beta risk on the x-axis and expected return on the y-axis.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The security market line (SML) is a graphical representation of the capital asset pricing model, with beta risk on the x-axis and expected return on the y-axis.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 43,
+      "question": "<div><div><div>\n<p>With respect to capital market theory, correctly priced individual assets can be plotted on the:</p>\n</div></div></div>",
+      "choices": {
+        "A": "capital market line.",
+        "B": "security market line.",
+        "C": "capital allocation line."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The security market line applies to any security, efficient or not. The CAL and the CML use the total risk of the asset (or portfolio of assets) rather than its systematic risk, which is the only risk that is priced.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The security market line applies to any security, efficient or not. The CAL and the CML use the total risk of the asset (or portfolio of assets) rather than its systematic risk, which is the only risk that is priced.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 44,
+      "question": "<div><div><div>\n<p>With respect to the capital asset pricing model, if the expected market risk premium is 6% and the risk-free rate is 3%, the expected return for Security 1 is <em>closest</em> to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "9.0%.",
+        "B": "12.0%.",
+        "C": "13.5%."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The expected return of Security 1, using the CAPM, is 12.0% = 3% + 1.5(6%); E ( R i ) = R f + β i [ E ( R m ) – R f ].",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The expected return of Security 1, using the CAPM, is 12.0% = 3% + 1.5(6%); <em>E</em>(<em>R<sub>i</sub></em>) = <em>R<sub>f</sub></em> + β<em><sub>i</sub></em>[<em>E</em>(<em>R<sub>m</sub></em>) – <em>R<sub>f</sub></em>].</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 45,
+      "question": "<div><div><div>\n<p>With respect to the capital asset pricing model, if expected return for Security 2 is equal to 11.4% and the risk-free rate is 3%, the expected return for the market is <em>closest</em> to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "8.4%.",
+        "B": "9.0%.",
+        "C": "10.3%."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The expected risk premium for Security 2 is 8.4%, (11.4% − 3%), indicates that the expected market risk premium is 6%; therefore, since the risk-free rate is 3% the expected rate of return for the market is 9%. That is, using the CAPM, E ( R i ) = R f + β i [ E ( R m ) – R f ], 11.4% = 3% + 1.4(X%), where X% = (11.4% − 3%)/1.4 = 6.0% = market risk premium.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The expected risk premium for Security 2 is 8.4%, (11.4% − 3%), indicates that the expected market risk premium is 6%; therefore, since the risk-free rate is 3% the expected rate of return for the market is 9%. That is, using the CAPM, <em>E</em>(<em>R<sub>i</sub></em>) = <em>R<sub>f</sub></em> + β<em><sub>i</sub></em>[<em>E</em>(<em>R<sub>m</sub></em>) – <em>R<sub>f</sub></em>], 11.4% = 3% + 1.4(X%), where X% = (11.4% − 3%)/1.4 = 6.0% = market risk premium.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 46,
+      "question": "<div><div><div>\n<p>With respect to the capital asset pricing model, if the expected market risk premium is 6% the security with the <em>highest</em> expected return is:</p>\n</div></div></div>",
+      "choices": {
+        "A": "Security 1.",
+        "B": "Security 2.",
+        "C": "Security 3."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Security 3 has the highest beta; thus, regardless of the value for the risk-free rate, Security 3 will have the highest expected return: E ( R i ) = R f + β i [ E ( R m ) – R f ]",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Security 3 has the highest beta; thus, regardless of the value for the risk-free rate, Security 3 will have the highest expected return:<span><em>E</em>(<em>R<sub>i</sub></em>) = <em>R<sub>f</sub></em> + β<em><sub>i</sub></em>[<em>E</em>(<em>R<sub>m</sub></em>) – <em>R<sub>f</sub></em>] </span></p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 47,
+      "question": "<div><div><div>\n<p>With respect to the capital asset pricing model, a decline in the expected market return will have the <em>greatest</em> impact on the expected return of:</p>\n</div></div></div>",
+      "choices": {
+        "A": "Security 1.",
+        "B": "Security 2.",
+        "C": "Security 3."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Security 3 has the highest beta; thus, regardless of the risk-free rate the expected return of Security 3 will be most sensitive to a change in the expected market return.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Security 3 has the highest beta; thus, regardless of the risk-free rate the expected return of Security 3 will be most sensitive to a change in the expected market return.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 48,
+      "question": "<div><div><div>\n<p>With respect to capital market theory, which of the following statements <em>best</em> describes the effect of the homogeneity assumption? Because all investors have the same economic expectations of future cash flows for all assets, investors will invest in:</p>\n</div></div></div>",
+      "choices": {
+        "A": "the same optimal risky portfolio.",
+        "B": "the Standard and Poor’s 500 Index.",
+        "C": "assets with the same amount of risk."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The homogeneity assumption refers to all investors having the same economic expectation of future cash flows. If all investors have the same expectations, then all investors should invest in the same optimal risky portfolio, therefore implying the existence of only one optimal portfolio (i.e., the market portfolio).",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The homogeneity assumption refers to all investors having the same economic expectation of future cash flows. If all investors have the same expectations, then all investors should invest in the same optimal risky portfolio, therefore implying the existence of only one optimal portfolio (i.e., the market portfolio).</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 49,
+      "question": "<div><div><div>\n<p>With respect to capital market theory, which of the following assumptions allows for the existence of the market portfolio? All investors:</p>\n</div></div></div>",
+      "choices": {
+        "A": "are price takers.",
+        "B": "have homogeneous expectations.",
+        "C": "plan for the same, single holding period."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The homogeneous expectations assumption means that all investors analyze securities in the same way and are rational. That is, they use the same probability distributions, use the same inputs for future cash flows, and arrive at the same valuations. Because their valuation of all assets is identical, they will generate the same optimal risky portfolio, which is the market portfolio.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The homogeneous expectations assumption means that all investors analyze securities in the same way and are rational. That is, they use the same probability distributions, use the same inputs for future cash flows, and arrive at the same valuations. Because their valuation of all assets is identical, they will generate the same optimal risky portfolio, which is the market portfolio.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 50,
+      "question": "<div><div><div>\n<p>Three equity fund managers have performance records summarized in the following table:</p>\n<div>\n<table>\n<thead>\n<tr>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"><strong> </strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong>Mean Annual Return (%)</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong>Standard Deviation of Return (%)</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">Manager 1</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">14.38</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">10.53</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">Manager 2</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">9.25</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">6.35</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">Manager 3</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">13.10</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">8.23</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>Given a risk-free rate of return of 2.60%, which manager performed best based on the Sharpe ratio?</p>\n</div>\n</div></div>",
+      "choices": {
+        "A": "Manager 1",
+        "B": "Manager 2",
+        "C": "Manager 3"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. The Sharpe ratio ( SR ˆ ) ( SR ^ ) is the mean excess portfolio return per unit of risk, where a higher Sharpe ratio indicates better performance: 𝑆 𝑅 ˆ 1 = 𝑅 ⎯ ⎯ ⎯ 𝑝 − 𝑅 ⎯ ⎯ ⎯ 𝑓 𝜎 ˆ 𝑝 = 14.38 − 2.60 10.53 = 1.12 S R ^ 1 = R ¯ p − R ¯ f σ ^ p = 14.38 − 2.60 10.53 = 1.12 𝑆 𝑅 ˆ 2 = 𝑅 ⎯ ⎯ ⎯ 𝑝 − 𝑅 ⎯ ⎯ ⎯ 𝑓 𝜎 ˆ 𝑝 = 9.25 − 2.60 6.35 = 1.05 S R ^ 2 = R ¯ p − R ¯ f σ ^ p = 9.25 − 2.60 6.35 = 1.05 𝑆 𝑅 ˆ 3 = 𝑅 ⎯ ⎯ ⎯ 𝑝 − 𝑅 ⎯ ⎯ ⎯ 𝑓 𝜎 ˆ 𝑝 = 13.10 − 2.60 8.23 = 1.28 S R ^ 3 = R ¯ p − R ¯ f σ ^ p = 13.10 − 2.60 8.23 = 1.28",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> The Sharpe ratio <span><span></span><span><nobr><span><span><span><span><span><span><span><span>(</span></span><span><span><span><span><span><span>SR</span></span><span></span></span><span><span><span>ˆ</span></span><span></span></span></span></span></span><span><span>)</span></span></span></span></span><span></span></span></span><span></span></span></nobr><span><math><mrow><mrow><mo>(</mo><mrow><mover><mrow><mtext>SR</mtext></mrow><mo>^</mo></mover></mrow><mo>)</mo></mrow></mrow></math></span></span><script><math id=\"m3_d4e1110\"><mrow><mrow><mo>(</mo><mrow><mover><mrow><mtext>SR</mtext></mrow><mo stretchy=\"true\">^</mo></mover></mrow><mo>)</mo></mrow></mrow></math></script></span> is the mean excess portfolio return per unit of risk, where a higher Sharpe ratio indicates better performance:<span><span></span><span><nobr><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>𝑆<span></span></span><span>𝑅</span></span><span></span></span><span><span><span>ˆ</span></span><span></span></span></span></span></span><span></span></span><span><span>1</span><span></span></span></span></span><span>=</span><span><span><span><span><span><span><span><span><span><span><span><span><span>𝑅</span><span></span></span><span><span><span><span>⎯<span></span></span><span>⎯<span></span></span><span>⎯<span></span></span></span></span><span></span></span></span></span><span></span></span><span><span>𝑝</span><span></span></span></span></span><span>−</span><span><span><span><span><span><span><span>𝑅</span><span></span></span><span><span><span><span>⎯<span></span></span><span>⎯<span></span></span><span>⎯<span></span></span></span></span><span></span></span></span></span><span></span></span><span><span>𝑓<span></span></span><span></span></span></span></span></span><span></span></span><span><span><span><span><span><span><span><span><span><span>𝜎<span></span></span><span></span></span><span><span><span>ˆ</span></span><span></span></span></span></span></span><span></span></span><span><span>𝑝</span><span></span></span></span></span></span><span></span></span><span><span></span><span></span></span></span></span></span></span><span>=</span><span><span><span><span><span><span><span>14.38</span><span>−</span><span>2.60</span></span><span></span></span><span><span><span>10.53</span></span><span></span></span><span><span></span><span></span></span></span></span></span></span><span>=</span><span>1.12</span></span></span></span><span></span></span></span><span></span></span></nobr><span><math><semantics><mrow><msub><mrow><mover><mrow><mi>S</mi><mi>R</mi></mrow><mo>^</mo></mover></mrow><mn>1</mn></msub><mo>=</mo><mstyle><mfrac><mrow><msub><mover><mi>R</mi><mo>¯</mo></mover><mi>p</mi></msub><mo>−</mo><msub><mover><mi>R</mi><mo>¯</mo></mover><mi>f</mi></msub></mrow><mrow><msub><mrow><mover><mi>σ</mi><mo>^</mo></mover></mrow><mi>p</mi></msub></mrow></mfrac></mstyle><mo>=</mo><mstyle><mfrac><mrow><mn>14.38</mn><mo>−</mo><mn>2.60</mn></mrow><mrow><mn>10.53</mn></mrow></mfrac></mstyle><mo>=</mo><mn>1.12</mn></mrow></semantics></math></span></span><script><math><semantics><mrow><msub><mrow><mover><mrow><mi>S</mi><mi>R</mi></mrow><mo stretchy=\"true\">^</mo></mover></mrow><mn>1</mn></msub><mo>=</mo><mstyle displaystyle=\"true\"><mfrac><mrow><msub><mover><mi>R</mi><mo>¯</mo></mover><mi>p</mi></msub><mo>−</mo><msub><mover><mi>R</mi><mo>¯</mo></mover><mi>f</mi></msub></mrow><mrow><msub><mrow><mover><mi>σ</mi><mo stretchy=\"true\">^</mo></mover></mrow><mi>p</mi></msub></mrow></mfrac></mstyle><mo>=</mo><mstyle displaystyle=\"true\"><mfrac><mrow><mn>14.38</mn><mo>−</mo><mn>2.60</mn></mrow><mrow><mn>10.53</mn></mrow></mfrac></mstyle><mo>=</mo><mn>1.12</mn></mrow></semantics></math></script></span><span><span></span><span><nobr><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>𝑆<span></span></span><span>𝑅</span></span><span></span></span><span><span><span>ˆ</span></span><span></span></span></span></span></span><span></span></span><span><span>2</span><span></span></span></span></span><span>=</span><span><span><span><span><span><span><span><span><span><span><span><span><span>𝑅</span><span></span></span><span><span><span><span>⎯<span></span></span><span>⎯<span></span></span><span>⎯<span></span></span></span></span><span></span></span></span></span><span></span></span><span><span>𝑝</span><span></span></span></span></span><span>−</span><span><span><span><span><span><span><span>𝑅</span><span></span></span><span><span><span><span>⎯<span></span></span><span>⎯<span></span></span><span>⎯<span></span></span></span></span><span></span></span></span></span><span></span></span><span><span>𝑓<span></span></span><span></span></span></span></span></span><span></span></span><span><span><span><span><span><span><span><span><span><span>𝜎<span></span></span><span></span></span><span><span><span>ˆ</span></span><span></span></span></span></span></span><span></span></span><span><span>𝑝</span><span></span></span></span></span></span><span></span></span><span><span></span><span></span></span></span></span></span></span><span>=</span><span><span><span><span><span><span><span>9.25</span><span>−</span><span>2.60</span></span><span></span></span><span><span><span>6.35</span></span><span></span></span><span><span></span><span></span></span></span></span></span></span><span>=</span><span>1.05</span></span></span></span><span></span></span></span><span></span></span></nobr><span><math><semantics><mrow><msub><mrow><mover><mrow><mi>S</mi><mi>R</mi></mrow><mo>^</mo></mover></mrow><mn>2</mn></msub><mo>=</mo><mstyle><mfrac><mrow><msub><mover><mi>R</mi><mo>¯</mo></mover><mi>p</mi></msub><mo>−</mo><msub><mover><mi>R</mi><mo>¯</mo></mover><mi>f</mi></msub></mrow><mrow><msub><mrow><mover><mi>σ</mi><mo>^</mo></mover></mrow><mi>p</mi></msub></mrow></mfrac></mstyle><mo>=</mo><mstyle><mfrac><mrow><mn>9.25</mn><mo>−</mo><mn>2.60</mn></mrow><mrow><mn>6.35</mn></mrow></mfrac></mstyle><mo>=</mo><mn>1.05</mn></mrow></semantics></math></span></span><script><math><semantics><mrow><msub><mrow><mover><mrow><mi>S</mi><mi>R</mi></mrow><mo stretchy=\"true\">^</mo></mover></mrow><mn>2</mn></msub><mo>=</mo><mstyle displaystyle=\"true\"><mfrac><mrow><msub><mover><mi>R</mi><mo>¯</mo></mover><mi>p</mi></msub><mo>−</mo><msub><mover><mi>R</mi><mo>¯</mo></mover><mi>f</mi></msub></mrow><mrow><msub><mrow><mover><mi>σ</mi><mo stretchy=\"true\">^</mo></mover></mrow><mi>p</mi></msub></mrow></mfrac></mstyle><mo>=</mo><mstyle displaystyle=\"true\"><mfrac><mrow><mn>9.25</mn><mo>−</mo><mn>2.60</mn></mrow><mrow><mn>6.35</mn></mrow></mfrac></mstyle><mo>=</mo><mn>1.05</mn></mrow></semantics></math></script></span><span><span></span><span><nobr><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>𝑆<span></span></span><span>𝑅</span></span><span></span></span><span><span><span>ˆ</span></span><span></span></span></span></span></span><span></span></span><span><span>3</span><span></span></span></span></span><span>=</span><span><span><span><span><span><span><span><span><span><span><span><span><span>𝑅</span><span></span></span><span><span><span><span>⎯<span></span></span><span>⎯<span></span></span><span>⎯<span></span></span></span></span><span></span></span></span></span><span></span></span><span><span>𝑝</span><span></span></span></span></span><span>−</span><span><span><span><span><span><span><span>𝑅</span><span></span></span><span><span><span><span>⎯<span></span></span><span>⎯<span></span></span><span>⎯<span></span></span></span></span><span></span></span></span></span><span></span></span><span><span>𝑓<span></span></span><span></span></span></span></span></span><span></span></span><span><span><span><span><span><span><span><span><span><span>𝜎<span></span></span><span></span></span><span><span><span>ˆ</span></span><span></span></span></span></span></span><span></span></span><span><span>𝑝</span><span></span></span></span></span></span><span></span></span><span><span></span><span></span></span></span></span></span></span><span>=</span><span><span><span><span><span><span><span>13.10</span><span>−</span><span>2.60</span></span><span></span></span><span><span><span>8.23</span></span><span></span></span><span><span></span><span></span></span></span></span></span></span><span>=</span><span>1.28</span></span></span></span><span></span></span></span><span></span></span></nobr><span><math><semantics><mrow><msub><mrow><mover><mrow><mi>S</mi><mi>R</mi></mrow><mo>^</mo></mover></mrow><mn>3</mn></msub><mo>=</mo><mstyle><mfrac><mrow><msub><mover><mi>R</mi><mo>¯</mo></mover><mi>p</mi></msub><mo>−</mo><msub><mover><mi>R</mi><mo>¯</mo></mover><mi>f</mi></msub></mrow><mrow><msub><mrow><mover><mi>σ</mi><mo>^</mo></mover></mrow><mi>p</mi></msub></mrow></mfrac></mstyle><mo>=</mo><mstyle><mfrac><mrow><mn>13.10</mn><mo>−</mo><mn>2.60</mn></mrow><mrow><mn>8.23</mn></mrow></mfrac></mstyle><mo>=</mo><mn>1.28</mn></mrow></semantics></math></span></span><script><math><semantics><mrow><msub><mrow><mover><mrow><mi>S</mi><mi>R</mi></mrow><mo stretchy=\"true\">^</mo></mover></mrow><mn>3</mn></msub><mo>=</mo><mstyle displaystyle=\"true\"><mfrac><mrow><msub><mover><mi>R</mi><mo>¯</mo></mover><mi>p</mi></msub><mo>−</mo><msub><mover><mi>R</mi><mo>¯</mo></mover><mi>f</mi></msub></mrow><mrow><msub><mrow><mover><mi>σ</mi><mo stretchy=\"true\">^</mo></mover></mrow><mi>p</mi></msub></mrow></mfrac></mstyle><mo>=</mo><mstyle displaystyle=\"true\"><mfrac><mrow><mn>13.10</mn><mo>−</mo><mn>2.60</mn></mrow><mrow><mn>8.23</mn></mrow></mfrac></mstyle><mo>=</mo><mn>1.28</mn></mrow></semantics></math></script></span></p>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 51,
+      "question": "<div><div><div>\n<p>Which of the following performance measures is consistent with the CAPM?</p>\n</div></div></div>",
+      "choices": {
+        "A": "M 2 .",
+        "B": "Sharpe ratio.",
+        "C": "Jensen’s alpha."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Jensen’s alpha adjusts for systematic risk, and M 2 and the Sharpe Ratio adjust for total risk.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Jensen’s alpha adjusts for systematic risk, and <em>M</em><sup>2</sup> and the Sharpe Ratio adjust for total risk.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 52,
+      "question": "<div><div><div>\n<p>Which of the following performance measures does <em>not</em> require the measure to be compared to another value?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Sharpe ratio.",
+        "B": "Treynor ratio.",
+        "C": "Jensen’s alpha."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. The sign of Jensen’s alpha indicates whether or not the portfolio has outperformed the market. If alpha is positive, the portfolio has outperformed the market; if alpha is negative, the portfolio has underperformed the market.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> The sign of Jensen’s alpha indicates whether or not the portfolio has outperformed the market. If alpha is positive, the portfolio has outperformed the market; if alpha is negative, the portfolio has underperformed the market.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 53,
+      "question": "<div><div><div>\n<p>Which of the following performance measures is <em>most</em> appropriate for an investor who is <em>not</em> fully diversified?</p>\n</div>\n</div></div>",
+      "choices": {
+        "A": "M 2 .",
+        "B": "Treynor ratio.",
+        "C": "Jensen’s alpha."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is the correct answer. M 2 adjusts for risk using standard deviation (i.e., total risk).",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is the correct answer.</strong> <em>M</em><sup>2</sup> adjusts for risk using standard deviation (i.e., total risk).</p>\n</div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 54,
+      "question": "<div><div><div>\n<p>The slope of the security characteristic line is an asset’s:</p>\n</div></div></div>",
+      "choices": {
+        "A": "beta.",
+        "B": "excess return.",
+        "C": "risk premium."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The security characteristic line is a plot of the excess return of the security on the excess return of the market. In such a graph, Jensen’s alpha is the intercept and the beta is the slope.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The security characteristic line is a plot of the excess return of the security on the excess return of the market. In such a graph, Jensen’s alpha is the intercept and the beta is the slope.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 55,
+      "question": "<div><div><div>\n<p>Analysts who have estimated returns of an asset to be greater than the expected returns generated by the capital asset pricing model should consider the asset to be:</p>\n</div></div></div>",
+      "choices": {
+        "A": "overvalued.",
+        "B": "undervalued.",
+        "C": "properly valued."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. If the estimated return of an asset is above the SML (the expected return), the asset has a lower level of risk relative to the amount of expected return and would be a good choice for investment (i.e., undervalued).",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> If the estimated return of an asset is above the SML (the expected return), the asset has a lower level of risk relative to the amount of expected return and would be a good choice for investment (i.e., undervalued).</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 56,
+      "question": "<div><div><div>\n<p>The intercept of the best fit line formed by plotting the excess returns of a manager’s portfolio on the excess returns of the market is <em>best</em> described as Jensen’s:</p>\n</div></div></div>",
+      "choices": {
+        "A": "beta.",
+        "B": "ratio.",
+        "C": "alpha."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. This is because of the plot of the excess return of the security on the excess return of the market. In such a graph, Jensen’s alpha is the intercept and the beta is the slope.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> This is because of the plot of the excess return of the security on the excess return of the market. In such a graph, Jensen’s alpha is the intercept and the beta is the slope.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 57,
+      "question": "<div><div><div>\n<p>Portfolio managers who are maximizing risk-adjusted returns will seek to invest <em>more</em> in securities with:</p>\n</div></div></div>",
+      "choices": {
+        "A": "lower values of Jensen’s alpha.",
+        "B": "values of Jensen’s alpha equal to 0.",
+        "C": "higher values of Jensen’s alpha."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Since managers are concerned with maximizing risk-adjusted returns, securities with a higher value of Jensen’s alpha, α i , should have a higher weight.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Since managers are concerned with maximizing risk-adjusted returns, securities with a higher value of Jensen’s alpha, α<em><sub>i</sub></em>, should have a higher weight.</p></div>",
+      "category": "Portfolio Management"
+    },
+    {
+      "title": "Portfolio Risk and Return Part II",
+      "question_number": 58,
+      "question": "<div><div><div>\n<p>Portfolio managers, who are maximizing risk-adjusted returns, will seek to invest <em>less</em> in securities with:</p>\n</div></div></div>",
+      "choices": {
+        "A": "lower values for nonsystematic variance.",
+        "B": "values of nonsystematic variance equal to 0.",
+        "C": "higher values for nonsystematic variance."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Since managers are concerned with maximizing risk-adjusted returns, securities with greater nonsystematic risk should be given less weight in the portfolio.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Since managers are concerned with maximizing risk-adjusted returns, securities with greater nonsystematic risk should be given less weight in the portfolio.</p></div>",
+      "category": "Portfolio Management"
+    }
+  ]
+}

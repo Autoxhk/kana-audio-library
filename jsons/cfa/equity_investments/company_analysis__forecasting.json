@@ -1,0 +1,119 @@
+{
+  "category": "Equity Investments",
+  "topic": "Company Analysis_ Forecasting",
+  "total_questions": 8,
+  "questions": [
+    {
+      "title": "Company Analysis_ Forecasting",
+      "question_number": 1,
+      "question": "<div><div><div>\n<p>Forecast objects should be:</p>\n</div></div></div>",
+      "choices": {
+        "A": "based on independent third-party reports.",
+        "B": "based on individual discrete items, not aggregations.",
+        "C": "disclosed regularly or based on items that are disclosed regularly."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Forecast objects should either be disclosed regularly or be directly calculable using what is disclosed regularly. Information that is not disclosed regularly (such as a third-party consultancy’s report) is suitable to inform forecasts but can be problematic for direct use, because forecasts cannot be confirmed in a timely manner. While it may be intuitive to forecast individual discrete items, such as sales and gross margin by individual product line, if gross margin is disclosed only on a consolidated basis, it will be difficult for analysts to verify their product-line gross margin estimates.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Forecast objects should either be disclosed regularly or be directly calculable using what is disclosed regularly. Information that is <em>not</em> disclosed regularly (such as a third-party consultancy’s report) is suitable to <em>inform</em> forecasts but can be problematic for direct use, because forecasts cannot be confirmed in a timely manner. While it may be intuitive to forecast individual discrete items, such as sales and gross margin by individual product line, if gross margin is disclosed only on a consolidated basis, it will be difficult for analysts to verify their product-line gross margin estimates.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Company Analysis_ Forecasting",
+      "question_number": 2,
+      "question": "<div><div><div>\n<p>Management guidance is <em>most</em> appropriately used by analysts in forecasting:</p>\n</div></div></div>",
+      "choices": {
+        "A": "capital expenditures of a company.",
+        "B": "pricing of commodities sold by a company.",
+        "C": "revenue of a company sensitive to the business cycle."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Management has an advantage at the firm level and tends to make more accurate forecasts for objects that are subject to management actions, such as capital expenditures. Management does not have an informational advantage over investors in forecasting macroeconomic variables, such as GDP, the business cycle, or the prices of commodities. Hutton et al. (2012) found that investors have an informational advantage over management at the macroeconomic level.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Management has an advantage at the firm level and tends to make more accurate forecasts for objects that are subject to management actions, such as capital expenditures. Management does <em>not</em> have an informational advantage over investors in forecasting macroeconomic variables, such as GDP, the business cycle, or the prices of commodities. Hutton et al. (2012) found that investors have an informational advantage over management at the macroeconomic level.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Company Analysis_ Forecasting",
+      "question_number": 3,
+      "question": "<div><div><div>\n<p>Which of the following is an example of a top-down driver of revenues for a passenger airline?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Market share of routes",
+        "B": "Number of planes in fleet",
+        "C": "Average ticket price per mile flown"
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Market share of routes is a top-down driver of revenues and can be used to estimate an airline’s market share. The number of planes in fleet and the average ticket price per mile flown are bottom-up drivers of revenues.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Market share of routes is a top-down driver of revenues and can be used to estimate an airline’s market share. The number of planes in fleet and the average ticket price per mile flown are bottom-up drivers of revenues.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Company Analysis_ Forecasting",
+      "question_number": 4,
+      "question": "<div><div><div>\n<p>An analyst forecasts a company’s sales using a historical results approach and top-down drivers (expected industry sales and expected market share). The analyst observes that the forecast is within the range of management guidance on sales but is toward the upper end and not closer to the midpoint. Which of the following is the <em>most likely</em> explanation for this observation?</p>\n</div></div></div>",
+      "choices": {
+        "A": "The analyst has been overly optimistic in estimating the company’s expected market share.",
+        "B": "Management’s true expectations are toward the upper end, but management has created a range using a pessimistic lower bound that is more easily cleared.",
+        "C": "The midpoint represents management’s true expectations, and management has a lower and better estimate of market growth based on macroeconomic variables."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Management has a tendency to pad its guidance to make it easier to achieve the forecast results for which management will be rewarded. Management does not have an informational advantage at the macroeconomic level.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Management has a tendency to pad its guidance to make it easier to achieve the forecast results for which management will be rewarded. Management does not have an informational advantage at the macroeconomic level.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Company Analysis_ Forecasting",
+      "question_number": 5,
+      "question": "<div><div><div>\n<p>A clothing company, which initially produced designer clothing, has increasingly entered into the mass market. Which of the following approaches to forecasting revenues is <em>least</em> appropriate?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Historical results",
+        "B": "Analyst’s discretionary forecast",
+        "C": "Historical base rates and convergence"
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Historical results is least appropriate, because the company has changed its competitive strategy. Analyst’s discretionary forecast may be appropriate, because the company is undergoing a fundamental change. The company is growing and may be transitioning to be more like the industry, in which case historical base rates and convergence may be an appropriate approach.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Historical results is least appropriate, because the company has changed its competitive strategy. Analyst’s discretionary forecast may be appropriate, because the company is undergoing a fundamental change. The company is growing and may be transitioning to be more like the industry, in which case historical base rates and convergence may be an appropriate approach.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Company Analysis_ Forecasting",
+      "question_number": 6,
+      "question": "<div><div><div>\n<p>An analyst is forecasting operating costs for a company with relatively high fixed costs, sensitivity to economic conditions, and commodity inputs with volatile pricing. The company does not follow a hedging strategy for commodity purchases but tries to buy when prices are low. Which of the following is <em>most</em> appropriate to use in forecasting operating costs? The analyst uses:</p>\n</div></div></div>",
+      "choices": {
+        "A": "analyst discretion to forecast all operating costs.",
+        "B": "management guidance to forecast all operating costs.",
+        "C": "management guidance to forecast fixed operating costs and analyst discretion to forecast variable operating costs."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Management has an advantage in forecasting for objects that are subject to its actions (such as capital expenditures and inventories, which affect fixed costs). The analyst is likely to have an informational advantage when it comes to forecasting economic conditions and commodity prices, which affect revenues and variable costs.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Management has an advantage in forecasting for objects that are subject to its actions (such as capital expenditures and inventories, which affect fixed costs). The analyst is likely to have an informational advantage when it comes to forecasting economic conditions and commodity prices, which affect revenues and variable costs.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Company Analysis_ Forecasting",
+      "question_number": 7,
+      "question": "<div><div><div>\n<p>An analyst notes that a company’s capital expenditures do not follow a discernible pattern; the company seems to have periods of very low capital expenditures and periods of high capital expenditures. Management does not provide any guidance on capital expenditures. The analyst should develop a forecast of capital expenditures based on:</p>\n</div></div></div>",
+      "choices": {
+        "A": "the company’s usage of PP&E capacity.",
+        "B": "the industry’s average capital expenditures.",
+        "C": "the company’s average capital expenditures."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Based on the company’s spending pattern, it most likely makes capital expenditures based on capacity needs as it grows. If it is approaching full usage of existing capacity, it will expand.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Based on the company’s spending pattern, it most likely makes capital expenditures based on capacity needs as it grows. If it is approaching full usage of existing capacity, it will expand.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Company Analysis_ Forecasting",
+      "question_number": 8,
+      "question": "<div><div><div>\n<p>An analyst predicts that if a company’s technological developments are a success, the company’s operating costs (specifically COGS) will be reduced by 15%. As a result of the reduction in costs, the company will reduce the average selling price of its products by 5% and the volume of sales will increase by 8%. The company’s current gross profit margin is 40%. If technological developments occur, the company’s gross profit margin will be <em>closest</em> to:</p>\n</div>\n</div></div>",
+      "choices": {
+        "A": "44.8%.",
+        "B": "46.3%.",
+        "C": "47.5%."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Sales = 100(0.95)(1.08) = 102.6 Cost of sales = 60(0.85)(1.08) = 55.1 Gross profit = 102.2 − 55.1 = 47.5 Gross profit margin = 47.5/102.6 = 46.3%",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong></p>\n<p><span>Sales = 100(0.95)(1.08) = 102.6</span><span>Cost of sales = 60(0.85)(1.08) = 55.1</span><span>Gross profit = 102.2 − 55.1 = 47.5</span><span>Gross profit margin = 47.5/102.6 = 46.3%</span></p>\n</div>",
+      "category": "Equity Investments"
+    }
+  ]
+}

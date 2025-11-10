@@ -1,0 +1,149 @@
+{
+  "category": "Equity Investments",
+  "topic": "Industry and Competitive Analysis",
+  "total_questions": 11,
+  "questions": [
+    {
+      "title": "Industry and Competitive Analysis",
+      "question_number": 1,
+      "question": "<div><div><div>\n<p>An alternative method of grouping companies by geography is <em>least likely</em> to be completed using:</p>\n</div></div></div>",
+      "choices": {
+        "A": "location of head office.",
+        "B": "geographic composition of revenue.",
+        "C": "primary listing of its equity securities."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Classification by country is typically by the country where the issuer is incorporated, the country of the primary listing of its equity securities, the location of its headquarters, or market perception. Note that classification by the geographic composition of revenue is generally not the approach taken, though this aspect may be the foremost concern for an analyst.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Classification by country is typically by the country where the issuer is incorporated, the country of the primary listing of its equity securities, the location of its headquarters, or market perception. Note that classification by the geographic composition of revenue is generally <em>not</em> the approach taken, though this aspect may be the foremost concern for an analyst.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Industry and Competitive Analysis",
+      "question_number": 2,
+      "question": "<div><div><p>Which of the following is <em>most likely</em> classified as a defensive industry?</p>\n<ol>\n<li>A non-cyclical, high-growth industry</li>\n<li>A cyclical industry with a few competitors</li>\n<li>A mature industry with government-controlled pricing</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. A defensive industry will have stable earnings, not growing earnings. Incorrect, A defensive industry is non-cyclic. Correct. A defensive industry is non-cyclical with stable earnings. A mature industry with government-controlled pricing will have stable earnings and be non-cyclical. Industry and Competitive Analysis describe the purposes of, and steps involved in, industry and competitive analysis",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. A defensive industry will have stable earnings, not growing earnings.</p>\n</li>\n<li>\n<p>Incorrect, A defensive industry is non-cyclic.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> A defensive industry is non-cyclical with stable earnings. A mature industry with government-controlled pricing will have stable earnings and be non-cyclical.</p>\n</li>\n</ol>\n<h4>Industry and Competitive Analysis</h4>\n<ul>\n<li>describe the purposes of, and steps involved in, industry and competitive analysis</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Industry and Competitive Analysis",
+      "question_number": 3,
+      "question": "<div><div><p>Which of the following types of companies is <em>most</em> sensitive to economic conditions?</p>\n<ol>\n<li>Cyclical</li>\n<li>Growth</li>\n<li>Defensive</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. The performance of companies with cyclical demand for their products is highly variable and depends on economic conditions. Incorrect. Growth firms have steady increases in demand and are less dependent on economic conditions. Incorrect. Defensive demand is stable and does not fluctuate with the economic cycle, except in severe recessions. Industry and Competitive Analysis describe industry classification methods and compare methods by which companies can be grouped",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> The performance of companies with cyclical demand for their products is highly variable and depends on economic conditions.</p>\n</li>\n<li>\n<p>Incorrect. Growth firms have steady increases in demand and are less dependent on economic conditions.</p>\n</li>\n<li>\n<p>Incorrect. Defensive demand is stable and does not fluctuate with the economic cycle, except in severe recessions.</p>\n</li>\n</ol>\n<h4>Industry and Competitive Analysis</h4>\n<ul>\n<li>describe industry classification methods and compare methods by which companies can be grouped</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Industry and Competitive Analysis",
+      "question_number": 4,
+      "question": "<div><div><div>\n<p>A market consists of three firms with market shares of 50%, 30%, and 20%. The Herfindahl-Hirschman Index (HHI) is <em>closest</em> to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "0.38.",
+        "B": "2,500.",
+        "C": "3,800."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. The Herfindahl-Hirschman Index (HHI) is calculated as the sum of the squares of competitor market shares. In this example, the HHI is calculated as (50 2 + 30 2 + 20 2 = 3,800). A incorrectly calculates the HHI using the percentage market shares (0.5 2 + 0.3 2 + 0.2 2 = 0.38). B incorrectly calculates the HHI using only the market leader concentration (50 2 = 2,500).",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> The Herfindahl-Hirschman Index (HHI) is calculated as the sum of the squares of competitor market shares. In this example, the HHI is calculated as (50<sup>2</sup> + 30<sup>2</sup> + 20<sup>2</sup> = 3,800). A incorrectly calculates the HHI using the percentage market shares (0.5<sup>2</sup> + 0.3<sup>2</sup> + 0.2<sup>2</sup> = 0.38). B incorrectly calculates the HHI using only the market leader concentration (50<sup>2</sup> = 2,500).</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Industry and Competitive Analysis",
+      "question_number": 5,
+      "question": "<div><div><p>The Global Industry Classification Standard (GICS) classifies industries based on:</p>\n<ol>\n<li>statistical similarities.</li>\n<li>business-cycle sensitivities.</li>\n<li>products and/or services supplied.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect because examples of classification systems based on products and/or services include the commercial classification systems,  namely, the Global Industry Classification Standard (GICS). Incorrect because examples of classification systems based on products and/or services include the commercial classification systems, namely, the Global Industry Classification Standard (GICS). Correct because examples of classification systems based on products and/or services include the commercial classification systems, namely, the Global Industry Classification Standard (GICS). Industry and Competitive Analysis describe industry classification methods and compare methods by which companies can be grouped",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because examples of classification systems based on products and/or services include the commercial classification systems,  namely, the Global Industry Classification Standard (GICS).</p>\n</li>\n<li>\n<p>Incorrect because examples of classification systems based on products and/or services include the commercial classification systems, namely, the Global Industry Classification Standard (GICS).</p>\n</li>\n<li>\n<p><strong>Correct</strong> because examples of classification systems based on products and/or services include the commercial classification systems, namely, the Global Industry Classification Standard (GICS).</p>\n</li>\n</ol>\n<h4>Industry and Competitive Analysis</h4>\n<ul>\n<li>describe industry classification methods and compare methods by which companies can be grouped</li>\n</ul>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Industry and Competitive Analysis",
+      "question_number": 6,
+      "question": "<div><div><div>\n<p>Lower industry concentration is usually associated with a high degree of competitive intensity unless the industry is <em>most likely</em>:</p>\n</div></div></div>",
+      "choices": {
+        "A": "global.",
+        "B": "service-oriented.",
+        "C": "one with low product differentiation."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Lower industry concentration, defined as many small competitors in the market, is usually associated with a high degree of competitive intensity unless the industry is service-oriented, is local in nature, or has high product differentiation.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Lower industry concentration, defined as many small competitors in the market, is usually associated with a high degree of competitive intensity unless the industry is service-oriented, is local in nature, or has high product differentiation.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Industry and Competitive Analysis",
+      "question_number": 7,
+      "question": "<div><div><div>\n<p>Increased environmental regulations on automotive manufacturers will <em>most likely</em> have which of the following effects on the threat of new entrants?</p>\n</div></div></div>",
+      "choices": {
+        "A": "An increase",
+        "B": "A decrease",
+        "C": "No change"
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Increased environmental regulations on automotive manufacturers represent an additional cost for compliance when building a new manufacturing facility and increase the barriers to entry into the industry.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Increased environmental regulations on automotive manufacturers represent an additional cost for compliance when building a new manufacturing facility and increase the barriers to entry into the industry.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Industry and Competitive Analysis",
+      "question_number": 8,
+      "question": "<div><div><div>\n<p>The CEO of a large law firm is concerned about a new mobile application that uses algorithms to auto-complete legal forms and questions in discovery and provides recommendations for small-claims matters at a much lower cost than a traditional law firm charges. As a result, the CEO is contemplating whether the firm should develop and launch its own branded application, which would affect its short-term profitability but maintain its existing customer base, or give up market share to focus on more complex claims with higher profitability. This scenario is an example of:</p>\n</div></div></div>",
+      "choices": {
+        "A": "defensiveness.",
+        "B": "innovator’s dilemma.",
+        "C": "sustaining innovation."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The described mobile application represents a fundamental change in the business model of a law firm. The application is a disruptive, not sustaining, innovation, as it brings new entrants into the market but with a very different value proposition. The CEO’s decision represents the “innovator’s dilemma”: the firm can either invest in the disruptive innovation, speeding the decline of its existing business but not losing market share, or ignore the innovation and lose market share while continuing to generate strong profits in the near term.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The described mobile application represents a fundamental change in the business model of a law firm. The application is a disruptive, not sustaining, innovation, as it brings new entrants into the market but with a very different value proposition. The CEO’s decision represents the “innovator’s dilemma”: the firm can either invest in the disruptive innovation, speeding the decline of its existing business but not losing market share, or ignore the innovation and lose market share while continuing to generate strong profits in the near term.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Industry and Competitive Analysis",
+      "question_number": 9,
+      "question": "<div><div><div>\n<p>PESTLE analysis is a framework for identifying:</p>\n</div></div></div>",
+      "choices": {
+        "A": "industry themes.",
+        "B": "the level of industry concentration.",
+        "C": "determinants of industry profitability."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. PESTLE analysis is a framework for identifying “themes” or “narratives” that investors may take a perspective on and desire exposure to. B refers to the Herfindahl-Hirschman Index. C refers to Porter’s Five Forces.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> PESTLE analysis is a framework for identifying “themes” or “narratives” that investors may take a perspective on and desire exposure to. B refers to the Herfindahl-Hirschman Index. C refers to Porter’s Five Forces.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Industry and Competitive Analysis",
+      "question_number": 10,
+      "question": "<div><div><div>\n<p>The means of executing cost leadership competitive strategies <em>do not include</em> which of the following?</p>\n</div></div></div>",
+      "choices": {
+        "A": "proximity to customers",
+        "B": "favorable access to raw materials",
+        "C": "economies of scale from fixed costs"
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Proximity to customers is a means of executing a focus strategy. The means of executing a cost leadership strategy include economies of scale from fixed costs, favorable access to raw materials, a culture of strict cost control, aggressive pricing to gain high volume, low-cost distribution, and economies of scope.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Proximity to customers is a means of executing a focus strategy. The means of executing a cost leadership strategy include economies of scale from fixed costs, favorable access to raw materials, a culture of strict cost control, aggressive pricing to gain high volume, low-cost distribution, and economies of scope.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Industry and Competitive Analysis",
+      "question_number": 11,
+      "question": "<div><div><div>\n<p>Which of the following is <em>most likely</em> a risk of executing a differentiation competitive strategy?</p>\n</div></div></div>",
+      "choices": {
+        "A": "pricing premiums become too high",
+        "B": "larger competitors outcompete on price",
+        "C": "a desire for premium-ization among customers"
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The risks of a differentiation strategy include imitation by competitors, buyers becoming sophisticated and no longer demanding level of service, and pricing premiums becoming too high for customers to beat; such a strategy may also preclude high market share, as customers value exclusivity. B relates to a focus strategy, while C relates to a cost leadership strategy.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The risks of a differentiation strategy include imitation by competitors, buyers becoming sophisticated and no longer demanding level of service, and pricing premiums becoming too high for customers to beat; such a strategy may also preclude high market share, as customers value exclusivity. B relates to a focus strategy, while C relates to a cost leadership strategy.</p></div>",
+      "category": "Equity Investments"
+    }
+  ]
+}

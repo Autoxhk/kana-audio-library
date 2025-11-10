@@ -1,0 +1,31 @@
+{
+  "category": "Corporate Issuers",
+  "topic": "Business Models",
+  "total_questions": 2,
+  "questions": [
+    {
+      "title": "Business Models",
+      "question_number": 1,
+      "question": "<div><div><p>A pricing approach where a company simultaneously charges different prices to different customers based on purchase volume is <em>best</em> referred to as:</p>\n<ol>\n<li>tiered pricing.</li>\n<li>bundled pricing.</li>\n<li>dynamic pricing.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct because economists use the term ' price discrimination ' when firms charge different prices to different customers. Tiered pricing charges different prices to different buyers, most commonly based on volume purchased. Incorrect because b undling refers to combining multiple products or services so that customers are incentivized, or required, to buy them together as opposed to offering the same product at different prices depending on the purchased volume. Bundling can be effective, particularly for products that are complementary, with high incremental margins and high marketing costs relative to the cost of the product itself. Examples include hotel rooms with free breakfast; furnished rental apartments; cable TV and internet services; pre-packaged sets of toys, tools, or kitchen utensils; and cloud-based software combining an application, processing power, storage, and support services. Incorrect because d ynamic pricing charges different prices at different times (i.e., pricing is based on time of purchase as opposed to volume purchased; prices are not simultaneously adjusted based on the purchased volume). Specific examples include off-peak pricing (e.g., for hotel rooms, advertising, airline tickets, electricity, or matinee movie tickets), 'surge' pricing, and 'congestion' pricing (e.g., for ride sharing and toll roads). Business Models describe key features of business models",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct</strong> because economists use the term '<strong>price discrimination</strong>' when firms charge different prices to different customers. <strong>Tiered pricing </strong>charges different prices to different buyers, most commonly based on volume purchased.</p>\n</li>\n<li>\n<p>Incorrect because <strong>b</strong><strong>undling </strong>refers to combining multiple products or services so that customers are incentivized, or required, to buy them together as opposed to offering the same product at different prices depending on the purchased volume. Bundling can be effective, particularly for products that are complementary, with high incremental margins and high marketing costs relative to the cost of the product itself. Examples include hotel rooms with free breakfast; furnished rental apartments; cable TV and internet services; pre-packaged sets of toys, tools, or kitchen utensils; and cloud-based software combining an application, processing power, storage, and support services.</p>\n</li>\n<li>\n<p>Incorrect because <strong>d</strong><strong>ynamic pricing </strong>charges different prices at different times (i.e., pricing is based on time of purchase as opposed to volume purchased; prices are not simultaneously adjusted based on the purchased volume). Specific examples include off-peak pricing (e.g., for hotel rooms, advertising, airline tickets, electricity, or matinee movie tickets), 'surge' pricing, and 'congestion' pricing (e.g., for ride sharing and toll roads).</p>\n</li>\n</ol>\n<h4>Business Models</h4>\n<ul>\n<li>describe key features of business models</li>\n</ul>\n</div>",
+      "category": "Corporate Issuers"
+    },
+    {
+      "title": "Business Models",
+      "question_number": 2,
+      "question": "<div><div><div>\n<p>The sequence of processes involved in the creation of a product, both within and external to a firm, including all the steps involved in producing a physical product and delivering it to the end customer, regardless of whether those steps are performed by a single firm, is referred to as the:</p>\n</div></div></div>",
+      "choices": {
+        "A": "value chain.",
+        "B": "supply chain.",
+        "C": "business model."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. A company’s supply chain is the network or system inside and outside the company involved in producing a product or service and delivering it to an end user. A is incorrect because value chain refers to the systems and processes within a firm that create value for its customers. It is the “how” aspect of a business model. C is incorrect because the business model is a description of how a business works. It includes descriptions of the core customer base, the product or service that the business offers, the key resources and assets the business uses, and the main partners and suppliers of the business.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> A company’s supply chain is the network or system inside and outside the company involved in producing a product or service and delivering it to an end user.</p>\n<p>A is incorrect because <em>value chain</em> refers to the systems and processes within a firm that create value for its customers. It is the “how” aspect of a business model.</p>\n<p>C is incorrect because the business model is a description of how a business works. It includes descriptions of the core customer base, the product or service that the business offers, the key resources and assets the business uses, and the main partners and suppliers of the business.</p></div>",
+      "category": "Corporate Issuers"
+    }
+  ]
+}

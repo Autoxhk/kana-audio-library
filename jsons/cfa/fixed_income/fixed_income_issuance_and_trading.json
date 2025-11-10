@@ -1,0 +1,63 @@
+{
+  "category": "Fixed Income",
+  "topic": "Fixed-Income Issuance and Trading",
+  "total_questions": 4,
+  "questions": [
+    {
+      "title": "Fixed-Income Issuance and Trading",
+      "question_number": 2,
+      "question": "<div><div><div>\n<p>An issuer with a AAA credit rating would <em>most likely</em> be a:</p>\n</div></div></div>",
+      "choices": {
+        "A": "distressed issuer.",
+        "B": "high-yield issuer.",
+        "C": "sovereign issuer."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Sovereign government issuers typically have the lowest credit risk (highest credit rating) in each market, due to sovereign governments’ right to tax economic activity. High-yield issuers have below-investment-grade credit ratings (BBB- or below), while distressed issuers typically have high-yield ratings or are in default.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Sovereign government issuers typically have the lowest credit risk (highest credit rating) in each market, due to sovereign governments’ right to tax economic activity. High-yield issuers have below-investment-grade credit ratings (BBB- or below), while distressed issuers typically have high-yield ratings or are in default.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Fixed-Income Issuance and Trading",
+      "question_number": 3,
+      "question": "<div><div><div>\n<p>An index tracking the Bloomberg Barclays Global Aggregate Index would <em>most likely</em> have:</p>\n</div></div></div>",
+      "choices": {
+        "A": "limited security selection.",
+        "B": "modest turnover due to changes in market values.",
+        "C": "comprehensive exposure to fixed-income markets."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Mutual funds and ETFs that track this benchmark index offer comprehensive exposure to many fixed-income markets with no active security selection and portfolio turnover limited solely to either new issuance or issues no longer meeting inclusion criteria.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Mutual funds and ETFs that track this benchmark index offer <em>comprehensive</em> exposure to many fixed-income markets with <em>no</em> active security selection and portfolio turnover limited solely to either new issuance or issues no longer meeting inclusion criteria.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Fixed-Income Issuance and Trading",
+      "question_number": 4,
+      "question": "<div><div><div>\n<p>A firm that increases the size of an existing bond issue with a price significantly different from par is conducting a:</p>\n</div></div></div>",
+      "choices": {
+        "A": "reopening.",
+        "B": "private placement.",
+        "C": "distressed debt issuance."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Increasing the size of an existing bond with a price significantly different from par is referred to as the reopening of an existing bond. A private placement refers to bonds being sold to a selected investor or group of investors, versus a sale to the public. Bonds of issuers believed to be very close to or in bankruptcy are referred to as distressed.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Increasing the size of an existing bond with a price significantly different from par is referred to as the reopening of an existing bond. A private placement refers to bonds being sold to a selected investor or group of investors, versus a sale to the public. Bonds of issuers believed to be very close to or in bankruptcy are referred to as distressed.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Fixed-Income Issuance and Trading",
+      "question_number": 5,
+      "question": "<div><div><div>\n<p>The bond issue trading at the highest bid–offer spread is <em>most likely</em> a:</p>\n</div></div></div>",
+      "choices": {
+        "A": "recently issued sovereign bond.",
+        "B": "seasoned investment-grade corporate bond.",
+        "C": "recently issued investment-grade corporate bond."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Bonds of less frequent corporate issuers or more seasoned bonds of frequent issuers are rarely traded, leading dealers to quote bid–offer spreads of at least 10–20 basis points or more for small sizes. The most recently issued, or on-the-run, developed market sovereign bonds are typically the most liquid fixed-income securities, with primary dealers making active markets in large size with bid–offer spreads equal to a fraction of a basis point. Among corporate issuers, recently issued corporate bonds from frequent issuers of higher credit quality usually exhibit the greatest liquidity and tightest bid–offer spreads.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Bonds of less frequent corporate issuers or more seasoned bonds of frequent issuers are rarely traded, leading dealers to quote bid–offer spreads of at least 10–20 basis points or more for small sizes. The most recently issued, or on-the-run, developed market sovereign bonds are typically the most liquid fixed-income securities, with primary dealers making active markets in large size with bid–offer spreads equal to a fraction of a basis point. Among corporate issuers, recently issued corporate bonds from frequent issuers of higher credit quality usually exhibit the greatest liquidity and tightest bid–offer spreads.</p></div>",
+      "category": "Fixed Income"
+    }
+  ]
+}

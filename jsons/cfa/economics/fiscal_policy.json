@@ -1,0 +1,167 @@
+{
+  "category": "Economics",
+  "topic": "Fiscal Policy",
+  "total_questions": 14,
+  "questions": [
+    {
+      "title": "Fiscal Policy",
+      "question_number": 1,
+      "question": "<div><div><div>\n<p>Crowding out refers to a: </p>\n</div></div></div>",
+      "choices": {
+        "A": "fall in interest rates that reduces private investment.",
+        "B": "rise in private investment that reduces private consumption.",
+        "C": "rise in government borrowing that reduces the ability of the private sector to access investment funds."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. A fall in interest rates is likely to lead to a rise in investment. Crowding out refers to government borrowing that reduces the ability of the private sector to invest.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> A fall in interest rates is likely to lead to a rise in investment. Crowding out refers to government borrowing that reduces the ability of the private sector to invest.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Fiscal Policy",
+      "question_number": 2,
+      "question": "<div><div><p>The government embarks on a policy intended to reduce the budget deficit. This is <em>most likely</em>:</p>\n<ol>\n<li>an expansionary fiscal policy.</li>\n<li>a contractionary fiscal policy.</li>\n<li>an example of quantitative easing.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. Reducing the budget deficit would slow the economy, not expand it. Correct. A policy intended to reduce a budget deficit would involve raising taxes and/or reducing spending. Either action is fiscal and would likely cause the economy to slow, which is contractionary. Incorrect. Quantitative easing is an action of monetary policy and does not address the budget deficit, which is a fiscal issue. Fiscal Policy explain the implementation of fiscal policy and difficulties of implementation as well as whether a fiscal policy is expansionary or contractionary",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Reducing the budget deficit would slow the economy, not expand it.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> A policy intended to reduce a budget deficit would involve raising taxes and/or reducing spending. Either action is fiscal and would likely cause the economy to slow, which is contractionary.</p>\n</li>\n<li>\n<p>Incorrect. Quantitative easing is an action of monetary policy and does not address the budget deficit, which is a fiscal issue.</p>\n</li>\n</ol>\n<h4>Fiscal Policy</h4>\n<ul>\n<li>explain the implementation of fiscal policy and difficulties of implementation as well as whether a fiscal policy is expansionary or contractionary</li>\n</ul>\n</div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Fiscal Policy",
+      "question_number": 3,
+      "question": "<div><div><p>If a government increases its spending on domestically produced goods by an amount that is financed by an equivalent increase in taxes, the aggregate demand will <em>most likely</em>:</p>\n<ol>\n<li>decrease.</li>\n<li>remain unchanged.</li>\n<li>increase.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. Aggregate demand rises when the government increases spending by the same amount as it raises taxes because the marginal propensity to spend out of disposable income is less than 1, and hence for every dollar less in disposable income, spending only falls by $ c (where c is the marginal propensity to consume). Aggregate spending will fall less than the tax rise by a factor c . This additional output will, in turn, lead to further increases in income and output through the multiplier effect. Incorrect. Aggregate demand rises when the government increases spending by the same amount as it raises taxes because the marginal propensity to spend out of disposable income is less than 1, and hence for every dollar less in disposable income, spending only falls by $ c (where c is the marginal propensity to consume). Aggregate spending will fall less than the tax rise by a factor c . This additional output will, in turn, lead to further increases in income and output through the multiplier effect. Correct. Aggregate demand rises when the government increases spending by the same amount as it raises taxes because the marginal propensity to spend out of disposable income is less than 1, and hence for every dollar less in disposable income, spending only falls by $ c (where c is the marginal propensity to consume). Aggregate spending will fall less than the tax rise by a factor c . This additional output will, in turn, lead to further increases in income and output through the multiplier effect. Fiscal Policy describe tools of fiscal policy, including their advantages and disadvantages",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Aggregate demand rises when the government increases spending by the same amount as it raises taxes because the marginal propensity to spend out of disposable income is less than 1, and hence for every dollar less in disposable income, spending only falls by $<em>c</em> (where <em>c</em> is the marginal propensity to consume). Aggregate spending will fall less than the tax rise by a factor <em>c</em>. This additional output will, in turn, lead to further increases in income and output through the multiplier effect.</p>\n</li>\n<li>\n<p>Incorrect. Aggregate demand rises when the government increases spending by the same amount as it raises taxes because the marginal propensity to spend out of disposable income is less than 1, and hence for every dollar less in disposable income, spending only falls by $<em>c</em> (where <em>c</em> is the marginal propensity to consume). Aggregate spending will fall less than the tax rise by a factor <em>c</em>. This additional output will, in turn, lead to further increases in income and output through the multiplier effect.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> Aggregate demand rises when the government increases spending by the same amount as it raises taxes because the marginal propensity to spend out of disposable income is less than 1, and hence for every dollar less in disposable income, spending only falls by $<em>c</em> (where <em>c</em> is the marginal propensity to consume). Aggregate spending will fall less than the tax rise by a factor <em>c</em>. This additional output will, in turn, lead to further increases in income and output through the multiplier effect.</p>\n</li>\n</ol>\n<h4>Fiscal Policy</h4>\n<ul>\n<li>describe tools of fiscal policy, including their advantages and disadvantages</li>\n</ul>\n</div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Fiscal Policy",
+      "question_number": 4,
+      "question": "<div><div><div>\n<p>A contractionary fiscal policy will always involve which of the following? </p>\n</div></div></div>",
+      "choices": {
+        "A": "Balanced budget",
+        "B": "Reduction in government spending",
+        "C": "Fall in the budget deficit or rise in the surplus"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Note that a reduction in government spending could be accompanied by an even bigger fall in taxation, making it be expansionary.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Note that a reduction in government spending could be accompanied by an even bigger fall in taxation, making it be expansionary.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Fiscal Policy",
+      "question_number": 5,
+      "question": "<div><div><p>In a hypothetical economy, consumption is 70% of pre-tax income, and the average tax rate is 25% of total income. If planned government expenditures are expected to increase by $1.25 billion, the increase in total income and spending, in billions, is <em>closest </em>to:</p>\n<ol>\n<li>$1.3.</li>\n<li>$4.2.</li>\n<li>$2.6.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. It uses G/MPC: 1.25/0.933 = 1.34 Correct. The fiscal multiplier is 1 1 − 𝑐 ( 1 − 𝑇 ) 1 1 − c ( 1 − T ) where c = marginal propensity to consume = consumption/disposable income T = the tax rate Assuming pre-tax income of $100 Disposable income: $100 × (1 – 0.25) = $75 Marginal propensity to consume: $70/$75 = 0.933 The fiscal multiplier: 1/[1 – 0.933(1 – 0.25)] = 3.33 With government expenditure of $1.25 billion, total incomes and spending will rise by $1.25 billion × 3.33 = $4.2 billion Incorrect. It calculates the MPC from pre-tax income (MPC = 0.70) but applies the formula correctly: 1/[1 – c (1 – T )]: 1/[1 – 0.70(1 – 0.25)] = 2.10; resulting in an overall stimulus effect of 2.10 × 1.25 = 2.60. Fiscal Policy describe tools of fiscal policy, including their advantages and disadvantages",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. It uses G/MPC: 1.25/0.933 = 1.34</p>\n</li>\n<li>\n<p><strong>Correct.</strong></p>\n<p>The fiscal multiplier is <span></span><span><nobr><span><span><span><span><span><span><span><span><span><span>1</span><span></span></span><span><span><span>1</span><span>−</span><span>𝑐</span><span><span>(</span><span><span>1</span><span>−</span><span>𝑇<span></span></span></span><span>)</span></span></span><span></span></span><span><span></span><span></span></span></span></span></span></span></span><span></span></span></span><span></span></span></nobr><span><math><semantics><mrow><mfrac><mn>1</mn><mrow><mn>1</mn><mo>−</mo><mi>c</mi><mrow><mo>(</mo><mrow><mn>1</mn><mo>−</mo><mi>T</mi></mrow><mo>)</mo></mrow></mrow></mfrac></mrow></semantics></math></span></span><script><math style=\"font-family:Arial\"><semantics> <mrow> <mfrac> <mn>1</mn> <mrow> <mn>1</mn><mo>−</mo><mi>c</mi><mrow><mo>(</mo> <mrow> <mn>1</mn><mo>−</mo><mi>T</mi></mrow> <mo>)</mo></mrow></mrow> </mfrac> </mrow></semantics></math></script> where</p>\n<p><em>c</em> = marginal propensity to consume = consumption/disposable income</p>\n<p><em>T</em> = the tax rate</p>\n<p>Assuming pre-tax income of $100</p>\n<p>Disposable income: $100 × (1 – 0.25) = $75</p>\n<p>Marginal propensity to consume: $70/$75 = 0.933</p>\n<p>The fiscal multiplier: 1/[1 – 0.933(1 – 0.25)] = 3.33</p>\n<p>With government expenditure of $1.25 billion, total incomes and spending will rise by $1.25 billion × 3.33 = $4.2 billion</p>\n</li>\n<li>\n<p>Incorrect. It calculates the MPC from pre-tax income (MPC = 0.70) but applies the formula correctly: 1/[1 – <em>c</em>(1 – <em>T</em>)]: 1/[1 – 0.70(1 – 0.25)] = 2.10; resulting in an overall stimulus effect of 2.10 × 1.25 = 2.60.</p>\n</li>\n</ol>\n<h4>Fiscal Policy</h4>\n<ul>\n<li>describe tools of fiscal policy, including their advantages and disadvantages</li>\n</ul>\n</div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Fiscal Policy",
+      "question_number": 6,
+      "question": "<div><div><div>\n<p>Which one of the following statements is <em>most</em> accurate? </p>\n</div></div></div>",
+      "choices": {
+        "A": "Ricardian equivalence refers to individuals having no idea of future tax liabilities.",
+        "B": "Governments do not allow political pressures to influence fiscal policies but do allow voters to affect monetary policies.",
+        "C": "If there is high unemployment in an economy, then easy monetary and fiscal policies should lead to an expansion in aggregate demand."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Note that governments often allow pressure groups to affect fiscal policy and that Ricardian equivalence involves individuals correctly anticipating future taxes. Thus, A and B are not correct choices.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Note that governments often allow pressure groups to affect fiscal policy and that Ricardian equivalence involves individuals correctly anticipating future taxes. Thus, A and B are not correct choices.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Fiscal Policy",
+      "question_number": 7,
+      "question": "<div><div><p>The primary goal of both monetary and fiscal policy focuses on balancing economic growth and:</p>\n<ol>\n<li>inflation.</li>\n<li>employment.</li>\n<li>income distribution.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. The goal of both monetary and fiscal policy is the creation of an economic environment characterized by positive, stable growth and low, stable inflation. Incorrect because the overarching goal of monetary and fiscal policy is to create economic conditions characterized by positive, stable economic growth and low, stable inflation. Achieving this goal promotes stability (rather than cyclicality) in employment, consumption, and saving/investment outcomes. Incorrect because the distribution of income (and wealth) lies within the purview of fiscal policy involving the government’s decisions concerning spending and taxes. By contrast, monetary policy refers to central bank activities directed toward influencing the quantity of money and credit in an economy. Income distribution is not a policy domain of monetary policy. Fiscal Policy compare monetary and fiscal policy",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> The goal of both monetary and fiscal policy is the creation of an economic environment characterized by positive, stable growth and low, stable inflation.</p>\n</li>\n<li>\n<p>Incorrect because the overarching goal of monetary and fiscal policy is to create economic conditions characterized by positive, stable economic growth and low, stable inflation. Achieving this goal promotes stability (rather than cyclicality) in employment, consumption, and saving/investment outcomes.</p>\n</li>\n<li>\n<p>Incorrect because the distribution of income (and wealth) lies within the purview of fiscal policy involving the government’s decisions concerning spending and taxes. By contrast, monetary policy refers to central bank activities directed toward influencing the quantity of money and credit in an economy. Income distribution is not a policy domain of monetary policy.</p>\n</li>\n</ol>\n<h4>Fiscal Policy</h4>\n<ul>\n<li>compare monetary and fiscal policy</li>\n</ul>\n</div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Fiscal Policy",
+      "question_number": 8,
+      "question": "<div><div><div>\n<p>Which statement regarding fiscal policy is <em>most</em> accurate? </p>\n</div></div></div>",
+      "choices": {
+        "A": "Cyclically adjusted budget deficits are appropriate indicators of fiscal policy.",
+        "B": "To raise business capital spending, personal income taxes should be reduced.",
+        "C": "An increase in the budget surplus is associated with expansionary fiscal policy."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Cyclically adjusted budget deficits are appropriate indicators of fiscal policy. These are defined as the deficit that would exist if the economy was at full employment (or full potential output).",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Cyclically adjusted budget deficits are appropriate indicators of fiscal policy. These are defined as the deficit that would exist if the economy was at full employment (or full potential output).</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Fiscal Policy",
+      "question_number": 9,
+      "question": "<div><div><div>\n<p>The <em>least likely</em> explanation for why fiscal policy cannot stabilize aggregate demand completely is that: </p>\n</div></div></div>",
+      "choices": {
+        "A": "private sector behavior changes over time.",
+        "B": "policy changes are implemented very quickly.",
+        "C": "fiscal policy focuses more on inflation than on unemployment."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Fiscal policy is subject to recognition, action, and impact lags.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Fiscal policy is subject to recognition, action, and impact lags.</p></div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Fiscal Policy",
+      "question_number": 10,
+      "question": "<div><div><p>Fiscal policy refers to the government's decisions about:</p>\n<ol>\n<li>taxation only.</li>\n<li>taxation and spending only.</li>\n<li>taxation, spending, and the quantity of money in the economy.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect because fiscal policy refers to the government's decisions about taxation and spending. Correct because fiscal policy refers to the government's decisions about taxation and spending. Incorrect because monetary policy refers to central bank activities that are directed toward influencing the quantity of money and credit in an economy. By contrast, fiscal policy refers to the government's decisions about taxation and spending. Fiscal Policy compare monetary and fiscal policy",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because fiscal policy refers to the government's decisions about taxation and spending.</p>\n</li>\n<li>\n<p><strong>Correct</strong> because fiscal policy refers to the government's decisions about taxation and spending.</p>\n</li>\n<li>\n<p>Incorrect because monetary policy refers to central bank activities that are directed toward influencing the quantity of money and credit in an economy. By contrast, fiscal policy refers to the government's decisions about taxation and spending.</p>\n</li>\n</ol>\n<h4>Fiscal Policy</h4>\n<ul>\n<li>compare monetary and fiscal policy</li>\n</ul>\n</div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Fiscal Policy",
+      "question_number": 11,
+      "question": "<div><div><p>Which of the following economic policies is <em>most likely</em> directed toward influencing the quantity of credit in an economy?</p>\n<ol>\n<li>Fiscal policy only</li>\n<li>Monetary policy only</li>\n<li>Both fiscal policy and monetary policy</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect because fiscal policy refers to the government’s decisions about taxation and spending and it is not directly related to the quantity of credit in an economy. Correct because monetary policy refers to central bank activities that are directed toward influencing the quantity of money and credit in an economy. Incorrect because fiscal policy refers to the government’s decisions about taxation and spending and it is not directly related to the quantity of credit in an economy. Fiscal Policy compare monetary and fiscal policy",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because fiscal policy refers to the government’s decisions about taxation and spending and it is not directly related to the quantity of credit in an economy.</p>\n</li>\n<li>\n<p><strong>Correct</strong> because monetary policy refers to central bank activities that are directed toward influencing the quantity of money and credit in an economy.</p>\n</li>\n<li>\n<p>Incorrect because fiscal policy refers to the government’s decisions about taxation and spending and it is not directly related to the quantity of credit in an economy.</p>\n</li>\n</ol>\n<h4>Fiscal Policy</h4>\n<ul>\n<li>compare monetary and fiscal policy</li>\n</ul>\n</div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Fiscal Policy",
+      "question_number": 12,
+      "question": "<div><div><p>The crowding-out effect is <em>most likely </em>associated with:</p>\n<ol>\n<li>falling real interest rates.</li>\n<li>decreasing government borrowing.</li>\n<li>increasing government borrowing.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. The crowding-out effect raises real interest rates. Incorrect. The tendency for government borrowing to decrease private sector investment is called the crowding-out effect. Correct. The tendency for government borrowing to decrease private sector investment is called the crowding-out effect. Fiscal Policy describe roles and objectives of fiscal policy as well as arguments as to whether the size of a national debt relative to GDP matters",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. The crowding-out effect <em>raises </em>real interest rates.</p>\n</li>\n<li>\n<p>Incorrect. The tendency for government borrowing to decrease private sector investment is called the crowding-out effect.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> The tendency for government borrowing to decrease private sector investment is called the crowding-out effect.</p>\n</li>\n</ol>\n<h4>Fiscal Policy</h4>\n<ul>\n<li>describe roles and objectives of fiscal policy as well as arguments as to whether the size of a national debt relative to GDP matters</li>\n</ul>\n</div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Fiscal Policy",
+      "question_number": 13,
+      "question": "<div><div><p>Which of the following is <em>most likely</em> an objective of fiscal policy?</p>\n<ol>\n<li>Maintaining price stability</li>\n<li>Affecting aggregate demand</li>\n<li>Achieving an exchange rate target</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect because ensuring price stability is an objective of monetary policy not fiscal policy. There is one overarching objective [of the central bank] that most seem to acknowledge explicitly, and that is the objective of maintaining price stability. Correct because the tools associated with fiscal policy involve the use of government spending and changing tax revenue to affect a number of aspects of the economy: including the overall level of aggregate demand in an economy and hence the level of economic activity. Incorrect because targeting exchange rates is a part of monetary not fiscal policy. Many developing economies choose to operate monetary policy by targeting their currency’s exchange rate, rather than an explicit level of domestic inflation. Fiscal Policy describe roles and objectives of fiscal policy as well as arguments as to whether the size of a national debt relative to GDP matters",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because ensuring price stability is an objective of monetary policy not fiscal policy. There is one overarching objective [of the central bank] that most seem to acknowledge explicitly, and that is the objective of maintaining price stability.</p>\n</li>\n<li>\n<p><strong>Correct</strong> because the tools associated with fiscal policy involve the use of government spending and changing tax revenue to affect a number of aspects of the economy: including the overall level of aggregate demand in an economy and hence the level of economic activity.</p>\n</li>\n<li>\n<p>Incorrect because targeting exchange rates is a part of monetary not fiscal policy. Many developing economies choose to operate monetary policy by targeting their currency’s exchange rate, rather than an explicit level of domestic inflation.</p>\n</li>\n</ol>\n<h4>Fiscal Policy</h4>\n<ul>\n<li>describe roles and objectives of fiscal policy as well as arguments as to whether the size of a national debt relative to GDP matters</li>\n</ul>\n</div>",
+      "category": "Economics"
+    },
+    {
+      "title": "Fiscal Policy",
+      "question_number": 14,
+      "question": "<div><div><p>An objective of fiscal policy is to:</p>\n<ol>\n<li>supervise the banking system.</li>\n<li>influence the quantity of credit in an economy.</li>\n<li>distribute income among different segments of the population.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect because monetary policy, not fiscal policy, refers to central bank activities such as supervising the banking system. Incorrect because monetary policy refers to central bank activities that are directed toward influencing the quantity of money and credit in an economy. By contrast, fiscal policy refers to the government’s decisions about taxation and spending. Correct because fiscal policy involves the use of government spending and changing tax revenue to affect a number of aspects of the economy including the distribution of income and wealth among different segments of the population. Fiscal Policy describe roles and objectives of fiscal policy as well as arguments as to whether the size of a national debt relative to GDP matters",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because monetary policy, not fiscal policy, refers to central bank activities such as supervising the banking system.</p>\n</li>\n<li>\n<p>Incorrect because monetary policy refers to central bank activities that are directed toward influencing the quantity of money and credit in an economy. By contrast, fiscal policy refers to the government’s decisions about taxation and spending.</p>\n</li>\n<li>\n<p><strong>Correct</strong> because fiscal policy involves the use of government spending and changing tax revenue to affect a number of aspects of the economy including the distribution of income and wealth among different segments of the population.</p>\n</li>\n</ol>\n<h4>Fiscal Policy</h4>\n<ul>\n<li>describe roles and objectives of fiscal policy as well as arguments as to whether the size of a national debt relative to GDP matters</li>\n</ul>\n</div>",
+      "category": "Economics"
+    }
+  ]
+}

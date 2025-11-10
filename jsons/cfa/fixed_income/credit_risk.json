@@ -1,0 +1,83 @@
+{
+  "category": "Fixed Income",
+  "topic": "Credit Risk",
+  "total_questions": 6,
+  "questions": [
+    {
+      "title": "Credit Risk",
+      "question_number": 2,
+      "question": "<div><div><p>Credit spreads are <em>most likely</em> to narrow during:</p>\n<ol>\n<li>economic expansions.</li>\n<li>economic contractions.</li>\n<li>a period of flight to quality.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. Credit spreads narrow during economic expansions and widen during economic contractions. During an economic expansion, corporate revenues and cash flows rise, making it easier for corporations to service their debt, and investors purchase corporates instead of Treasuries, causing spreads to narrow. Incorrect. Credit spreads narrow during economic expansions and widen during economic contractions. Incorrect. During a flight to quality investors sell corporate and buy treasuries thereby widening the credit spread on corporates. Credit Risk describe macroeconomic, market, and issuer-specific factors that influence the level and volatility of yield spreads",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> Credit spreads narrow during economic expansions and widen during economic contractions. During an economic expansion, corporate revenues and cash flows rise, making it easier for corporations to service their debt, and investors purchase corporates instead of Treasuries, causing spreads to narrow.</p>\n</li>\n<li>\n<p>Incorrect. Credit spreads narrow during economic expansions and widen during economic contractions.</p>\n</li>\n<li>\n<p>Incorrect. During a flight to quality investors sell corporate and buy treasuries thereby widening the credit spread on corporates.</p>\n</li>\n</ol>\n<h4>Credit Risk</h4>\n<ul>\n<li>describe macroeconomic, market, and issuer-specific factors that influence the level and volatility of yield spreads</li>\n</ul>\n</div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Credit Risk",
+      "question_number": 3,
+      "question": "<div><div><p>What type of risk <em>most likely</em> affects an investor’s ability to buy and sell bonds in the desired amounts and at the desired time?</p>\n<ol>\n<li>Spread</li>\n<li>Default</li>\n<li>Market liquidity</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect because spread risk is the risk that spreads widen. Incorrect because default risk is the risk the borrower defaults. Correct. The size of the spread between the bid price and the ask price is the primary measure of market liquidity of the issue. Market liquidity risk is the risk that the investor will have to sell a bond below its indicated value. The wider the bid–ask spread, the greater the market liquidity risk. Credit Risk describe credit risk and its components, probability of default and loss given default",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because spread risk is the risk that spreads widen.</p>\n</li>\n<li>\n<p>Incorrect because default risk is the risk the borrower defaults.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> The size of the spread between the bid price and the ask price is the primary measure of market liquidity of the issue. Market liquidity risk is the risk that the investor will have to sell a bond below its indicated value. The wider the bid–ask spread, the greater the market liquidity risk.</p>\n</li>\n</ol>\n<h4>Credit Risk</h4>\n<ul>\n<li>describe credit risk and its components, probability of default and loss given default</li>\n</ul>\n</div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Credit Risk",
+      "question_number": 4,
+      "question": "<div><div><div>\n<p>An uncollateralized USD200,000 note has the following characteristics:</p>\n<p>Recovery rate 95%</p>\n<p>Exposure at default USD150,000</p>\n<p>If the note’s expected loss in the event of default is USD2,500, its probability of default is <em>closest to:</em></p>\n</div>\n</div></div>",
+      "choices": {
+        "A": "15%.",
+        "B": "25%.",
+        "C": "33%."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution The correct answer is C. Here we may use Equation 1 to solve for POD: EL = POD × (EE – Collateral) × (1 – RR). Substituting in the values provided: USD2,500 = POD × (USD150,000)×(1 – 0.95) POD = USD2,500/(USD150,000 ×0.05) = 0.33 = 33%.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>The correct answer is C.</strong></p>\n<p>Here we may use Equation 1 to solve for POD:</p>\n<p><span>EL = POD × (EE – Collateral) × (1 – RR).</span></p>\n<p>Substituting in the values provided:</p>\n<p><span>USD2,500 = POD × (USD150,000)×(1 – 0.95)</span><span>POD = USD2,500/(USD150,000 ×0.05) = 0.33 = 33%.</span></p>\n</div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Credit Risk",
+      "question_number": 6,
+      "question": "<div><div><div>\n<p>A bond investor is considering the credit risk components and observed yield spreads for two IG bonds of similar maturity and liquidity:</p>\n<div><table>\n<thead><tr>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong>POD</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong>LGD</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong>Yield Spread </strong></th>\n</tr></thead>\n<tbody>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"><strong>Bond 1</strong></td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">1.25%</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">75%</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">100 bps</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\"><strong>Bond 2</strong></td>\n<td class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">1.1%</td>\n<td class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">85%</td>\n<td class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">95 bps</td>\n</tr>\n</tbody>\n</table></div>\n<p>Which of the following conclusions about the relationship between these bonds is most correct?</p>\n</div></div></div>",
+      "choices": {
+        "A": "An investor should be indifferent between purchasing Bond 1 and Bond 2, since Bond 1’s higher spread is sufficient compensation for the higher POD versus Bond 2.",
+        "B": "An investor should prefer Bond 2 over Bond 1, since they may earn a spread that is more than sufficient for assuming the credit risk.",
+        "C": "An investor should prefer Bond 1 over Bond 2, since it offers the highest spread relative to the expected loss."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. We can compare Bond 1 and Bond 2 by calculating the expected loss for each and comparing it to the annual spread: EL = POD × LGD Credit Spread ≈ POD × LGD Bond 1: EL = 0.938% (= 1.25% × 75%) Spread − EL = 6.2 bps (= 1.00% − 0.938%). Bond 2: EL = 0.935% (= 1.1% × 85%) Spread − EL = 1.5 bps (=0.95% − 0.935%). An investor should therefore choose Bond 1 given its higher expected return versus credit risk. A is incorrect as it fails to take the LGD into account. B is incorrect as although Bond 1 earns a 1.5 bps spread above the expected annual loss, it is less than the additional 6.2 bps spread above the expected loss earned by purchasing Bond 1.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> We can compare Bond 1 and Bond 2 by calculating the expected loss for each and comparing it to the annual spread:</p>\n<span>EL = POD × LGD</span><span>Credit Spread ≈ POD × LGD</span><span><em>Bond 1:</em> EL = 0.938% (= 1.25% × 75%)</span><span>Spread − EL = 6.2 bps (= 1.00% − 0.938%).</span><span><em>Bond 2:</em> EL = 0.935% (= 1.1% × 85%)</span><span>Spread − EL = 1.5 bps (=0.95% − 0.935%).</span><p>An investor should therefore choose Bond 1 given its higher expected return versus credit risk. A is incorrect as it fails to take the LGD into account. B is incorrect as although Bond 1 earns a 1.5 bps spread above the expected annual loss, it is less than the additional 6.2 bps spread above the expected loss earned by purchasing Bond 1.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Credit Risk",
+      "question_number": 7,
+      "question": "<div><div><div>\n<p>Pitfalls of relying solely on credit ratings when making bond investment decisions may be best described as the following:</p>\n</div></div></div>",
+      "choices": {
+        "A": "Rating agencies may change their rating in response to changing market and credit conditions for a given issuer.",
+        "B": "Credit agencies may issue a positive or negative outlook for an issuer as credit risk rises or falls, but a rating change is not yet warranted.",
+        "C": "Ratings may involve miscalculations or unforeseen changes not fully captured in a rating agency’s forward-looking analysis."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution The correct answer is C. While answers A and B are both true, they are not a pitfall of sole reliance on credit ratings when making bond investments.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>The correct answer is C.</strong> While answers A and B are both true, they are not a pitfall of sole reliance on credit ratings when making bond investments.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Credit Risk",
+      "question_number": 8,
+      "question": "<div><div><div>\n<p>An investment-grade bond with modified duration of 7 and reported convexity of 0.51 increases in price by 9.93% after a yield spread change. The value of the spread change would be <em>closest to:</em></p>\n</div></div></div>",
+      "choices": {
+        "A": "−1.5%.",
+        "B": "0.15%.",
+        "C": "1.5%."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution The correct answer is A. Equation 4 estimates bond price changes based on duration, convexity, and changes in spread: %∆PV Full = −(AnnModDur × ∆Spread) + ½AnnConvexity × (∆Spread) 2 . With ModDur = 7 and reported convexity 0.51, making the necessary convexity re-scaling and substituting in values to solve for spread results in 0.0993 = −(7 x ∆Spread) + ½ (51) (∆Spread) 2 ∆Spread =-0.015 = -1.5%. Lower spreads make the first expression in the equation positive, along with the equation’s second convexity-based term. The answer must therefore involve a decline in spreads as in answers A and B. However, B is incorrect since it fails to rescale convexity.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>The correct answer is A.</strong> Equation 4 estimates bond price changes based on duration, convexity, and changes in spread:</p>\n<span>%∆PV<sup>Full</sup> = −(AnnModDur × ∆Spread) + ½AnnConvexity × (∆Spread)<sup>2</sup>.</span><p>With ModDur = 7 and reported convexity 0.51, making the necessary convexity re-scaling and substituting in values to solve for spread results in</p>\n<span>0.0993 = −(7 x ∆Spread) + ½ (51) (∆Spread)<sup>2</sup></span><span>∆Spread =-0.015 = -1.5%.</span><p>Lower spreads make the first expression in the equation positive, along with the equation’s second convexity-based term. The answer must therefore involve a decline in spreads as in answers A and B. However, B is incorrect since it fails to rescale convexity.</p></div>",
+      "category": "Fixed Income"
+    }
+  ]
+}

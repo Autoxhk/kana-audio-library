@@ -1,0 +1,97 @@
+{
+  "category": "Fixed Income",
+  "topic": "Fixed-Income Instrument Features",
+  "total_questions": 7,
+  "questions": [
+    {
+      "title": "Fixed-Income Instrument Features",
+      "question_number": 1,
+      "question": "<div><div><div>\n<p>“Four years” and “MRR plus 250 bps p.a.” refer, respectively, to which bond features as of the settlement date?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Time to maturity and coupon rate",
+        "B": "Coupon frequency and current yield",
+        "C": "Time to maturity and contingency provision"
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The notes mature (the date Antelas AG will pay the final coupon and principal amount) four years after the trade settlement date, and the coupon rate is variable, determined by the MRR plus a fixed 250 bp spread.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The notes mature (the date Antelas AG will pay the final coupon and principal amount) four years after the trade settlement date, and the coupon rate is variable, determined by the MRR plus a fixed 250 bp spread.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Fixed-Income Instrument Features",
+      "question_number": 3,
+      "question": "<div><div><p>David Smith purchased a mortgage-backed security with a coupon rate of 8% and a par value of $1,000 for $960. Coupon payments are made monthly. The monthly interest payment is <em>closest to</em>:</p>\n<ol>\n<li>$6.40.</li>\n<li>$6.67.</li>\n<li>$6.94.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect because $6.40 is the monthly payment derived using the purchase price instead of par value: 8% × $960/12 = $6.40. Correct because the annual coupon is 8% × $1,000 = $80. The coupon payments are made monthly, and therefore $80/12 = $6.67 is paid twelve times a year. Incorrect because $6.94 is based on the following calculation: 8%/960 × 1,000 × 100/12 = $6.94. Fixed-Income Instrument Features describe the features of a fixed-income security",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because $6.40 is the monthly payment derived using the purchase price instead of par value: 8% × $960/12 = $6.40.</p>\n</li>\n<li>\n<p><strong>Correct</strong> because the annual coupon is 8% × $1,000 = $80. The coupon payments are made monthly, and therefore $80/12 = $6.67 is paid twelve times a year.</p>\n</li>\n<li>\n<p>Incorrect because $6.94 is based on the following calculation: 8%/960 × 1,000 × 100/12 = $6.94.</p>\n</li>\n</ol>\n<h4>Fixed-Income Instrument Features</h4>\n<ul>\n<li>describe the features of a fixed-income security</li>\n</ul>\n</div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Fixed-Income Instrument Features",
+      "question_number": 4,
+      "question": "<div><div><div>\n<p>Which of the following statements <em>best</em> describes the source(s) of repayment for the Antelas AG floating-rate notes?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Since the notes are secured (or backed) by Antelas AG’s assets, the floating-rate notes would be considered asset-backed securities.",
+        "B": "The Antelas AG notes rely on the operating cash flows of the firm as their sole source for interest and principal payments.",
+        "C": "The Antelas AG notes rely on the operating cash flows of the firm as their primary source for interest and principal payments."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Secured corporate bonds rely on the operating cash flows of the firm as their primary source for interest and principal payments and a legal claim on assets as a secondary source of payment. A is incorrect because asset-backed securities (ABS) are issued by special-purpose entities created to take ownership in loans or receivables, the cash flows from which are used to pay interest and principal to investors. B is incorrect because it describes unsecured , not secured, corporate debt.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Secured corporate bonds rely on the operating cash flows of the firm as their primary source for interest and principal payments and a legal claim on assets as a secondary source of payment.</p>\n<p>A is incorrect because asset-backed securities (ABS) are issued by special-purpose entities created to take ownership in loans or receivables, the cash flows from which are used to pay interest and principal to investors.</p>\n<p>B is incorrect because it describes <em>unsecured</em>, not secured, corporate debt.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Fixed-Income Instrument Features",
+      "question_number": 5,
+      "question": "<div><div><div>\n<p>Antelas AG’s issuer-specific credit spread rises by 25 bps p.a. one year after the FRN issuance. Which of the following <em>best</em> describes how Antelas AG’s FRN coupon would change as a result?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Antelas AG’s FRN coupon payment to investors will immediately increase by 25 bps p.a.",
+        "B": "Antelas AG’s FRN coupon payment to investors will increase by 25 bps p.a. but will not become effective until the next full debt coupon period begins.",
+        "C": "Antelas AG’s FRN coupon will remain unchanged."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. For the Antelas AG FRN, the spread is fixed at 250 bps and the coupon will only change with changes in the MRR.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> For the Antelas AG FRN, the spread is fixed at 250 bps and the coupon will only change with changes in the MRR.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Fixed-Income Instrument Features",
+      "question_number": 6,
+      "question": "<div><div><p>Which type of fixed-income security is <em>most likely</em> to have coupon payments that reset periodically?</p>\n<ol>\n<li>Callable bonds</li>\n<li>Floating-rate notes</li>\n<li>Convertible bonds</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect because a callable bond gives issuers the ability to retire debt prior to maturity. It does not have a feature of resetting coupon payments periodically according to the reference rate. Correct. A floating-rate bond does not have a fixed coupon rate over its life. Instead, its coupon payments reset periodically according to some reference rate. Incorrect because a convertible bond gives the bondholder the right to convert the bond into a specified number of shares of the issuer’s common shares. Fixed-Income Instrument Features describe the features of a fixed-income security",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because a callable bond gives issuers the ability to retire debt prior to maturity. It does not have a feature of resetting coupon payments periodically according to the reference rate.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> A floating-rate bond does not have a fixed coupon rate over its life. Instead, its coupon payments reset periodically according to some reference rate.</p>\n</li>\n<li>\n<p>Incorrect because a convertible bond gives the bondholder the right to convert the bond into a specified number of shares of the issuer’s common shares.</p>\n</li>\n</ol>\n<h4>Fixed-Income Instrument Features</h4>\n<ul>\n<li>describe the features of a fixed-income security</li>\n</ul>\n</div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Fixed-Income Instrument Features",
+      "question_number": 7,
+      "question": "<div><div><div>\n<p>Calculate the value of Antelas’s payment to bondholders on the maturity date if the MRR is 0.25% p.a. for the final interest period.</p>\n</div></div></div>",
+      "choices": {
+        "A": "EUR1,718,750",
+        "B": "EUR251,718,750",
+        "C": "EUR256,875,000"
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. On the maturity date, Antelas AG pays investors the final FRN coupon payment plus the bond’s principal amount. The FRN coupon comprises MRR plus the issuer-specific spread. FRN coupon rate: MRR plus spread, or 0.25% + 2.50%= 2.75% Annual interest expense: Principal × FRN coupon, or €EUR250,000,000 × 2.75% = EUR6,875,000 Quarterly interest expense: Annual interest expense/4, or EUR6,875,000/4 = EUR1,718,750 Principal Amount: EUR250,000,000 Total Payment = EUR250,000,000 + EUR1,718,750 = 251,718,750",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> On the maturity date, Antelas AG pays investors the final FRN coupon payment plus the bond’s principal amount. The FRN coupon comprises MRR plus the issuer-specific spread.</p>\n<ul>\n<li><p><strong>FRN coupon rate:</strong> MRR plus spread, or 0.25% + 2.50%= 2.75%</p></li>\n<li><p><strong>Annual interest expense:</strong> Principal × FRN coupon, or €EUR250,000,000 × 2.75% = EUR6,875,000</p></li>\n<li><p><strong>Quarterly interest expense:</strong> Annual interest expense/4, or EUR6,875,000/4 = EUR1,718,750</p></li>\n<li><p><strong>Principal Amount:</strong> EUR250,000,000</p></li>\n<li><p><strong>Total Payment</strong> = EUR250,000,000 + EUR1,718,750 = 251,718,750</p></li>\n</ul></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Fixed-Income Instrument Features",
+      "question_number": 8,
+      "question": "<div><div><div>\n<p>Antelas decides to raise new secured, unsubordinated debt. Which of the following best describes the priority of payments between the issuer’s new debt and its existing debt?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Because the Antelas AG notes have a pari passu (or “equal footing”) clause, this debt obligation will be treated the same as any other secured, unsubordinated debt from this borrower.",
+        "B": "Because the existing debt was issued earlier, it would receive priority over the new debt in terms of the payment of interest and principal.",
+        "C": "We do not have enough information to answer this question; the necessary information would be provided in the indenture for new secured, unsubordinated notes."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Antelas AG’s existing secured, unsubordinated debt has a pari passu (or “equal footing”) clause, which ensures that this debt obligation will be treated the same as any other secured, unsubordinated debt from this borrower. B is incorrect because the priority of payments is unrelated to the timing of issuance. C is incorrect because the pari passu clause ensures equal footing for similar new debt.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Antelas AG’s existing secured, unsubordinated debt has a pari passu (or “equal footing”) clause, which ensures that this debt obligation will be treated the same as any other secured, unsubordinated debt from this borrower.</p>\n<p>B is incorrect because the priority of payments is unrelated to the timing of issuance.</p>\n<p>C is incorrect because the pari passu clause ensures equal footing for similar new debt.</p></div>",
+      "category": "Fixed Income"
+    }
+  ]
+}

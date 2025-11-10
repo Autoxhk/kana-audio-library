@@ -1,0 +1,117 @@
+{
+  "category": "Fixed Income",
+  "topic": "Fixed-Income Cash Flows and Types",
+  "total_questions": 9,
+  "questions": [
+    {
+      "title": "Fixed-Income Cash Flows and Types",
+      "question_number": 1,
+      "question": "<div><div><div>\n<p>Which of the following statements <em>best</em> describes the <em>type</em> of bonds to be issued given the issuer’s country and where the bonds will be issued and traded?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Since Digistrype is planning to issue and sell euro-denominated bonds, its bonds would be considered Eurobonds.",
+        "B": "Since Digistrype is planning to issue and sell euro-denominated bonds to investors in Germany, its bonds would be considered foreign bonds.",
+        "C": "Since Digistrype is planning to issue and sell bonds to domestic investors in Germany, its bonds would be considered domestic bonds."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Digistrype, a Canadian firm, is planning to issue and sell euro-denominated bonds to investors in Germany. Bonds issued by entities that are incorporated in another country are called foreign bonds. A is incorrect because Eurobonds are cross-border bonds that are not necessarily denominated in euros. C is incorrect because domestic bonds refer to a domestic issuer , not investor.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Digistrype, a Canadian firm, is planning to issue and sell euro-denominated bonds to investors in Germany. Bonds issued by entities that are incorporated in another country are called foreign bonds.</p>\n<p>A is incorrect because Eurobonds are cross-border bonds that are not necessarily denominated in euros.</p>\n<p>C is incorrect because domestic bonds refer to a domestic <em>issuer</em>, not investor.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Fixed-Income Cash Flows and Types",
+      "question_number": 2,
+      "question": "<div><div><p>Which of the following bonds is <em>most likely </em>to trade at a lower price relative to an otherwise identical option-free bond?</p>\n<ol>\n<li>Putable bond</li>\n<li>Callable bond</li>\n<li>Convertible bond</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect because a putable bond benefits bondholders as it gives them the right to sell the bonds back to the issuer before the maturity date. All else being equal, the price of a putable bond will typically be higher than the price of an otherwise identical non-putable bond. Correct. A callable bond benefits the issuer because it gives the issuer the right to redeem all (or part) of the bonds before the maturity date. Thus, the price of a callable bond will typically be lower than the price of an otherwise identical non-callable bond. Incorrect because a convertible bond also benefits bondholders as it gives them the right to convert the bonds into the issuer’s common stock. All else being equal, the price of a convertible bond will typically be higher than the price of an otherwise identical non-convertible bond. Fixed-Income Cash Flows and Types describe common cash flow structures of fixed-income instruments and contrast cash flow contingency provisions that benefit issuers and investors",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because a putable bond benefits bondholders as it gives them the right to sell the bonds back to the issuer before the maturity date. All else being equal, the price of a putable bond will typically be higher than the price of an otherwise identical non-putable bond.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> A callable bond benefits the issuer because it gives the issuer the right to redeem all (or part) of the bonds before the maturity date. Thus, the price of a callable bond will typically be lower than the price of an otherwise identical non-callable bond.</p>\n</li>\n<li>\n<p>Incorrect because a convertible bond also benefits bondholders as it gives them the right to convert the bonds into the issuer’s common stock. All else being equal, the price of a convertible bond will typically be higher than the price of an otherwise identical non-convertible bond.</p>\n</li>\n</ol>\n<h4>Fixed-Income Cash Flows and Types</h4>\n<ul>\n<li>describe common cash flow structures of fixed-income instruments and contrast cash flow contingency provisions that benefit issuers and investors</li>\n</ul>\n</div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Fixed-Income Cash Flows and Types",
+      "question_number": 3,
+      "question": "<div><div><div>\n<p>Which of the following modifications could Digistrype incorporate to <em>best</em> mitigate the investors’ credit concerns?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Digistrype could consider deferred debt coupons and/or principal payments.",
+        "B": "Digistrype could consider adding a call provision to its new debt.",
+        "C": "Digistrype could consider accelerating principal repayment or linking debt coupon changes to financial covenants."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Principal repayment acceleration, such as full amortization, partial principal amortization, or a sinking fund arrangement, is a way to reduce credit risk. Alternatively, Digistrype could incorporate debt coupon changes linked to financial covenants and/or credit ratings in order to address investor concerns. A is incorrect because it would delay rather than accelerate repayment. B is incorrect because a call provision does not address credit concerns.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Principal repayment acceleration, such as full amortization, partial principal amortization, or a sinking fund arrangement, is a way to reduce credit risk. Alternatively, Digistrype could incorporate debt coupon changes linked to financial covenants and/or credit ratings in order to address investor concerns.</p>\n<p>A is incorrect because it would delay rather than accelerate repayment.</p>\n<p>B is incorrect because a call provision does not address credit concerns.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Fixed-Income Cash Flows and Types",
+      "question_number": 4,
+      "question": "<div><div><div>A company issues a 10-year bond on 1 January 2014. Its contract requires that the coupon rate increase by specified margins at specified dates as shown in the following table:\n\t<div>\n<table class=\"table-style1\" style=\"width:400px\">\n<thead>\n<tr>\n<td style=\"text-align:left; vertical-align:bottom; width:261px; max-width:261px\"><strong>Coupon Payment Date Range</strong></td>\n<td style=\"text-align:center; vertical-align:bottom; width:130px; max-width:130px\"><strong>Coupon Rate</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left; vertical-align:top; width:261px; max-width:261px\">1 Jan 2014–31 Dec 2015</td>\n<td style=\"text-align:center; vertical-align:top; width:130px; max-width:130px\">4.0%</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top; width:261px; max-width:261px\">1 Jan 2016–31 Dec 2017</td>\n<td style=\"text-align:center; vertical-align:top; width:130px; max-width:130px\">5.0%</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top; width:261px; max-width:261px\">1 Jan 2018–31 Dec 2019</td>\n<td style=\"text-align:center; vertical-align:top; width:130px; max-width:130px\">7.5%</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top; width:261px; max-width:261px\">1 Jan 2020–31 Dec 2023</td>\n<td style=\"text-align:center; vertical-align:top; width:130px; max-width:130px\">9.0%</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<p>This security is <em>most likely</em> a:</p>\n<ol>\n<li>floating rate bond.</li>\n<li>step-up coupon bond.</li>\n<li>deferred coupon bond.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect because a floating rate bond’s coupon rate will change in ways that are not known in advance, depending on future changes in the reference rate. Bonds with variable interest payments are called floating-rate notes (FRNs). Correct because a bond coupon increases by specified margins at specified dates. These bonds are referred to as step-up bonds and are used to protect investors against rising rates and, in some cases, to provide an incentive for issuers to take advantage of a contingency provision. Incorrect because deferred coupon bonds pay no interest for the first few years and have a higher coupon paid later through maturity. Fixed-Income Cash Flows and Types describe common cash flow structures of fixed-income instruments and contrast cash flow contingency provisions that benefit issuers and investors",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because a floating rate bond’s coupon rate will change in ways that are not known in advance, depending on future changes in the reference rate. Bonds with variable interest payments are called <strong>floating-rate notes</strong> (FRNs).</p>\n</li>\n<li>\n<p><strong>Correct</strong> because a bond coupon increases by specified margins at specified dates. These bonds are referred to as <strong>step-up bonds</strong> and are used to protect investors against rising rates and, in some cases, to provide an incentive for issuers to take advantage of a contingency provision.</p>\n</li>\n<li>\n<p>Incorrect because <strong>deferred coupon bonds</strong> pay no interest for the first few years and have a higher coupon paid later through maturity.</p>\n</li>\n</ol>\n<h4>Fixed-Income Cash Flows and Types</h4>\n<ul>\n<li>describe common cash flow structures of fixed-income instruments and contrast cash flow contingency provisions that benefit issuers and investors</li>\n</ul>\n</div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Fixed-Income Cash Flows and Types",
+      "question_number": 5,
+      "question": "<div><div><div>\n<p>Which of the following is the <em>best</em> contingency feature Digistrype could add to mitigate its own concerns regarding lower interest rates?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Add a call provision to the proposed new debt.",
+        "B": "Add a put provision to the proposed new debt.",
+        "C": "Add a step-up coupon to the proposed new debt."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. A call provision gives Digistrype the right to redeem all or part of the bond prior to maturity if interest rates decline, so new debt could be issued at a lower cost. B is incorrect because a put provision grants investors, not issuers, the right to redeem debt prior to maturity but would not be exercised if interest rates fell, because a put provision is intended to limit investor’s downside, not upside. C is incorrect; a step-up coupon is not a contingency provision.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> A call provision gives Digistrype the right to redeem all or part of the bond prior to maturity if interest rates decline, so new debt could be issued at a lower cost.</p>\n<p>B is incorrect because a put provision grants investors, not issuers, the right to redeem debt prior to maturity but would not be exercised if interest rates fell, because a put provision is intended to limit investor’s downside, not upside.</p>\n<p>C is incorrect; a step-up coupon is not a contingency provision.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Fixed-Income Cash Flows and Types",
+      "question_number": 6,
+      "question": "<div><div><p>When compared with an option-free bond, which type of bond <em>most likely</em> offers a higher yield to bondholders?</p>\n<ol>\n<li>Putable</li>\n<li>Callable</li>\n<li>Convertible</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect because a putable bond gives the bondholder the right to sell the bonds back to the issuer prior to maturity. As a result, a putable bond will offer a lower yield compared with a similar non-putable bond. Correct. A callable bond gives the issuer the right to buy back the bond prior to maturity. This feature increases the reinvestment risk faced by bondholders, causing them to require a higher yield than for a similar non-callable bond. Incorrect because a convertible bond gives the bondholder the right to convert the bond into the common stock of the issuer. As a result, a convertible bond will offer a lower yield compared with a similar non-convertible bond. Fixed-Income Cash Flows and Types describe common cash flow structures of fixed-income instruments and contrast cash flow contingency provisions that benefit issuers and investors",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because a putable bond gives the bondholder the right to sell the bonds back to the issuer prior to maturity. As a result, a putable bond will offer a lower yield compared with a similar non-putable bond.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> A callable bond gives the issuer the right to buy back the bond prior to maturity. This feature increases the reinvestment risk faced by bondholders, causing them to require a higher yield than for a similar non-callable bond.</p>\n</li>\n<li>\n<p>Incorrect because a convertible bond gives the bondholder the right to convert the bond into the common stock of the issuer. As a result, a convertible bond will offer a lower yield compared with a similar non-convertible bond.</p>\n</li>\n</ol>\n<h4>Fixed-Income Cash Flows and Types</h4>\n<ul>\n<li>describe common cash flow structures of fixed-income instruments and contrast cash flow contingency provisions that benefit issuers and investors</li>\n</ul>\n</div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Fixed-Income Cash Flows and Types",
+      "question_number": 7,
+      "question": "<div><div><div>\n<p>If DILO’s share price on the Frankfurt Stock Exchange were to rise to EUR75, the bond’s conversion value would be:</p>\n</div></div></div>",
+      "choices": {
+        "A": "EUR1,000.",
+        "B": "EUR15,000.",
+        "C": "EUR75,000."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The conversion value of a bond equals its par value if the current share price and conversion price are equal. Conversion ratio = Convertible bond par value/Conversion price. We know that Conversion value = Conversion ratio × Current share price. Or, after rearranging, Conversion ratio = Conversion value/Current share price, which can be substituted into the lefthand side of the first equation: Conversion value/Current share price = Convertible bond par value/Conversion price. If Current share price = Conversion price, then Conversion value = Convertible bond par value.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The conversion value of a bond equals its par value if the current share price and conversion price are equal.</p>\n<span>Conversion ratio = Convertible bond par value/Conversion price.</span><p>We know that</p>\n<span>Conversion value = Conversion ratio × Current share price.</span><p>Or, after rearranging,</p>\n<span>Conversion ratio = Conversion value/Current share price,</span><p>which can be substituted into the lefthand side of the first equation:</p>\n<span>Conversion value/Current share price = Convertible bond par value/Conversion price.</span><span>If Current share price = Conversion price, then Conversion value = Convertible bond par value.</span></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Fixed-Income Cash Flows and Types",
+      "question_number": 8,
+      "question": "<div><div><p>Ted Nguyen is an investor domiciled in a country with an original issue discount tax provision. He purchases a zero-coupon bond at a deep discount to par value with the intention of holding the bond until maturity. At maturity, he will <em>most likely</em> face:</p>\n<ol>\n<li>a capital loss.</li>\n<li>a capital gain.</li>\n<li>neither a capital loss nor gain.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect because the investor will face neither a capital gain nor a loss as the original issue discount tax provision allows the investor to increase the cost basis of the bond. Incorrect because the investor will face neither a capital gain nor a loss as the original issue discount tax provision allows the investor to increase the cost basis of the bond. Correct because for bonds such as zero-coupon bonds issued at a discount, the tax status of the original issue discount (OID) is an additional tax consideration that varies by country. The OID is the difference between the par value and the original issue price. For example, the United States includes a prorated portion of the discount in interest income every tax year, while Japan does not. Under the OID tax provision, the investor will recognize a prorated portion of the OID as taxable income each year and pay no capital gains tax upon maturity. Investors without an OID tax provision will recognize no taxable income until maturity, upon which they will face capital gains tax on the OID (provided there is capital gains tax in their jurisdiction). Fixed-Income Cash Flows and Types describe how legal, regulatory, and tax considerations affect the issuance and trading of fixed-income securities",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect because the investor will face neither a capital gain nor a loss as the original issue discount tax provision allows the investor to increase the cost basis of the bond.</p>\n</li>\n<li>\n<p>Incorrect because the investor will face neither a capital gain nor a loss as the original issue discount tax provision allows the investor to increase the cost basis of the bond.</p>\n</li>\n<li>\n<p><strong>Correct</strong> because for bonds such as zero-coupon bonds issued at a discount, the tax status of the original issue discount (OID) is an additional tax consideration that varies by country. The OID is the difference between the par value and the original issue price. For example, the United States includes a prorated portion of the discount in interest income every tax year, while Japan does not. Under the OID tax provision, the investor will recognize a prorated portion of the OID as taxable income each year and pay no capital gains tax upon maturity. Investors without an OID tax provision will recognize no taxable income until maturity, upon which they will face capital gains tax on the OID (provided there is capital gains tax in their jurisdiction).</p>\n</li>\n</ol>\n<h4>Fixed-Income Cash Flows and Types</h4>\n<ul>\n<li>describe how legal, regulatory, and tax considerations affect the issuance and trading of fixed-income securities</li>\n</ul>\n</div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Fixed-Income Cash Flows and Types",
+      "question_number": 9,
+      "question": "<div><div><div>\n<p>Which of the following statements <em>best</em> describes the implications of removing the conversion feature from the bond?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Removal of the conversion feature would likely result in a higher coupon.",
+        "B": "Removal of the conversion feature would likely increase the bond price.",
+        "C": "Removal of the conversion feature would likely reduce credit risk."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Because the conversion provision is valuable to bondholders, the convertible bond price is higher than the price of an otherwise similar bond without the conversion provision. Similarly, the yield on a convertible bond is lower than the yield on an otherwise similar non-convertible bond. Thus, should the Digistrype team elect to remove the conversion feature, it would likely have to increase the bond’s coupon rate in order to attract investors. B is incorrect because removal of the conversion feature would decrease, not increase, the bond price. C is incorrect because removal of the conversion feature would not change the credit risk.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Because the conversion provision is valuable to bondholders, the convertible bond price is higher than the price of an otherwise similar bond without the conversion provision. Similarly, the yield on a convertible bond is lower than the yield on an otherwise similar non-convertible bond. Thus, should the Digistrype team elect to remove the conversion feature, it would likely have to increase the bond’s coupon rate in order to attract investors.</p>\n<p>B is incorrect because removal of the conversion feature would decrease, not increase, the bond price.</p>\n<p>C is incorrect because removal of the conversion feature would not change the credit risk.</p></div>",
+      "category": "Fixed Income"
+    }
+  ]
+}

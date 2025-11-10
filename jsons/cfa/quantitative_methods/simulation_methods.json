@@ -1,0 +1,83 @@
+{
+  "category": "Quantitative Methods",
+  "topic": "Simulation Methods",
+  "total_questions": 6,
+  "questions": [
+    {
+      "title": "Simulation Methods",
+      "question_number": 1,
+      "question": "<div><div><p>If a stock’s continuously compounded return is normally distributed, then the distribution of the future stock price is <em>best</em> described as being:</p>\n<ol>\n<li>normal.</li>\n<li>a Student’s <i>t</i>.</li>\n<li>lognormal.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. If a stock’s continuously compounded return is normally distributed, then future stock price is necessarily lognormally distributed. Incorrect. If a stock’s continuously compounded return is normally distributed, then future stock price is necessarily lognormally distributed. Correct . If a stock’s continuously compounded return is normally distributed, then the future stock price is necessarily lognormally distributed. Simulation Methods explain the relationship between normal and lognormal distributions and why the lognormal distribution is used to model asset prices when using continuously compounded asset returns",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. If a stock’s continuously compounded return is normally distributed, then future stock price is necessarily lognormally distributed.</p>\n</li>\n<li>\n<p>Incorrect. If a stock’s continuously compounded return is normally distributed, then future stock price is necessarily lognormally distributed.</p>\n</li>\n<li>\n<p><strong>Correct</strong>. If a stock’s continuously compounded return is normally distributed, then the future stock price is necessarily lognormally distributed.</p>\n</li>\n</ol>\n<h4>Simulation Methods</h4>\n<ul>\n<li>explain the relationship between normal and lognormal distributions and why the lognormal distribution is used to model asset prices when using continuously compounded asset returns</li>\n</ul>\n</div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simulation Methods",
+      "question_number": 2,
+      "question": "<div><div><div>\n<p>The weekly closing prices of Mordice Corporation shares are as follows:</p>\n<div>\n<p>Exhibit 1:</p>\n<p>Mordice Corporation Shares</p>\n</div>\n<div>\n<table>\n<thead>\n<tr>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: bottom;\"><strong>Date</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong>Closing Price (euros)</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">1 August</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">112</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">8 August</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">160</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">15 August</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">120</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>The continuously compounded return of Mordice Corporation shares for the period August 1 to August 15 is <em>closest</em> to:</p>\n</div>\n</div></div>",
+      "choices": {
+        "A": "6.90 percent.",
+        "B": "7.14 percent.",
+        "C": "8.95 percent."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The continuously compounded return of an asset over a period is equal to the natural log of the asset’s price change during the period. In this case, ln(120/112) = 6.90%. Note that the continuously compounded return from period 0 to period T is the sum of the incremental one-period continuously compounded returns, which in this case are weekly returns. Specifically: Week 1 return: ln(160/112) = 35.67%. Week 2 return: ln(120/160) = –28.77%. Continuously compounded return = 35.67% + –28.77% = 6.90%.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The continuously compounded return of an asset over a period is equal to the natural log of the asset’s price change during the period. In this case, ln(120/112) = 6.90%.</p>\n<p>Note that the continuously compounded return from period 0 to period T is the sum of the incremental one-period continuously compounded returns, which in this case are weekly returns. Specifically:</p>\n<p><span>Week 1 return: ln(160/112) = 35.67%.</span><span>Week 2 return: ln(120/160) = –28.77%.</span><span>Continuously compounded return = 35.67% + –28.77% = 6.90%.</span></p>\n</div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simulation Methods",
+      "question_number": 3,
+      "question": "<div><div><div>\n<p>In contrast to normal distributions, lognormal distributions:</p>\n</div></div></div>",
+      "choices": {
+        "A": "are skewed to the left.",
+        "B": "have outcomes that cannot be negative.",
+        "C": "are more suitable for describing asset returns than asset prices."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. By definition, lognormal random variables cannot have negative values (bounded below by 0) and have distributions that are skewed to the right.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> By definition, lognormal random variables cannot have negative values (bounded below by 0) and have distributions that are skewed to the right.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simulation Methods",
+      "question_number": 4,
+      "question": "<div><div><p>In contrast to normal distributions, lognormal distributions:</p>\n<ol>\n<li>are skewed to the left.</li>\n<li>have random variables that cannot be negative.</li>\n<li>are more suitable for describing asset returns than asset prices.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. Lognormal distributions are right skewed (have long right tails). Correct . By definition, lognormal random variables cannot have negative values. Incorrect because the random variables of a lognormal distribution are bounded by zero, as are asset prices (they cannot be negative). The lognormal distribution is therefore more suitable than the normal distribution as a probability model for asset prices. In contrast, the lognormal distribution is not suitable for describing asset returns (which can be both positive and negative). Simulation Methods explain the relationship between normal and lognormal distributions and why the lognormal distribution is used to model asset prices when using continuously compounded asset returns",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. Lognormal distributions are right skewed (have long right tails).</p>\n</li>\n<li>\n<p><strong>Correct</strong>. By definition, lognormal random variables cannot have negative values.</p>\n</li>\n<li>\n<p>Incorrect because the random variables of a lognormal distribution are bounded by zero, as are asset prices (they cannot be negative). The lognormal distribution is therefore more suitable than the normal distribution as a probability model for asset prices. In contrast, the lognormal distribution is not suitable for describing asset returns (which can be both positive and negative).</p>\n</li>\n</ol>\n<h4>Simulation Methods</h4>\n<ul>\n<li>explain the relationship between normal and lognormal distributions and why the lognormal distribution is used to model asset prices when using continuously compounded asset returns</li>\n</ul>\n</div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simulation Methods",
+      "question_number": 5,
+      "question": "<div><div><div>\n<p>The lognormal distribution is a more accurate model for the distribution of stock prices than the normal distribution because stock prices are:</p>\n</div></div></div>",
+      "choices": {
+        "A": "symmetrical.",
+        "B": "unbounded.",
+        "C": "non-negative."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. A lognormal distributed variable has a lower bound of zero. The lognormal distribution is also right skewed, which is a useful property in describing asset prices.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> A lognormal distributed variable has a lower bound of zero. The lognormal distribution is also right skewed, which is a useful property in describing asset prices.</p></div>",
+      "category": "Quantitative Methods"
+    },
+    {
+      "title": "Simulation Methods",
+      "question_number": 6,
+      "question": "<div><div><div>\n<p>Analysts performing bootstrap:</p>\n</div></div></div>",
+      "choices": {
+        "A": "seek to create statistical inferences of population parameters from a single sample.",
+        "B": "repeatedly draw samples of the same size, with replacement, from the original population.",
+        "C": "must specify probability distributions for key risk factors that drive the underlying random variables."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Bootstrapping through random sampling generates the observed variable from a random sampling with unknown population parameters. The analyst does not know the true population distribution, but through sampling can infer the population parameters from the randomly generated sample. B is incorrect because, when performing bootstrap, the analyst repeatedly draws samples from the original sample and not population, where each individual resample has the same size as the original sample and each item drawn is replaced for the next draw. C is incorrect because, when performing bootstrap, analysts simply use the observed empirical distribution of the underlying variables. In a Monte Carlo simulation, in contrast, the analyst would specify probability distributions for key risk factors that drive the underlying variables.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Bootstrapping through random sampling generates the observed variable from a random sampling with unknown population parameters. The analyst does not know the true population distribution, but through sampling can infer the population parameters from the randomly generated sample. B is incorrect because, when performing bootstrap, the analyst repeatedly draws samples from the original sample and not population, where each individual resample has the same size as the original sample and each item drawn is replaced for the next draw. C is incorrect because, when performing bootstrap, analysts simply use the observed empirical distribution of the underlying variables. In a Monte Carlo simulation, in contrast, the analyst would specify probability distributions for key risk factors that drive the underlying variables.</p></div>",
+      "category": "Quantitative Methods"
+    }
+  ]
+}

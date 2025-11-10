@@ -1,0 +1,91 @@
+{
+  "category": "Equity Investments",
+  "topic": "Company Analysis Past and Present",
+  "total_questions": 6,
+  "questions": [
+    {
+      "title": "Company Analysis Past and Present",
+      "question_number": 1,
+      "question": "<div><div><div>\n<p>Which of the following is <em>most likely</em> to be an element of Hu’s subsequent reports?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Industry size, growth rate, and key drivers",
+        "B": "Summary of changes to the recommendation",
+        "C": "Ownership structure and management composition"
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. A subsequent company research report focuses on updating investors on new information or changes in an analyst’s price target and recommendation. A and C are incorrect, because in-depth information regarding industry size, growth rate, and key drivers or ownership structure and management composition is more suited to an initiation report.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> A subsequent company research report focuses on updating investors on new information or changes in an analyst’s price target and recommendation.</p>\n<p>A and C are incorrect, because in-depth information regarding industry size, growth rate, and key drivers or ownership structure and management composition is more suited to an initiation report.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Company Analysis Past and Present",
+      "question_number": 2,
+      "question": "<div><div><div>\n<p>Shipping is a highly cyclical industry. Which of the following companies <em>most likely</em> has the most ability to ramp up capacity to meet increased demand for shipping services?</p>\n</div></div></div>",
+      "choices": {
+        "A": "OldShips",
+        "B": "NewShips",
+        "C": "CleanYards"
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Only NewShips has a capital-light business model. Both OldShips and CleanYards require substantial capital investment in order to increase supply capacity. New ship construction (for OldShips) and acquiring new yards (for CleanYards) take time and cannot be met immediately.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Only NewShips has a capital-light business model. Both OldShips and CleanYards require substantial capital investment in order to increase supply capacity. New ship construction (for OldShips) and acquiring new yards (for CleanYards) take time and cannot be met immediately.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Company Analysis Past and Present",
+      "question_number": 3,
+      "question": "<div><div><div>\n<p>In 2X19, NewShips’ revenue was <em>closest</em> to:</p>\n</div>\n</div></div>",
+      "choices": {
+        "A": "$173 million.",
+        "B": "$1.46 billion.",
+        "C": "$3.63 billion."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. NewShips acts as a broker and earns 5% of the freight rate in commissions. In 2X19, NewShips brokered 900,000 TEUs at an average freight rate of 3,848 per TEU, earning a 5% commission: 900,000 × 3,848 × 0.05 = $173 million.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> NewShips acts as a broker and earns 5% of the freight rate in commissions. In 2X19, NewShips brokered 900,000 TEUs at an average freight rate of 3,848 per TEU, earning a 5% commission: 900,000 × 3,848 × 0.05 = $173 million.</p>\n</div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Company Analysis Past and Present",
+      "question_number": 5,
+      "question": "<div><div><div>\n<p>When conducting company analysis, which of the following is <em>least</em> relevant to determining a company’s business model?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Company annual report describing the firm’s product lines",
+        "B": "Comments by management about competing products and substitutes",
+        "C": "Industry white papers regarding the company’s product pricing strategy"
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Competing products and substitutes are analyzed in Porter’s Five Forces. This analysis is usually performed to better understand a company’s industry and its competitive positioning. Management comments are unlikely to guide the analyst to better understand the company’s business model. A and C are incorrect, because both are relevant sources for an analyst in determining the company’s business model.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Competing products and substitutes are analyzed in Porter’s Five Forces. This analysis is usually performed to better understand a company’s industry and its competitive positioning. Management comments are unlikely to guide the analyst to better understand the company’s business model.</p>\n<p>A and C are incorrect, because both are relevant sources for an analyst in determining the company’s business model.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Company Analysis Past and Present",
+      "question_number": 6,
+      "question": "<div><div><div>\n<p>OldShips’ cash conversion cycle (CCC) is:</p>\n</div></div></div>",
+      "choices": {
+        "A": "lower than CleanYards’.",
+        "B": "similar to CleanYards’.",
+        "C": "higher than CleanYards’."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. CCC = DOH + DSO – DPO, so: OldShips’ CCC = 12 + 27 − 55 = −16 days CleanYards’ CCC = 46 + 98 − 40 = 104 days OldShips, in fact, has a negative cash conversion cycle. OldShips takes advantage of the favorable credit terms granted by its suppliers. B and C are incorrect, because OldShips’ CCC is lower than CleanYards’.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong></p>\n<p>CCC = DOH + DSO – DPO, so:</p>\n<span>OldShips’ CCC = 12 + 27 − 55 = −16 days</span><span>CleanYards’ CCC = 46 + 98 − 40 = 104 days</span><p>OldShips, in fact, has a negative cash conversion cycle. OldShips takes advantage of the favorable credit terms granted by its suppliers.</p>\n<p>B and C are incorrect, because OldShips’ CCC is lower than CleanYards’.</p></div>",
+      "category": "Equity Investments"
+    },
+    {
+      "title": "Company Analysis Past and Present",
+      "question_number": 7,
+      "question": "<div><div><div>\n<p>The first step in reviewing a company’s capital investments is to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "evaluate management’s investments.",
+        "B": "identify operating cash flow drivers.",
+        "C": "determine the major sources and uses of cash."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Before a review of a company’s capital investments, the first step is to determine the company’s sources and uses of capital on a historical basis. A and B are incorrect, because both take place after the analyst has identified the company’s sources and uses of cash and determined what to focus on.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Before a review of a company’s capital investments, the first step is to determine the company’s sources and uses of capital on a historical basis.</p>\n<p>A and B are incorrect, because both take place after the analyst has identified the company’s sources and uses of cash and determined what to focus on.</p></div>",
+      "category": "Equity Investments"
+    }
+  ]
+}

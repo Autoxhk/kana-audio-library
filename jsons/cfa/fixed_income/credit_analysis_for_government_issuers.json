@@ -1,0 +1,77 @@
+{
+  "category": "Fixed Income",
+  "topic": "Credit Analysis for Government Issuers",
+  "total_questions": 5,
+  "questions": [
+    {
+      "title": "Credit Analysis for Government Issuers",
+      "question_number": 1,
+      "question": "<div><div><div>\n<p>Which of the following statements best characterizes higher creditworthiness for a non-reserve currency emerging market sovereign government?</p>\n</div></div></div>",
+      "choices": {
+        "A": "A country with a government budget surplus, current account surplus with high economic growth, and a freely floating currency.",
+        "B": "A country with a government budget deficit, a current account deficit with moderate economic growth and a fixed exchange rate regime",
+        "C": "A country with a government budget deficit, a current account deficit, low economic growth, and a fixed exchange rate regime."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. This country exhibits fiscal stability as evidenced by its government budget surplus, high economic growth, and external strength given its current account surplus and freely floating currency.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> This country exhibits fiscal stability as evidenced by its government budget surplus, high economic growth, and external strength given its current account surplus and freely floating currency.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Credit Analysis for Government Issuers",
+      "question_number": 3,
+      "question": "<div><div><div>\n<p>Based upon the following data, which country is expected to be assigned the lowest sovereign credit rating?</p>\n<div><table>\n<thead>\n<tr>\n<th class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong> </strong></th>\n<th class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" colspan=\"3\" style=\"text-align: center;vertical-align: bottom;\"><strong>Country</strong></th>\n</tr>\n<tr>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: bottom;\"><strong>Economic Statistics</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong>Costa Rica</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong>Dominican Republic</strong></th>\n<th class=\"cfa-rowsep-1 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: bottom;\"><strong>El Salvador</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">Long-term external debt/GDP (%)</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">39.6</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">35.7</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">57.0</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">GDP growth (%)</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">2.06</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">5.07</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">2.39</td>\n</tr>\n<tr>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: left;vertical-align: top;\">Currency reserves (% of GDP)</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">13.9</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">8.1</td>\n<td class=\"cfa-rowsep-0 cfa-colsep-0 cellShade0\" style=\"text-align: center;vertical-align: top;\">12.4</td>\n</tr>\n</tbody>\n</table></div>\n</div></div></div>",
+      "choices": {
+        "A": "Costa Rica",
+        "B": "Dominican Republic",
+        "C": "El Salvador"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. El Salvador is expected to have the lowest credit rating due to its high long-term external debt-to-GDP ratio. While the Dominican Republic has lower currency reserves than El Salvador, it also has a lower external debt burden and higher economic growth.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> El Salvador is expected to have the lowest credit rating due to its high long-term external debt-to-GDP ratio. While the Dominican Republic has lower currency reserves than El Salvador, it also has a lower external debt burden and higher economic growth.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Credit Analysis for Government Issuers",
+      "question_number": 4,
+      "question": "<div><div><div>\n<p>Gulf Investment Corporation (GIC) is an investment company incorporated in Kuwait as a Gulf Shareholding Company. GIC is equally owned by the governments of the six member states of the Gulf Cooperation Council (GCC). GIC was formed to foster economic growth, economic diversification, and capital market development across the GCC region. The credit rating for GIC should be assessed based on its status as a:</p>\n</div></div></div>",
+      "choices": {
+        "A": "sovereign agency.",
+        "B": "supranational issuer.",
+        "C": "specialized financial intermediary or public bank."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. GIC is a supranational issuer, as it is sponsored and owned by multiple sovereigns. Its credit rating would be assessed as a supranational based on weighted sovereign ratings of the sponsoring countries and the nature of their implicit support in case of financial distress.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> GIC is a supranational issuer, as it is sponsored and owned by multiple sovereigns. Its credit rating would be assessed as a supranational based on weighted sovereign ratings of the sponsoring countries and the nature of their implicit support in case of financial distress.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Credit Analysis for Government Issuers",
+      "question_number": 5,
+      "question": "<div><div><div>\n<p>Which of the following statements best characterizes external strength for a non-reserve currency sovereign country?</p>\n</div></div></div>",
+      "choices": {
+        "A": "The ability to impose and enforce strict capital controls",
+        "B": "The establishment of a fixed exchange rate regime",
+        "C": "The ability to generate sufficient stable foreign currency cash inflows"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. A key factor influencing whether a non-reserve currency sovereign government can meet external debt obligations is external liquidity and solvency, or the ability to generate sufficient, stable foreign currency cash inflows to meet interest and principal payments on external debt. A is incorrect, as capital controls may restrict the ability to generate FX inflows. B is incorrect, as a fixed exchange rate regime may cause instability in the case of currency devaluation.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> A key factor influencing whether a non-reserve currency sovereign government can meet external debt obligations is external liquidity and solvency, or the ability to generate sufficient, stable foreign currency cash inflows to meet interest and principal payments on external debt. A is incorrect, as capital controls may restrict the ability to generate FX inflows. B is incorrect, as a fixed exchange rate regime may cause instability in the case of currency devaluation.</p></div>",
+      "category": "Fixed Income"
+    },
+    {
+      "title": "Credit Analysis for Government Issuers",
+      "question_number": 6,
+      "question": "<div><div><div>\n<p>Agora is an emerging market economy with restricted capital convertibility (domestic to foreign exchange is not freely convertible). It is significantly dependent on income from the tourism sector and repatriation of income by its citizens living in foreign countries. It also has a high percentage of external debt to GDP. Which of the following is the most important factor that may result in an improvement in its sovereign creditworthiness?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Diversification of its foreign currency inflows",
+        "B": "Reducing foreign currency reserves as a percentage of GDP",
+        "C": "Devaluation of its exchange rate versus major reserve currencies"
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Since Agora has high external debt to GDP and is very dependent on foreign currency inflows, it should seek to diversify its sources of foreign currency to avoid financial distress in case of disruption in tourism revenue or immigrant repatriation. B is incorrect, as maintaining or increasing foreign currency reserves is important for debt service rather than reducing FX reserves. C is incorrect. While the devaluation of Agora’s exchange rate versus foreign reserve currencies may make it a more affordable tourist destination, it may also reduce the rationale for income repatriation, leading to lower foreign inflows and a reduced ability to service external debt.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Since Agora has high external debt to GDP and is very dependent on foreign currency inflows, it should seek to diversify its sources of foreign currency to avoid financial distress in case of disruption in tourism revenue or immigrant repatriation. B is incorrect, as maintaining or increasing foreign currency reserves is important for debt service rather than reducing FX reserves. C is incorrect. While the devaluation of Agora’s exchange rate versus foreign reserve currencies may make it a more affordable tourist destination, it may also reduce the rationale for income repatriation, leading to lower foreign inflows and a reduced ability to service external debt.</p></div>",
+      "category": "Fixed Income"
+    }
+  ]
+}

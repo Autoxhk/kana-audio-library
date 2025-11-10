@@ -1,0 +1,429 @@
+{
+  "category": "Financial Statement Analysis",
+  "topic": "Analysis of Long-Term Assets",
+  "total_questions": 33,
+  "questions": [
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 1,
+      "question": "<div><div><div>\n<p>Based on this information, the amount of impairment loss that WLP will need to report on its income statement related to the manufacturing equipment is <em>closest</em> to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "GBP2,300,000.",
+        "B": "GBP3,100,000.",
+        "C": "GBP4,600,000."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The impairment loss equals GBP3,100,000, calculated as: Impairment = max(Fair value less costs to sell; Value in use) – Net carrying amount = max(16,800,000 – 800,000; 14,500,000) – 19,100,000 = –3,100,000.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The impairment loss equals GBP3,100,000, calculated as:</p>\n<p>Impairment = max(Fair value less costs to sell; Value in use) – Net carrying amount</p>\n<p>= max(16,800,000 – 800,000; 14,500,000) – 19,100,000</p>\n<p>= –3,100,000.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 2,
+      "question": "<div><div><p>Holding all else constant, a company that develops intangible assets internally rather than purchasing them is <em>most likely </em>to report:</p>\n<ol>\n<li>lower amounts of assets.</li>\n<li>higher investing cash outflows.</li>\n<li>lower operating cash outflows.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. Costs associated with internally developing intangible assets are usually expensed; thus, a company that has internally developed intangible assets through expenditures on R will recognize a lower amount of assets than a company that has obtained intangible assets through external purchase. Incorrect. Costs of acquiring intangible assets are classified as investing cash outflows. Thus if the company is developing assets internally, it will report lower investing cash outflows than a company that obtains intangibles through external purchase. Incorrect. Costs associated with internally developing intangible assets are classified as operating cash outflows. Thus, if the company is developing the intangible assets internally, it will report higher operating cash outflows than a company that obtains the intangibles through external purchase. Analysis of Long-Term Assets compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> Costs associated with internally developing intangible assets are usually expensed; thus, a company that has internally developed intangible assets through expenditures on R will recognize a lower amount of assets than a company that has obtained intangible assets through external purchase.</p>\n</li>\n<li>\n<p>Incorrect. Costs of acquiring intangible assets are classified as investing cash outflows. Thus if the company is developing assets internally, it will report lower investing cash outflows than a company that obtains intangibles through external purchase.</p>\n</li>\n<li>\n<p>Incorrect. Costs associated with internally developing intangible assets are classified as operating cash outflows. Thus, if the company is developing the intangible assets internally, it will report higher operating cash outflows than a company that obtains the intangibles through external purchase.</p>\n</li>\n</ol>\n<h4>Analysis of Long-Term Assets</h4>\n<ul>\n<li>compare the financial reporting of the following types of intangible assets: purchased, internally developed, and acquired in a business combination</li>\n</ul>\n</div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 3,
+      "question": "<div><div><div>\n<p>Under IFRS, an impairment loss on a property, plant, and equipment asset is measured as the excess of the carrying amount over the asset’s:</p>\n</div></div></div>",
+      "choices": {
+        "A": "fair value.",
+        "B": "recoverable amount.",
+        "C": "undiscounted expected future cash flows."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Under IFRS, an impairment loss is measured as the excess of the carrying amount over the asset’s recoverable amount. The recoverable amount is the higher of the asset’s fair value less costs to sell and its value in use. Value in use is a discounted measure of expected future cash flows. Under US GAAP, assessing recoverability is separate from measuring the impairment loss. If the asset’s carrying amount exceeds its undiscounted expected future cash flows, the asset’s carrying amount is considered unrecoverable and the impairment loss is measured as the excess of the carrying amount over the asset’s fair value.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Under IFRS, an impairment loss is measured as the excess of the carrying amount over the asset’s recoverable amount. The recoverable amount is the higher of the asset’s fair value less costs to sell and its value in use. Value in use is a discounted measure of expected future cash flows. Under US GAAP, assessing recoverability is separate from measuring the impairment loss. If the asset’s carrying amount exceeds its undiscounted expected future cash flows, the asset’s carrying amount is considered unrecoverable and the impairment loss is measured as the excess of the carrying amount over the asset’s fair value.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 4,
+      "question": "<div><div><p>At the end of the year, a company reported an impairment loss on its manufacturing plant, reducing its carrying amount by 10%. The impairment loss is <em>least likely</em> to cause the company’s:</p>\n<ol>\n<li>debt-to-asset ratio to increase.</li>\n<li>fixed asset turnover to increase.</li>\n<li>cash flow from operations to decline.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. The statement is correct: the carrying amount of assets has been reduced, so the debt-to-asset ratio will increase. Incorrect. The statement is correct: the carrying amount of assets has been reduced, so the fixed asset turnover will increase. Correct. The impairment loss is a non-cash charge and will not affect cash flow from operations. Analysis of Long-Term Assets explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. The statement is correct: the carrying amount of assets has been reduced, so the debt-to-asset ratio will increase.</p>\n</li>\n<li>\n<p>Incorrect. The statement is correct: the carrying amount of assets has been reduced, so the fixed asset turnover will increase.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> The impairment loss is a non-cash charge and will not affect cash flow from operations.</p>\n</li>\n</ol>\n<h4>Analysis of Long-Term Assets</h4>\n<ul>\n<li>explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios</li>\n</ul>\n</div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 5,
+      "question": "<div><div><div>\n<p>The impairment of intangible assets with finite lives affects:</p>\n</div></div></div>",
+      "choices": {
+        "A": "only the balance sheet.",
+        "B": "only the income statement.",
+        "C": "both the balance sheet and the income statement."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. The carrying amount of the asset on the balance sheet is reduced by the amount of the impairment loss, and the impairment loss is reported on the income statement.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> The carrying amount of the asset on the balance sheet is reduced by the amount of the impairment loss, and the impairment loss is reported on the income statement.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 6,
+      "question": "<div><div><p>At the end of the year, a company revalued its manufacturing facilities, increasing their carrying amount by 12%. There had been no prior downward revaluation of these facilities. The revaluation will <em>most likely</em> cause the company’s:</p>\n<ol>\n<li>return on assets to increase.</li>\n<li>return on equity to decline.</li>\n<li>net profit margin to increase.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. The upward revaluation causes an increase in the carrying amount of the assets but bypasses net income and is reported as other comprehensive income (under the heading of revaluation surplus), increasing equity. This will cause the return on assets to decline (same income, higher assets). Correct. The upward revaluation increases the carrying amount of the assets but bypasses net income. The revaluation is reported as other comprehensive income and will be accumulated in equity under the heading of revaluation surplus, increasing equity. This increase will cause the return on equity to decline. Incorrect. The upward revaluation causes an increase in the carrying amount of the assets but bypasses net income and is reported as other comprehensive income (under the heading of revaluation surplus), increasing equity. This will cause Net Income/Sales to be unaffected. Analysis of Long-Term Assets explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. The upward revaluation causes an increase in the carrying amount of the assets but bypasses net income and is reported as other comprehensive income (under the heading of revaluation surplus), increasing equity. This will cause the return on assets to decline (same income, higher assets).</p>\n</li>\n<li>\n<p><strong>Correct.</strong> The upward revaluation increases the carrying amount of the assets but bypasses net income. The revaluation is reported as other comprehensive income and will be accumulated in equity under the heading of revaluation surplus, increasing equity. This increase will cause the return on equity to decline.</p>\n</li>\n<li>\n<p>Incorrect. The upward revaluation causes an increase in the carrying amount of the assets but bypasses net income and is reported as other comprehensive income (under the heading of revaluation surplus), increasing equity. This will cause Net Income/Sales to be unaffected.</p>\n</li>\n</ol>\n<h4>Analysis of Long-Term Assets</h4>\n<ul>\n<li>explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios</li>\n</ul>\n</div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 7,
+      "question": "<div><div><div>A company that reports in accordance with IFRS does not use the cost model to value its investment properties and property, plant, and equipment. Information related to an investment property and a plant is as follows:\n\t<div>\n<table class=\"table-style1\" style=\"width:484px\">\n<thead>\n<tr>\n<td rowspan=\"2\" style=\"text-align:left; vertical-align:bottom; width:171px; max-width:171px\"><strong>€ thousands</strong></td>\n<td colspan=\"2\" style=\"text-align:center; vertical-align:bottom; width:307px; max-width:307px\"><strong>End of Year</strong></td>\n</tr>\n<tr>\n<td colspan=\"1\" style=\"text-align:center; vertical-align:bottom; width:149px; max-width:149px\"><strong>Carrying Value</strong></td>\n<td style=\"text-align:center; vertical-align:bottom; width:153px; max-width:153px\"><strong>Fair Value</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left; vertical-align:top; width:171px; max-width:171px\">Investment property</td>\n<td style=\"text-align:center; vertical-align:top; width:149px; max-width:149px\">1,000</td>\n<td style=\"text-align:center; vertical-align:top; width:153px; max-width:153px\">1,100</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top; width:171px; max-width:171px\">Plant</td>\n<td style=\"text-align:center; vertical-align:top; width:149px; max-width:149px\">1,000</td>\n<td style=\"text-align:center; vertical-align:top; width:153px; max-width:153px\">1,200</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<p>The impact on its net income for the year will <em>most likely</em> be a gain (in thousands) of:</p>\n<ol>\n<li>€100.</li>\n<li>€200.</li>\n<li>€300.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. The fair value model would be used for the investment property, and the €100 thousand gain should be recognized on the company’s income statement. The revaluation model would be used for the plant, and the €200 thousand gain should be recognized in the revaluation surplus account on the balance sheet with no impact on net income. Therefore, only the €100 thousand will affect net income. Incorrect. The revaluation model would be used for the plant, and the gain should be recognized in the revaluation surplus account on the balance sheet. This is a new purchase and therefore no gains need to be recognized on the income statement to reverse previously recognized losses. Incorrect. The revaluation model would be used for the plant, and the gain should be recognized in the revaluation surplus account on the balance sheet. This is a new purchase and therefore no gains need to be recognized on the income statement to reverse previously recognized losses. Therefore, a maximum of $100,000 would be recognized on the income statement. Analysis of Long-Term Assets explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> The fair value model would be used for the investment property, and the €100 thousand gain should be recognized on the company’s income statement. The revaluation model would be used for the plant, and the €200 thousand gain should be recognized in the revaluation surplus account on the balance sheet with no impact on net income. Therefore, only the €100 thousand will affect net income.</p>\n</li>\n<li>\n<p>Incorrect. The revaluation model would be used for the plant, and the gain should be recognized in the revaluation surplus account on the balance sheet. This is a new purchase and therefore no gains need to be recognized on the income statement to reverse previously recognized losses.</p>\n</li>\n<li>\n<p>Incorrect. The revaluation model would be used for the plant, and the gain should be recognized in the revaluation surplus account on the balance sheet. This is a new purchase and therefore no gains need to be recognized on the income statement to reverse previously recognized losses. Therefore, a maximum of $100,000 would be recognized on the income statement.</p>\n</li>\n</ol>\n<h4>Analysis of Long-Term Assets</h4>\n<ul>\n<li>explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios</li>\n</ul>\n</div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 8,
+      "question": "<div><div><div>\n<p>With respect to Statement 1, which of the following is the <em>most likely</em> effect of management’s decision to expense rather than capitalize these expenditures?</p>\n</div></div></div>",
+      "choices": {
+        "A": "2022 net profit margin is higher than if the expenditures had been capitalized.",
+        "B": "2022 total asset turnover is lower than if the expenditures had been capitalized.",
+        "C": "Future profit growth will be higher than if the expenditures had been capitalized."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Expensing, rather than capitalizing, an investment in long-term assets will result in higher expenses and lower net income and net profit margin in the current year. Future years’ incomes will not include depreciation expense related to these expenditures. Consequently, year-to-year growth in profitability will be higher. If the expenses had been capitalized, the carrying amount of the assets would have been higher and the 2022 total asset turnover would have been lower.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Expensing, rather than capitalizing, an investment in long-term assets will result in higher expenses and lower net income and net profit margin in the current year. Future years’ incomes will not include depreciation expense related to these expenditures. Consequently, year-to-year growth in profitability will be higher. If the expenses had been capitalized, the carrying amount of the assets would have been higher and the 2022 total asset turnover would have been lower.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 9,
+      "question": "<div><div><p>A company is selling a long-lived asset with a carrying amount of $70,000 for $80,000. The original cost of this asset was $120,000. In the year of sale, this event is<em> most likely</em> to be reported on the income statement as:</p>\n<ol>\n<li>a gain of $10,000.</li>\n<li>a loss of $40,000.</li>\n<li>revenues of $80,000.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. When a long-lived asset is sold, only the net gain or loss is reported on the income statement. The gain or loss on a sale = Sales proceeds – Carrying amount = $80,000 – $70,000 = $10,000 gain. Incorrect. It incorrectly subtracts original cost from sales proceeds: $80,000 – $120,000 = a loss of $40,000 Incorrect. For the sale of capital assets only the net gain or loss is reported not the gross proceeds. Analysis of Long-Term Assets explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> When a long-lived asset is sold, only the net gain or loss is reported on the income statement. The gain or loss on a sale = Sales proceeds – Carrying amount = $80,000 – $70,000 = $10,000 gain.</p>\n</li>\n<li>\n<p>Incorrect. It incorrectly subtracts original cost from sales proceeds: $80,000 – $120,000 = a loss of $40,000</p>\n</li>\n<li>\n<p>Incorrect. For the sale of capital assets only the net gain or loss is reported not the gross proceeds.</p>\n</li>\n</ol>\n<h4>Analysis of Long-Term Assets</h4>\n<ul>\n<li>explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios</li>\n</ul>\n</div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 10,
+      "question": "<div><div><div>\n<p>With respect to Statement 2, what would be the <em>most likely</em> effect in 2023 if AMRC were to switch to an accelerated depreciation method for both financial and tax reporting?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Net profit margin would increase.",
+        "B": "Total asset turnover would decrease.",
+        "C": "Cash flow from operating activities would increase."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Switching to an accelerated depreciation method would increase depreciation expense and decrease income before taxes, taxes payable, and net income. Cash flow from operating activities would increase because of the resulting tax savings.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Switching to an accelerated depreciation method would increase depreciation expense and decrease income before taxes, taxes payable, and net income. Cash flow from operating activities would increase because of the resulting tax savings.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 11,
+      "question": "<div><div><div>\n<p>With respect to Statement 3, what is the <em>most likely</em> effect of the impairment loss?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Net income in years prior to 2022 was likely understated.",
+        "B": "Net profit margins in years after 2022 will likely exceed the 2022 net profit margin.",
+        "C": "Cash flow from operating activities in 2022 was likely lower due to the impairment loss."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. 2022 net income and net profit margin are lower because of the impairment loss. Consequently, net profit margins in subsequent years are likely to be higher. An impairment loss suggests that insufficient depreciation expense was recognized in prior years, and net income was overstated in prior years. The impairment loss is a non-cash item and will not affect operating cash flows.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> 2022 net income and net profit margin are lower because of the impairment loss. Consequently, net profit margins in subsequent years are likely to be higher. An impairment loss suggests that insufficient depreciation expense was recognized in prior years, and net income was overstated in prior years. The impairment loss is a non-cash item and will not affect operating cash flows.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 12,
+      "question": "<div><div><p>A company uses the straight-line method to depreciate its assets. One of its assets is accounted for under the revaluation model. At the end of Year 1, a revaluation gain is recorded for this asset in other comprehensive income. If there is no further revaluation in Year 2, what is the <em>most</em> appropriate depreciable base for the asset in Year 2?</p>\n<ol>\n<li>No depreciation expense will be recorded under the revaluation model</li>\n<li>The asset’s value including the revaluation gain</li>\n<li>The asset’s original cost</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "B",
+      "explanation": "Solution Incorrect. This would be correct under a fair value approach, which is allowed for investment property. No depreciation is recorded under this approach. Correct. The revaluation model essentially resets the asset’s carrying value to fair value. Depreciation is then calculated based on the new carrying value, which would include the revaluation gain. Incorrect. This would be correct under the cost approach. Analysis of Long-Term Assets explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. This would be correct under a fair value approach, which is allowed for investment property. No depreciation is recorded under this approach.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> The revaluation model essentially resets the asset’s carrying value to fair value. Depreciation is then calculated based on the new carrying value, which would include the revaluation gain.</p>\n</li>\n<li>\n<p>Incorrect. This would be correct under the cost approach.</p>\n</li>\n</ol>\n<h4>Analysis of Long-Term Assets</h4>\n<ul>\n<li>explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios</li>\n</ul>\n</div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 13,
+      "question": "<div><div><div>An analyst has assembled the following information with respect to a production facility:\n\t<div>\n<table class=\"table-style1\" style=\"width:493px\">\n<thead>\n<tr>\n<td style=\"text-align:left; vertical-align:top; width:361px; max-width:361px\"></td>\n<td style=\"text-align:center; vertical-align:bottom; width:125px; max-width:125px\"><strong>£ thousands</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left; vertical-align:top; width:361px; max-width:361px\">Carrying amount</td>\n<td style=\"text-align:center; vertical-align:top; width:125px; max-width:125px\">132</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top; width:361px; max-width:361px\">Undiscounted expected future cash flows</td>\n<td style=\"text-align:center; vertical-align:top; width:125px; max-width:125px\">120</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top; width:361px; max-width:361px\">Present value of expected future cash flows</td>\n<td style=\"text-align:center; vertical-align:top; width:125px; max-width:125px\">100</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top; width:361px; max-width:361px\">Fair value if sold</td>\n<td style=\"text-align:center; vertical-align:top; width:125px; max-width:125px\">105</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top; width:361px; max-width:361px\">Costs to sell</td>\n<td style=\"text-align:center; vertical-align:top; width:125px; max-width:125px\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<p>Under IFRS, the impairment loss on this production facility (in thousands) will be <em>closest</em> to:</p>\n<ol>\n<li>£27.</li>\n<li>£32.</li>\n<li>£28.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect: 27,000 is the impairment under US GAAP (carrying value less fair value). Incorrect: 32,000 = 132,000 – 100,000 carrying value less PV CF. Correct. Under IFRS, the carrying amount (132) is compared to the higher of fair value minus costs to sell (104 =105 – 1) and present value of expected future cash flows (100). The higher of the two amounts, the recoverable amount is 104; therefore, the asset is impaired and written down to that amount. The impairment loss = 132 – 104 = 28. Analysis of Long-Term Assets explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect: 27,000 is the impairment under US GAAP (carrying value less fair value).</p>\n</li>\n<li>\n<p>Incorrect: 32,000 = 132,000 – 100,000 carrying value less PV CF.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> Under IFRS, the carrying amount (132) is compared to the higher of fair value minus costs to sell (104 =105 – 1) and present value of expected future cash flows (100). The higher of the two amounts, the recoverable amount is 104; therefore, the asset is impaired and written down to that amount. The impairment loss = 132 – 104 = 28.</p>\n</li>\n</ol>\n<h4>Analysis of Long-Term Assets</h4>\n<ul>\n<li>explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios</li>\n</ul>\n</div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 14,
+      "question": "<div><div><div>\n<p>Based on <a href=\"#\">Exhibit 1</a>, the <em>best estimate</em> of the average remaining useful life of the company’s plant and equipment at the end of 2022 is:</p>\n</div></div></div>",
+      "choices": {
+        "A": "20.75 years.",
+        "B": "24.25 years.",
+        "C": "30.00 years."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The estimated average remaining useful life is 20.75 years, calculated as: Estimate of remaining useful life = Net plant and equipment ÷ Annual depreciation expense Net plant and equipment = Plant & equipment – Accumulated depreciation = EUR6,000 – EUR1,850 = EUR4,150 Estimate of remaining useful life = Net P & E ÷ Depreciation expense = EUR4,150 ÷ EUR200 = 20.75",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The estimated average remaining useful life is 20.75 years, calculated as:</p>\n<p>Estimate of remaining useful life = Net plant and equipment ÷ Annual depreciation expense</p>\n<p>Net plant and equipment = Plant &amp; equipment – Accumulated depreciation</p>\n<p>= EUR6,000 – EUR1,850 = EUR4,150</p>\n<p>Estimate of remaining useful life = Net P &amp; E ÷ Depreciation expense</p>\n<p>= EUR4,150 ÷ EUR200 = 20.75</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 15,
+      "question": "<div><div><div>A Canadian printing company that prepares its financial statements according to IFRS has experienced a decline in the demand for its products. The following information (in Canadian dollars) relates to the company’s printing equipment as of the current fiscal year end:\n\t<div>\n<table class=\"table-style1\" style=\"width:488px\">\n<thead>\n<tr>\n<td style=\"text-align:left; vertical-align:top; width:374px; max-width:374px\"></td>\n<td style=\"text-align:center; vertical-align:bottom; width:103px; max-width:103px\"><strong>C$</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left; vertical-align:top; width:374px; max-width:374px\">Carrying value of equipment (net book value)</td>\n<td style=\"text-align:center; vertical-align:top; width:103px; max-width:103px\">500,000</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top; width:374px; max-width:374px\">Undiscounted expected future cash flows</td>\n<td style=\"text-align:center; vertical-align:top; width:103px; max-width:103px\">550,000</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top; width:374px; max-width:374px\">Fair value</td>\n<td style=\"text-align:center; vertical-align:top; width:103px; max-width:103px\">480,000</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top; width:374px; max-width:374px\">Costs to sell</td>\n<td style=\"text-align:center; vertical-align:top; width:103px; max-width:103px\">50,000</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top; width:374px; max-width:374px\">Value in use</td>\n<td style=\"text-align:center; vertical-align:top; width:103px; max-width:103px\">440,000</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<p>The impairment loss (in C$) is <em>closest</em> to:</p>\n<ol>\n<li>0.</li>\n<li>70,000.</li>\n<li>60,000.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "C",
+      "explanation": "Solution Incorrect. It used the US GAAP approach to assess impairment, comparing the NBV to the undiscounted cash flows, which are higher, so the asset is not impaired. Incorrect. It used the lower of the fair value less costs to sell and value in use, instead of the higher amount for the recoverable amount: 500,000 – (430,000) = 70,000. Correct. Under IFRS, an asset is considered to be impaired when its carrying amount exceeds its recoverable amount (the higher of fair value less cost to sell or value in use). Fair value less costs to sell: 480,000 – 50,000 = 430,000 Value in use = 440,000 Recoverable amount (higher value of the above two amounts) = 440,000 Impairment loss under IFRS = Carrying value (net book value) – recoverable amount Impairment loss = 500,000 – 440,000 = C$60,000 Analysis of Long-Term Assets explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p>Incorrect. It used the US GAAP approach to assess impairment, comparing the NBV to the undiscounted cash flows, which are higher, so the asset is not impaired.</p>\n</li>\n<li>\n<p>Incorrect. It used the lower of the fair value less costs to sell and value in use, instead of the higher amount for the recoverable amount: 500,000 – (430,000) = 70,000.</p>\n</li>\n<li>\n<p><strong>Correct.</strong> Under IFRS, an asset is considered to be impaired when its carrying amount exceeds its recoverable amount (the higher of fair value less cost to sell or value in use).</p>\n<p>Fair value less costs to sell: 480,000 – 50,000 = 430,000</p>\n<p>Value in use = 440,000</p>\n<p>Recoverable amount (higher value of the above two amounts) = 440,000</p>\n<p>Impairment loss under IFRS = Carrying value (net book value) – recoverable amount</p>\n<p>Impairment loss = 500,000 – 440,000 = C$60,000</p>\n</li>\n</ol>\n<h4>Analysis of Long-Term Assets</h4>\n<ul>\n<li>explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios</li>\n</ul>\n</div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 16,
+      "question": "<div><div><div>\n<p>Jordan’s response about the financial statement impact of Alpha’s decision to capitalize the cost of its new computer system is correct with respect to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "lower net income.",
+        "B": "lower total assets.",
+        "C": "higher cash flow from operating activities."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. The decision to capitalize the costs of the new computer system results in higher cash flow from operating activities; the expenditure is reported as an outflow of investing activities. The company allocates the capitalized amount over the asset’s useful life as depreciation or amortization expense rather than expensing it in the year of expenditure. Net income and total assets are higher in the current fiscal year.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> The decision to capitalize the costs of the new computer system results in higher cash flow from operating activities; the expenditure is reported as an outflow of investing activities. The company allocates the capitalized amount over the asset’s useful life as depreciation or amortization expense rather than expensing it in the year of expenditure. Net income and total assets are higher in the current fiscal year.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 17,
+      "question": "<div><div><div>\n<p>Jordan’s response about the ratio impact of Alpha’s decision to capitalize interest costs is most likely <em>correct</em> with respect to the:</p>\n</div></div></div>",
+      "choices": {
+        "A": "interest coverage ratio.",
+        "B": "fixed asset turnover ratio.",
+        "C": "interest coverage and fixed asset turnover ratios."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. Alpha’s fixed asset turnover will be lower because the capitalized interest will appear on the balance sheet as part of the asset being constructed. Therefore, fixed assets will be higher and the fixed asset turnover ratio (total revenue/average net fixed assets) will be lower than if it had expensed these costs. Capitalized interest appears on the balance sheet as part of the asset being constructed instead of being reported as interest expense in the period incurred. However, the interest coverage ratio should be based on interest payments, not interest expense (earnings before interest and taxes/interest payments) and should be unchanged. To provide a true picture of a company’s interest coverage, the entire amount of interest expenditure, both the capitalized portion and the expensed portion, should be used in calculating interest coverage ratios.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> Alpha’s fixed asset turnover will be lower because the capitalized interest will appear on the balance sheet as part of the asset being constructed. Therefore, fixed assets will be higher and the fixed asset turnover ratio (total revenue/average net fixed assets) will be lower than if it had expensed these costs. Capitalized interest appears on the balance sheet as part of the asset being constructed instead of being reported as interest expense in the period incurred. However, the interest coverage ratio should be based on interest payments, not interest expense (earnings before interest and taxes/interest payments) and should be unchanged. To provide a true picture of a company’s interest coverage, the entire amount of interest expenditure, both the capitalized portion and the expensed portion, should be used in calculating interest coverage ratios.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 19,
+      "question": "<div><div><div>\n<p>Jordan’s response about the impact of the different depreciation methods on net profit margin is most likely <em>incorrect</em> with respect to:</p>\n</div></div></div>",
+      "choices": {
+        "A": "accelerated depreciation.",
+        "B": "straight-line depreciation.",
+        "C": "units-of-production depreciation."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Accelerated depreciation will result in an improving, not declining, net profit margin over time, because the amount of depreciation expense declines each year. Under straight-line depreciation, the amount of depreciation expense will remain the same each year. Under the units-of-production method, the amount of depreciation expense reported each year varies with the number of units produced.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Accelerated depreciation will result in an improving, not declining, net profit margin over time, because the amount of depreciation expense declines each year. Under straight-line depreciation, the amount of depreciation expense will remain the same each year. Under the units-of-production method, the amount of depreciation expense reported each year varies with the number of units produced.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 20,
+      "question": "<div><div><div>Below are excerpts from a company’s intangible assets note for 2015:\n\t<div>\n<table class=\"table-style1\" style=\"width:769px\">\n<thead>\n<tr>\n<td style=\"text-align:left; vertical-align:bottom\"><strong>($ millions)</strong></td>\n<td style=\"text-align:center; vertical-align:bottom; width:77px; max-width:77px\"><strong>Group 1</strong></td>\n<td style=\"text-align:center; vertical-align:bottom; width:84px; max-width:84px\"><strong>Group 2</strong></td>\n<td style=\"text-align:center; vertical-align:bottom; width:79px; max-width:79px\"><strong>Group 3</strong></td>\n<td style=\"text-align:center; vertical-align:bottom; width:77px; max-width:77px\"><strong>Group 4</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Cost (opening)</td>\n<td style=\"text-align:center; vertical-align:top; width:77px; max-width:77px\">840</td>\n<td style=\"text-align:center; vertical-align:top; width:84px; max-width:84px\">320</td>\n<td style=\"text-align:center; vertical-align:top; width:79px; max-width:79px\">118</td>\n<td style=\"text-align:center; vertical-align:top; width:77px; max-width:77px\">96</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Additions</td>\n<td style=\"text-align:center; vertical-align:top; width:77px; max-width:77px\">76</td>\n<td style=\"text-align:center; vertical-align:top; width:84px; max-width:84px\">---</td>\n<td style=\"text-align:center; vertical-align:top; width:79px; max-width:79px\">7</td>\n<td style=\"text-align:center; vertical-align:top; width:77px; max-width:77px\">---</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Cost (ending)</td>\n<td style=\"text-align:center; vertical-align:top; width:77px; max-width:77px\">916</td>\n<td style=\"text-align:center; vertical-align:top; width:84px; max-width:84px\">320</td>\n<td style=\"text-align:center; vertical-align:top; width:79px; max-width:79px\">125</td>\n<td style=\"text-align:center; vertical-align:top; width:77px; max-width:77px\">96</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Accumulated amortization and impairments (opening)</td>\n<td style=\"text-align:center; vertical-align:top; width:77px; max-width:77px\">333</td>\n<td style=\"text-align:center; vertical-align:top; width:84px; max-width:84px\">45</td>\n<td style=\"text-align:center; vertical-align:top; width:79px; max-width:79px\">16</td>\n<td style=\"text-align:center; vertical-align:top; width:77px; max-width:77px\">0</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Amortization</td>\n<td style=\"text-align:center; vertical-align:top; width:77px; max-width:77px\">---</td>\n<td style=\"text-align:center; vertical-align:top; width:84px; max-width:84px\">15</td>\n<td style=\"text-align:center; vertical-align:top; width:79px; max-width:79px\">8</td>\n<td style=\"text-align:center; vertical-align:top; width:77px; max-width:77px\">---</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Impairments</td>\n<td style=\"text-align:center; vertical-align:top; width:77px; max-width:77px\">---</td>\n<td style=\"text-align:center; vertical-align:top; width:84px; max-width:84px\">---</td>\n<td style=\"text-align:center; vertical-align:top; width:79px; max-width:79px\">---</td>\n<td style=\"text-align:center; vertical-align:top; width:77px; max-width:77px\">21</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Accumulated amortization and impairments (ending)</td>\n<td style=\"text-align:center; vertical-align:top; width:77px; max-width:77px\">333</td>\n<td style=\"text-align:center; vertical-align:top; width:84px; max-width:84px\">60</td>\n<td style=\"text-align:center; vertical-align:top; width:79px; max-width:79px\">24</td>\n<td style=\"text-align:center; vertical-align:top; width:77px; max-width:77px\">21</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Carrying amount</td>\n<td style=\"text-align:center; vertical-align:top; width:77px; max-width:77px\">583</td>\n<td style=\"text-align:center; vertical-align:top; width:84px; max-width:84px\">260</td>\n<td style=\"text-align:center; vertical-align:top; width:79px; max-width:79px\">101</td>\n<td style=\"text-align:center; vertical-align:top; width:77px; max-width:77px\">75</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<p>The 2015 opening carrying amount (in millions) of the company’s definite-life intangible assets is <em>closest </em>to:</p>\n<ol>\n<li>$377.</li>\n<li>$361.</li>\n<li>$473.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. The definite-life intangibles are identifiable because they incur amortization and consist of the Group 2 and 3 assets. ($ millions) Group 2 Group 3 Cost (opening amounts) 320 118 Less: Accumulated amortization and impairments (opening amounts) –45 –16 Carrying value 275 102 Total carrying value 377 Incorrect. This is the ending balance of definite life intangibles: 260 + 101 = 361. Incorrect. This is the opening balance of Groups 2, 3, and 4. Although Group 4 assets have incurred impairment, they have not incurred amortization and thus are incorrectly included in the total. Per A, the opening value of Group 2 and 3 assets is $377. Group 4’s opening value is $96. Thus the opening value for Groups 2, 3, and 4 is $473. Analysis of Long-Term Assets analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> The definite-life intangibles are identifiable because they incur amortization and consist of the Group 2 and 3 assets.</p>\n<div>\n<table class=\"table-style1\">\n<thead>\n<tr>\n<td style=\"text-align:left; vertical-align:bottom\"><strong>($ millions)</strong></td>\n<td style=\"text-align:center; vertical-align:bottom\"><strong>Group 2</strong></td>\n<td style=\"text-align:center; vertical-align:bottom\"><strong>Group 3</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Cost (opening amounts)</td>\n<td style=\"text-align:center; vertical-align:top\">320</td>\n<td style=\"text-align:center; vertical-align:top\">118</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Less: Accumulated amortization and impairments (opening amounts)</td>\n<td style=\"text-align:center; vertical-align:top\">–45</td>\n<td style=\"text-align:center; vertical-align:top\">–16</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Carrying value</td>\n<td style=\"text-align:center; vertical-align:top\">275</td>\n<td style=\"text-align:center; vertical-align:top\">102</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top\">Total carrying value</td>\n<td colspan=\"2\" style=\"text-align:center; vertical-align:top\">377</td>\n</tr>\n</tbody>\n</table>\n</div>\n</li>\n<li>\n<p>Incorrect. This is the ending balance of definite life intangibles: 260 + 101 = 361.</p>\n</li>\n<li>\n<p>Incorrect. This is the opening balance of Groups 2, 3, and 4. Although Group 4 assets have incurred impairment, they have not incurred amortization and thus are incorrectly included in the total. Per A, the opening value of Group 2 and 3 assets is $377. Group 4’s opening value is $96. Thus the opening value for Groups 2, 3, and 4 is $473.</p>\n</li>\n</ol>\n<h4>Analysis of Long-Term Assets</h4>\n<ul>\n<li>analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets</li>\n</ul>\n</div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 21,
+      "question": "<div><div><div>The following selected fixed asset information is available for a company:\n\t<div>\n<table class=\"table-style1\" style=\"width:609px\">\n<thead>\n<tr>\n<td style=\"text-align:left; vertical-align:bottom; width:417px; max-width:417px\"></td>\n<td style=\"text-align:center; vertical-align:bottom; width:184px; max-width:184px\"><strong>2016 ($US millions)</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left; vertical-align:top; width:417px; max-width:417px\">Cost: Total property, plant, and equipment (PP)</td>\n<td style=\"text-align:center; vertical-align:top; width:184px; max-width:184px\">30,815</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top; width:417px; max-width:417px\">Accumulated depreciation</td>\n<td style=\"text-align:center; vertical-align:top; width:184px; max-width:184px\">16,465</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top; width:417px; max-width:417px\">Net PP</td>\n<td style=\"text-align:center; vertical-align:top; width:184px; max-width:184px\">14,350</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top; width:417px; max-width:417px\">Average net PP</td>\n<td style=\"text-align:center; vertical-align:top; width:184px; max-width:184px\">12,200</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top; width:417px; max-width:417px\">Net sales</td>\n<td style=\"text-align:center; vertical-align:top; width:184px; max-width:184px\">21,670</td>\n</tr>\n<tr>\n<td style=\"text-align:left; vertical-align:top; width:417px; max-width:417px\">Net income</td>\n<td style=\"text-align:center; vertical-align:top; width:184px; max-width:184px\">2,705</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<p>The company’s fixed asset turnover ratio is<em> closest</em> to:</p>\n<ol>\n<li>1.78.</li>\n<li>8.01.</li>\n<li>1.51.</li>\n</ol>\n</div></div>",
+      "choices": {},
+      "correct_answer": "A",
+      "explanation": "Solution Correct. The fixed asset turnover ratio for the company is calculated as Net sales/Average net PP = 21,670/12,200 =1.78 Incorrect. It mistakenly uses net income instead of the net sales: 21,670/2,705 = 8.01. Incorrect. It mistakenly uses net PP year-end instead of the average: 21,670/14,350 = 1.51. Analysis of Long-Term Assets analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets",
+      "solution_html": "<div><h4>Solution</h4>\n<ol>\n<li>\n<p><strong>Correct.</strong> The fixed asset turnover ratio for the company is calculated as</p>\n<p>Net sales/Average net PP = 21,670/12,200 =1.78</p>\n</li>\n<li>\n<p>Incorrect. It mistakenly uses net income instead of the net sales: 21,670/2,705 = 8.01.</p>\n</li>\n<li>\n<p>Incorrect. It mistakenly uses net PP year-end instead of the average: 21,670/14,350 = 1.51.</p>\n</li>\n</ol>\n<h4>Analysis of Long-Term Assets</h4>\n<ul>\n<li>analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets</li>\n</ul>\n</div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 22,
+      "question": "<div><div><div>\n<p>Jordan’s response about his approach to estimating a company’s need to reinvest in its productive capacity is most likely <em>correct</em> regarding estimating the:</p>\n</div></div></div>",
+      "choices": {
+        "A": "average age of the asset base.",
+        "B": "total useful life of the asset base.",
+        "C": "average remaining useful life of the asset base."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The estimated average total useful life of a company’s assets is calculated by adding the estimates of the average remaining useful life and the average age of the assets. The average age of the assets is estimated by dividing accumulated depreciation by depreciation expense. The average remaining useful life of the asset base is estimated by dividing net property, plant, and equipment by annual depreciation expense.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The estimated average total useful life of a company’s assets is calculated by adding the estimates of the average remaining useful life and the average age of the assets. The average age of the assets is estimated by dividing accumulated depreciation by depreciation expense. The average remaining useful life of the asset base is estimated by dividing net property, plant, and equipment by annual depreciation expense.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 23,
+      "question": "<div><div><div>\n<p>Jordan’s response about the effect of Beta’s impairment loss is <em>incorrect</em> with respect to the impact on its:</p>\n</div></div></div>",
+      "choices": {
+        "A": "debt to total assets.",
+        "B": "fixed asset turnover.",
+        "C": "cash flow from operating activities."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. The impairment loss is a non-cash charge and will not affect cash flow from operating activities. The debt to total assets and fixed asset turnover ratios will increase, because the impairment loss will reduce the carrying amount of fixed assets and therefore total assets.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> The impairment loss is a non-cash charge and will not affect cash flow from operating activities. The debt to total assets and fixed asset turnover ratios will increase, because the impairment loss will reduce the carrying amount of fixed assets and therefore total assets.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 24,
+      "question": "<div><div><div>\n<p>Jordan’s response about the effect of Alpha’s revaluation is most likely <em>correct</em> with respect to the impact on its:</p>\n</div></div></div>",
+      "choices": {
+        "A": "return on equity.",
+        "B": "return on assets.",
+        "C": "debt to capital ratio."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. In an asset revaluation, the carrying amount of the assets increases. The increase in the asset’s carrying amount bypasses the income statement and is reported as other comprehensive income and appears in equity under the heading of revaluation surplus. Therefore, shareholders’ equity will increase but net income will not be affected, so return on equity will decline. Return on assets and debt to capital ratios will also decrease.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> In an asset revaluation, the carrying amount of the assets increases. The increase in the asset’s carrying amount bypasses the income statement and is reported as other comprehensive income and appears in equity under the heading of revaluation surplus. Therefore, shareholders’ equity will increase but net income will not be affected, so return on equity will decline. Return on assets and debt to capital ratios will also decrease.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 25,
+      "question": "<div><div><div>\n<p>The result of the sale of the vehicle is <em>most likely</em>:</p>\n</div>\n</div></div>",
+      "choices": {
+        "A": "a loss of ARS 15,000.",
+        "B": "a gain of ARS 15,000.",
+        "C": "a gain of ARS 18,333."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. The result on the sale of the vehicle is a gain of 15,000, calculated as: Gain or loss on the sale = Sale proceeds – Carrying amount = Sale proceeds – (Acquisition cost – Accumulated depreciation) = 85,000 – {100,000 – [((100,000 – 10,000)/9 years) × 3 years]} = 15,000.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> The result on the sale of the vehicle is a gain of 15,000, calculated as:</p>\n<p>Gain or loss on the sale = Sale proceeds – Carrying amount</p>\n<p>= Sale proceeds – (Acquisition cost – Accumulated depreciation)</p>\n<p>= 85,000 – {100,000 – [((100,000 – 10,000)/9 years) × 3 years]}</p>\n<p>= 15,000.</p>\n</div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 26,
+      "question": "<div><div><div>\n<p>CROCO S.p.A sells an intangible asset with a historical acquisition cost of EUR12 million and an accumulated amortization of EUR2 million and reports a loss on the sale of EUR3.2 million. Which of the following amounts is <em>most likely</em> the sale price of the asset?</p>\n</div></div></div>",
+      "choices": {
+        "A": "EUR6.8 million",
+        "B": "EUR8.8 million",
+        "C": "EUR13.2 million"
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. Gain or loss on the sale = Sale proceeds – Carrying amount. Rearranging this equation, Sale proceeds = Carrying amount + Gain or loss on sale. Thus, Sale price = (12 million – 2 million) + (–3.2 million) = 6.8 million.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> Gain or loss on the sale = Sale proceeds – Carrying amount. Rearranging this equation, Sale proceeds = Carrying amount + Gain or loss on sale. Thus, Sale price = (12 million – 2 million) + (–3.2 million) = 6.8 million.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 27,
+      "question": "<div><div><div>\n<p>The gain or loss on a sale of a long-lived asset to which the revaluation model has been applied is <em>most likely</em> calculated using sales proceeds less:</p>\n</div></div></div>",
+      "choices": {
+        "A": "carrying amount.",
+        "B": "carrying amount adjusted for impairment.",
+        "C": "historical cost net of accumulated depreciation."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The gain or loss on the sale of long-lived assets is computed as the sales proceeds minus the carrying amount of the asset at the time of sale. This is true under the cost and revaluation models of reporting long-lived assets. In the absence of impairment losses, under the cost model, the carrying amount will equal historical cost net of accumulated depreciation.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The gain or loss on the sale of long-lived assets is computed as the sales proceeds minus the carrying amount of the asset at the time of sale. This is true under the cost and revaluation models of reporting long-lived assets. In the absence of impairment losses, under the cost model, the carrying amount will equal historical cost net of accumulated depreciation.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 28,
+      "question": "<div><div><div>\n<p>According to IFRS, all of the following pieces of information about property, plant, and equipment must be disclosed in a company’s financial statements and footnotes <em>except for</em>:</p>\n</div></div></div>",
+      "choices": {
+        "A": "useful lives.",
+        "B": "acquisition dates.",
+        "C": "amount of disposals."
+      },
+      "correct_answer": "B",
+      "explanation": "Solution B is correct. IFRS do not require acquisition dates to be disclosed.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>B is correct.</strong> IFRS do not require acquisition dates to be disclosed.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 29,
+      "question": "<div><div><div>\n<p>According to IFRS, all of the following pieces of information about intangible assets must be disclosed in a company’s financial statements and footnotes <em>except for</em>:</p>\n</div></div></div>",
+      "choices": {
+        "A": "fair value.",
+        "B": "impairment loss.",
+        "C": "amortization rate."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. IFRS do not require fair value of intangible assets to be disclosed.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> IFRS do not require fair value of intangible assets to be disclosed.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 30,
+      "question": "<div><div><div>\n<p>Which of the following is a required financial statement disclosure for long-lived intangible assets under US GAAP?</p>\n</div></div></div>",
+      "choices": {
+        "A": "The useful lives of assets",
+        "B": "The reversal of impairment losses",
+        "C": "Estimated amortization expense for the next five fiscal years"
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Under US GAAP, companies are required to disclose the estimated amortization expense for the next five fiscal years. Under US GAAP, there is no reversal of impairment losses. Disclosure of the useful lives—finite or indefinite and additional related details—is required under IFRS.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Under US GAAP, companies are required to disclose the estimated amortization expense for the next five fiscal years. Under US GAAP, there is no reversal of impairment losses. Disclosure of the useful lives—finite or indefinite and additional related details—is required under IFRS.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 31,
+      "question": "<div><div><div>\n<p>Which of the three assets is an intangible asset with a finite useful life?</p>\n</div></div></div>",
+      "choices": {
+        "A": "Patent",
+        "B": "Goodwill",
+        "C": "Copyright"
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. A product patent with a defined expiration date is an intangible asset with a finite useful life. A copyright with no expiration date is an intangible asset with an indefinite useful life. Goodwill is no longer considered an intangible asset under IFRS and is considered to have an indefinite useful life.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> A product patent with a defined expiration date is an intangible asset with a finite useful life. A copyright with no expiration date is an intangible asset with an indefinite useful life. Goodwill is no longer considered an intangible asset under IFRS and is considered to have an indefinite useful life.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 32,
+      "question": "<div><div><div>\n<p>Intangible assets with finite useful lives <em>mostly</em> differ from intangible assets with infinite useful lives with respect to accounting treatment of:</p>\n</div></div></div>",
+      "choices": {
+        "A": "revaluation.",
+        "B": "impairment.",
+        "C": "amortization."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. An intangible asset with a finite useful life is amortized, whereas an intangible asset with an indefinite useful life is not amortized. Rather, they are carried on the balance sheet at historical cost and are tested at least annually for impairment.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> An intangible asset with a finite useful life is amortized, whereas an intangible asset with an indefinite useful life is not amortized. Rather, they are carried on the balance sheet at historical cost and are tested at least annually for impairment.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 33,
+      "question": "<div><div><div>\n<p>Costs incurred for intangible assets are generally expensed when they are:</p>\n</div></div></div>",
+      "choices": {
+        "A": "internally developed.",
+        "B": "individually acquired.",
+        "C": "acquired in a business combination."
+      },
+      "correct_answer": "A",
+      "explanation": "Solution A is correct. The costs to internally develop intangible assets are generally expensed when incurred.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>A is correct.</strong> The costs to internally develop intangible assets are generally expensed when incurred.</p></div>",
+      "category": "Financial Statement Analysis"
+    },
+    {
+      "title": "Analysis of Long-Term Assets",
+      "question_number": 34,
+      "question": "<div><div><div>\n<p>Under US GAAP, when assets are acquired in a business combination, goodwill <em>most likely</em> arises from:</p>\n</div></div></div>",
+      "choices": {
+        "A": "contractual or legal rights.",
+        "B": "assets that can be separated from the acquired company.",
+        "C": "assets that are neither tangible nor identifiable intangible assets."
+      },
+      "correct_answer": "C",
+      "explanation": "Solution C is correct. Under both IFRS and US GAAP, if an item is acquired in a business combination and cannot be recognized as a tangible asset or identifiable intangible asset, it is recognized as goodwill. Under US GAAP, assets arising from contractual or legal rights and assets that can be separated from the acquired company are recognized separately from goodwill.",
+      "solution_html": "<div><h4>Solution</h4>\n<p><strong>C is correct.</strong> Under both IFRS and US GAAP, if an item is acquired in a business combination and cannot be recognized as a tangible asset or identifiable intangible asset, it is recognized as goodwill. Under US GAAP, assets arising from contractual or legal rights and assets that can be separated from the acquired company are recognized separately from goodwill.</p></div>",
+      "category": "Financial Statement Analysis"
+    }
+  ]
+}
