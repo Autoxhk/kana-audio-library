@@ -1,0 +1,505 @@
+{
+  "subjects": [
+    {
+      "name": "Quantitative Methods",
+      "snake_case": "quantitative_methods",
+      "topics": [
+        {
+          "name": "Estimation and Inference",
+          "file": "estimation_and_inference",
+          "count": 15
+        },
+        {
+          "name": "Hypothesis Testing",
+          "file": "hypothesis_testing",
+          "count": 32
+        },
+        {
+          "name": "Introduction to Big Data Techniques",
+          "file": "introduction_to_big_data_techniques",
+          "count": 9
+        },
+        {
+          "name": "Parametric and Non-Parametric Tests of Independence",
+          "file": "parametric_and_non_parametric_tests_of_independence",
+          "count": 2
+        },
+        {
+          "name": "Portfolio Mathematics",
+          "file": "portfolio_mathematics",
+          "count": 6
+        },
+        {
+          "name": "Probability Trees and Conditional Expectations",
+          "file": "probability_trees_and_conditional_expectations",
+          "count": 7
+        },
+        {
+          "name": "Quantitative Methods_ Practice Pack",
+          "file": "quantitative_methods__practice_pack",
+          "count": 79
+        },
+        {
+          "name": "Rates and Returns",
+          "file": "rates_and_returns",
+          "count": 35
+        },
+        {
+          "name": "Simple Linear Regression",
+          "file": "simple_linear_regression",
+          "count": 39
+        },
+        {
+          "name": "Simulation Methods",
+          "file": "simulation_methods",
+          "count": 6
+        },
+        {
+          "name": "Statistical Measures of Asset Returns",
+          "file": "statistical_measures_of_asset_returns",
+          "count": 21
+        },
+        {
+          "name": "Time Value of Money in Finance",
+          "file": "time_value_of_money_in_finance",
+          "count": 17
+        }
+      ],
+      "total_questions": 268
+    },
+    {
+      "name": "Economics",
+      "snake_case": "economics",
+      "topics": [
+        {
+          "name": "Capital Flows and the FX Market",
+          "file": "capital_flows_and_the_fx_market",
+          "count": 10
+        },
+        {
+          "name": "Economics_ Practice Pack",
+          "file": "economics__practice_pack",
+          "count": 74
+        },
+        {
+          "name": "Exchange Rate Calculations",
+          "file": "exchange_rate_calculations",
+          "count": 17
+        },
+        {
+          "name": "Fiscal Policy",
+          "file": "fiscal_policy",
+          "count": 14
+        },
+        {
+          "name": "International Trade",
+          "file": "international_trade",
+          "count": 10
+        },
+        {
+          "name": "Introduction to Geopolitics",
+          "file": "introduction_to_geopolitics",
+          "count": 16
+        },
+        {
+          "name": "Monetary Policy",
+          "file": "monetary_policy",
+          "count": 21
+        },
+        {
+          "name": "The Firm and Market Structures",
+          "file": "the_firm_and_market_structures",
+          "count": 32
+        },
+        {
+          "name": "Understanding Business Cycles",
+          "file": "understanding_business_cycles",
+          "count": 16
+        }
+      ],
+      "total_questions": 210
+    },
+    {
+      "name": "Corporate Issuers",
+      "snake_case": "corporate_issuers",
+      "topics": [
+        {
+          "name": "Business Models",
+          "file": "business_models",
+          "count": 2
+        },
+        {
+          "name": "Capital Investments and Capital Allocation",
+          "file": "capital_investments_and_capital_allocation",
+          "count": 15
+        },
+        {
+          "name": "Capital Structure",
+          "file": "capital_structure",
+          "count": 18
+        },
+        {
+          "name": "Corporate Governance_ Conflicts, Mechanisms, Risks, and Benefits",
+          "file": "corporate_governance__conflicts_mechanisms_risks_and_benefits",
+          "count": 9
+        },
+        {
+          "name": "Corporate Issuers_ Practice Pack",
+          "file": "corporate_issuers__practice_pack",
+          "count": 73
+        },
+        {
+          "name": "Investors and Other Stakeholders",
+          "file": "investors_and_other_stakeholders",
+          "count": 4
+        },
+        {
+          "name": "Organizational Forms, Corporate Issuer Features, and Ownership",
+          "file": "organizational_forms_corporate_issuer_features_and_ownership",
+          "count": 7
+        },
+        {
+          "name": "Working Capital and Liquidity",
+          "file": "working_capital_and_liquidity",
+          "count": 7
+        }
+      ],
+      "total_questions": 135
+    },
+    {
+      "name": "Financial Statement Analysis",
+      "snake_case": "financial_statement_analysis",
+      "topics": [
+        {
+          "name": "Analysis of Income Taxes",
+          "file": "analysis_of_income_taxes",
+          "count": 10
+        },
+        {
+          "name": "Analysis of Inventories",
+          "file": "analysis_of_inventories",
+          "count": 42
+        },
+        {
+          "name": "Analysis of Long-Term Assets",
+          "file": "analysis_of_long_term_assets",
+          "count": 33
+        },
+        {
+          "name": "Analyzing Balance Sheets",
+          "file": "analyzing_balance_sheets",
+          "count": 17
+        },
+        {
+          "name": "Analyzing Income Statements",
+          "file": "analyzing_income_statements",
+          "count": 30
+        },
+        {
+          "name": "Analyzing Statements of Cash Flows I",
+          "file": "analyzing_statements_of_cash_flows_i",
+          "count": 19
+        },
+        {
+          "name": "Analyzing Statements of Cash Flows II",
+          "file": "analyzing_statements_of_cash_flows_ii",
+          "count": 9
+        },
+        {
+          "name": "Financial Analysis Techniques",
+          "file": "financial_analysis_techniques",
+          "count": 30
+        },
+        {
+          "name": "Financial Reporting Quality",
+          "file": "financial_reporting_quality",
+          "count": 38
+        },
+        {
+          "name": "Financial Statement Analysis_ Practice Pack",
+          "file": "financial_statement_analysis__practice_pack",
+          "count": 130
+        },
+        {
+          "name": "Introduction to Financial Statement Analysis",
+          "file": "introduction_to_financial_statement_analysis",
+          "count": 25
+        },
+        {
+          "name": "Introduction to Financial Statement Modeling",
+          "file": "introduction_to_financial_statement_modeling",
+          "count": 21
+        },
+        {
+          "name": "Topics in Long-Term Liabilities and Equity",
+          "file": "topics_in_long_term_liabilities_and_equity",
+          "count": 21
+        }
+      ],
+      "total_questions": 425
+    },
+    {
+      "name": "Equity Investments",
+      "snake_case": "equity_investments",
+      "topics": [
+        {
+          "name": "Company Analysis Past and Present",
+          "file": "company_analysis_past_and_present",
+          "count": 6
+        },
+        {
+          "name": "Company Analysis_ Forecasting",
+          "file": "company_analysis__forecasting",
+          "count": 8
+        },
+        {
+          "name": "Equity Investments_ Practice Pack",
+          "file": "equity_investments__practice_pack",
+          "count": 140
+        },
+        {
+          "name": "Equity Valuation_ Concepts and Basic Tools",
+          "file": "equity_valuation__concepts_and_basic_tools",
+          "count": 68
+        },
+        {
+          "name": "Industry and Competitive Analysis",
+          "file": "industry_and_competitive_analysis",
+          "count": 11
+        },
+        {
+          "name": "Market Efficiency",
+          "file": "market_efficiency",
+          "count": 43
+        },
+        {
+          "name": "Market Organization and Structure",
+          "file": "market_organization_and_structure",
+          "count": 57
+        },
+        {
+          "name": "Overview of Equity Securities",
+          "file": "overview_of_equity_securities",
+          "count": 34
+        },
+        {
+          "name": "Security Market Indexes",
+          "file": "security_market_indexes",
+          "count": 55
+        }
+      ],
+      "total_questions": 422
+    },
+    {
+      "name": "Fixed Income",
+      "snake_case": "fixed_income",
+      "topics": [
+        {
+          "name": "Asset Backed Security (ABS) Instrument and Market Features",
+          "file": "asset_backed_security_abs_instrument_and_market_features",
+          "count": 13
+        },
+        {
+          "name": "Credit Analysis for Corporate Issuers",
+          "file": "credit_analysis_for_corporate_issuers",
+          "count": 12
+        },
+        {
+          "name": "Credit Analysis for Government Issuers",
+          "file": "credit_analysis_for_government_issuers",
+          "count": 5
+        },
+        {
+          "name": "Credit Risk",
+          "file": "credit_risk",
+          "count": 6
+        },
+        {
+          "name": "Curve Based and Empirical Fixed Income Risk Measures",
+          "file": "curve_based_and_empirical_fixed_income_risk_measures",
+          "count": 14
+        },
+        {
+          "name": "Fixed Income Bond Valuation_ Prices and Yields",
+          "file": "fixed_income_bond_valuation__prices_and_yields",
+          "count": 13
+        },
+        {
+          "name": "Fixed Income Markets for Corporate Issuers",
+          "file": "fixed_income_markets_for_corporate_issuers",
+          "count": 6
+        },
+        {
+          "name": "Fixed Income Markets for Government Issuers",
+          "file": "fixed_income_markets_for_government_issuers",
+          "count": 7
+        },
+        {
+          "name": "Fixed Income Securitization",
+          "file": "fixed_income_securitization",
+          "count": 11
+        },
+        {
+          "name": "Fixed Income_ Practice Pack",
+          "file": "fixed_income__practice_pack",
+          "count": 110
+        },
+        {
+          "name": "Fixed-Income Cash Flows and Types",
+          "file": "fixed_income_cash_flows_and_types",
+          "count": 9
+        },
+        {
+          "name": "Fixed-Income Instrument Features",
+          "file": "fixed_income_instrument_features",
+          "count": 7
+        },
+        {
+          "name": "Fixed-Income Issuance and Trading",
+          "file": "fixed_income_issuance_and_trading",
+          "count": 4
+        },
+        {
+          "name": "Interest Rate Risk and Returns",
+          "file": "interest_rate_risk_and_returns",
+          "count": 15
+        },
+        {
+          "name": "Mortgage Backed Security (MBS) Instrument and Market Features",
+          "file": "mortgage_backed_security_mbs_instrument_and_market_features",
+          "count": 18
+        },
+        {
+          "name": "The Term Structure of Interest Rates Spot Par and Forward Curves",
+          "file": "the_term_structure_of_interest_rates_spot_par_and_forward_curves",
+          "count": 10
+        },
+        {
+          "name": "Yield Based Bond Convexity and Portfolio Properties",
+          "file": "yield_based_bond_convexity_and_portfolio_properties",
+          "count": 19
+        },
+        {
+          "name": "Yield Based Bond Duration Measures and Properties",
+          "file": "yield_based_bond_duration_measures_and_properties",
+          "count": 11
+        },
+        {
+          "name": "Yield and Yield Spread Measures for Fixed Rate Bonds",
+          "file": "yield_and_yield_spread_measures_for_fixed_rate_bonds",
+          "count": 7
+        },
+        {
+          "name": "Yield and Yield Spread Measures for Floating Rate Instruments",
+          "file": "yield_and_yield_spread_measures_for_floating_rate_instruments",
+          "count": 9
+        }
+      ],
+      "total_questions": 306
+    },
+    {
+      "name": "Derivatives",
+      "snake_case": "derivatives",
+      "topics": [
+        {
+          "name": "Derivatives",
+          "file": "derivatives",
+          "count": 172
+        }
+      ],
+      "total_questions": 172
+    },
+    {
+      "name": "Alternative Investments",
+      "snake_case": "alternative_investments",
+      "topics": [
+        {
+          "name": "Alternative Investments",
+          "file": "alternative_investments",
+          "count": 162
+        }
+      ],
+      "total_questions": 162
+    },
+    {
+      "name": "Portfolio Management",
+      "snake_case": "portfolio_management",
+      "topics": [
+        {
+          "name": "Basics of Portfolio Planning and Construction",
+          "file": "basics_of_portfolio_planning_and_construction",
+          "count": 31
+        },
+        {
+          "name": "Introduction to Risk Management",
+          "file": "introduction_to_risk_management",
+          "count": 31
+        },
+        {
+          "name": "Portfolio Management_ An Overview",
+          "file": "portfolio_management__an_overview",
+          "count": 26
+        },
+        {
+          "name": "Portfolio Management_ Practice Pack",
+          "file": "portfolio_management__practice_pack",
+          "count": 100
+        },
+        {
+          "name": "Portfolio Risk and Return Part I",
+          "file": "portfolio_risk_and_return_part_i",
+          "count": 43
+        },
+        {
+          "name": "Portfolio Risk and Return Part II",
+          "file": "portfolio_risk_and_return_part_ii",
+          "count": 58
+        },
+        {
+          "name": "The Behavioral Biases of Individuals",
+          "file": "the_behavioral_biases_of_individuals",
+          "count": 15
+        }
+      ],
+      "total_questions": 304
+    },
+    {
+      "name": "Ethical and Professional Standards",
+      "snake_case": "ethical_and_professional_standards",
+      "topics": [
+        {
+          "name": "Code of Ethics and Standards of Professional Conduct",
+          "file": "code_of_ethics_and_standards_of_professional_conduct",
+          "count": 19
+        },
+        {
+          "name": "Ethical and Professional Standards_ Practice Pack",
+          "file": "ethical_and_professional_standards__practice_pack",
+          "count": 148
+        },
+        {
+          "name": "Ethics Application",
+          "file": "ethics_application",
+          "count": 3
+        },
+        {
+          "name": "Ethics and Trust in the Investment Profession",
+          "file": "ethics_and_trust_in_the_investment_profession",
+          "count": 25
+        },
+        {
+          "name": "Guidance for Standards I–VII",
+          "file": "guidance_for_standards_ivii",
+          "count": 144
+        },
+        {
+          "name": "Introduction to the Global Investment Performance Standards (GIPS)",
+          "file": "introduction_to_the_global_investment_performance_standards_gips",
+          "count": 32
+        }
+      ],
+      "total_questions": 371
+    }
+  ],
+  "total_questions": 2775
+}
